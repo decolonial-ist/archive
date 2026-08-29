@@ -1,0 +1,682 @@
+FrostyGoop Incident, Campaign C0041 | MITRE ATT&CK®
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ ATT&CKcon 7.0 in-person tickets are open! Join us October 27-28, 2026 in McLean, VA. 
+Register here
+ for in-person tickets; hotel and location details can be found in the 
+FAQ
+.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Home
+
+ 
+
+Campaigns
+
+ 
+FrostyGoop Incident
+
+ 
+
+ 
+
+FrostyGoop Incident
+
+ 
+
+ 
+
+FrostyGoop Incident
+ took place in January 2024 against a municipal district heating company in Ukraine. Following initial access via likely exploitation of external facing services, 
+FrostyGoop
+ was used to manipulate ENCO control systems via legitimate Modbus commands to impact the delivery of heating services to Ukrainian civilians.
+
+[1]
+
+[2]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ID: 
+C0041
+
+ 
+
+ 
+
+First Seen: 
+
+January 2024 
+
+[1]
+
+ 
+
+ 
+
+ 
+Last Seen: 
+
+January 2024 
+
+[1]
+
+ 
+
+ 
+
+ 
+Version
+: 1.0
+
+ 
+
+ 
+
+Created: 
+20 November 2024
+
+ 
+
+ 
+
+Last Modified: 
+31 July 2026
+
+ 
+
+ 
+
+ 
+
+Version Permalink
+
+ 
+
+Live Version
+
+ 
+
+ 
+
+ 
+
+ 
+
+ATT&CK
+®
+ Navigator Layers
+
+ 
+
+Enterprise Layer
+
+download
+
+ 
+view 
+
+ 
+
+ 
+
+ 
+ICS Layer
+
+download
+
+ 
+view 
+
+ 
+
+ 
+
+ 
+Techniques Used
+
+ 
+
+ 
+Domain
+
+ID
+
+Name
+
+Use
+
+ 
+
+ 
+
+ Enterprise
+
+ 
+
+T1071
+
+ 
+
+Application Layer Protocol
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary initiated Layer Two Tunnelling Protocol (L2TP) connections to Moscow-based IP addresses.
+
+[1]
+
+ 
+
+ 
+
+ Enterprise
+
+ 
+
+T1689
+
+ 
+
+Downgrade Attack
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary downgraded firmware on victim devices in order to impair visibility into the process environment.
+
+[1]
+
+ 
+
+ 
+
+ Enterprise
+
+ 
+
+T1190
+
+ 
+
+Exploit Public-Facing Application
+
+ 
+
+FrostyGoop Incident
+ was likely enabled by the adversary exploiting an unknown vulnerability in an external-facing router.
+
+[1]
+
+ 
+
+ 
+
+ Enterprise
+
+ 
+
+T1003
+
+ 
+
+.002
+
+ 
+
+OS Credential Dumping
+: 
+Security Account Manager
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary retrieved the contents of the Security Account Manager (SAM) hive in the victim environment for credential capture.
+
+[1]
+
+ 
+
+ 
+
+ Enterprise
+
+ 
+
+T1505
+
+ 
+
+.003
+
+ 
+
+Server Software Component
+: 
+Web Shell
+
+ 
+
+FrostyGoop Incident
+ deployed a ReGeorg variant web shell to impacted systems following initial access for persistence.
+
+[1]
+
+ 
+
+ 
+
+ ICS
+
+ 
+
+T0826
+
+ 
+
+Loss of Availability
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary modified victim control system parameters resulting in the loss of heating services to impacted district heating customers.
+
+[1]
+
+ 
+
+ 
+
+ ICS
+
+ 
+
+T0829
+
+ 
+
+Loss of View
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary initiated a firmware downgrade on victim devices to a version lacking monitoring.
+
+[1]
+
+ 
+
+ 
+
+ ICS
+
+ 
+
+T1693
+
+ 
+
+.001
+
+ 
+
+Modify Firmware
+: 
+System Firmware
+
+ 
+
+During 
+FrostyGoop Incident
+, the adversary initiated a firmware downgrade on impacted devices.
+
+[1]
+
+ 
+
+ 
+
+ ICS
+
+ 
+
+T0836
+
+ 
+
+Modify Parameter
+
+ 
+
+In 
+FrostyGoop Incident
+, the adversary caused the victim controllers to report incorrect measurements by modifying parameters.
+
+[1]
+
+ 
+
+ 
+
+ 
+Software
+
+ 
+
+ 
+
+ID
+
+Name
+
+Description
+
+ 
+
+ 
+
+ 
+ S1165 
+
+ 
+
+ FrostyGoop 
+
+ 
+
+FrostyGoop Incident
+ used 
+FrostyGoop
+ to manipulate OT devices to induce a district heating disruption in Ukraine.
+
+[1]
+
+ 
+
+ 
+
+ 
+
+ 
+References
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Mark Graham, Carolyn Ahlers, Kyle O'Meara; Dragos. (2024, July). Impact of FrostyGoop ICS Malware on Connected OT Systems. Retrieved November 20, 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Nozomi Networks Labs. (2024, July 24). Cyberwarfare Targeting OT: Protecting Against FrostyGoop/BUSTLEBERM Malware. Retrieved November 20, 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+×
+
+ 
+
+ 
+
+ 
+
+ Core Objects: 
+All
+
+ 
+
+ 
+Core ATT&CK Objects
+
+ 
+All
+
+None
+
+ 
+
+ 
+
+Matrices 
+
+ 
+
+Tactics 
+
+ 
+
+Techniques 
+
+ 
+
+Sub-Techniques 
+
+ 
+
+ 
+
+ 
+
+ Defenses: 
+All
+
+ 
+
+ 
+Defenses
+
+ 
+All
+
+None
+
+ 
+
+ 
+
+Mitigations 
+
+ 
+
+Assets 
+
+ 
+
+Detection Strategies 
+
+ 
+
+Analytics 
+
+ 
+
+Data Components 
+
+ 
+
+ 
+
+ 
+
+ CTI: 
+All
+
+ 
+
+ 
+CTI
+
+ 
+All
+
+None
+
+ 
+
+ 
+
+Groups 
+
+ 
+
+Software 
+
+ 
+
+Campaigns 
+
+ 
+
+ 
+
+ 
+
+ Reference: 
+All
+
+ 
+
+ 
+Reference
+
+ 
+All
+
+None
+
+ 
+
+ 
+
+Resources 
+
+ 
+
+ 
+
+ 
+
+ Domains: 
+All
+
+ 
+
+ 
+Domains
+
+ 
+All
+
+None
+
+ 
+
+ 
+
+Enterprise 
+
+ 
+
+Mobile 
+
+ 
+
+ICS 
+
+ 
+
+ 
+
+Reset filters
