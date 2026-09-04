@@ -2,7 +2,7 @@
 
 **Автор:** —
 **Год публикации:** 2023
-**Где напечатано:** ред.: von Löwis S., Eschment B.
+**Где напечатано:** редактор: von Löwis S., Eschment B.
 
 Страница витрины: https://archive.decolonial.ist/59
 
