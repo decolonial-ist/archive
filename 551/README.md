@@ -10,8 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf) | PDF | 175 КБ | в этой папке |
-| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt) | текст | 41 КБ | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.html](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.html) | сохранённая страница | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,8 +24,7 @@
 
 | файл | sha256 |
 |---|---|
-| rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf | `64c09aa92f5787421d311ca04b237eb9eced7428df4f44c4ee4eae432624a756` |
-| rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt | `d432e25aa4b3cb3dc9bddd1ba7e30e517202c1f8fb94e5321014a22e5130f687` |
+| rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.html | `b36f97d813f1b7c4b628506afea3f40523cef67ef4876842821fd7d55ad961a2` |
 
 ---
 

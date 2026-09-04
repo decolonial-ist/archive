@@ -7,15 +7,25 @@
 
 Страница витрины: https://archive.decolonial.ist/589
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/`
 
 Права на публикацию: свободно: документ (документ 1919 года свободен, но напечатан в издании 1967 года — выкладываем только текст документа, не издание)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt | `f15fecba8b54b32457c8cd03719ff500cb1caabd59726589dd2da063729a9faf` |
 
 ---
 

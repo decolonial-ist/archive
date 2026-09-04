@@ -10,6 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
+| [vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.txt](https://github.com/decolonial-ist/archive/blob/main/395/vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.txt) | текст | 7.6 МБ | в этой папке |
 | [vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/395__vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf) | PDF | 60.6 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
@@ -24,6 +25,7 @@
 
 | файл | sha256 |
 |---|---|
+| vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.txt | `94dcd21cd85715560c6e76b686dd5f111b74a362bf37458a603e584f3daec0ff` |
 | vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf | `302f4fea075c93c2ef49599e8b5c9d867cd07c7e5e1e75d81b21ca792348aed5` |
 
 ---

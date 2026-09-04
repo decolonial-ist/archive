@@ -1105,10 +1105,10 @@
      "where": "repo"
     },
     {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2",
-     "bytes": 1907216,
-     "sha256": "da17446c9d1df502609b3d375d5b69b77468ce03f0fe81865816b7a38fa281d7",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2",
+     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.txt",
+     "bytes": 186639,
+     "sha256": "63d10232e62e69e391b7443948f0e2e24ba241d477a533c51b37bf8af479df38",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.txt",
      "where": "repo"
     },
     {
@@ -1119,38 +1119,10 @@
      "where": "repo"
     },
     {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2",
-     "bytes": 2270664,
-     "sha256": "a3b1b978ba0145e60179055fe308a7338249efc793ac57ddca188b1aeef3e6d7",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2",
-     "where": "repo"
-    },
-    {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2",
-     "bytes": 1730451,
-     "sha256": "b92b8a16d3b184c604155e6a22e134aa29c4bcd392e8a119831df6a91ee8cb21",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2",
-     "where": "repo"
-    },
-    {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2",
-     "bytes": 1734180,
-     "sha256": "39368964a0eee0146b8da334af38e660124163ebeb5f049c4a54c83b296beaa8",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2",
-     "where": "repo"
-    },
-    {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2",
+     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.fb2",
      "bytes": 1406827,
      "sha256": "ea8583f8bb1aca4474b86f3896c6886acfec80c74b36d7420cd1b9ec7dd41e73",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2",
-     "where": "repo"
-    },
-    {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2",
-     "bytes": 1261442,
-     "sha256": "68d688ff70cdce534047003c89924028947d0490ebe2d72b3ae2e85ef9490c94",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.fb2",
      "where": "repo"
     }
    ],
@@ -2321,6 +2293,13 @@
    "source": "https://archive.org/details/bagaliy1",
    "files": [
     {
+     "name": "istoriya_slobidskoi_ukraini_1918_bagaley_slobidska_plain.txt",
+     "bytes": 1329185,
+     "sha256": "4d713355214729a5e4393f8ce5c47ca006cf1a65287ea155550f74bb4264f189",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918_bagaley_slobidska_plain.txt",
+     "where": "repo"
+    },
+    {
      "name": "istoriya_slobidskoi_ukraini_1918_layer.txt",
      "bytes": 1343001,
      "sha256": "1c6f28c982af0fe9ddfe48076bd70344a9477abd95c6965fd81d9c03b9ca6d25",
@@ -2335,10 +2314,10 @@
      "where": "repo"
     },
     {
-     "name": "istoriya_slobidskoi_ukraini_1918.txt",
+     "name": "istoriya_slobidskoi_ukraini_1918_bagaley_istoria_slobidskoi_ukr.txt",
      "bytes": 1313451,
      "sha256": "a84e35240d1d234a014f3fab5d2a3eeadcf83768e5985cfd8436aa22de73302a",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918_bagaley_istoria_slobidskoi_ukr.txt",
      "where": "repo"
     }
    ],
@@ -5850,6 +5829,13 @@
    "source": "https://psz.ri.org.ru/I/XVI.pdf",
    "files": [
     {
+     "name": "vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.txt",
+     "bytes": 7936581,
+     "sha256": "94dcd21cd85715560c6e76b686dd5f111b74a362bf37458a603e584f3daec0ff",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/395/vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.txt",
+     "where": "repo"
+    },
+    {
      "name": "vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf",
      "bytes": 63513513,
      "sha256": "302f4fea075c93c2ef49599e8b5c9d867cd07c7e5e1e75d81b21ca792348aed5",
@@ -7566,10 +7552,10 @@
    "source": "http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8",
    "files": [
     {
-     "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt",
+     "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt",
      "bytes": 118036,
      "sha256": "d4259e35d8c932e79a79afbec178c8c923241dbfb21e59eda844e1cdbb85c535",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt",
      "where": "repo"
     },
     {
@@ -7584,6 +7570,13 @@
      "bytes": 121779,
      "sha256": "8871ae4c73ba155e47b2652656a848f879cbb4936af833a33e54467d0132854b",
      "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt",
+     "bytes": 167152,
+     "sha256": "6de689d390352a6deb3804508da711a76a8b1de67e32de0842b4e52d9e5b9ee6",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt",
      "where": "repo"
     }
    ],
@@ -9368,17 +9361,10 @@
    "source": "https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html",
    "files": [
     {
-     "name": "rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf",
-     "bytes": 178896,
-     "sha256": "64c09aa92f5787421d311ca04b237eb9eced7428df4f44c4ee4eae432624a756",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt",
-     "bytes": 42317,
-     "sha256": "d432e25aa4b3cb3dc9bddd1ba7e30e517202c1f8fb94e5321014a22e5130f687",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt",
+     "name": "rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.html",
+     "bytes": 42909,
+     "sha256": "b36f97d813f1b7c4b628506afea3f40523cef67ef4876842821fd7d55ad961a2",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.html",
      "where": "repo"
     }
    ],
@@ -9989,13 +9975,21 @@
    "year": "2004",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник документов: тексты Особой следственной комиссии свободны, издание 2004 года нет",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/574",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/574",
    "source": "https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf",
-   "files": [],
+   "files": [
+    {
+     "name": "krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt",
+     "bytes": 8882,
+     "sha256": "347f830042db59d62a955a3a66f638f9edd5fd7089f1ad17ccc16fbfc72e9351",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -10012,17 +10006,24 @@
    "source": "https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919",
    "files": [
     {
-     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf",
+     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_document.pdf",
      "bytes": 28606,
      "sha256": "979be3790176b30e06edf1aa17923d1d2b9ce70dc4534376868547cd2f442861",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_document.pdf",
      "where": "repo"
     },
     {
-     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt",
+     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_document.txt",
      "bytes": 2534,
      "sha256": "eb3ee5c86c3a8c519ab4eacffef5e823d3868ee136d15ba720987e93cec1b73f",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_document.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_sobranie_uzakoneniy_i_rasporya.pdf",
+     "bytes": 1708161,
+     "sha256": "f09403e23c962a5db6b9b1305b8c9c51f3c4ee6aac177a48ca5100592327e8f3",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_sobranie_uzakoneniy_i_rasporya.pdf",
      "where": "repo"
     },
     {
@@ -10030,6 +10031,13 @@
      "bytes": 2924,
      "sha256": "3a0a2d3a91b03541de89f4fa2d5222688109b027770aa661170eff88a18ff4e8",
      "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_sobranie_uzakoneniy_i_rasporya.txt",
+     "bytes": 2200786,
+     "sha256": "8078e288d6d62532e26eb0f8362c8e4080bc5f08adfaf0b17e6c0c2b0ff30938",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_sobranie_uzakoneniy_i_rasporya.txt",
      "where": "repo"
     }
    ],
@@ -10441,13 +10449,21 @@
    "year": "1919",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1919 года свободен, но напечатан в издании 1967 года — выкладываем только текст документа, не издание",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/589",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/589",
    "source": "https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/",
-   "files": [],
+   "files": [
+    {
+     "name": "soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt",
+     "bytes": 12472,
+     "sha256": "f15fecba8b54b32457c8cd03719ff500cb1caabd59726589dd2da063729a9faf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {

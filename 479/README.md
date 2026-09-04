@@ -11,9 +11,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt) | текст | 115 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt) | текст | 115 КБ | в этой папке |
 | [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt) | текст | 105 КБ | в этой папке |
 | [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf) | PDF | 119 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt) | текст | 163 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -27,9 +28,10 @@
 
 | файл | sha256 |
 |---|---|
-| o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt | `d4259e35d8c932e79a79afbec178c8c923241dbfb21e59eda844e1cdbb85c535` |
+| o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt | `d4259e35d8c932e79a79afbec178c8c923241dbfb21e59eda844e1cdbb85c535` |
 | o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt | `665dc0525efe9a5eb1bc42b4530035c48be64075935b51b3ef883a3783153ff5` |
 | o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf | `8871ae4c73ba155e47b2652656a848f879cbb4936af833a33e54467d0132854b` |
+| o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt | `6de689d390352a6deb3804508da711a76a8b1de67e32de0842b4e52d9e5b9ee6` |
 
 ---
 

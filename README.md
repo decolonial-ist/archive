@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **211**, файлов: **634**, объём: **3.11 ГиБ**. Из 620 материалов базы распространять разрешено 340, из них 69 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
+Выложено материалов: **213**, файлов: **636**, объём: **3.11 ГиБ**. Из 620 материалов базы распространять разрешено 340, из них 69 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,7 +18,7 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 127 | нет: срок охраны истёк |
+| общественное достояние | 129 | нет: срок охраны истёк |
 | не охраняется авторским правом | 45 | нет: закон выводит официальные документы из-под авторского права |
 | CC BY 4.0 | 16 | ссылка на источник |
 | CC BY-SA 4.0 | 7 | ссылка на источник и та же лицензия у производного |
@@ -50,7 +50,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 211 материалов, 634 файлов
+## Что выложено - 213 материалов, 636 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -72,7 +72,7 @@
 | [107](https://archive.decolonial.ist/107) | Акты собранные Кавказскою археографическою комиссиею. Том X (1844-1854) | Кавказская археографическая комиссия | 1885 | общественное достояние | 2 (в релизе 1) | 227.1 МиБ | `apsnyteka[.]org/381-akak_i_xii.html` |
 | [108](https://archive.decolonial.ist/108) | Акты собранные Кавказскою археографическою комиссиею. Том XI (1854-1856) | Кавказская археографическая комиссия | 1888 | общественное достояние | 2 (в релизе 1) | 197.0 МиБ | `apsnyteka[.]org/381-akak_i_xii.html` |
 | [109](https://archive.decolonial.ist/109) | Акты собранные Кавказскою археографическою комиссиею. Том XII (1856-1862) | Кавказская археографическая комиссия | 1904 | общественное достояние | 2 (в релизе 2) | 336.9 МиБ | `apsnyteka[.]org/381-akak_i_xii.html` |
-| [114](https://archive.decolonial.ist/114) | История войны и владычества русских на Кавказе. Том 5 | Дубровин Н. Ф. | 1871 | общественное достояние | 8 | 10.2 МиБ | `apsnyteka[.]org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html` |
+| [114](https://archive.decolonial.ist/114) | История войны и владычества русских на Кавказе. Том 5 | Дубровин Н. Ф. | 1871 | общественное достояние | 4 | 1.9 МиБ | `apsnyteka[.]org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html` |
 | [116](https://archive.decolonial.ist/116) | Война на Восточном Кавказе с 1824 по 1834 г. в связи с мюридизмом | Волконский Н. А. | 1886 | общественное достояние | 3 | 15.7 МиБ | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
 | [119](https://archive.decolonial.ist/119) | Погром Чечни (1852) | Волконский Н. А. | 1880 | общественное достояние | 3 | 15.7 МиБ | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
 | [121](https://archive.decolonial.ist/121) | 1858 год в Чечне | Волконский Н. А. | 1879 | общественное достояние | 3 | 0.9 МиБ | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
@@ -103,7 +103,7 @@
 | [157](https://archive.decolonial.ist/157) | Малорусское наречие | Булич С. К. | 1896 | общественное достояние | 5 | 0.1 МиБ | [https://ru.wikisource.org/wiki/ЭСБЕ/Малорусское_наречие](https://ru.wikisource.org/wiki/ЭСБЕ/Малорусское_наречие) |
 | [158](https://archive.decolonial.ist/158) | Кіевская старина № 10 | Анна Иоанновна | 1905 | общественное достояние | 3 | 1.7 МиБ | [https://archive.org/details/kievstar1905](https://archive.org/details/kievstar1905) |
 | [159](https://archive.decolonial.ist/159) | Об отмене стеснений малорусского печатного слова | Императорская Академия наук | 1905 | общественное достояние | 3 | 1.6 МиБ | [https://archive.org/details/OtmStMalPechSl1905](https://archive.org/details/OtmStMalPechSl1905) |
-| [161](https://archive.decolonial.ist/161) | Історія Слобідської України | Багалій Д. І. | 1918 | общественное достояние | 3 | 3.6 МиБ | [https://archive.org/details/bagaliy1](https://archive.org/details/bagaliy1) |
+| [161](https://archive.decolonial.ist/161) | Історія Слобідської України | Багалій Д. І. | 1918 | общественное достояние | 4 | 4.8 МиБ | [https://archive.org/details/bagaliy1](https://archive.org/details/bagaliy1) |
 | [162](https://archive.decolonial.ist/162) | Сборник грамот и договоров о присоединении царств и областей | - | 1922 | общественное достояние | 4 (в релизе 1) | 19.8 МиБ | `runivers[.]ru/lib/book20820/602162/` |
 | [163](https://archive.decolonial.ist/163) | Нарис української історіографії | Багалій Д. І. | 1923 | общественное достояние | 4 | 0.3 МиБ | [https://web.archive.org/web/20201027050204/http://movahistory.org.ua/wiki/XVII_ст](https://web.archive.org/web/20201027050204/http://movahistory.org.ua/wiki/XVII_ст) |
 | [164](https://archive.decolonial.ist/164) | Патріарший і Синодальний Томос | Вселенський патріархат | 1924 | общественное достояние | 4 | 0.4 МиБ | [https://mefodiy.org.ua/patriarshiy-i-sinodalniy-tomos-pro-vi/](https://mefodiy.org.ua/patriarshiy-i-sinodalniy-tomos-pro-vi/) |
@@ -168,7 +168,7 @@
 | [390](https://archive.decolonial.ist/390) | Полное собрание законов Российской империи. Собрание первое. Том XX (1775-1780) | Екатерина II | 1830 | общественное достояние | 2 (в релизе 1) | 63.0 МиБ | `psz.ri.org[.]ru/I/XX.pdf` |
 | [391](https://archive.decolonial.ist/391) | Полное собрание законов Российской империи. Собрание первое. Том XXI (1781-1783) | Екатерина II | 1830 | общественное достояние | 2 (в релизе 1) | 64.5 МиБ | `psz.ri.org[.]ru/I/XXI.pdf` |
 | [393](https://archive.decolonial.ist/393) | Источники Малороссийской истории, собранные Д.Н.Бантышем-Каменским и изданные О.Бодянским. Часть 2 (1691-1722) | Бантыш-Каменский Д. Н. | 1859 | общественное достояние | 3 | 0.1 МиБ | [https://archive.org/details/istochniki_malorossiyskoy_istorii_chast_23_1691_1722](https://archive.org/details/istochniki_malorossiyskoy_istorii_chast_23_1691_1722) |
-| [395](https://archive.decolonial.ist/395) | Высочайше утвержденный доклад князя Шаховского, генерал-аншефа Панина об учреждении Слободской губернии | Екатерина II | 1764 | общественное достояние | 1 (в релизе 1) | 60.6 МиБ | `psz.ri.org[.]ru/I/XVI.pdf` |
+| [395](https://archive.decolonial.ist/395) | Высочайше утвержденный доклад князя Шаховского, генерал-аншефа Панина об учреждении Слободской губернии | Екатерина II | 1764 | общественное достояние | 2 (в релизе 1) | 68.1 МиБ | `psz.ri.org[.]ru/I/XVI.pdf` |
 | [396](https://archive.decolonial.ist/396) | Манифест об учреждении в Слободских полках гражданского устройства | Екатерина II | 1765 | общественное достояние | 3 | 0.0 МиБ | `psz.ri.org[.]ru/I/XVII.pdf` |
 | [397](https://archive.decolonial.ist/397) | Именный указ, данный Сенату, об учреждении Киевского наместничества | Екатерина II | 1781 | общественное достояние | 1 (в релизе 1) | 58.1 МиБ | `psz.ri.org[.]ru/I/XXI.pdf` |
 | [398](https://archive.decolonial.ist/398) | Собрание государственных грамот и договоров. Часть 4 | Коллегия иностранных дел | 1828 | общественное достояние | 2 | 0.0 МиБ | [https://archive.org/details/Sobraniegosudarstvennyhgramotidogovorov48](https://archive.org/details/Sobraniegosudarstvennyhgramotidogovorov48) |
@@ -202,7 +202,7 @@
 | [471](https://archive.decolonial.ist/471) | Сводные данные об арестованных и осужденных органами НКВД УССР за время с 1 октября 1936 года по 1-е июля 1938 года | Назаренко | 1938 | не охраняется авторским правом | 3 | 0.1 МиБ | `przystanekhistoria[.]pl/download/166/146938/T8WielkiTerrorcz2-komplet.pdf` |
 | [472](https://archive.decolonial.ist/472) | Конвенция о законах и обычаях сухопутной войны | Гаагская мирная конференция | 1907 | общественное достояние | 4 | 0.2 МиБ | [https://ru.wikisource.org/wiki/Конвенция_о_законах_и_обычаях_сухопутной_войны_(1907)](https://ru.wikisource.org/wiki/Конвенция_о_законах_и_обычаях_сухопутной_войны_(1907)) |
 | [476](https://archive.decolonial.ist/476) | Совершенно секретно: Лубянка - Сталину о положении в стране. Том 3, 1925 год | Информационный отдел ОГПУ | 2002 | общественное достояние | 6 | 2.8 МиБ | `istmat[.]org/node/22548` |
-| [479](https://archive.decolonial.ist/479) | О подготовке к операции по разоружению и борьбе с бандитизмом в Чечне | - | 2022 | общественное достояние | 3 | 0.3 МиБ | [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8) |
+| [479](https://archive.decolonial.ist/479) | О подготовке к операции по разоружению и борьбе с бандитизмом в Чечне | - | 2022 | общественное достояние | 4 | 0.5 МиБ | [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8) |
 | [481](https://archive.decolonial.ist/481) | Из архива Дахо Джанхотова: ведомость приема-передачи уголовных дел как исторический документ | Дахо А. А. | 2021 | CC BY 4.0 | 3 | 0.2 МиБ | `cyberleninka[.]ru/article/n/iz-arhiva-daho-dzhanhotova-vedomost-priema-peredachi-ugolovnyh-del-kak-istoricheskiy-dokument` |
 | [484](https://archive.decolonial.ist/484) | Как погиб Нажмутдин Гоцинский | Дж. Х-и | 1936 | общественное достояние | 3 | 0.9 МиБ | [https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611](https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611) |
 | [486](https://archive.decolonial.ist/486) | La Situation de la Religion dans la République des Montagnards | Un Montagnard (аноним, горец Северного Кавказа) | 1930 | общественное достояние | 2 | 0.1 МиБ | [https://gallica.bnf.fr/ark:/12148/bpt6k6361221r](https://gallica.bnf.fr/ark:/12148/bpt6k6361221r) |
@@ -236,7 +236,7 @@
 | [545](https://archive.decolonial.ist/545) | Приказ НКВД СССР № 00447 | Ежов Н. И. | 1937 | не охраняется авторским правом | 2 | 0.1 МиБ | [https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447](https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447) |
 | [548](https://archive.decolonial.ist/548) | Бандитизм на Северном Кавказе в годы Великой Отечественной войны | Аренин С. П. | 2010 | CC BY 4.0 | 3 | 0.3 МиБ | `cyberleninka[.]ru/article/n/banditizm-na-severnom-kavkaze-v-gody-velikoy-otechestvennoy-voyny` |
 | [550](https://archive.decolonial.ist/550) | О реабилитации репрессированных народов | - | 1991 | общественное достояние | 3 | 0.1 МиБ | `base.garant[.]ru/10200365/` |
-| [551](https://archive.decolonial.ist/551) | Рекомендация Европейского парламента по отношениям ЕС-Россия | Европейский парламент | 2004 | общественное достояние | 2 | 0.2 МиБ | [https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html](https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html) |
+| [551](https://archive.decolonial.ist/551) | Рекомендация Европейского парламента по отношениям ЕС-Россия | Европейский парламент | 2004 | общественное достояние | 1 | 0.0 МиБ | [https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html](https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html) |
 | [552](https://archive.decolonial.ist/552) | Заява Верховної Ради України про засудження збройної агресії проти Чеченської Республіки Ічкерія та геноциду Чеченського народу | Верховна Рада України | 2022 | не охраняется авторским правом | 5 | 0.1 МиБ | [https://zakon.rada.gov.ua/laws/show/2672-20](https://zakon.rada.gov.ua/laws/show/2672-20) |
 | [555](https://archive.decolonial.ist/555) | История сталинского Гулага | - | 2004 | общественное достояние | 4 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/49441-spravka-otdela-spetsposeleniy-nkvd-sssr-ob-okonchanii-rabot-po-pereseleniyu-chechentsev-ingushey-i-balkartsev-s-severnogo-kavkaza-v-kirgizskuyu-ssr-7-aprelya-1944-g` |
 | [559](https://archive.decolonial.ist/559) | Декрет ВЦИК об объединении советских республик: России, Украины, Латвии, Литвы, Белоруссии для борьбы с мировым империализмом | - | 1919 | не охраняется авторским правом | 4 | 0.1 МиБ | `museumreforms[.]ru/node/13772` |
@@ -251,7 +251,8 @@
 | [569](https://archive.decolonial.ist/569) | Доклад ЦК РОКК о деятельности Чрезвычайной комиссии в Киеве | - | 1920 | общественное достояние | 3 (в релизе 1) | 29.3 МиБ | `rev-lib[.]com/arhiv-russkoj-revoljucii-t-6/` |
 | [571](https://archive.decolonial.ist/571) | Докладная записка В. А. Антонова-Овсеенко главкому | - | 1919 | общественное достояние | 3 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [572](https://archive.decolonial.ist/572) | Докладная записка В. А. Антонова-Овсеенко главкому о невозможности выделить части для Южного фронта | - | 1919 | общественное достояние | 3 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
-| [575](https://archive.decolonial.ist/575) | Об организации Всеукраинской Чрезвычайной Комиссии | Временное рабоче-крестьянское правительство Украины | 1919 | общественное достояние | 3 | 0.0 МиБ | [https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919](https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919) |
+| [574](https://archive.decolonial.ist/574) | Красный террор в годы гражданской войны | - | 2004 | общественное достояние | 1 | 0.0 МиБ | [https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf](https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf) |
+| [575](https://archive.decolonial.ist/575) | Об организации Всеукраинской Чрезвычайной Комиссии | Временное рабоче-крестьянское правительство Украины | 1919 | общественное достояние | 5 | 3.8 МиБ | [https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919](https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919) |
 | [576](https://archive.decolonial.ist/576) | Петроградским организациям | Ленин В. И. | 1919 | общественное достояние | 3 | 0.2 МиБ | `leninism[.]su/works/89-tom-50/324-pisma-mart-aprel-1919.html` |
 | [577](https://archive.decolonial.ist/577) | Письмо Ф. Э. Дзержинского М. И. Лацису о положении в ВУЧК | - | 1919 | общественное достояние | 4 | 0.1 МиБ | [http://web.archive.org/web/20240414021825/https://alexanderyakovlev.org/fond/issues-doc/1018524](http://web.archive.org/web/20240414021825/https://alexanderyakovlev.org/fond/issues-doc/1018524) |
 | [578](https://archive.decolonial.ist/578) | Постановление ВУЦИК о проведении всеобщей мобилизации | - | 1919 | общественное достояние | 3 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
@@ -261,6 +262,7 @@
 | [583](https://archive.decolonial.ist/583) | Протокол заседания представителей уездных органов Советской власти в д. Тютьковичи | - | 1919 | общественное достояние | 3 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/1957-protokol-zasedaniya-predstaviteley-uezdnyh-organov-sovetskoy-vlasti-i-uezdnyh-naselennyh-punktov-v-d-tyutkovichi-rovenskogo-uezda-volynskoy-gub-6-iyulya-1919-g` |
 | [587](https://archive.decolonial.ist/587) | Сообщение Г. И. Рабиновича о последствиях погрома в м. Фастов | - | 1919 | общественное достояние | 3 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g` |
 | [588](https://archive.decolonial.ist/588) | Сообщение о введении деникинцами военной и губернаторской цензуры на печатные издания | - | 1919 | общественное достояние | 3 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
+| [589](https://archive.decolonial.ist/589) | Сообщение о положении в Киеве при деникинской власти | - | 1919 | общественное достояние | 1 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [591](https://archive.decolonial.ist/591) | Телеграмма В. И. Ленина Х. Г. Раковскому и В. И. Межлауку | Ленин В. И. | 1919 | общественное достояние | 2 | 0.4 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#43` |
 | [593](https://archive.decolonial.ist/593) | Телеграмма Н. А. Скрыпника о ликвидации банд Зеленого | - | 1919 | общественное достояние | 3 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [594](https://archive.decolonial.ist/594) | Телеграмма Х. Г. Раковскому | Ленин В. И. | 1919 | общественное достояние | 2 | 0.4 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#99` |
@@ -270,7 +272,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 407
+## Свободные, но файла у нас нет - 405
 
 Распространять можно, а файла нет.
 
@@ -488,7 +490,6 @@
 | Колишня Арка дружби народів у Києві більше не є пам'яткою, відтак може бути демонтована | 2024 | Украина | [https://mincult.gov.ua/news/kolyshnya-arka-druzhby-narodiv-u-kyyevi-bilshe-ne-ye-pam'yatkoyu-vidtak-mozhe-buty-demontovana/](https://mincult.gov.ua/news/kolyshnya-arka-druzhby-narodiv-u-kyyevi-bilshe-ne-ye-pam'yatkoyu-vidtak-mozhe-buty-demontovana/) |
 | Командири «бучанських катів»: хто з російських офіцерів відповідальний за геноцид на Київщині (Слідство.Інфо) | 2022 | Украина | `www.slidstvo[.]info/warnews/komandyry-buchanskyh-kativ-hto-z-rosijskyh-ofitseriv-vidpovidalnyj-za-genotsyd-na-kyyivshhyni/` |
 | Конституционный референдум в Чечне (2003) - сводка | 2003 | Чечня | [https://www.kavkaz-uzel.eu/articles/35127](https://www.kavkaz-uzel.eu/articles/35127) |
-| Красный террор в годы гражданской войны | 2004 | Украина | [https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf](https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf) |
 | Красный террор глазами очевидцев | 2009 | Украина | `coollib[.]com/b/181411/read` |
 | Куди подінуть пам'ятник «возз'єднання» у Переяславі | 2022 | Украина | [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi) |
 | Кумыки. Историко-этнографическое исследование | 2026 | Дагестан | `api.xn--80aaaa1bcaqfbqcckfp8c4cxgsc[.]xn--p1ai/uploads/Gadzhieva_S_Sh_Kumyki_Istoriko_etnograficheskoe_issledovanie_68b2519da9.pdf` |
@@ -623,7 +624,6 @@
 | Сношения России с Кавказом. Выпуск 1-й. 1578-1613 гг. | 1889 | Несколько | `apsnyteka[.]org/1449-belokurov_s_snoshenja_rossii_s_kavkazom.html` |
 | Соглашение о взаиморасчетах по Черноморскому флоту | 1997 | Украина | [https://zakon.rada.gov.ua/laws/show/643_077](https://zakon.rada.gov.ua/laws/show/643_077) |
 | Сообщение ЦОС ФСБ об инциденте в Керченском проливе | 2018 | Украина | `iz[.]ru/815567/2018-11-26` |
-| Сообщение о положении в Киеве при деникинской власти | 1919 | Украина | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | Сообщение о решении III съезда Советов Донецкого и Криворожского бассейнов в Харькове объединиться с делегатами Советов, прибывшими из Киева, и провозгласить себя Всеукраинским съездом Советов | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/478206` |
 | Соціально-економічне становище етнічних меншин в УСРР (20-і – початок 30-х років ХХ ст.). | 2004 | Украина | [https://resource.history.org.ua/item/0001785](https://resource.history.org.ua/item/0001785) |
 | Соціальні зміни і національна свідомість в Україні ХХ століття | 1997 | Украина | [http://resource.history.org.ua/item/0018654](http://resource.history.org.ua/item/0018654) |

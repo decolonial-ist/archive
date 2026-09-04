@@ -6,15 +6,25 @@
 
 Страница витрины: https://archive.decolonial.ist/574
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt](https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf](https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf)
 
 Права на публикацию: свободно: документ (сборник документов: тексты Особой следственной комиссии свободны, издание 2004 года нет)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt | `347f830042db59d62a955a3a66f638f9edd5fd7089f1ad17ccc16fbfc72e9351` |
 
 ---
 
