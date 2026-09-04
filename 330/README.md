@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/](https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/)
+Первоисточник: [https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/](https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 

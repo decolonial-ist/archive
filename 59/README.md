@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.routledge[.]com/Post-Soviet-Borders-A-Kaleidoscope-of-Shifting-Lives-and-Lands/vonLowis-Eschment/p/book/9780367770105`
+Первоисточник: `www.routledge[.]com/Post-Soviet-Borders-A-Kaleidoscope-of-Shifting-Lives-and-Lands/vonLowis-Eschment/p/book/9780367770105`
 
 Права на публикацию: нельзя (современная публикация 2023 года под авторским правом)
 

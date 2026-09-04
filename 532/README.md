@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `aoav.org[.]uk/wp-content/uploads/2026/01/KJ8ga-civilian-combatant-ratio-among-war-dead-israel-in-gaza-and-other-select-conflicts--1-700x741.jpg`
+Первоисточник: `aoav.org[.]uk/wp-content/uploads/2026/01/KJ8ga-civilian-combatant-ratio-among-war-dead-israel-in-gaza-and-other-select-conflicts--1-700x741.jpg`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

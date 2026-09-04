@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya](https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya)
+Первоисточник: [https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya](https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya)
 
 Права на публикацию: нельзя (издание 1971 года под авторским правом)
 

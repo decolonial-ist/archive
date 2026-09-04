@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `rosspen[.]su/vajnahi-i-imperskaya-vlast/`
+Первоисточник: `rosspen[.]su/vajnahi-i-imperskaya-vlast/`
 
 Права на публикацию: нельзя (современная публикация 2011 года под авторским правом)
 

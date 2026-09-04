@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://encyclopedia.com.ua/entry-513](https://encyclopedia.com.ua/entry-513)
+Первоисточник: [https://encyclopedia.com.ua/entry-513](https://encyclopedia.com.ua/entry-513)
 
 Права на публикацию: нельзя (современная публикация 2015 года под авторским правом)
 

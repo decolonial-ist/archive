@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348](https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348)
+Первоисточник: [https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348](https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348)
 
 Права на публикацию: нельзя (советский киножурнал 1961 года, срок охраны не истёк)
 

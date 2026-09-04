@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://life.pravda.com.ua/society/2022/03/10/247756/](https://life.pravda.com.ua/society/2022/03/10/247756/)
+Первоисточник: [https://life.pravda.com.ua/society/2022/03/10/247756/](https://life.pravda.com.ua/society/2022/03/10/247756/)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

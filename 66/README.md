@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf](https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf)
+Первоисточник: [https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf](https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf)
 
 Права на публикацию: нельзя (современная монография под авторским правом)
 

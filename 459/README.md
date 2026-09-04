@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://history.org.ua/en/chronology/18487](https://history.org.ua/en/chronology/18487)
+Первоисточник: [https://history.org.ua/en/chronology/18487](https://history.org.ua/en/chronology/18487)
 
 Права на публикацию: нельзя (современное издание Института истории под авторским правом)
 

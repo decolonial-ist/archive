@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf](https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf)
+Первоисточник: [https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf](https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf)
 
 Права на публикацию: нельзя (современная публикация 2024 года под авторским правом)
 

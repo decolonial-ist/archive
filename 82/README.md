@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/](https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/)
+Первоисточник: [https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/](https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/)
 
 Права на публикацию: нельзя (современное издание под авторским правом)
 

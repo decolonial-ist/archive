@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/](https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/)
+Первоисточник: [https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/](https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 

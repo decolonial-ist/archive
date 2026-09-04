@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf`
+Первоисточник: `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf`
 
 Права на публикацию: нельзя (современная публикация 2019 года под авторским правом)
 

@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `faculty.history.umd[.]edu/BCooperman/NewCity/Pogrom1905.html`
+Первоисточник: `faculty.history.umd[.]edu/BCooperman/NewCity/Pogrom1905.html`
 
 Права на публикацию: нельзя (современная публикация 1992 года под авторским правом)
 

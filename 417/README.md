@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `language-policy[.]info/2018/07/shkola-i-mova-pro-doplaty-vchytelyam-movy-yazyka-nyni-i-v-mynulomu/`
+Первоисточник: `language-policy[.]info/2018/07/shkola-i-mova-pro-doplaty-vchytelyam-movy-yazyka-nyni-i-v-mynulomu/`
 
 Права на публикацию: нельзя (современная публикация 2018 года под авторским правом)
 

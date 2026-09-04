@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html](https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html)
+Первоисточник: [https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html](https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (ukrinform.ua))
 

@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://litopys.org.ua/](http://litopys.org.ua/)
+Первоисточник: [http://litopys.org.ua/](http://litopys.org.ua/)
 
 Права на публикацию: нельзя (современная монография под авторским правом)
 

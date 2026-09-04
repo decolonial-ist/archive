@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://www.oldkyiv.org.ua/data/st_olga_mnmnt.php](http://www.oldkyiv.org.ua/data/st_olga_mnmnt.php)
+Первоисточник: [http://www.oldkyiv.org.ua/data/st_olga_mnmnt.php](http://www.oldkyiv.org.ua/data/st_olga_mnmnt.php)
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

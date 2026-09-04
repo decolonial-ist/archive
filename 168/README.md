@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu](https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu)
+Первоисточник: [https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu](https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu)
 
 Права на публикацию: нельзя (книга Ивана Огиенко (умер в 1972) под авторским правом)
 

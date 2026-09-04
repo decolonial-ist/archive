@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `militarnyi[.]com/en/news/russian-missile-strike-kills-23-people-in-vinnytsia/`
+Первоисточник: `militarnyi[.]com/en/news/russian-missile-strike-kills-23-people-in-vinnytsia/`
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

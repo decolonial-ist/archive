@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `hub.conflictobservatory[.]org/portal/apps/sites/#/home/pages/children-camps-1`
+Первоисточник: `hub.conflictobservatory[.]org/portal/apps/sites/#/home/pages/children-camps-1`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (hub.conflictobservatory[.]org))
 

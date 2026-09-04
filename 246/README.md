@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/](https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/)
+Первоисточник: [https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/](https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/)
 
 Права на публикацию: нельзя (современная публикация 2004 года под авторским правом)
 

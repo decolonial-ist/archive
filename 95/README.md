@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `royallib[.]com/book/hogaev_dalhan/chechentsi_v_russkokavkazskoy_voyne_.html`
+Первоисточник: `royallib[.]com/book/hogaev_dalhan/chechentsi_v_russkokavkazskoy_voyne_.html`
 
 Права на публикацию: нельзя (современная книга под авторским правом, источник royallib[.]com)
 

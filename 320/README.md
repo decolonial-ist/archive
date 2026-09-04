@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `gordonua[.]com/ukr/news/war/-vikradajuchi-ukrajinskij-metal-rosija-zdijsnjuje-mizhnarodnij-vojennij-zlochin-metinvest-1614470.html`
+Первоисточник: `gordonua[.]com/ukr/news/war/-vikradajuchi-ukrajinskij-metal-rosija-zdijsnjuje-mizhnarodnij-vojennij-zlochin-metinvest-1614470.html`
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

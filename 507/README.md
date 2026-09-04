@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.slidstvo[.]info/warnews/komandyry-buchanskyh-kativ-hto-z-rosijskyh-ofitseriv-vidpovidalnyj-za-genotsyd-na-kyyivshhyni/`
+Первоисточник: `www.slidstvo[.]info/warnews/komandyry-buchanskyh-kativ-hto-z-rosijskyh-ofitseriv-vidpovidalnyj-za-genotsyd-na-kyyivshhyni/`
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto](https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto)
+Первоисточник: [https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto](https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

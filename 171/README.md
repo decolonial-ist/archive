@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://archive.org/details/brajchevskyj](https://archive.org/details/brajchevskyj)
+Первоисточник: [https://archive.org/details/brajchevskyj](https://archive.org/details/brajchevskyj)
 
 Права на публикацию: нельзя (книга М. Брайчевского (умер в 2001) под авторским правом)
 

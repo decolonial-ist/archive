@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm)
+Первоисточник: [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm)
 
 Права на публикацию: нельзя (современная монография под авторским правом)
 

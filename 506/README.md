@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://bucha.com.ua/index.php?newsid=1151081071](https://bucha.com.ua/index.php?newsid=1151081071)
+Первоисточник: [https://bucha.com.ua/index.php?newsid=1151081071](https://bucha.com.ua/index.php?newsid=1151081071)
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

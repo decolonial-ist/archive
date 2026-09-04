@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/`
+Первоисточник: `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/`
 
 Права на публикацию: нельзя (современная публикация 2019 года под авторским правом)
 

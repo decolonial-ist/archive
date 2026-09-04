@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.obozrevatel[.]com/novosti-obschestvo/dvojnoe-prestuplenie-sssr-kak-sovetyi-skryivali-chernobyilskuyu-katastrofu.htm`
+Первоисточник: `www.obozrevatel[.]com/novosti-obschestvo/dvojnoe-prestuplenie-sssr-kak-sovetyi-skryivali-chernobyilskuyu-katastrofu.htm`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

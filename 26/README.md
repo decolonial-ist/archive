@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `beda[.]media/ru/articles/war-in-chechnya-chronicle-part1-ru`
+Первоисточник: `beda[.]media/ru/articles/war-in-chechnya-chronicle-part1-ru`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

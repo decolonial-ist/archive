@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.i-hyrych[.]name/Kyiv/HistPath/RussianEmpire.html`
+Первоисточник: `www.i-hyrych[.]name/Kyiv/HistPath/RussianEmpire.html`
 
 Права на публикацию: нельзя (современная публикация 2019 года под авторским правом)
 

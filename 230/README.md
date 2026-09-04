@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.justiceinfo.net/en/148452-art-of-war-ukraine.html](https://www.justiceinfo.net/en/148452-art-of-war-ukraine.html)
+Первоисточник: [https://www.justiceinfo.net/en/148452-art-of-war-ukraine.html](https://www.justiceinfo.net/en/148452-art-of-war-ukraine.html)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (justiceinfo.net))
 

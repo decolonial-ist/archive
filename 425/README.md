@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.history.org.ua/?termin=Kyivsky_viddil_Voenno_ist_tov_tva](https://www.history.org.ua/?termin=Kyivsky_viddil_Voenno_ist_tov_tva)
+Первоисточник: [https://www.history.org.ua/?termin=Kyivsky_viddil_Voenno_ist_tov_tva](https://www.history.org.ua/?termin=Kyivsky_viddil_Voenno_ist_tov_tva)
 
 Права на публикацию: нельзя (энциклопедическая статья под авторским правом)
 

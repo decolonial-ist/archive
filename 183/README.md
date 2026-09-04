@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://resource.history.org.ua/item/0018654](http://resource.history.org.ua/item/0018654)
+Первоисточник: [http://resource.history.org.ua/item/0018654](http://resource.history.org.ua/item/0018654)
 
 Права на публикацию: нельзя (современная монография под авторским правом)
 

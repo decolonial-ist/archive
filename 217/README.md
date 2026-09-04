@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/](https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/)
+Первоисточник: [https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/](https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/)
 
 Права на публикацию: нельзя (современная публикация 2014 года под авторским правом)
 

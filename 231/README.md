@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf`
+Первоисточник: `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (fidh[.]org))
 

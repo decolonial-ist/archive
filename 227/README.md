@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/`
+Первоисточник: `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (bellingcat[.]com))
 

@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `na5ballov[.]pro/lib/kray/7650-ahmadov-yaz-hasmagomadov-ex-istoriya-chechni-v-xix-xx-vekah.html`
+Первоисточник: `na5ballov[.]pro/lib/kray/7650-ahmadov-yaz-hasmagomadov-ex-istoriya-chechni-v-xix-xx-vekah.html`
 
 Права на публикацию: нельзя (современная публикация 2005 года под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://www.history.org.ua/?termin=Natsionalni_rajony](http://www.history.org.ua/?termin=Natsionalni_rajony)
+Первоисточник: [http://www.history.org.ua/?termin=Natsionalni_rajony](http://www.history.org.ua/?termin=Natsionalni_rajony)
 
 Права на публикацию: нельзя (энциклопедия под авторским правом Института истории)
 

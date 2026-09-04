@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `ukrpohliad[.]org/blogs/myhajlo-bojchyshyn-golova-sekretariatu-nru-vbytyj-u-nezalezhnij-ukrayini-za-te-shho-buv-ukrayintsem-30-rokiv-tomu.html`
+Первоисточник: `ukrpohliad[.]org/blogs/myhajlo-bojchyshyn-golova-sekretariatu-nru-vbytyj-u-nezalezhnij-ukrayini-za-te-shho-buv-ukrayintsem-30-rokiv-tomu.html`
 
 Права на публикацию: нельзя (современная публикация 2024 года под авторским правом)
 

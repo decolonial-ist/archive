@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `aheku[.]net/articles/russian/istoriya-adyigov/alias9341`
+Первоисточник: `aheku[.]net/articles/russian/istoriya-adyigov/alias9341`
 
 Права на публикацию: нельзя (современная публикация 2007 года под авторским правом)
 

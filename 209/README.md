@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `hromadske[.]radio/news/2018/09/17/rosiyska-anafema-mazepy-ye-nekanonichnoyu-predstavnyk-vselenskogo-patriarhatu`
+Первоисточник: `hromadske[.]radio/news/2018/09/17/rosiyska-anafema-mazepy-ye-nekanonichnoyu-predstavnyk-vselenskogo-patriarhatu`
 
 Права на публикацию: нельзя (современная публикация 2018 года под авторским правом)
 

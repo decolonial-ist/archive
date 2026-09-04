@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://web.archive.org/web/20170202080304/http://bigenc.ru/domestic_history/text/1823327](https://web.archive.org/web/20170202080304/http://bigenc.ru/domestic_history/text/1823327)
+Первоисточник: [https://web.archive.org/web/20170202080304/http://bigenc.ru/domestic_history/text/1823327](https://web.archive.org/web/20170202080304/http://bigenc.ru/domestic_history/text/1823327)
 
 Права на публикацию: нельзя (энциклопедическая статья под авторским правом)
 

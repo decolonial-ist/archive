@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/](https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/)
+Первоисточник: [https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/](https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

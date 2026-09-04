@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://web.archive.org/web/20160304195659/http://www.memo.ru/2010/09/27/rch.pdf](https://web.archive.org/web/20160304195659/http://www.memo.ru/2010/09/27/rch.pdf)
+Первоисточник: [https://web.archive.org/web/20160304195659/http://www.memo.ru/2010/09/27/rch.pdf](https://web.archive.org/web/20160304195659/http://www.memo.ru/2010/09/27/rch.pdf)
 
 Права на публикацию: нельзя (доклад «Мемориала» под авторским правом)
 

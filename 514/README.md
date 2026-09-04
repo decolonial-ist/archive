@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `novynarnia[.]com/2023/09/25/branczi-pidvalu-v-yagidnomu/`
+Первоисточник: `novynarnia[.]com/2023/09/25/branczi-pidvalu-v-yagidnomu/`
 
 Права на публикацию: нельзя (современная публикация 2023 года под авторским правом)
 

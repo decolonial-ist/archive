@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `old.nmiu[.]org/tsoho-dnia/2772-pamiatnyk-bohdanu-khmelnytskomu-v-kyievi`
+Первоисточник: `old.nmiu[.]org/tsoho-dnia/2772-pamiatnyk-bohdanu-khmelnytskomu-v-kyievi`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

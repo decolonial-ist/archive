@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.aljazeera[.]com/news/2022/7/15/russia-justifies-deadly-attack-on-ukrainian-city-of-vinnytsia`
+Первоисточник: `www.aljazeera[.]com/news/2022/7/15/russia-justifies-deadly-attack-on-ukrainian-city-of-vinnytsia`
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

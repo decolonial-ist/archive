@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.justiceinfo.net/en/121743-bucha-nine-russian-soldiers-sentenced-and-more-trials-to-come.html](https://www.justiceinfo.net/en/121743-bucha-nine-russian-soldiers-sentenced-and-more-trials-to-come.html)
+Первоисточник: [https://www.justiceinfo.net/en/121743-bucha-nine-russian-soldiers-sentenced-and-more-trials-to-come.html](https://www.justiceinfo.net/en/121743-bucha-nine-russian-soldiers-sentenced-and-more-trials-to-come.html)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (justiceinfo.net))
 

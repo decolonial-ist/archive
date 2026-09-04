@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Издание: `ridero[.]ru/books/chechnya_politicheskaya_i_obshestvennaya_obstanovka/freeText/`
+Первоисточник: `ridero[.]ru/books/chechnya_politicheskaya_i_obshestvennaya_obstanovka/freeText/`
 
 Права на публикацию: нельзя (современная публикация 2021 года под авторским правом)
 

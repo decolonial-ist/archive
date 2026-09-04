@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May)
+Первоисточник: [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May)
 
 Права на публикацию: нельзя (современная научная статья под авторским правом)
 

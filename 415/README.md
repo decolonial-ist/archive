@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/)
+Первоисточник: [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/)
 
 Права на публикацию: нельзя (современная публикация 1993 года под авторским правом)
 

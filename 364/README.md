@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi)
+Первоисточник: [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

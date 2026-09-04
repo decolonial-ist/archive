@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.presidency.ucsb[.]edu/documents/remarks-the-supreme-soviet-the-republic-the-ukraine-kiev-soviet-union`
+Первоисточник: `www.presidency.ucsb[.]edu/documents/remarks-the-supreme-soviet-the-republic-the-ukraine-kiev-soviet-union`
 
 Права на публикацию: нельзя (современная публикация 1991 года под авторским правом)
 

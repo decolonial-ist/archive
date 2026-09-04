@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `espreso[.]tv/v-irpeni-zaginulo-200-300-tsivilnikh-ta-50-viyskovikh-mer-mista-markushin`
+Первоисточник: `espreso[.]tv/v-irpeni-zaginulo-200-300-tsivilnikh-ta-50-viyskovikh-mer-mista-markushin`
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

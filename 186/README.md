@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u)
+Первоисточник: [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u)
 
 Права на публикацию: нельзя (энциклопедия под авторским правом Института истории)
 

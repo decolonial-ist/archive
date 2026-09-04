@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.pslava[.]info/Poltava_KruglaPloscha_1990PasportnaInformacija,127299.html`
+Первоисточник: `www.pslava[.]info/Poltava_KruglaPloscha_1990PasportnaInformacija,127299.html`
 
 Права на публикацию: нельзя (современная публикация 1990 года под авторским правом)
 

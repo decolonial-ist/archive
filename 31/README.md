@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `ridl[.]io/ru/karatelnaja-psihiatrija-v-rossii-nazad-v-sssr/`
+Первоисточник: `ridl[.]io/ru/karatelnaja-psihiatrija-v-rossii-nazad-v-sssr/`
 
 Права на публикацию: нельзя (современная публикация 2020 года под авторским правом)
 

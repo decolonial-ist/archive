@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://lonckoho.lviv.ua/istoriya/istoriya-vyaznytsi/radyanskyj-period-1939-1941-rr](https://lonckoho.lviv.ua/istoriya/istoriya-vyaznytsi/radyanskyj-period-1939-1941-rr)
+Первоисточник: [https://lonckoho.lviv.ua/istoriya/istoriya-vyaznytsi/radyanskyj-period-1939-1941-rr](https://lonckoho.lviv.ua/istoriya/istoriya-vyaznytsi/radyanskyj-period-1939-1941-rr)
 
 Права на публикацию: нельзя (современная публикация 2013 года под авторским правом)
 

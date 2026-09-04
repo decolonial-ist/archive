@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `nsarchive.gwu[.]edu/sites/default/files/documents/3a.pdf`
+Первоисточник: `nsarchive.gwu[.]edu/sites/default/files/documents/3a.pdf`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (nsarchive.gwu[.]edu))
 

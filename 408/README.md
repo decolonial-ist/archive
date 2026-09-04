@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf](https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf)
+Первоисточник: [https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf](https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf)
 
 Права на публикацию: нельзя (современная публикация 2015 года под авторским правом)
 

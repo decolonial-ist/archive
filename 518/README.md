@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html](https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html)
+Первоисточник: [https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html](https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

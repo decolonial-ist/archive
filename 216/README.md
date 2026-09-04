@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.crowdstrike[.]com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/`
+Первоисточник: `www.crowdstrike[.]com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/`
 
 Права на публикацию: нельзя (современная публикация 2016 года под авторским правом)
 

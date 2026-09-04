@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.rada-poltava.gov.ua/ua/cultural-heritage](https://www.rada-poltava.gov.ua/ua/cultural-heritage)
+Первоисточник: [https://www.rada-poltava.gov.ua/ua/cultural-heritage](https://www.rada-poltava.gov.ua/ua/cultural-heritage)
 
 Права на публикацию: нельзя (статус акта не выясняем (решение куратора 29.08), остаётся ссылкой)
 

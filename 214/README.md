@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
+Первоисточник: [https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (holodomormuseum.org.ua))
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `from-ua[.]org/news/3805-stenogramma-intervyu-prezidenta-rossiiskoi-federacii-v-v-putina-ukrainskim-telekanalam-ut-1-inter-i-1-1.html`
+Первоисточник: `from-ua[.]org/news/3805-stenogramma-intervyu-prezidenta-rossiiskoi-federacii-v-v-putina-ukrainskim-telekanalam-ut-1-inter-i-1-1.html`
 
 Права на публикацию: нельзя (современная публикация 2004 года под авторским правом)
 

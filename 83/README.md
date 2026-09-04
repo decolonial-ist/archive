@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `instituteofhistory[.]ru/media/library/publication/files/%D0%9A%D1%83%D1%88%D0%B5%D0%B2%D0%B0_%D0%95.%D0%9D._%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%8B_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D0%B0_%D0%B8_%D0%B8%D1%85_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8_%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B5%D0%B9._%D0%9C%D0%BE%D1%81_TFA3pwz.pdf`
+Первоисточник: `instituteofhistory[.]ru/media/library/publication/files/%D0%9A%D1%83%D1%88%D0%B5%D0%B2%D0%B0_%D0%95.%D0%9D._%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%8B_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D0%B0_%D0%B8_%D0%B8%D1%85_%D1%81%D0%B2%D1%8F%D0%B7%D0%B8_%D1%81_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B5%D0%B9._%D0%9C%D0%BE%D1%81_TFA3pwz.pdf`
 
 Права на публикацию: нельзя (монография 1963 года, в США охрана до 2058 года)
 

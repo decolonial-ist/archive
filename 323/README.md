@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/](https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/)
+Первоисточник: [https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/](https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/)
 
 Права на публикацию: нельзя (современная публикация 2015 года под авторским правом)
 

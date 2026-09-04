@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `agroreview[.]com/news/rosiya-vyvezla-majzhe-15-mln-tonn-ukrayinskoho-zerna-z-okupovanyh-terytorij`
+Первоисточник: `agroreview[.]com/news/rosiya-vyvezla-majzhe-15-mln-tonn-ukrayinskoho-zerna-z-okupovanyh-terytorij`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://zn.ua/ukr/ART/skilki_pamyatniku_stoyati.html](https://zn.ua/ukr/ART/skilki_pamyatniku_stoyati.html)
+Первоисточник: [https://zn.ua/ukr/ART/skilki_pamyatniku_stoyati.html](https://zn.ua/ukr/ART/skilki_pamyatniku_stoyati.html)
 
 Права на публикацию: нельзя (современная публикация 2004 года под авторским правом)
 

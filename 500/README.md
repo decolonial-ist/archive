@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://diasporiana.org.ua/memuari/gerchanivskyj-d-vygnaty-okupanta/](https://diasporiana.org.ua/memuari/gerchanivskyj-d-vygnaty-okupanta/)
+Первоисточник: [https://diasporiana.org.ua/memuari/gerchanivskyj-d-vygnaty-okupanta/](https://diasporiana.org.ua/memuari/gerchanivskyj-d-vygnaty-okupanta/)
 
 Права на публикацию: нельзя (книга Д. Герчановского (1963) под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/](https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/)
+Первоисточник: [https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/](https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/)
 
 Права на публикацию: нельзя (газетная публикация под авторским правом)
 

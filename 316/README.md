@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://tyzhden.ua/natsionalnyj-prapor-nad-zhytomyrom-istoriia-ta-borotba-za-noho/](https://tyzhden.ua/natsionalnyj-prapor-nad-zhytomyrom-istoriia-ta-borotba-za-noho/)
+Первоисточник: [https://tyzhden.ua/natsionalnyj-prapor-nad-zhytomyrom-istoriia-ta-borotba-za-noho/](https://tyzhden.ua/natsionalnyj-prapor-nad-zhytomyrom-istoriia-ta-borotba-za-noho/)
 
 Права на публикацию: нельзя (современная публикация 2010 года под авторским правом)
 

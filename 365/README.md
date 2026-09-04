@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti](https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti)
+Первоисточник: [https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti](https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti)
 
 Права на публикацию: нельзя (современная публикация 2020 года под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `nsirogozy[.]city/blogs/461303/ideologiya-v-bronzi-navischo-rosiya-zasivaye-okupovanu-hersonschinu-svoimi-monumentami`
+Первоисточник: `nsirogozy[.]city/blogs/461303/ideologiya-v-bronzi-navischo-rosiya-zasivaye-okupovanu-hersonschinu-svoimi-monumentami`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

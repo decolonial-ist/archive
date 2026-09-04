@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `zona[.]media/article/2016/18/04/erofeev-alexandrov-prigovor`
+Первоисточник: `zona[.]media/article/2016/18/04/erofeev-alexandrov-prigovor`
 
 Права на публикацию: нельзя (современная публикация 2016 года под авторским правом)
 

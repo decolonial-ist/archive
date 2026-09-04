@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `novayagazeta[.]ru/articles/2014/11/20/108018-strelkov-spuskovoy-kryuchok-voyny-nazhal-ya`
+Первоисточник: `novayagazeta[.]ru/articles/2014/11/20/108018-strelkov-spuskovoy-kryuchok-voyny-nazhal-ya`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (novayagazeta[.]ru))
 

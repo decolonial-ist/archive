@@ -15,7 +15,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y)
+Издание: [https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y)
 
 Права на публикацию: свободно (автор Н. И. Покровский умер в 1942 году, срок охраны истёк)
 

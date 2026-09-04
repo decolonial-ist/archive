@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038)
+Первоисточник: [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038)
 
 Права на публикацию: нельзя (энциклопедическая статья под авторским правом)
 

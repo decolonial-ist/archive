@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.bbc[.]com/russian/articles/c20pgklmxp3o`
+Первоисточник: `www.bbc[.]com/russian/articles/c20pgklmxp3o`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (bbc[.]com))
 

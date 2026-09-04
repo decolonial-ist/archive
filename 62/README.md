@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `eng.globalaffairs[.]ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/`
+Первоисточник: `eng.globalaffairs[.]ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/`
 
 Права на публикацию: нельзя (современная публикация 2008 года под авторским правом)
 

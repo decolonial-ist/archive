@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf](https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf)
+Первоисточник: [https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf](https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf)
 
 Права на публикацию: нельзя (современное издание под авторским правом)
 

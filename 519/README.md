@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html](https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html)
+Первоисточник: [https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html](https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html)
 
 Права на публикацию: нельзя (современная публикация 2025 года под авторским правом)
 

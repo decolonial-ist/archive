@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://history.org.ua/LiberUA/kiev_katalog/3.pdf](https://history.org.ua/LiberUA/kiev_katalog/3.pdf)
+Первоисточник: [https://history.org.ua/LiberUA/kiev_katalog/3.pdf](https://history.org.ua/LiberUA/kiev_katalog/3.pdf)
 
 Права на публикацию: нельзя (современный каталог-справочник под авторским правом)
 

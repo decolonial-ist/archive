@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
+Первоисточник: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

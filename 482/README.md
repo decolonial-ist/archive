@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
+Первоисточник: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
 
 Права на публикацию: нельзя (современная научная статья под авторским правом)
 

@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/Arabojaz_ist/Karachi_I/text1.htm`
+Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/Arabojaz_ist/Karachi_I/text1.htm`
 
 Права на публикацию: нельзя (оригинал в общественном достоянии, но советский перевод 1941 года охраняется)
 

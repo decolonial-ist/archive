@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `journals.rudn[.]ru/russian-history/article/view/19831`
+Первоисточник: `journals.rudn[.]ru/russian-history/article/view/19831`
 
 Права на публикацию: нельзя (современная публикация 2018 года под авторским правом)
 

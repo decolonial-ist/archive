@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `kuriergalicyjski[.]com/zapomniany-pomnik/`
+Первоисточник: `kuriergalicyjski[.]com/zapomniany-pomnik/`
 
 Права на публикацию: нельзя (современная публикация 2012 года под авторским правом)
 

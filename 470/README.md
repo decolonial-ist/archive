@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video](https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video)
+Первоисточник: [https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video](https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

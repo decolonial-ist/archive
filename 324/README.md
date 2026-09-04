@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `aif[.]ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev`
+Первоисточник: `aif[.]ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev`
 
 Права на публикацию: нельзя (современная публикация 2016 года под авторским правом)
 

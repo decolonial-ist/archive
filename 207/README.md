@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://history.org.ua/LiberUA/journal_2015_6/journal_2015_6.pdf](https://history.org.ua/LiberUA/journal_2015_6/journal_2015_6.pdf)
+Первоисточник: [https://history.org.ua/LiberUA/journal_2015_6/journal_2015_6.pdf](https://history.org.ua/LiberUA/journal_2015_6/journal_2015_6.pdf)
 
 Права на публикацию: нельзя (современная научная статья под авторским правом)
 

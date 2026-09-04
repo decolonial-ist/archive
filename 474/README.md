@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `docs.historyrussia[.]org/ru/nodes/362731-lubyanka-organy-vchk-ogpu-nkvd-nkgb-mgb-mvd-kgb-1917-1991`
+Первоисточник: `docs.historyrussia[.]org/ru/nodes/362731-lubyanka-organy-vchk-ogpu-nkvd-nkgb-mgb-mvd-kgb-1917-1991`
 
 Права на публикацию: нельзя (авторский справочник Кокурина и Петрова 2003 года под авторским правом)
 

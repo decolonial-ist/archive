@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `novayagazeta[.]ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti`
+Первоисточник: `novayagazeta[.]ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti`
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (novayagazeta[.]ru))
 

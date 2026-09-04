@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/](https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/)
+Первоисточник: [https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/](https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/)
 
 Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 

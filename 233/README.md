@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `malyn[.]media/novyny/podii/brav-uchast-u-trahichnomu-vshanuvanni-heroiv-bazaru-pomer-dysydent-i-politv-iazen-vasyl-ovsiienko/`
+Первоисточник: `malyn[.]media/novyny/podii/brav-uchast-u-trahichnomu-vshanuvanni-heroiv-bazaru-pomer-dysydent-i-politv-iazen-vasyl-ovsiienko/`
 
 Права на публикацию: нельзя (современная публикация 2023 года под авторским правом)
 

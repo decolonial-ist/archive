@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: `ucomplex[.]org/files/dissertation/74/dissertation_file/898e4962f0b685d3228f88aa4787fb8c.pdf`
+Первоисточник: `ucomplex[.]org/files/dissertation/74/dissertation_file/898e4962f0b685d3228f88aa4787fb8c.pdf`
 
 Права на публикацию: нельзя (современная публикация 2019 года под авторским правом)
 

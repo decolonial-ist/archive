@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://map.lviv.ua/statti/luckij2.html](https://map.lviv.ua/statti/luckij2.html)
+Первоисточник: [https://map.lviv.ua/statti/luckij2.html](https://map.lviv.ua/statti/luckij2.html)
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

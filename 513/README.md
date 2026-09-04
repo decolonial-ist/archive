@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html](https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html)
+Первоисточник: [https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html](https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html)
 
 Права на публикацию: нельзя (современная публикация 2024 года под авторским правом)
 

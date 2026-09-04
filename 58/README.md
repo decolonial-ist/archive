@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/`
+Первоисточник: `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/`
 
 Права на публикацию: нельзя (современная публикация 2025 года под авторским правом)
 

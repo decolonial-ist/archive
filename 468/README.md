@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/](https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/)
+Первоисточник: [https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/](https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/)
 
 Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 

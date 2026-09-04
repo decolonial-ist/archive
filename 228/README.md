@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf)
+Первоисточник: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 

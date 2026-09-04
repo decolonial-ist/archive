@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://kpi.ua/shevchenko-revolt](https://kpi.ua/shevchenko-revolt)
+Первоисточник: [https://kpi.ua/shevchenko-revolt](https://kpi.ua/shevchenko-revolt)
 
 Права на публикацию: нельзя (современная публикация 2014 года под авторским правом)
 

@@ -10,7 +10,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf)
+Первоисточник: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf)
 
 Права на публикацию: нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 

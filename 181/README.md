@@ -9,7 +9,7 @@
 
 ## Откуда это у нас
 
-Издание: [https://archive.org/details/lyzanchuk1995](https://archive.org/details/lyzanchuk1995)
+Первоисточник: [https://archive.org/details/lyzanchuk1995](https://archive.org/details/lyzanchuk1995)
 
 Права на публикацию: нельзя (современная монография под авторским правом)
 
