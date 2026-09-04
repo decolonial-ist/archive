@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [putin_address_21022022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/317/putin_address_21022022_layer.txt) | текст | 84 KiB | в этой папке |
-| [putin_address_21022022.txt](https://github.com/decolonial-ist/archive/blob/main/317/putin_address_21022022.txt) | текст | 82 KiB | в этой папке |
-| [putin_address_21022022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/putin_address_21022022.pdf) | PDF | 93 KiB | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt) | текст | 84 KiB | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt) | текст | 82 KiB | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf) | PDF | 93 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 putin_address_21022022_layer.txt
-shasum -a 256 putin_address_21022022.txt
-shasum -a 256 putin_address_21022022.pdf
+shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt
+shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt
+shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf
 ```
 | файл | sha256 |
 |---|---|
-| putin_address_21022022_layer.txt | `8faec516ed7577e37602511af6d3cbed3620a9ecb5976b68a2eba5f6835f8e49` |
-| putin_address_21022022.txt | `52393a4c544364d58503c8699d398c7e146e744f2c6bbb33f379df1f04ef73bd` |
-| putin_address_21022022.pdf | `a23d6a19db6a0bed215a58eb49d60e6462469bb001573a96740b442f841f954a` |
+| obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt | `8faec516ed7577e37602511af6d3cbed3620a9ecb5976b68a2eba5f6835f8e49` |
+| obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt | `52393a4c544364d58503c8699d398c7e146e744f2c6bbb33f379df1f04ef73bd` |
+| obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf | `a23d6a19db6a0bed215a58eb49d60e6462469bb001573a96740b442f841f954a` |
 
 ---
 

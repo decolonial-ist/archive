@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanova_788_12_referendum_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_788_12_referendum_1991_layer.txt) | текст | 9 KiB | в этой папке |
-| [postanova_788_12_referendum_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/177/postanova_788_12_referendum_1991.pdf) | PDF | 80 KiB | в этой папке |
-| [postanova_788_12_referendum_1991.html](https://github.com/decolonial-ist/archive/blob/main/177/postanova_788_12_referendum_1991.html) | сохранённая страница | 42 KiB | в этой папке |
-| [postanova_788_12_referendum_1991.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_788_12_referendum_1991.txt) | текст | 3 KiB | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt) | текст | 9 KiB | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf) | PDF | 80 KiB | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.html](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.html) | сохранённая страница | 42 KiB | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.txt) | текст | 3 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 postanova_788_12_referendum_1991_layer.txt
-shasum -a 256 postanova_788_12_referendum_1991.pdf
-shasum -a 256 postanova_788_12_referendum_1991.html
-shasum -a 256 postanova_788_12_referendum_1991.txt
+shasum -a 256 postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt
+shasum -a 256 postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf
+shasum -a 256 postanova_vr_ursr_pro_provedennya_referendumu_1991.html
+shasum -a 256 postanova_vr_ursr_pro_provedennya_referendumu_1991.txt
 ```
 | файл | sha256 |
 |---|---|
-| postanova_788_12_referendum_1991_layer.txt | `195ce31d4e5424201164bec7dc7c1884fd32b8419f3ef15328d053877cbf0d5e` |
-| postanova_788_12_referendum_1991.pdf | `9d18a673dee02656d2d7cf5ba093e19eaa7cccae58c0b5c19add23c1c6814dac` |
-| postanova_788_12_referendum_1991.html | `b7da1bd680e2f51b8ba2ccabad159542dfc1c1199e6195bc319fdb34fa8cfb38` |
-| postanova_788_12_referendum_1991.txt | `f49ff2494d64dd22cc4cbf8845099fdcd9deae08ab7a30129345fbc05c202259` |
+| postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt | `195ce31d4e5424201164bec7dc7c1884fd32b8419f3ef15328d053877cbf0d5e` |
+| postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf | `9d18a673dee02656d2d7cf5ba093e19eaa7cccae58c0b5c19add23c1c6814dac` |
+| postanova_vr_ursr_pro_provedennya_referendumu_1991.html | `b7da1bd680e2f51b8ba2ccabad159542dfc1c1199e6195bc319fdb34fa8cfb38` |
+| postanova_vr_ursr_pro_provedennya_referendumu_1991.txt | `f49ff2494d64dd22cc4cbf8845099fdcd9deae08ab7a30129345fbc05c202259` |
 
 ---
 

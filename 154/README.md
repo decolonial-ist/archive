@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dostoevsky_315.txt](https://github.com/decolonial-ist/archive/blob/main/154/dostoevsky_315.txt) | текст | 23 KiB | в этой папке |
-| [dostoevsky_315.pdf](https://github.com/decolonial-ist/archive/blob/main/154/dostoevsky_315.pdf) | PDF | 42 KiB | в этой папке |
+| [dnevnik_pisatelya_1877.txt](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.txt) | текст | 23 KiB | в этой папке |
+| [dnevnik_pisatelya_1877.pdf](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.pdf) | PDF | 42 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 dostoevsky_315.txt
-shasum -a 256 dostoevsky_315.pdf
+shasum -a 256 dnevnik_pisatelya_1877.txt
+shasum -a 256 dnevnik_pisatelya_1877.pdf
 ```
 | файл | sha256 |
 |---|---|
-| dostoevsky_315.txt | `c4f19a23a754d8a3216c47d4148f45a65daa5f864df00b41971e0806e3484552` |
-| dostoevsky_315.pdf | `4c7a3561aff5dd053b8ede17fe5375503f1b2039e64cb17a6fc6cbb0c4407318` |
+| dnevnik_pisatelya_1877.txt | `c4f19a23a754d8a3216c47d4148f45a65daa5f864df00b41971e0806e3484552` |
+| dnevnik_pisatelya_1877.pdf | `4c7a3561aff5dd053b8ede17fe5375503f1b2039e64cb17a6fc6cbb0c4407318` |
 
 ---
 

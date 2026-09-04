@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/472/page.html) | сохранённая страница | 47 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/472/text.txt) | текст | 47 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/472/page_layer.txt) | текст | 48 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/472/page.pdf) | PDF | 66 KiB | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html) | сохранённая страница | 47 KiB | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt) | текст | 47 KiB | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt) | текст | 48 KiB | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf) | PDF | 66 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html
+shasum -a 256 konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt
+shasum -a 256 konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt
+shasum -a 256 konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `a5645b438f3598645a354fba93240b5864f1ae1da4b12476d9d667d67ef08b47` |
-| text.txt | `9f23de3bafdfd0558f394a2621366829c2136333e37f06a053080604c40f9032` |
-| page_layer.txt | `0b8160dddced3f5bb2386b9fd5bcf745d0e1afe20426a51754cff5ae071b171c` |
-| page.pdf | `ccb2f94ceacd1ecafd65d8182994ef176256b7d2072d7fadd8616cdcef294706` |
+| konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html | `a5645b438f3598645a354fba93240b5864f1ae1da4b12476d9d667d67ef08b47` |
+| konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt | `9f23de3bafdfd0558f394a2621366829c2136333e37f06a053080604c40f9032` |
+| konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt | `0b8160dddced3f5bb2386b9fd5bcf745d0e1afe20426a51754cff5ae071b171c` |
+| konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf | `ccb2f94ceacd1ecafd65d8182994ef176256b7d2072d7fadd8616cdcef294706` |
 
 ---
 

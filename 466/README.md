@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/466/page.html) | сохранённая страница | 8 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/466/text.txt) | текст | 7 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/466/page_layer.txt) | текст | 7 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/466/page.pdf) | PDF | 36 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.html](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.html) | сохранённая страница | 8 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt) | текст | 7 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt) | текст | 7 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf) | PDF | 36 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00439_1937.html
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `5f81778c968e7fb8c7dca53e765e34c30e54290cc6d38a56fb1b8657ffd699f6` |
-| text.txt | `f1ec3ac6cae3b3c5a4770a7d3705a03141c4899f19bb7320e906be3af1057d62` |
-| page_layer.txt | `86b22723cf05926cf1726752bdd51b0e3098e230b8eafc0d963a85cfa4b7f72a` |
-| page.pdf | `a22bc09139bae2086977f4c2ecd4449ef7cea14ca4b847e1b0e4b6eccadb75f6` |
+| operativnyy_prikaz_nkvd_sssr_no_00439_1937.html | `5f81778c968e7fb8c7dca53e765e34c30e54290cc6d38a56fb1b8657ffd699f6` |
+| operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt | `f1ec3ac6cae3b3c5a4770a7d3705a03141c4899f19bb7320e906be3af1057d62` |
+| operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt | `86b22723cf05926cf1726752bdd51b0e3098e230b8eafc0d963a85cfa4b7f72a` |
+| operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf | `a22bc09139bae2086977f4c2ecd4449ef7cea14ca4b847e1b0e4b6eccadb75f6` |
 
 ---
 

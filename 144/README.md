@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [04_nastavlenie_ekateriny_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/04_nastavlenie_ekateriny_vyazemskomu_1764.txt) | текст | 4 KiB | в этой папке |
-| [04_nastavlenie_ekateriny_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/04_nastavlenie_ekateriny_vyazemskomu_1764.pdf) | PDF | 30 KiB | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt) | текст | 4 KiB | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 30 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 04_nastavlenie_ekateriny_vyazemskomu_1764.txt
-shasum -a 256 04_nastavlenie_ekateriny_vyazemskomu_1764.pdf
+shasum -a 256 nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt
+shasum -a 256 nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 04_nastavlenie_ekateriny_vyazemskomu_1764.txt | `353142561bb09bb9eed288b8c5fbc22a8ec464121da4904ee24a6a03e481a50f` |
-| 04_nastavlenie_ekateriny_vyazemskomu_1764.pdf | `3d0e3eb124f3998b5cd6d2a5288ffb08616b589f9f3f3c2d46ba6f70021e5479` |
+| nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt | `353142561bb09bb9eed288b8c5fbc22a8ec464121da4904ee24a6a03e481a50f` |
+| nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf | `3d0e3eb124f3998b5cd6d2a5288ffb08616b589f9f3f3c2d46ba6f70021e5479` |
 
 ---
 

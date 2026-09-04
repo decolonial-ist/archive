@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [psz_t28.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/437__psz_t28.pdf) | PDF | 75.2 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [text_str509_1025.txt](https://github.com/decolonial-ist/archive/blob/main/437/text_str509_1025.txt) | текст | 12 KiB | в этой папке |
-| [psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/psz_t28_layout.txt) | текст | 9.5 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/437__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf) | PDF | 75.2 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt) | текст | 12 KiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt) | текст | 9.5 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 psz_t28.pdf
-shasum -a 256 text_str509_1025.txt
-shasum -a 256 psz_t28_layout.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt
 ```
 | файл | sha256 |
 |---|---|
-| psz_t28.pdf | `340374e793a8c4fa8c87bcf51d5d732b1dfb32182ed3cbdfffd999fa481c2de7` |
-| text_str509_1025.txt | `c7fa8d6d21dfbfa0f8e519874f9738288384a9228bc612af64f8f4812a09617e` |
-| psz_t28_layout.txt | `5c992de9fdf01d8c651018a0c9b10a4718f29c73b590d06c9fb2d4b1eed7c015` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf | `340374e793a8c4fa8c87bcf51d5d732b1dfb32182ed3cbdfffd999fa481c2de7` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt | `c7fa8d6d21dfbfa0f8e519874f9738288384a9228bc612af64f8f4812a09617e` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt | `5c992de9fdf01d8c651018a0c9b10a4718f29c73b590d06c9fb2d4b1eed7c015` |
 
 ---
 

@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_fragment_layer.txt](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_fragment_layer.txt) | текст | 557 KiB | в этой папке |
-| [vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.pdf) | PDF | 461 KiB | в этой папке |
-| [vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.md) | текст | 544 KiB | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt) | текст | 557 KiB | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf) | PDF | 461 KiB | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md) | текст | 544 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_fragment_layer.txt
-shasum -a 256 vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.pdf
-shasum -a 256 vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.md
+shasum -a 256 vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt
+shasum -a 256 vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf
+shasum -a 256 vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md
 ```
 | файл | sha256 |
 |---|---|
-| vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_fragment_layer.txt | `a698c01af3f591777fbee66d4bebd4b9efcb8f515a2c582970ad916892a3cf8b` |
-| vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.pdf | `3c791b3f5d7afd06da882e0a7fda48b7a68b1a196532c2aa83af8073419212f6` |
-| vospominaniya_god_na_kavkaze_1839_1840_glavy_milyutin_1997_fragment.md | `222605eebf67429c1fe0b83858ec9f1e0cff30f815acdb2c8eb8341821404d77` |
+| vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt | `a698c01af3f591777fbee66d4bebd4b9efcb8f515a2c582970ad916892a3cf8b` |
+| vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf | `3c791b3f5d7afd06da882e0a7fda48b7a68b1a196532c2aa83af8073419212f6` |
+| vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md | `222605eebf67429c1fe0b83858ec9f1e0cff30f815acdb2c8eb8341821404d77` |
 
 ---
 

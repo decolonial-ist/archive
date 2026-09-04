@@ -11,12 +11,12 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [lubyanka_stalinu_t3_obzor_avgust_1925.txt](https://github.com/decolonial-ist/archive/blob/main/476/lubyanka_stalinu_t3_obzor_avgust_1925.txt) | текст | 224 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_v_strane.pdf](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_v_strane.pdf) | PDF | 1.2 MiB | в этой папке |
-| [lubyanka_stalinu_t3_obzor_dekabr_1925.txt](https://github.com/decolonial-ist/archive/blob/main/476/lubyanka_stalinu_t3_obzor_dekabr_1925.txt) | текст | 333 KiB | в этой папке |
-| [lubyanka_stalinu_t3_obzor_noyabr_1925.txt](https://github.com/decolonial-ist/archive/blob/main/476/lubyanka_stalinu_t3_obzor_noyabr_1925.txt) | текст | 285 KiB | в этой папке |
-| [lubyanka_stalinu_t3_obzor_oktyabr_1925.txt](https://github.com/decolonial-ist/archive/blob/main/476/lubyanka_stalinu_t3_obzor_oktyabr_1925.txt) | текст | 428 KiB | в этой папке |
-| [lubyanka_stalinu_t3_obzor_sentyabr_1925.txt](https://github.com/decolonial-ist/archive/blob/main/476/lubyanka_stalinu_t3_obzor_sentyabr_1925.txt) | текст | 376 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt) | текст | 224 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf) | PDF | 1.2 MiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt) | текст | 333 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt) | текст | 285 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt) | текст | 428 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt) | текст | 376 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -29,21 +29,21 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 lubyanka_stalinu_t3_obzor_avgust_1925.txt
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_v_strane.pdf
-shasum -a 256 lubyanka_stalinu_t3_obzor_dekabr_1925.txt
-shasum -a 256 lubyanka_stalinu_t3_obzor_noyabr_1925.txt
-shasum -a 256 lubyanka_stalinu_t3_obzor_oktyabr_1925.txt
-shasum -a 256 lubyanka_stalinu_t3_obzor_sentyabr_1925.txt
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt
+shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt
 ```
 | файл | sha256 |
 |---|---|
-| lubyanka_stalinu_t3_obzor_avgust_1925.txt | `c60cee2a7e1bcbd9bbd3d539b0477e9473bedc9940e62e13623d2bb4c33b76ba` |
-| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_v_strane.pdf | `3519b557005194c56f3389efb75f0c676b5405217bc62890b8262b2bbef6364b` |
-| lubyanka_stalinu_t3_obzor_dekabr_1925.txt | `980194610e9524bd5d41f6891e7a9460cc1cc29c0a604ce4ce09a3eee12fa487` |
-| lubyanka_stalinu_t3_obzor_noyabr_1925.txt | `24d0ebcf6f1c1ef4b65f37ab7c78495359e695907080e2799cf5d0eb1b227087` |
-| lubyanka_stalinu_t3_obzor_oktyabr_1925.txt | `2157dc0829b82642fbea49e29312116ee49f18521ba4d9b3044a0baddd653474` |
-| lubyanka_stalinu_t3_obzor_sentyabr_1925.txt | `4146684c574628fa2dbdad846a382cd7219fe423e908d37abf241d29561cbf25` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt | `c60cee2a7e1bcbd9bbd3d539b0477e9473bedc9940e62e13623d2bb4c33b76ba` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf | `3519b557005194c56f3389efb75f0c676b5405217bc62890b8262b2bbef6364b` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt | `980194610e9524bd5d41f6891e7a9460cc1cc29c0a604ce4ce09a3eee12fa487` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt | `24d0ebcf6f1c1ef4b65f37ab7c78495359e695907080e2799cf5d0eb1b227087` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt | `2157dc0829b82642fbea49e29312116ee49f18521ba4d9b3044a0baddd653474` |
+| sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt | `4146684c574628fa2dbdad846a382cd7219fe423e908d37abf241d29561cbf25` |
 
 ---
 

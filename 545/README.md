@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nkvd_prikaz_00447_1937_wikisource_layer.txt](https://github.com/decolonial-ist/archive/blob/main/545/nkvd_prikaz_00447_1937_wikisource_layer.txt) | текст | 36 KiB | в этой папке |
-| [nkvd_prikaz_00447_1937_wikisource.pdf](https://github.com/decolonial-ist/archive/blob/main/545/nkvd_prikaz_00447_1937_wikisource.pdf) | PDF | 61 KiB | в этой папке |
+| [prikaz_nkvd_sssr_no_00447_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937_layer.txt) | текст | 36 KiB | в этой папке |
+| [prikaz_nkvd_sssr_no_00447_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937.pdf) | PDF | 61 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 nkvd_prikaz_00447_1937_wikisource_layer.txt
-shasum -a 256 nkvd_prikaz_00447_1937_wikisource.pdf
+shasum -a 256 prikaz_nkvd_sssr_no_00447_1937_layer.txt
+shasum -a 256 prikaz_nkvd_sssr_no_00447_1937.pdf
 ```
 | файл | sha256 |
 |---|---|
-| nkvd_prikaz_00447_1937_wikisource_layer.txt | `d5db849687ed6feac15193af5bed9a0a42d6373fa6ec20b8e65fde237cf2233e` |
-| nkvd_prikaz_00447_1937_wikisource.pdf | `6e5938a976716c7ab479e4c254fa170a79e7e99a580272535b6f38e2d6e2c2f6` |
+| prikaz_nkvd_sssr_no_00447_1937_layer.txt | `d5db849687ed6feac15193af5bed9a0a42d6373fa6ec20b8e65fde237cf2233e` |
+| prikaz_nkvd_sssr_no_00447_1937.pdf | `6e5938a976716c7ab479e4c254fa170a79e7e99a580272535b6f38e2d6e2c2f6` |
 
 ---
 

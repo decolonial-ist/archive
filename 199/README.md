@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [konotop_79_raw.txt](https://github.com/decolonial-ist/archive/blob/main/199/konotop_79_raw.txt) | текст | 5 KiB | в этой папке |
-| [konotop_79_raw.pdf](https://github.com/decolonial-ist/archive/blob/main/199/konotop_79_raw.pdf) | PDF | 29 KiB | в этой папке |
+| [ukraina_v_mizhnarodnih_vidnosinah_2012.txt](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.txt) | текст | 5 KiB | в этой папке |
+| [ukraina_v_mizhnarodnih_vidnosinah_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.pdf) | PDF | 29 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 konotop_79_raw.txt
-shasum -a 256 konotop_79_raw.pdf
+shasum -a 256 ukraina_v_mizhnarodnih_vidnosinah_2012.txt
+shasum -a 256 ukraina_v_mizhnarodnih_vidnosinah_2012.pdf
 ```
 | файл | sha256 |
 |---|---|
-| konotop_79_raw.txt | `ac1c9085aa2538a26f99ff244836562bbef861a20c4380b10673c152b06a41d4` |
-| konotop_79_raw.pdf | `fb8371bfb8bc8393329ed442391e9d981cd866e68b90b076e059478e2728b445` |
+| ukraina_v_mizhnarodnih_vidnosinah_2012.txt | `ac1c9085aa2538a26f99ff244836562bbef861a20c4380b10673c152b06a41d4` |
+| ukraina_v_mizhnarodnih_vidnosinah_2012.pdf | `fb8371bfb8bc8393329ed442391e9d981cd866e68b90b076e059478e2728b445` |
 
 ---
 

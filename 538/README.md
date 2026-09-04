@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/538/document.pdf) | PDF | 37 KiB | в этой папке |
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/538/page.html) | сохранённая страница | 29 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/538/document.txt) | текст | 8 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/538/document_layer.txt) | текст | 9 KiB | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf) | PDF | 37 KiB | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html) | сохранённая страница | 29 KiB | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt) | текст | 8 KiB | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt) | текст | 9 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,17 +25,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 page.html
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf
+shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html
+shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt
+shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `5508f8e9d094ca7277ef062cd900716b38da9e9b59211e093912284550da3177` |
-| page.html | `4bc1922e778ba54a4f40cc86b69660129d5ba850a301eb23c75c44c1b846c9dd` |
-| document.txt | `dd93e7c50fe64fd2e9110d80509be07815118d68a5152e02cc343412b024715e` |
-| document_layer.txt | `1f08a3530555c3793538f7bc4a8230bd0fa7299dfb8f7629eba636c843260f8f` |
+| politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf | `5508f8e9d094ca7277ef062cd900716b38da9e9b59211e093912284550da3177` |
+| politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html | `4bc1922e778ba54a4f40cc86b69660129d5ba850a301eb23c75c44c1b846c9dd` |
+| politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt | `dd93e7c50fe64fd2e9110d80509be07815118d68a5152e02cc343412b024715e` |
+| politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt | `1f08a3530555c3793538f7bc4a8230bd0fa7299dfb8f7629eba636c843260f8f` |
 
 ---
 

@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_6_2.md](https://github.com/decolonial-ist/archive/blob/main/103/akak_6_2.md) | текст | 6.9 MiB | в этой папке |
-| [akak_6_2.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akak_6_2.pdf) | PDF | 120.9 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md](https://github.com/decolonial-ist/archive/blob/main/103/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md) | текст | 6.9 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf) | PDF | 120.9 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_6_2.md
-shasum -a 256 akak_6_2.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_6_2.md | `5069772fd78a9eff37739a3bd3ffed7d7439f4e03746e3940a6abedb56f28726` |
-| akak_6_2.pdf | `0d0c99499e557fe4e100f8d5bc2cec97a633763dedc8a19aba5f5751d971655c` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md | `5069772fd78a9eff37739a3bd3ffed7d7439f4e03746e3940a6abedb56f28726` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf | `0d0c99499e557fe4e100f8d5bc2cec97a633763dedc8a19aba5f5751d971655c` |
 
 ---
 

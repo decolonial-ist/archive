@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_7.md](https://github.com/decolonial-ist/archive/blob/main/104/akak_7.md) | текст | 7.3 MiB | в этой папке |
-| [akak_7.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akak_7.pdf) | PDF | 186.6 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md](https://github.com/decolonial-ist/archive/blob/main/104/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md) | текст | 7.3 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf) | PDF | 186.6 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_7.md
-shasum -a 256 akak_7.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_7.md | `4f903f3c3cba824d1e9049027001f076e1c2c71cde5a99746236685f32d213fc` |
-| akak_7.pdf | `c6ab85e254ec45facc1c407cd1a2f4027a8a1510305ad5d79440b0907641e580` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md | `4f903f3c3cba824d1e9049027001f076e1c2c71cde5a99746236685f32d213fc` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf | `c6ab85e254ec45facc1c407cd1a2f4027a8a1510305ad5d79440b0907641e580` |
 
 ---
 

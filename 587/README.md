@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/587/document.pdf) | PDF | 38 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/587/document.txt) | текст | 14 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/587/document_layer.txt) | текст | 15 KiB | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf) | PDF | 38 KiB | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt) | текст | 14 KiB | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt) | текст | 15 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf
+shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt
+shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `956ca55eca805481413bf28528da9594c76599129ac5f423343fe20f36dede80` |
-| document.txt | `94f4b257cbb8cd92163ad51eaacbfe05c6b8faf68a4f962b93b96655415fece7` |
-| document_layer.txt | `646655374ee085a3b80f62a73de95aecb764fc57a0418ab9da946b8a2ed1000a` |
+| soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf | `956ca55eca805481413bf28528da9594c76599129ac5f423343fe20f36dede80` |
+| soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt | `94f4b257cbb8cd92163ad51eaacbfe05c6b8faf68a4f962b93b96655415fece7` |
+| soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt | `646655374ee085a3b80f62a73de95aecb764fc57a0418ab9da946b8a2ed1000a` |
 
 ---
 

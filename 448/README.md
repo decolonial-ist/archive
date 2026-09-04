@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [xxxiv.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/448__xxxiv.pdf) | PDF | 62.2 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [xxxiv_raw.txt](https://github.com/decolonial-ist/archive/blob/main/448/xxxiv_raw.txt) | текст | 5.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/448__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf) | PDF | 62.2 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt](https://github.com/decolonial-ist/archive/blob/main/448/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt) | текст | 5.4 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 xxxiv.pdf
-shasum -a 256 xxxiv_raw.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt
 ```
 | файл | sha256 |
 |---|---|
-| xxxiv.pdf | `f107e1efa7e3bda8f5278a755ae551dd806cbe6124057baf1afcd4bc45b822e1` |
-| xxxiv_raw.txt | `c10cc18eb7ecdd178896f9e02cfeb198b24bae6572271e207afd5839f4611de3` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf | `f107e1efa7e3bda8f5278a755ae551dd806cbe6124057baf1afcd4bc45b822e1` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt | `c10cc18eb7ecdd178896f9e02cfeb198b24bae6572271e207afd5839f4611de3` |
 
 ---
 

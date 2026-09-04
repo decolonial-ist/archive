@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/387/page.html) | сохранённая страница | 235 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/387/text.txt) | текст | 123 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/387/page_layer.txt) | текст | 127 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/387/page.pdf) | PDF | 100 KiB | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html) | сохранённая страница | 235 KiB | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt) | текст | 123 KiB | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt) | текст | 127 KiB | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf) | PDF | 100 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html
+shasum -a 256 pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt
+shasum -a 256 pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt
+shasum -a 256 pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `28ed514428d47ebcf1368edebf32a2ff59485fde7e5dc5c426893334e1ec77b9` |
-| text.txt | `d613088b58df44ae5477942f028f1ba192a202e2ea9b8e7bcbef2bbf6154f168` |
-| page_layer.txt | `05a6349c40f423aecb73235efe4726b626cf50194fc633b11b476dfd071253f1` |
-| page.pdf | `838e70b8c3a4957f1194e36a8a7470f1cd5c3ecf6f1cb118c2067e287abeec2d` |
+| pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html | `28ed514428d47ebcf1368edebf32a2ff59485fde7e5dc5c426893334e1ec77b9` |
+| pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt | `d613088b58df44ae5477942f028f1ba192a202e2ea9b8e7bcbef2bbf6154f168` |
+| pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt | `05a6349c40f423aecb73235efe4726b626cf50194fc633b11b476dfd071253f1` |
+| pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf | `838e70b8c3a4957f1194e36a8a7470f1cd5c3ecf6f1cb118c2067e287abeec2d` |
 
 ---
 

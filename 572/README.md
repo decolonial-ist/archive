@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/572/document.pdf) | PDF | 30 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/572/document.txt) | текст | 3 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/572/document_layer.txt) | текст | 4 KiB | в этой папке |
+| [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/572/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf) | PDF | 30 KiB | в этой папке |
+| [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.txt](https://github.com/decolonial-ist/archive/blob/main/572/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.txt) | текст | 3 KiB | в этой папке |
+| [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/572/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919_layer.txt) | текст | 4 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf
+shasum -a 256 dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.txt
+shasum -a 256 dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `6d39ae14b5cde8e78620b38e50e5a0ed48406e3cf034f9750fbc405b5607c06c` |
-| document.txt | `a954a55018e25d0f5d290c94e0b4259688ae87da09e5ff9ef4e3f88fd4d1dbac` |
-| document_layer.txt | `150ff36f0ac6f332a55861b768a88de23d7777003563105a79b0aa5df2868656` |
+| dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf | `6d39ae14b5cde8e78620b38e50e5a0ed48406e3cf034f9750fbc405b5607c06c` |
+| dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.txt | `a954a55018e25d0f5d290c94e0b4259688ae87da09e5ff9ef4e3f88fd4d1dbac` |
+| dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919_layer.txt | `150ff36f0ac6f332a55861b768a88de23d7777003563105a79b0aa5df2868656` |
 
 ---
 

@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/37/page.html) | сохранённая страница | 66 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/37/page.pdf) | PDF | 44 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/37/text.txt) | текст | 6 KiB | в этой папке |
-| [page_2.pdf](https://github.com/decolonial-ist/archive/blob/main/37/page_2.pdf) | PDF | 44 KiB | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.html](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.html) | сохранённая страница | 66 KiB | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf) | PDF | 44 KiB | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 6 KiB | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023_2.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023_2.pdf) | PDF | 44 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,17 +25,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 page.pdf
-shasum -a 256 text.txt
-shasum -a 256 page_2.pdf
+shasum -a 256 campaign_c0026_mitre_att_ck_2023.html
+shasum -a 256 campaign_c0026_mitre_att_ck_2023.pdf
+shasum -a 256 campaign_c0026_mitre_att_ck_2023.txt
+shasum -a 256 campaign_c0026_mitre_att_ck_2023_2.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `aebcfc8beffe3a79a6f53246e5662e2624863ef40ea16cecf61f4d2c12e15725` |
-| page.pdf | `eb247471ce8cd444010ba59d7924ff6b1845b76b26fb247f468902507b496c25` |
-| text.txt | `f0a95fa07105e76146fd4f644b76a67cc914dcc1a61d6f7fb7fc809d841175fe` |
-| page_2.pdf | `eb247471ce8cd444010ba59d7924ff6b1845b76b26fb247f468902507b496c25` |
+| campaign_c0026_mitre_att_ck_2023.html | `aebcfc8beffe3a79a6f53246e5662e2624863ef40ea16cecf61f4d2c12e15725` |
+| campaign_c0026_mitre_att_ck_2023.pdf | `eb247471ce8cd444010ba59d7924ff6b1845b76b26fb247f468902507b496c25` |
+| campaign_c0026_mitre_att_ck_2023.txt | `f0a95fa07105e76146fd4f644b76a67cc914dcc1a61d6f7fb7fc809d841175fe` |
+| campaign_c0026_mitre_att_ck_2023_2.pdf | `eb247471ce8cd444010ba59d7924ff6b1845b76b26fb247f468902507b496c25` |
 
 ---
 

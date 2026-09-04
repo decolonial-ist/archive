@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [xxiii.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/150__xxiii.pdf) | PDF | 56.2 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [ukaz_o_pravah_grazhdanstva_evreev_1791.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/150__ukaz_o_pravah_grazhdanstva_evreev_1791.pdf) | PDF | 56.2 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,11 +23,11 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 xxiii.pdf
+shasum -a 256 ukaz_o_pravah_grazhdanstva_evreev_1791.pdf
 ```
 | файл | sha256 |
 |---|---|
-| xxiii.pdf | `216756731f97b1c58f7b0860f048443064622e98994c2beecffca59475a7f1a8` |
+| ukaz_o_pravah_grazhdanstva_evreev_1791.pdf | `216756731f97b1c58f7b0860f048443064622e98994c2beecffca59475a7f1a8` |
 
 ---
 

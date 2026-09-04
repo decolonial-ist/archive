@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [17_chernaya_doska_06121932.txt](https://github.com/decolonial-ist/archive/blob/main/239/17_chernaya_doska_06121932.txt) | текст | 6 KiB | в этой папке |
-| [17_chernaya_doska_06121932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/17_chernaya_doska_06121932.pdf) | PDF | 31 KiB | в этой папке |
+| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt) | текст | 6 KiB | в этой папке |
+| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf) | PDF | 31 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 17_chernaya_doska_06121932.txt
-shasum -a 256 17_chernaya_doska_06121932.pdf
+shasum -a 256 o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt
+shasum -a 256 o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 17_chernaya_doska_06121932.txt | `b529fcc8285aadb32e262bdc6e64c07387f9581c4b92b1ecf324113b6983d21f` |
-| 17_chernaya_doska_06121932.pdf | `82c95bbe36995a66f87be8fabe24a4c89dcfbc272981b577a843391016c79fe5` |
+| o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt | `b529fcc8285aadb32e262bdc6e64c07387f9581c4b92b1ecf324113b6983d21f` |
+| o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf | `82c95bbe36995a66f87be8fabe24a4c89dcfbc272981b577a843391016c79fe5` |
 
 ---
 

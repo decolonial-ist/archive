@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/582/document.pdf) | PDF | 35 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/582/document.txt) | текст | 6 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/582/document_layer.txt) | текст | 7 KiB | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf) | PDF | 35 KiB | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt) | текст | 6 KiB | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt) | текст | 7 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf
+shasum -a 256 prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt
+shasum -a 256 prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `e6d0207bf9bd2e42aace0230919e1c38099480d118450981dbdc6729b5318b32` |
-| document.txt | `1ab58994ca8f9d1cb030bbbcf25a18c873288d852cd2f2621f1d144455dd358c` |
-| document_layer.txt | `255523ce504f7481277ac9d5f43e22b8c78f4ae72f6e813264c29fd00c321876` |
+| prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf | `e6d0207bf9bd2e42aace0230919e1c38099480d118450981dbdc6729b5318b32` |
+| prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt | `1ab58994ca8f9d1cb030bbbcf25a18c873288d852cd2f2621f1d144455dd358c` |
+| prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt | `255523ce504f7481277ac9d5f43e22b8c78f4ae72f6e813264c29fd00c321876` |
 
 ---
 

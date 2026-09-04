@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akt_nezalezhnosti_1427_12.html](https://github.com/decolonial-ist/archive/blob/main/175/akt_nezalezhnosti_1427_12.html) | сохранённая страница | 44 KiB | в этой папке |
-| [akt_nezalezhnosti_1427_12.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_nezalezhnosti_1427_12.pdf) | PDF | 31 KiB | в этой папке |
-| [akt_nezalezhnosti_1427_12.txt](https://github.com/decolonial-ist/archive/blob/main/175/akt_nezalezhnosti_1427_12.txt) | текст | 3 KiB | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.html](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.html) | сохранённая страница | 44 KiB | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf) | PDF | 31 KiB | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.txt](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.txt) | текст | 3 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akt_nezalezhnosti_1427_12.html
-shasum -a 256 akt_nezalezhnosti_1427_12.pdf
-shasum -a 256 akt_nezalezhnosti_1427_12.txt
+shasum -a 256 akt_progoloshennya_nezalezhnosti_ukraini_1991.html
+shasum -a 256 akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf
+shasum -a 256 akt_progoloshennya_nezalezhnosti_ukraini_1991.txt
 ```
 | файл | sha256 |
 |---|---|
-| akt_nezalezhnosti_1427_12.html | `241456fadb68facc2122ab26dc83f6f1c369737dfb061edaf601af07c82f696b` |
-| akt_nezalezhnosti_1427_12.pdf | `646cd69d2b9b6caeccc79aab9aa46f34f641120b49104dfa2e12945fce63ff48` |
-| akt_nezalezhnosti_1427_12.txt | `b9aed165afbe5b8c206d4beab165a745d8e43ce7152f8cd1d42f08cce3a8ff01` |
+| akt_progoloshennya_nezalezhnosti_ukraini_1991.html | `241456fadb68facc2122ab26dc83f6f1c369737dfb061edaf601af07c82f696b` |
+| akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf | `646cd69d2b9b6caeccc79aab9aa46f34f641120b49104dfa2e12945fce63ff48` |
+| akt_progoloshennya_nezalezhnosti_ukraini_1991.txt | `b9aed165afbe5b8c206d4beab165a745d8e43ce7152f8cd1d42f08cce3a8ff01` |
 
 ---
 

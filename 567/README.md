@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [lacis_dva_goda_1920_full.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/567__lacis_dva_goda_1920_full.pdf) | PDF | 12.0 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [lacis_dva_goda_1920_full.txt](https://github.com/decolonial-ist/archive/blob/main/567/lacis_dva_goda_1920_full.txt) | текст | 342 KiB | в этой папке |
+| [dva_goda_borby_na_vnutrennem_fronte_1920.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/567__dva_goda_borby_na_vnutrennem_fronte_1920.pdf) | PDF | 12.0 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [dva_goda_borby_na_vnutrennem_fronte_1920.txt](https://github.com/decolonial-ist/archive/blob/main/567/dva_goda_borby_na_vnutrennem_fronte_1920.txt) | текст | 342 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 lacis_dva_goda_1920_full.pdf
-shasum -a 256 lacis_dva_goda_1920_full.txt
+shasum -a 256 dva_goda_borby_na_vnutrennem_fronte_1920.pdf
+shasum -a 256 dva_goda_borby_na_vnutrennem_fronte_1920.txt
 ```
 | файл | sha256 |
 |---|---|
-| lacis_dva_goda_1920_full.pdf | `561097757117f1fb89676505b6746c3e1a1c52e0f3df916a6f49b0c6f7ac9b4f` |
-| lacis_dva_goda_1920_full.txt | `f96190d70739786153c0c2cb0e3e8602db91d65408ce686102f0136bcc4d6f36` |
+| dva_goda_borby_na_vnutrennem_fronte_1920.pdf | `561097757117f1fb89676505b6746c3e1a1c52e0f3df916a6f49b0c6f7ac9b4f` |
+| dva_goda_borby_na_vnutrennem_fronte_1920.txt | `f96190d70739786153c0c2cb0e3e8602db91d65408ce686102f0136bcc4d6f36` |
 
 ---
 

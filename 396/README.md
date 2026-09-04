@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.pdf](https://github.com/decolonial-ist/archive/blob/main/396/06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.pdf) | PDF | 32 KiB | в этой папке |
-| [06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440_layer.txt](https://github.com/decolonial-ist/archive/blob/main/396/06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440_layer.txt) | текст | 6 KiB | в этой папке |
-| [06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.txt](https://github.com/decolonial-ist/archive/blob/main/396/06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.txt) | текст | 6 KiB | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf) | PDF | 32 KiB | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt) | текст | 6 KiB | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt) | текст | 6 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.pdf
-shasum -a 256 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440_layer.txt
-shasum -a 256 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.txt
+shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf
+shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt
+shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt
 ```
 | файл | sha256 |
 |---|---|
-| 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.pdf | `3585331713e45ca4ce8b9a78149a185459ef64082413e71faf5cd5c7a1e72fd5` |
-| 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440_layer.txt | `8b68c7f8904ed44427508c99119eceb83c5d2c93726775984f4fa11a4fd7f3ac` |
-| 06b_manifest_slobodskaya_1765_07_28_pszri_xvii_12440.txt | `c5c2fd7e63c9d473f1042a84bb78bec5abb9b82866786dd8af15a4e2ed85bce3` |
+| manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf | `3585331713e45ca4ce8b9a78149a185459ef64082413e71faf5cd5c7a1e72fd5` |
+| manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt | `8b68c7f8904ed44427508c99119eceb83c5d2c93726775984f4fa11a4fd7f3ac` |
+| manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt | `c5c2fd7e63c9d473f1042a84bb78bec5abb9b82866786dd8af15a4e2ed85bce3` |
 
 ---
 

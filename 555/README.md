@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/555/document.txt) | текст | 10 KiB | в этой папке |
-| [istoriya_stalinskogo_gulaga.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga.pdf) | PDF | 53 KiB | в этой папке |
-| [istoriya_stalinskogo_gulaga_layer.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_layer.txt) | текст | 23 KiB | в этой папке |
-| [05_ukaz_02_06_1948_obshchestvennye_prigovory.md](https://github.com/decolonial-ist/archive/blob/main/555/05_ukaz_02_06_1948_obshchestvennye_prigovory.md) | текст | 12 KiB | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.txt) | текст | 10 KiB | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf) | PDF | 53 KiB | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004_layer.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004_layer.txt) | текст | 23 KiB | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.md](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md) | текст | 12 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,17 +25,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.txt
-shasum -a 256 istoriya_stalinskogo_gulaga.pdf
-shasum -a 256 istoriya_stalinskogo_gulaga_layer.txt
-shasum -a 256 05_ukaz_02_06_1948_obshchestvennye_prigovory.md
+shasum -a 256 istoriya_stalinskogo_gulaga_2004.txt
+shasum -a 256 istoriya_stalinskogo_gulaga_2004.pdf
+shasum -a 256 istoriya_stalinskogo_gulaga_2004_layer.txt
+shasum -a 256 istoriya_stalinskogo_gulaga_2004.md
 ```
 | файл | sha256 |
 |---|---|
-| document.txt | `088a01ddaf090a0e1d95153c40993e1ce93118d844ea37f0de0c5805f2df55f7` |
-| istoriya_stalinskogo_gulaga.pdf | `fdd03d2ea2e6fe7829c1895160e30bdb70f291741a7c3970cb29802ddfd8fe80` |
-| istoriya_stalinskogo_gulaga_layer.txt | `c4d1a967b42584f9389e7bfba0cbd4565a35dac32be21f2d71cfcbd3feec5f66` |
-| 05_ukaz_02_06_1948_obshchestvennye_prigovory.md | `7e79b1dcd1e0687903b6f3b07ae24b1d4fbf5ec3a631a7b8f8d0a03d5b18df38` |
+| istoriya_stalinskogo_gulaga_2004.txt | `088a01ddaf090a0e1d95153c40993e1ce93118d844ea37f0de0c5805f2df55f7` |
+| istoriya_stalinskogo_gulaga_2004.pdf | `fdd03d2ea2e6fe7829c1895160e30bdb70f291741a7c3970cb29802ddfd8fe80` |
+| istoriya_stalinskogo_gulaga_2004_layer.txt | `c4d1a967b42584f9389e7bfba0cbd4565a35dac32be21f2d71cfcbd3feec5f66` |
+| istoriya_stalinskogo_gulaga_2004.md | `7e79b1dcd1e0687903b6f3b07ae24b1d4fbf5ec3a631a7b8f8d0a03d5b18df38` |
 
 ---
 

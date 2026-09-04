@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_8.md](https://github.com/decolonial-ist/archive/blob/main/105/akak_8.md) | текст | 7.8 MiB | в этой папке |
-| [akak_8.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akak_8.pdf) | PDF | 155.3 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md](https://github.com/decolonial-ist/archive/blob/main/105/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md) | текст | 7.8 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf) | PDF | 155.3 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_8.md
-shasum -a 256 akak_8.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_8.md | `5b51f8fdadbd477718590cc3f5510a0f541ecc01ec154e4ace9b911955f80d88` |
-| akak_8.pdf | `b5983cef6d702958ef328fed1a22d06f7b9ce1db7c9f1a52a95f3549920165e1` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md | `5b51f8fdadbd477718590cc3f5510a0f541ecc01ec154e4ace9b911955f80d88` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf | `b5983cef6d702958ef328fed1a22d06f7b9ce1db7c9f1a52a95f3549920165e1` |
 
 ---
 

@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoesobranieza1118russ_djvu.txt](https://github.com/decolonial-ist/archive/blob/main/462/polnoesobranieza1118russ_djvu.txt) | текст | 7.4 MiB | в этой папке |
-| [polnoesobranieza1118russ_layer.txt](https://github.com/decolonial-ist/archive/blob/main/462/polnoesobranieza1118russ_layer.txt) | текст | 7.3 MiB | в этой папке |
-| [polnoesobranieza1118russ.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/462__polnoesobranieza1118russ.pdf) | PDF | 138.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.txt](https://github.com/decolonial-ist/archive/blob/main/462/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.txt) | текст | 7.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894_layer.txt](https://github.com/decolonial-ist/archive/blob/main/462/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894_layer.txt) | текст | 7.3 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/462__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.pdf) | PDF | 138.1 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 polnoesobranieza1118russ_djvu.txt
-shasum -a 256 polnoesobranieza1118russ_layer.txt
-shasum -a 256 polnoesobranieza1118russ.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894_layer.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.pdf
 ```
 | файл | sha256 |
 |---|---|
-| polnoesobranieza1118russ_djvu.txt | `a5f0b2690395478f99c8d15a38cbd4b3a032a99bd73a722489a5e676068baf2c` |
-| polnoesobranieza1118russ_layer.txt | `1ff332c332f2d4aafb90d8bd1bec5dc401c1d49b6738761ccd76e2a824cf771d` |
-| polnoesobranieza1118russ.pdf | `af63f5f08090ca84c8358fbf87d52916655a5998c417649ea1e6a022e5fb8f58` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.txt | `a5f0b2690395478f99c8d15a38cbd4b3a032a99bd73a722489a5e676068baf2c` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894_layer.txt | `1ff332c332f2d4aafb90d8bd1bec5dc401c1d49b6738761ccd76e2a824cf771d` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobranie_trete_tom_xi_1891_1894.pdf | `af63f5f08090ca84c8358fbf87d52916655a5998c417649ea1e6a022e5fb8f58` |
 
 ---
 

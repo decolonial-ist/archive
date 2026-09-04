@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kruty_zbirnyk_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/497__kruty_zbirnyk_2013.pdf) | PDF | 17.7 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/497/document.txt) | текст | 179 KiB | в этой папке |
+| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/497__biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf) | PDF | 17.7 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt](https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt) | текст | 179 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 kruty_zbirnyk_2013.pdf
-shasum -a 256 document.txt
+shasum -a 256 biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf
+shasum -a 256 biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt
 ```
 | файл | sha256 |
 |---|---|
-| kruty_zbirnyk_2013.pdf | `29b68e8d282915362c1993c24274641feda96d0176f0ebbcac8c2e6e6662d672` |
-| document.txt | `406f274c2a7009cbd9b61f746f8ae1476bfd8bf7d01dc1186c50e19a6b9c9ce7` |
+| biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf | `29b68e8d282915362c1993c24274641feda96d0176f0ebbcac8c2e6e6662d672` |
+| biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt | `406f274c2a7009cbd9b61f746f8ae1476bfd8bf7d01dc1186c50e19a6b9c9ce7` |
 
 ---
 

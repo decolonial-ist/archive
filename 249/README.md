@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [hrushevsky_iur9_pereyaslav_rada.txt](https://github.com/decolonial-ist/archive/blob/main/249/hrushevsky_iur9_pereyaslav_rada.txt) | текст | 63 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_layer.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_layer.txt) | текст | 152 KiB | в этой папке |
-| [hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/hrushevsky_iur9_vilno_narady.txt) | текст | 37 KiB | в этой папке |
-| [hrushevsky_iur9_vilno_posolstvo.txt](https://github.com/decolonial-ist/archive/blob/main/249/hrushevsky_iur9_vilno_posolstvo.txt) | текст | 52 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix.pdf) | PDF | 154 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt) | текст | 63 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_layer.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_layer.txt) | текст | 152 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt) | текст | 37 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt) | текст | 52 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf) | PDF | 154 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -27,19 +27,19 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 hrushevsky_iur9_pereyaslav_rada.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix_layer.txt
-shasum -a 256 hrushevsky_iur9_vilno_narady.txt
-shasum -a 256 hrushevsky_iur9_vilno_posolstvo.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix.pdf
+shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt
+shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_layer.txt
+shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt
+shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt
+shasum -a 256 istoriya_ukraini_rusi_t_ix_1931.pdf
 ```
 | файл | sha256 |
 |---|---|
-| hrushevsky_iur9_pereyaslav_rada.txt | `89be30bef1bacd1330dd85530306e424a979b8a406992055e1f43077c89cacc2` |
-| istoriya_ukraini_rusi_t_ix_layer.txt | `9c30545175fb43fd48e61476b7f5fbd71df3b0ccd90069341a35bfa69e6d5303` |
-| hrushevsky_iur9_vilno_narady.txt | `fd78283d288656c11fd14beca47baddd4fb97f206f734d011d415f180c30f871` |
-| hrushevsky_iur9_vilno_posolstvo.txt | `6cc7f07d8c9d7caa98a0300caef694cfe1eb381eb707d89fc99b612fa6c278bf` |
-| istoriya_ukraini_rusi_t_ix.pdf | `606e5380203b1ac5dc2cf3ff8f3269f75dc68b20b728ee072fa68a1dc9d05b35` |
+| istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt | `89be30bef1bacd1330dd85530306e424a979b8a406992055e1f43077c89cacc2` |
+| istoriya_ukraini_rusi_t_ix_1931_layer.txt | `9c30545175fb43fd48e61476b7f5fbd71df3b0ccd90069341a35bfa69e6d5303` |
+| istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt | `fd78283d288656c11fd14beca47baddd4fb97f206f734d011d415f180c30f871` |
+| istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt | `6cc7f07d8c9d7caa98a0300caef694cfe1eb381eb707d89fc99b612fa6c278bf` |
+| istoriya_ukraini_rusi_t_ix_1931.pdf | `606e5380203b1ac5dc2cf3ff8f3269f75dc68b20b728ee072fa68a1dc9d05b35` |
 
 ---
 

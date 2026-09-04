@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [protokol96_prilozhenie4_transkript.pdf](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript.pdf) | PDF | 32 KiB | в этой папке |
-| [protokol96_prilozhenie4_transkript_layer.txt](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript_layer.txt) | текст | 9 KiB | в этой папке |
-| [protokol96_prilozhenie4_transkript.txt](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript.txt) | текст | 8 KiB | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf) | PDF | 32 KiB | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt) | текст | 9 KiB | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt) | текст | 8 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,15 +26,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 protokol96_prilozhenie4_transkript.pdf
-shasum -a 256 protokol96_prilozhenie4_transkript_layer.txt
-shasum -a 256 protokol96_prilozhenie4_transkript.txt
+shasum -a 256 rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf
+shasum -a 256 rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt
+shasum -a 256 rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt
 ```
 | файл | sha256 |
 |---|---|
-| protokol96_prilozhenie4_transkript.pdf | `eec811dab185a7ff97249b357d10e9cfa6069997b9c5cd492582a5d98ca92f24` |
-| protokol96_prilozhenie4_transkript_layer.txt | `2a5251c0ec74f7cda9b40438574596bbd26f474a8578d00a00deba87900a192b` |
-| protokol96_prilozhenie4_transkript.txt | `f01fee70f0305385e01b2b2169dd99a12793e8e288ee4f8d304a74f43f4d8091` |
+| rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf | `eec811dab185a7ff97249b357d10e9cfa6069997b9c5cd492582a5d98ca92f24` |
+| rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt | `2a5251c0ec74f7cda9b40438574596bbd26f474a8578d00a00deba87900a192b` |
+| rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt | `f01fee70f0305385e01b2b2169dd99a12793e8e288ee4f8d304a74f43f4d8091` |
 
 ---
 

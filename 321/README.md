@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [update_4_iaea_director_general_statement_on_situation_in_ukr.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukr.pdf) | PDF | 33 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/321/text.txt) | текст | 3 KiB | в этой папке |
-| [page.md](https://github.com/decolonial-ist/archive/blob/main/321/page.md) | текст | 4 KiB | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf) | PDF | 33 KiB | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt) | текст | 3 KiB | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md) | текст | 4 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukr.pdf
-shasum -a 256 text.txt
-shasum -a 256 page.md
+shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf
+shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt
+shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md
 ```
 | файл | sha256 |
 |---|---|
-| update_4_iaea_director_general_statement_on_situation_in_ukr.pdf | `8a62a4a60637a05e344a22737b9ccdde16742f04214639dbbd7e66e54227ac05` |
-| text.txt | `ed4372402e399755bae0faf4c2e12b16f4214d0bd038753db4bfe94ac2d29776` |
-| page.md | `341aac05d00d8f88abe7874e9a6c2d0ac4b1993a2d8733012e8e54810743163b` |
+| update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf | `8a62a4a60637a05e344a22737b9ccdde16742f04214639dbbd7e66e54227ac05` |
+| update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt | `ed4372402e399755bae0faf4c2e12b16f4214d0bd038753db4bfe94ac2d29776` |
+| update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md | `341aac05d00d8f88abe7874e9a6c2d0ac4b1993a2d8733012e8e54810743163b` |
 
 ---
 

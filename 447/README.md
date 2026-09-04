@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vii.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/447__vii.pdf) | PDF | 46.3 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [vii_raw2.txt](https://github.com/decolonial-ist/archive/blob/main/447/vii_raw2.txt) | текст | 5.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/447__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf) | PDF | 46.3 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt](https://github.com/decolonial-ist/archive/blob/main/447/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt) | текст | 5.4 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 vii.pdf
-shasum -a 256 vii_raw2.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt
 ```
 | файл | sha256 |
 |---|---|
-| vii.pdf | `63e01a726faa079e41d0bd0bd7371da24c099db81dd728aaa74f25a86b720cf1` |
-| vii_raw2.txt | `183776c6c48b8b7d7a981350733736c2ec2d0111777d45f9610d2ceffe2b16c6` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf | `63e01a726faa079e41d0bd0bd7371da24c099db81dd728aaa74f25a86b720cf1` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt | `183776c6c48b8b7d7a981350733736c2ec2d0111777d45f9610d2ceffe2b16c6` |
 
 ---
 

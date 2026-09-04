@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [litopis_chervonoi_kalini_1929_01_djvu_layer.txt](https://github.com/decolonial-ist/archive/blob/main/502/litopis_chervonoi_kalini_1929_01_djvu_layer.txt) | текст | 207 KiB | в этой папке |
-| [litopis_chervonoi_kalini_1929_01_djvu.pdf](https://github.com/decolonial-ist/archive/blob/main/502/litopis_chervonoi_kalini_1929_01_djvu.pdf) | PDF | 207 KiB | в этой папке |
-| [litopis_chervonoi_kalini_1929_01_djvu.txt](https://github.com/decolonial-ist/archive/blob/main/502/litopis_chervonoi_kalini_1929_01_djvu.txt) | текст | 203 KiB | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt) | текст | 207 KiB | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf) | PDF | 207 KiB | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt) | текст | 203 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu_layer.txt
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu.pdf
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu.txt
+shasum -a 256 ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt
+shasum -a 256 ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf
+shasum -a 256 ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt
 ```
 | файл | sha256 |
 |---|---|
-| litopis_chervonoi_kalini_1929_01_djvu_layer.txt | `1de0ce72725ce9055b4a7022d537ac97894c9d65bf798219bc9ae1586bf34624` |
-| litopis_chervonoi_kalini_1929_01_djvu.pdf | `27a9a8f745d15104809a81b7b00257578930b599cf7dc01f73f615dca7e97237` |
-| litopis_chervonoi_kalini_1929_01_djvu.txt | `e74c7e5069001647e4c334b7f4e7244ca7dff4a331862150d49e64da006dd74d` |
+| ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt | `1de0ce72725ce9055b4a7022d537ac97894c9d65bf798219bc9ae1586bf34624` |
+| ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf | `27a9a8f745d15104809a81b7b00257578930b599cf7dc01f73f615dca7e97237` |
+| ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt | `e74c7e5069001647e4c334b7f4e7244ca7dff4a331862150d49e64da006dd74d` |
 
 ---
 

@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/565/document.pdf) | PDF | 31 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/565/document.txt) | текст | 6 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/565/document_layer.txt) | текст | 7 KiB | в этой папке |
+| [operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/565/operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf) | PDF | 31 KiB | в этой папке |
+| [operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/565/operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.txt) | текст | 6 KiB | в этой папке |
+| [operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/565/operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919_layer.txt) | текст | 7 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf
+shasum -a 256 operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.txt
+shasum -a 256 operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `59d9761938bc48a73dc48ad778da0fb2d59f329634fdf2132274a465f43f033a` |
-| document.txt | `7a980f4da557002dc59193613475ee655013de9c90a4e96428a708ceaf719c6b` |
-| document_layer.txt | `651db5cca8771308d432a5227fea23993c6e2ddfe947282e0e76bafa58039212` |
+| operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf | `59d9761938bc48a73dc48ad778da0fb2d59f329634fdf2132274a465f43f033a` |
+| operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.txt | `7a980f4da557002dc59193613475ee655013de9c90a4e96428a708ceaf719c6b` |
+| operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919_layer.txt | `651db5cca8771308d432a5227fea23993c6e2ddfe947282e0e76bafa58039212` |
 
 ---
 

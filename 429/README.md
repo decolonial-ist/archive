@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/429/document.pdf) | PDF | 57 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/429/document.txt) | текст | 34 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/429/document_layer.txt) | текст | 35 KiB | в этой папке |
+| [istoricheskiy_put_u_kievi_1926.pdf](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf) | PDF | 57 KiB | в этой папке |
+| [istoricheskiy_put_u_kievi_1926.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.txt) | текст | 34 KiB | в этой папке |
+| [istoricheskiy_put_u_kievi_1926_layer.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926_layer.txt) | текст | 35 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 istoricheskiy_put_u_kievi_1926.pdf
+shasum -a 256 istoricheskiy_put_u_kievi_1926.txt
+shasum -a 256 istoricheskiy_put_u_kievi_1926_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `cc65d7963f8563d7e9d3743da37437bc90a6474f668ba0346304521ef27f5991` |
-| document.txt | `74552a1e75353eeb6e4904b6a53f2601afbf5c6f1f5285d8a8d2ceaf29fc037d` |
-| document_layer.txt | `616862aab88d9a52f61ed4c528eeb268d6fd3a12a21bb9ffd029998ad04bdc4f` |
+| istoricheskiy_put_u_kievi_1926.pdf | `cc65d7963f8563d7e9d3743da37437bc90a6474f668ba0346304521ef27f5991` |
+| istoricheskiy_put_u_kievi_1926.txt | `74552a1e75353eeb6e4904b6a53f2601afbf5c6f1f5285d8a8d2ceaf29fc037d` |
+| istoricheskiy_put_u_kievi_1926_layer.txt | `616862aab88d9a52f61ed4c528eeb268d6fd3a12a21bb9ffd029998ad04bdc4f` |
 
 ---
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [iaea_update4_reliefweb_raw.html](https://github.com/decolonial-ist/archive/blob/main/218/iaea_update4_reliefweb_raw.html) | сохранённая страница | 122 KiB | в этой папке |
-| [iaea_update4_reliefweb_raw.pdf](https://github.com/decolonial-ist/archive/blob/main/218/iaea_update4_reliefweb_raw.pdf) | PDF | 28 KiB | в этой папке |
+| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html) | сохранённая страница | 122 KiB | в этой папке |
+| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf) | PDF | 28 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 iaea_update4_reliefweb_raw.html
-shasum -a 256 iaea_update4_reliefweb_raw.pdf
+shasum -a 256 iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html
+shasum -a 256 iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf
 ```
 | файл | sha256 |
 |---|---|
-| iaea_update4_reliefweb_raw.html | `39e1bb152fb9dd28cc4d0790f6e85d84001b33fdc3f41533bf951acbe641f3b5` |
-| iaea_update4_reliefweb_raw.pdf | `d44358ec78605c0b22603b9321b29662fb0593a0216a2de7c0394cf8cf3924f2` |
+| iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html | `39e1bb152fb9dd28cc4d0790f6e85d84001b33fdc3f41533bf951acbe641f3b5` |
+| iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf | `d44358ec78605c0b22603b9321b29662fb0593a0216a2de7c0394cf8cf3924f2` |
 
 ---
 

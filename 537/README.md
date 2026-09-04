@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.pdf](https://github.com/decolonial-ist/archive/blob/main/537/larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.pdf) | PDF | 2.4 MiB | в этой папке |
-| [larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.txt](https://github.com/decolonial-ist/archive/blob/main/537/larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.txt) | текст | 40 KiB | в этой папке |
+| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf) | PDF | 2.4 MiB | в этой папке |
+| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt) | текст | 40 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.pdf
-shasum -a 256 larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.txt
+shasum -a 256 ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf
+shasum -a 256 ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt
 ```
 | файл | sha256 |
 |---|---|
-| larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.pdf | `cbd38738095ff0b5472661f0208fc63015e5fcf6f2080b89903df5c2294e1b20` |
-| larin_1930_ob_iskazheniyah_klassovoy_politiki_v_chechne_s8_14.txt | `57ba51e30c93d20585d344c61eb4d75a2378836abcc88613421892741cdb4b27` |
+| ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf | `cbd38738095ff0b5472661f0208fc63015e5fcf6f2080b89903df5c2294e1b20` |
+| ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt | `57ba51e30c93d20585d344c61eb4d75a2378836abcc88613421892741cdb4b27` |
 
 ---
 

@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [text_layer.txt](https://github.com/decolonial-ist/archive/blob/main/261/text_layer.txt) | текст | 27 KiB | в этой папке |
-| [materialy_opisaniya_russko_turetskoy_voyny_1877_1878_t_tunov_smekalov.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_opisaniya_russko_turetskoy_voyny_1877_1878_t_tunov_smekalov.pdf) | PDF | 1.1 MiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/261/text.txt) | текст | 26 KiB | в этой папке |
-| [text.pdf](https://github.com/decolonial-ist/archive/blob/main/261/text.pdf) | PDF | 51 KiB | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt) | текст | 27 KiB | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf) | PDF | 1.1 MiB | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt) | текст | 26 KiB | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf) | PDF | 51 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 text_layer.txt
-shasum -a 256 materialy_opisaniya_russko_turetskoy_voyny_1877_1878_t_tunov_smekalov.pdf
-shasum -a 256 text.txt
-shasum -a 256 text.pdf
+shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt
+shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf
+shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt
+shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf
 ```
 | файл | sha256 |
 |---|---|
-| text_layer.txt | `65c47bcbad08fb763834b22eaba1ae45b8b2d9ea4ab915316aa1757a005877aa` |
-| materialy_opisaniya_russko_turetskoy_voyny_1877_1878_t_tunov_smekalov.pdf | `2288a11564b6f5e94fa48e01655b7929f908e8f676f4b3248c9d07e62c4243b1` |
-| text.txt | `508ce3ce27592d35f8961bd6c031537d4830ee7b2d1343d58f14bc3db910dc5d` |
-| text.pdf | `e57016e8d66d6fb94dd0fc97102b9a6c01774c55474892ac00385459187162a9` |
+| materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt | `65c47bcbad08fb763834b22eaba1ae45b8b2d9ea4ab915316aa1757a005877aa` |
+| materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf | `2288a11564b6f5e94fa48e01655b7929f908e8f676f4b3248c9d07e62c4243b1` |
+| materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt | `508ce3ce27592d35f8961bd6c031537d4830ee7b2d1343d58f14bc3db910dc5d` |
+| materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf | `e57016e8d66d6fb94dd0fc97102b9a6c01774c55474892ac00385459187162a9` |
 
 ---
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [european_parliament_recommendation_2004_0121.pdf](https://github.com/decolonial-ist/archive/blob/main/551/european_parliament_recommendation_2004_0121.pdf) | PDF | 175 KiB | в этой папке |
-| [european_parliament_recommendation_2004_0121_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/551/european_parliament_recommendation_2004_0121_ocr.txt) | текст | 41 KiB | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf) | PDF | 175 KiB | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt) | текст | 41 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 european_parliament_recommendation_2004_0121.pdf
-shasum -a 256 european_parliament_recommendation_2004_0121_ocr.txt
+shasum -a 256 rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf
+shasum -a 256 rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt
 ```
 | файл | sha256 |
 |---|---|
-| european_parliament_recommendation_2004_0121.pdf | `64c09aa92f5787421d311ca04b237eb9eced7428df4f44c4ee4eae432624a756` |
-| european_parliament_recommendation_2004_0121_ocr.txt | `d432e25aa4b3cb3dc9bddd1ba7e30e517202c1f8fb94e5321014a22e5130f687` |
+| rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf | `64c09aa92f5787421d311ca04b237eb9eced7428df4f44c4ee4eae432624a756` |
+| rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt | `d432e25aa4b3cb3dc9bddd1ba7e30e517202c1f8fb94e5321014a22e5130f687` |
 
 ---
 

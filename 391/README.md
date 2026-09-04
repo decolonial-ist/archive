@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [xxi.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/391__xxi.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [xxi_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/391/xxi_ocr.txt) | текст | 6.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/391__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/391/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt) | текст | 6.4 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 xxi.pdf
-shasum -a 256 xxi_ocr.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt
 ```
 | файл | sha256 |
 |---|---|
-| xxi.pdf | `651119a60cb965f51789a84f4b441a9801229c23a5dbd97cedec94d0b2bd0e0a` |
-| xxi_ocr.txt | `a4dd23f63e89356e40b48397fd6c4d6a2de1a1205bae478d05da791ce32926dc` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf | `651119a60cb965f51789a84f4b441a9801229c23a5dbd97cedec94d0b2bd0e0a` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt | `a4dd23f63e89356e40b48397fd6c4d6a2de1a1205bae478d05da791ce32926dc` |
 
 ---
 

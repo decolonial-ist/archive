@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [07_reshetylivka_statyi_1709_polny_tekst.pdf](https://github.com/decolonial-ist/archive/blob/main/393/07_reshetylivka_statyi_1709_polny_tekst.pdf) | PDF | 65 KiB | в этой папке |
-| [07_reshetylivka_statyi_1709_polny_tekst.txt](https://github.com/decolonial-ist/archive/blob/main/393/07_reshetylivka_statyi_1709_polny_tekst.txt) | текст | 36 KiB | в этой папке |
-| [07_reshetylivka_statyi_1709_polny_tekst_layer.txt](https://github.com/decolonial-ist/archive/blob/main/393/07_reshetylivka_statyi_1709_polny_tekst_layer.txt) | текст | 37 KiB | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf) | PDF | 65 KiB | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt) | текст | 36 KiB | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt) | текст | 37 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 07_reshetylivka_statyi_1709_polny_tekst.pdf
-shasum -a 256 07_reshetylivka_statyi_1709_polny_tekst.txt
-shasum -a 256 07_reshetylivka_statyi_1709_polny_tekst_layer.txt
+shasum -a 256 istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf
+shasum -a 256 istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt
+shasum -a 256 istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| 07_reshetylivka_statyi_1709_polny_tekst.pdf | `021b1845145af0a5fee9e8938241e423d91e13023acdc9cac15d4cd48ac28151` |
-| 07_reshetylivka_statyi_1709_polny_tekst.txt | `b2b7b21e3d8c85837d9817c7e8144a72fc90310916703bb470e97e11ed77c7e4` |
-| 07_reshetylivka_statyi_1709_polny_tekst_layer.txt | `b8e0daddd3a56ce8ec69f46200395d8298a0aad77bfdf014c625c3f2e26f336a` |
+| istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf | `021b1845145af0a5fee9e8938241e423d91e13023acdc9cac15d4cd48ac28151` |
+| istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt | `b2b7b21e3d8c85837d9817c7e8144a72fc90310916703bb470e97e11ed77c7e4` |
+| istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt | `b8e0daddd3a56ce8ec69f46200395d8298a0aad77bfdf014c625c3f2e26f336a` |
 
 ---
 

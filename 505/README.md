@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [litopis_chervonoi_kalini_1930_12_djvu.pdf](https://github.com/decolonial-ist/archive/blob/main/505/litopis_chervonoi_kalini_1930_12_djvu.pdf) | PDF | 203 KiB | в этой папке |
-| [litopis_chervonoi_kalini_1930_12_djvu.txt](https://github.com/decolonial-ist/archive/blob/main/505/litopis_chervonoi_kalini_1930_12_djvu.txt) | текст | 202 KiB | в этой папке |
+| [ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf) | PDF | 203 KiB | в этой папке |
+| [ostanniy_vidstup_spomini_m_andrusyaka_1930.txt](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.txt) | текст | 202 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 litopis_chervonoi_kalini_1930_12_djvu.pdf
-shasum -a 256 litopis_chervonoi_kalini_1930_12_djvu.txt
+shasum -a 256 ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf
+shasum -a 256 ostanniy_vidstup_spomini_m_andrusyaka_1930.txt
 ```
 | файл | sha256 |
 |---|---|
-| litopis_chervonoi_kalini_1930_12_djvu.pdf | `dfa2d67ec0c6fd988a42a07f7f97c1ee1fad16dea402077591d5910fe13b9c25` |
-| litopis_chervonoi_kalini_1930_12_djvu.txt | `d4026115a30ace4eb53d501332932e33fa31671749e37a44151523b07144f9b0` |
+| ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf | `dfa2d67ec0c6fd988a42a07f7f97c1ee1fad16dea402077591d5910fe13b9c25` |
+| ostanniy_vidstup_spomini_m_andrusyaka_1930.txt | `d4026115a30ace4eb53d501332932e33fa31671749e37a44151523b07144f9b0` |
 
 ---
 

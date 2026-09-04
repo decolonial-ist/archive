@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [18_direktiva_22011933_vyezd.txt](https://github.com/decolonial-ist/archive/blob/main/235/18_direktiva_22011933_vyezd.txt) | текст | 9 KiB | в этой папке |
-| [18_direktiva_22011933_vyezd.pdf](https://github.com/decolonial-ist/archive/blob/main/235/18_direktiva_22011933_vyezd.pdf) | PDF | 35 KiB | в этой папке |
+| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt) | текст | 9 KiB | в этой папке |
+| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf) | PDF | 35 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 18_direktiva_22011933_vyezd.txt
-shasum -a 256 18_direktiva_22011933_vyezd.pdf
+shasum -a 256 direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt
+shasum -a 256 direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 18_direktiva_22011933_vyezd.txt | `5178f696971bf7431f01e8fe519457e4b5abd163ef3a7df13e257cc94677d1eb` |
-| 18_direktiva_22011933_vyezd.pdf | `11a54a05a6803b900526af976b272515f4e51621660dda1dbd7470baa633314b` |
+| direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt | `5178f696971bf7431f01e8fe519457e4b5abd163ef3a7df13e257cc94677d1eb` |
+| direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf | `11a54a05a6803b900526af976b272515f4e51621660dda1dbd7470baa633314b` |
 
 ---
 

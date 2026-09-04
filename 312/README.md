@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [i.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/312__i.pdf) | PDF | 62.4 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [i_raw.txt](https://github.com/decolonial-ist/archive/blob/main/312/i_raw.txt) | текст | 6.2 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/312__polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf) | PDF | 62.4 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt](https://github.com/decolonial-ist/archive/blob/main/312/polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt) | текст | 6.2 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 i.pdf
-shasum -a 256 i_raw.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt
 ```
 | файл | sha256 |
 |---|---|
-| i.pdf | `edb611c43b98ecacce6221c6c5730d5b37ca30aa0987057a64d373bd73a2eea2` |
-| i_raw.txt | `e291d03031eeed7a3e04e4f0be34f5fd1de7eca92f73c461e632847dd3180827` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf | `edb611c43b98ecacce6221c6c5730d5b37ca30aa0987057a64d373bd73a2eea2` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt | `e291d03031eeed7a3e04e4f0be34f5fd1de7eca92f73c461e632847dd3180827` |
 
 ---
 

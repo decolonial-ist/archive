@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [auzr_1_5_1872.txt](https://github.com/decolonial-ist/archive/blob/main/152/auzr_1_5_1872.txt) | текст | 1.9 MiB | в этой папке |
-| [auzr_1_5_1872.pdf](https://github.com/decolonial-ist/archive/blob/main/152/auzr_1_5_1872.pdf) | PDF | 1.6 MiB | в этой папке |
+| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt) | текст | 1.9 MiB | в этой папке |
+| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf) | PDF | 1.6 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 auzr_1_5_1872.txt
-shasum -a 256 auzr_1_5_1872.pdf
+shasum -a 256 arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt
+shasum -a 256 arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf
 ```
 | файл | sha256 |
 |---|---|
-| auzr_1_5_1872.txt | `fecd48444086326db21b9496916146a25dcca9645bce98bfa16e6df35b65d2f1` |
-| auzr_1_5_1872.pdf | `bf37ab68fabd30cd1f064d9986a26c9b290cbd9ccf85b12fcec337f64dc54817` |
+| arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt | `fecd48444086326db21b9496916146a25dcca9645bce98bfa16e6df35b65d2f1` |
+| arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf | `bf37ab68fabd30cd1f064d9986a26c9b290cbd9ccf85b12fcec337f64dc54817` |
 
 ---
 

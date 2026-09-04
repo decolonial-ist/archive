@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [movahistory_xvii.pdf](https://github.com/decolonial-ist/archive/blob/main/163/movahistory_xvii.pdf) | PDF | 77 KiB | в этой папке |
-| [movahistory_xvii.html](https://github.com/decolonial-ist/archive/blob/main/163/movahistory_xvii.html) | сохранённая страница | 153 KiB | в этой папке |
-| [movahistory_xvii.txt](https://github.com/decolonial-ist/archive/blob/main/163/movahistory_xvii.txt) | текст | 55 KiB | в этой папке |
-| [movahistory_xvii_layer.txt](https://github.com/decolonial-ist/archive/blob/main/163/movahistory_xvii_layer.txt) | текст | 43 KiB | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.pdf](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.pdf) | PDF | 77 KiB | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.html](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.html) | сохранённая страница | 153 KiB | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt) | текст | 55 KiB | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923_layer.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923_layer.txt) | текст | 43 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 movahistory_xvii.pdf
-shasum -a 256 movahistory_xvii.html
-shasum -a 256 movahistory_xvii.txt
-shasum -a 256 movahistory_xvii_layer.txt
+shasum -a 256 naris_ukrainskoi_istoriografii_1923.pdf
+shasum -a 256 naris_ukrainskoi_istoriografii_1923.html
+shasum -a 256 naris_ukrainskoi_istoriografii_1923.txt
+shasum -a 256 naris_ukrainskoi_istoriografii_1923_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| movahistory_xvii.pdf | `842d6b5cda2cc6aeaaaf4419f8c9777c78526b277aa40411ad745d8e67587e7d` |
-| movahistory_xvii.html | `da1f444aea8f37a91619623a01cdd0c6782dd26ffc2093c708f8ee65efdd65c3` |
-| movahistory_xvii.txt | `01e4dd77005a4bec5dc943a9ca306f7dbc5d8164d9ae91cc1e20148e2148f770` |
-| movahistory_xvii_layer.txt | `dd484d34a911307d43e0d83728b39a96d880dab3a0eaf43ce52cbe0dc107509d` |
+| naris_ukrainskoi_istoriografii_1923.pdf | `842d6b5cda2cc6aeaaaf4419f8c9777c78526b277aa40411ad745d8e67587e7d` |
+| naris_ukrainskoi_istoriografii_1923.html | `da1f444aea8f37a91619623a01cdd0c6782dd26ffc2093c708f8ee65efdd65c3` |
+| naris_ukrainskoi_istoriografii_1923.txt | `01e4dd77005a4bec5dc943a9ca306f7dbc5d8164d9ae91cc1e20148e2148f770` |
+| naris_ukrainskoi_istoriografii_1923_layer.txt | `dd484d34a911307d43e0d83728b39a96d880dab3a0eaf43ce52cbe0dc107509d` |
 
 ---
 

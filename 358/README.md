@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ohchr_2025_deadliest.txt](https://github.com/decolonial-ist/archive/blob/main/358/ohchr_2025_deadliest.txt) | текст | 6 KiB | в этой папке |
-| [ohchr_2025_deadliest.pdf](https://github.com/decolonial-ist/archive/blob/main/358/ohchr_2025_deadliest.pdf) | PDF | 31 KiB | в этой папке |
-| [ohchr_2025_deadliest.html](https://github.com/decolonial-ist/archive/blob/main/358/ohchr_2025_deadliest.html) | сохранённая страница | 56 KiB | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt) | текст | 6 KiB | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf) | PDF | 31 KiB | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html) | сохранённая страница | 56 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 ohchr_2025_deadliest.txt
-shasum -a 256 ohchr_2025_deadliest.pdf
-shasum -a 256 ohchr_2025_deadliest.html
+shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt
+shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf
+shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html
 ```
 | файл | sha256 |
 |---|---|
-| ohchr_2025_deadliest.txt | `ddf8554a1c24beb3b1e6067edc4e03dd7553e53a0df8d9a846e6c03a65851143` |
-| ohchr_2025_deadliest.pdf | `c393c6103543eae2efa3797cd34cb4311526e464f7dd7d36cc1339ec68742d63` |
-| ohchr_2025_deadliest.html | `25f97d67bfb59ca44896f446019f51a7461fd6c733780499e3d908a7b87772ff` |
+| 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt | `ddf8554a1c24beb3b1e6067edc4e03dd7553e53a0df8d9a846e6c03a65851143` |
+| 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf | `c393c6103543eae2efa3797cd34cb4311526e464f7dd7d36cc1339ec68742d63` |
+| 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html | `25f97d67bfb59ca44896f446019f51a7461fd6c733780499e3d908a7b87772ff` |
 
 ---
 

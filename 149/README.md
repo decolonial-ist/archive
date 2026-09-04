@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [06_ukaz_o_podatyah_1783_05_03_excerpt.txt](https://github.com/decolonial-ist/archive/blob/main/149/06_ukaz_o_podatyah_1783_05_03_excerpt.txt) | текст | 3 KiB | в этой папке |
-| [06_ukaz_o_podatyah_1783_05_03_excerpt.pdf](https://github.com/decolonial-ist/archive/blob/main/149/06_ukaz_o_podatyah_1783_05_03_excerpt.pdf) | PDF | 28 KiB | в этой папке |
+| [ukaz_ekateriny_ii_o_podatyah_1783.txt](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.txt) | текст | 3 KiB | в этой папке |
+| [ukaz_ekateriny_ii_o_podatyah_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf) | PDF | 28 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 06_ukaz_o_podatyah_1783_05_03_excerpt.txt
-shasum -a 256 06_ukaz_o_podatyah_1783_05_03_excerpt.pdf
+shasum -a 256 ukaz_ekateriny_ii_o_podatyah_1783.txt
+shasum -a 256 ukaz_ekateriny_ii_o_podatyah_1783.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 06_ukaz_o_podatyah_1783_05_03_excerpt.txt | `baebd3338adb3e1bccea3921cd599d1f7c8db0a331aee1592c417a849c214e70` |
-| 06_ukaz_o_podatyah_1783_05_03_excerpt.pdf | `13126c63911da3a510d7d78b92d9acb68ff07d32d4696adaf371c08688c95ca3` |
+| ukaz_ekateriny_ii_o_podatyah_1783.txt | `baebd3338adb3e1bccea3921cd599d1f7c8db0a331aee1592c417a849c214e70` |
+| ukaz_ekateriny_ii_o_podatyah_1783.pdf | `13126c63911da3a510d7d78b92d9acb68ff07d32d4696adaf371c08688c95ca3` |
 
 ---
 

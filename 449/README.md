@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [psz2_xxx_otd1_djvu.txt](https://github.com/decolonial-ist/archive/blob/main/449/psz2_xxx_otd1_djvu.txt) | текст | 4.8 MiB | в этой папке |
-| [psz2_xxx_otd1_djvu.pdf](https://github.com/decolonial-ist/archive/blob/main/449/psz2_xxx_otd1_djvu.pdf) | PDF | 4.0 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt) | текст | 4.8 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf) | PDF | 4.0 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 psz2_xxx_otd1_djvu.txt
-shasum -a 256 psz2_xxx_otd1_djvu.pdf
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt
+shasum -a 256 polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf
 ```
 | файл | sha256 |
 |---|---|
-| psz2_xxx_otd1_djvu.txt | `d0c04f30e88cdfbbb12193bf39f265f386b59cfa67d16f1624f2413c3f92285e` |
-| psz2_xxx_otd1_djvu.pdf | `359510f6047b82dd84e2d63bce9918963cf5f70fc88f3d183019e5afcf8ff888` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt | `d0c04f30e88cdfbbb12193bf39f265f386b59cfa67d16f1624f2413c3f92285e` |
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf | `359510f6047b82dd84e2d63bce9918963cf5f70fc88f3d183019e5afcf8ff888` |
 
 ---
 

@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_4.md](https://github.com/decolonial-ist/archive/blob/main/100/akak_4.md) | текст | 7.7 MiB | в этой папке |
-| [akak_4.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akak_4.pdf) | PDF | 159.0 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md](https://github.com/decolonial-ist/archive/blob/main/100/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md) | текст | 7.7 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf) | PDF | 159.0 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_4.md
-shasum -a 256 akak_4.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_4.md | `c684d7590dc4e5e53ab8b32d98faa30068de6ad0e2659f98845db7d013311929` |
-| akak_4.pdf | `513cc88c61d3a9e8afb69fbe23f9e2e7607a123cd3ebf59cbf03ab933217d3f5` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md | `c684d7590dc4e5e53ab8b32d98faa30068de6ad0e2659f98845db7d013311929` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf | `513cc88c61d3a9e8afb69fbe23f9e2e7607a123cd3ebf59cbf03ab933217d3f5` |
 
 ---
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [radaukr_518_78p_1978_rusmova.txt](https://github.com/decolonial-ist/archive/blob/main/464/radaukr_518_78p_1978_rusmova.txt) | текст | 20 KiB | в этой папке |
-| [radaukr_518_78p_1978_rusmova.pdf](https://github.com/decolonial-ist/archive/blob/main/464/radaukr_518_78p_1978_rusmova.pdf) | PDF | 45 KiB | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt) | текст | 20 KiB | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf) | PDF | 45 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 radaukr_518_78p_1978_rusmova.txt
-shasum -a 256 radaukr_518_78p_1978_rusmova.pdf
+shasum -a 256 pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt
+shasum -a 256 pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf
 ```
 | файл | sha256 |
 |---|---|
-| radaukr_518_78p_1978_rusmova.txt | `d1005a8e48f2fcef875276d50a0d2d1c09f90580685b6a842312aa73511ff01c` |
-| radaukr_518_78p_1978_rusmova.pdf | `0250636096623bff4e4a419b8c456d27945f9904057dd12a662669efb52ffea5` |
+| pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt | `d1005a8e48f2fcef875276d50a0d2d1c09f90580685b6a842312aa73511ff01c` |
+| pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf | `0250636096623bff4e4a419b8c456d27945f9904057dd12a662669efb52ffea5` |
 
 ---
 

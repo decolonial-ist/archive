@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zakon_1958_eduua.txt](https://github.com/decolonial-ist/archive/blob/main/404/zakon_1958_eduua.txt) | текст | 136 KiB | в этой папке |
-| [zakon_1958_eduua.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_1958_eduua.pdf) | PDF | 120 KiB | в этой папке |
+| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt) | текст | 136 KiB | в этой папке |
+| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf) | PDF | 120 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 zakon_1958_eduua.txt
-shasum -a 256 zakon_1958_eduua.pdf
+shasum -a 256 zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt
+shasum -a 256 zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf
 ```
 | файл | sha256 |
 |---|---|
-| zakon_1958_eduua.txt | `9b6e6a8dfe52f62374babaa906cc5aad9935c731c339f003b16917202a5c08eb` |
-| zakon_1958_eduua.pdf | `05dd7f1dbf057e5b76779bcb45b82d0527f528844c356da5794d0db65ff8e576` |
+| zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt | `9b6e6a8dfe52f62374babaa906cc5aad9935c731c339f003b16917202a5c08eb` |
+| zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf | `05dd7f1dbf057e5b76779bcb45b82d0527f528844c356da5794d0db65ff8e576` |
 
 ---
 

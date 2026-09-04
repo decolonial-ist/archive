@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/402/page.html) | сохранённая страница | 8 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/402/text.txt) | текст | 8 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/402/page_layer.txt) | текст | 8 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/402/page.pdf) | PDF | 42 KiB | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html) | сохранённая страница | 8 KiB | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt) | текст | 8 KiB | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt) | текст | 8 KiB | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf) | PDF | 42 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html
+shasum -a 256 instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt
+shasum -a 256 instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt
+shasum -a 256 instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `938c92c00f47176771f75630325a44ff0e7b5dbc55e8724d7159a75dc9a16198` |
-| text.txt | `4bd425255ec464068d7a6deaceee7c526c835e65e86ce98e406054eeef6dd040` |
-| page_layer.txt | `ea753e9967c862c034a7fc2bfd7393a31cac497a92d4d8b3e32a9aeeebc82902` |
-| page.pdf | `8d2ce0d0502c2b997bf10dd7189e79cf8900ec88d21dd3b5b02704f471bbc549` |
+| instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html | `938c92c00f47176771f75630325a44ff0e7b5dbc55e8724d7159a75dc9a16198` |
+| instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt | `4bd425255ec464068d7a6deaceee7c526c835e65e86ce98e406054eeef6dd040` |
+| instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt | `ea753e9967c862c034a7fc2bfd7393a31cac497a92d4d8b3e32a9aeeebc82902` |
+| instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf | `8d2ce0d0502c2b997bf10dd7189e79cf8900ec88d21dd3b5b02704f471bbc549` |
 
 ---
 

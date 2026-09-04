@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [direktiva_29061941_raw.txt](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_29061941_raw.txt) | текст | 9 KiB | в этой папке |
-| [direktiva_29061941_raw.pdf](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_29061941_raw.pdf) | PDF | 31 KiB | в этой папке |
+| [direktiva_snk_sssr_i_ck_vkp_b_1941.txt](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.txt) | текст | 9 KiB | в этой папке |
+| [direktiva_snk_sssr_i_ck_vkp_b_1941.pdf](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.pdf) | PDF | 31 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 direktiva_29061941_raw.txt
-shasum -a 256 direktiva_29061941_raw.pdf
+shasum -a 256 direktiva_snk_sssr_i_ck_vkp_b_1941.txt
+shasum -a 256 direktiva_snk_sssr_i_ck_vkp_b_1941.pdf
 ```
 | файл | sha256 |
 |---|---|
-| direktiva_29061941_raw.txt | `bffa01fa9b0451f677e01ac795d7ca9de6b06015ba4b62c95f26341835f3193c` |
-| direktiva_29061941_raw.pdf | `b5d8c6c47777bd18f399f8637813312e3b81c4120f3b1bb952c9632acabd30cc` |
+| direktiva_snk_sssr_i_ck_vkp_b_1941.txt | `bffa01fa9b0451f677e01ac795d7ca9de6b06015ba4b62c95f26341835f3193c` |
+| direktiva_snk_sssr_i_ck_vkp_b_1941.pdf | `b5d8c6c47777bd18f399f8637813312e3b81c4120f3b1bb952c9632acabd30cc` |
 
 ---
 

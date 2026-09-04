@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [islamperspectives_13006.md](https://github.com/decolonial-ist/archive/blob/main/536/islamperspectives_13006.md) | текст | 7 KiB | в этой папке |
-| [islamperspectives_13006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/536/islamperspectives_13006_layer.txt) | текст | 8 KiB | в этой папке |
-| [islamperspectives_13006.pdf](https://github.com/decolonial-ist/archive/blob/main/536/islamperspectives_13006.pdf) | PDF | 31 KiB | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md) | текст | 7 KiB | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt) | текст | 8 KiB | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf) | PDF | 31 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,15 +26,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 islamperspectives_13006.md
-shasum -a 256 islamperspectives_13006_layer.txt
-shasum -a 256 islamperspectives_13006.pdf
+shasum -a 256 instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md
+shasum -a 256 instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt
+shasum -a 256 instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf
 ```
 | файл | sha256 |
 |---|---|
-| islamperspectives_13006.md | `006f9fbb000ec5f175504d1c3cce8e28332033bdd923a96463744b2cb1185063` |
-| islamperspectives_13006_layer.txt | `d8cdf6c64d3215f5a4810d73cd606c27dc6e0f3ae50b9b714b9603093a0cb07d` |
-| islamperspectives_13006.pdf | `552f6c0af4bb984c672f73129e59a2a984666474a73adec9f67d942c04c3b203` |
+| instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md | `006f9fbb000ec5f175504d1c3cce8e28332033bdd923a96463744b2cb1185063` |
+| instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt | `d8cdf6c64d3215f5a4810d73cd606c27dc6e0f3ae50b9b714b9603093a0cb07d` |
+| instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf | `552f6c0af4bb984c672f73129e59a2a984666474a73adec9f67d942c04c3b203` |
 
 ---
 

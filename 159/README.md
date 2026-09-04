@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [otmena_stesneniy_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/159/otmena_stesneniy_1905_layer.txt) | текст | 580 KiB | в этой папке |
-| [otmena_stesneniy_1905.txt](https://github.com/decolonial-ist/archive/blob/main/159/otmena_stesneniy_1905.txt) | текст | 606 KiB | в этой папке |
-| [otmena_stesneniy_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/159/otmena_stesneniy_1905.pdf) | PDF | 470 KiB | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt) | текст | 580 KiB | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt) | текст | 606 KiB | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf) | PDF | 470 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 otmena_stesneniy_1905_layer.txt
-shasum -a 256 otmena_stesneniy_1905.txt
-shasum -a 256 otmena_stesneniy_1905.pdf
+shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt
+shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt
+shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf
 ```
 | файл | sha256 |
 |---|---|
-| otmena_stesneniy_1905_layer.txt | `ff49c4817fa407152438f3e85d23f3ab921d7da864476959cdea9e625043db16` |
-| otmena_stesneniy_1905.txt | `e91fe39774e07cbf9fac27650ad88e60a219cc6fb509cf6e43528c052e6d2ef9` |
-| otmena_stesneniy_1905.pdf | `b036eac4b3787cf60d0d18de8359d7ee67fba34cac46e6d7de228c83dd9d31a5` |
+| ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt | `ff49c4817fa407152438f3e85d23f3ab921d7da864476959cdea9e625043db16` |
+| ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt | `e91fe39774e07cbf9fac27650ad88e60a219cc6fb509cf6e43528c052e6d2ef9` |
+| ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf | `b036eac4b3787cf60d0d18de8359d7ee67fba34cac46e6d7de228c83dd9d31a5` |
 
 ---
 

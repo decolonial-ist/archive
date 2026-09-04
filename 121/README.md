@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/121/document.pdf) | PDF | 281 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/121/document.txt) | текст | 319 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/121/document_layer.txt) | текст | 325 KiB | в этой папке |
+| [1858_god_v_chechne_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf) | PDF | 281 KiB | в этой папке |
+| [1858_god_v_chechne_1879.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.txt) | текст | 319 KiB | в этой папке |
+| [1858_god_v_chechne_1879_layer.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879_layer.txt) | текст | 325 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 1858_god_v_chechne_1879.pdf
+shasum -a 256 1858_god_v_chechne_1879.txt
+shasum -a 256 1858_god_v_chechne_1879_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `913b2c064b39944c78bd9fed2f21096d4f858869301a9c5f724b8ba5785ad1e6` |
-| document.txt | `bade1e29f56f91044e5a5850d4c90936da6028d646d06894a827008a011e0f08` |
-| document_layer.txt | `9ac17e0449709635a178f04068a43af274213c919223f1e08d05fcd8d9d26137` |
+| 1858_god_v_chechne_1879.pdf | `913b2c064b39944c78bd9fed2f21096d4f858869301a9c5f724b8ba5785ad1e6` |
+| 1858_god_v_chechne_1879.txt | `bade1e29f56f91044e5a5850d4c90936da6028d646d06894a827008a011e0f08` |
+| 1858_god_v_chechne_1879_layer.txt | `9ac17e0449709635a178f04068a43af274213c919223f1e08d05fcd8d9d26137` |
 
 ---
 

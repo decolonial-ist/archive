@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [arenin_2010.txt](https://github.com/decolonial-ist/archive/blob/main/548/arenin_2010.txt) | текст | 36 KiB | в этой папке |
-| [arenin_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/548/arenin_2010.pdf) | PDF | 231 KiB | в этой папке |
-| [arenin_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/548/arenin_2010_layer.txt) | текст | 36 KiB | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt) | текст | 36 KiB | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf) | PDF | 231 KiB | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt) | текст | 36 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,15 +26,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 arenin_2010.txt
-shasum -a 256 arenin_2010.pdf
-shasum -a 256 arenin_2010_layer.txt
+shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt
+shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf
+shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| arenin_2010.txt | `2e6c9a0efac517aad0f8fbe9bd0c0ac1d29e6dbb060a56efa6c71acdf369bb7a` |
-| arenin_2010.pdf | `6aba60c7ff700a9187c8b9dde207b63e56218d2fcfb297c06d71baad69fd3196` |
-| arenin_2010_layer.txt | `2e6c9a0efac517aad0f8fbe9bd0c0ac1d29e6dbb060a56efa6c71acdf369bb7a` |
+| banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt | `2e6c9a0efac517aad0f8fbe9bd0c0ac1d29e6dbb060a56efa6c71acdf369bb7a` |
+| banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf | `6aba60c7ff700a9187c8b9dde207b63e56218d2fcfb297c06d71baad69fd3196` |
+| banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt | `2e6c9a0efac517aad0f8fbe9bd0c0ac1d29e6dbb060a56efa6c71acdf369bb7a` |
 
 ---
 

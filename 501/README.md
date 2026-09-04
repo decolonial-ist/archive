@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [litopis_chervonoi_kalini_1929_01_djvu_layer.txt](https://github.com/decolonial-ist/archive/blob/main/501/litopis_chervonoi_kalini_1929_01_djvu_layer.txt) | текст | 207 KiB | в этой папке |
-| [litopis_chervonoi_kalini_1929_01_djvu.pdf](https://github.com/decolonial-ist/archive/blob/main/501/litopis_chervonoi_kalini_1929_01_djvu.pdf) | PDF | 208 KiB | в этой папке |
-| [litopis_chervonoi_kalini_1929_01_djvu.txt](https://github.com/decolonial-ist/archive/blob/main/501/litopis_chervonoi_kalini_1929_01_djvu.txt) | текст | 203 KiB | в этой папке |
+| [do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt](https://github.com/decolonial-ist/archive/blob/main/501/do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt) | текст | 207 KiB | в этой папке |
+| [do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/501/do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf) | PDF | 208 KiB | в этой папке |
+| [do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.txt](https://github.com/decolonial-ist/archive/blob/main/501/do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.txt) | текст | 203 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu_layer.txt
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu.pdf
-shasum -a 256 litopis_chervonoi_kalini_1929_01_djvu.txt
+shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt
+shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf
+shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.txt
 ```
 | файл | sha256 |
 |---|---|
-| litopis_chervonoi_kalini_1929_01_djvu_layer.txt | `fa6896746273670fa294bff58f44c8355f5da1cf5233241a48659bb72dfc55a9` |
-| litopis_chervonoi_kalini_1929_01_djvu.pdf | `90b3fc9c366de0e4afc04304e5a65f78aa65da30ca74e48fbe4eb3d1fcc4a4a2` |
-| litopis_chervonoi_kalini_1929_01_djvu.txt | `e74c7e5069001647e4c334b7f4e7244ca7dff4a331862150d49e64da006dd74d` |
+| do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt | `fa6896746273670fa294bff58f44c8355f5da1cf5233241a48659bb72dfc55a9` |
+| do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf | `90b3fc9c366de0e4afc04304e5a65f78aa65da30ca74e48fbe4eb3d1fcc4a4a2` |
+| do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.txt | `e74c7e5069001647e4c334b7f4e7244ca7dff4a331862150d49e64da006dd74d` |
 
 ---
 

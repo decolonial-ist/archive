@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt) | текст | 55 KiB | в этой папке |
-| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt) | текст | 55 KiB | в этой папке |
-| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf) | PDF | 63 KiB | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt) | текст | 55 KiB | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.txt) | текст | 55 KiB | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.pdf) | PDF | 63 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt
-shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt
-shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf
+shasum -a 256 postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt
+shasum -a 256 postanovlenie_o_religioznyh_obedineniyah_1929.txt
+shasum -a 256 postanovlenie_o_religioznyh_obedineniyah_1929.pdf
 ```
 | файл | sha256 |
 |---|---|
-| postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt | `8d9827571f348169cb55d64769a40a5e030ccff3fe9c9085ed0220619316b905` |
-| postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt | `a6f0dc8f337c54287edb4fd96cd68be233bae2811ef94e1425e5a88408cb4370` |
-| postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf | `d466c8ad085daedd7224ac6117429ad7440f9d13301621937bd9b24301765b82` |
+| postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt | `8d9827571f348169cb55d64769a40a5e030ccff3fe9c9085ed0220619316b905` |
+| postanovlenie_o_religioznyh_obedineniyah_1929.txt | `a6f0dc8f337c54287edb4fd96cd68be233bae2811ef94e1425e5a88408cb4370` |
+| postanovlenie_o_religioznyh_obedineniyah_1929.pdf | `d466c8ad085daedd7224ac6117429ad7440f9d13301621937bd9b24301765b82` |
 
 ---
 

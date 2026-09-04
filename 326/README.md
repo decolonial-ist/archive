@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ohchr_crimea_2014_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/ohchr_crimea_2014_2017.txt) | текст | 164 KiB | в этой папке |
-| [ohchr_crimea_2014_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/ohchr_crimea_2014_2017.pdf) | PDF | 706 KiB | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt) | текст | 164 KiB | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf) | PDF | 706 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 ohchr_crimea_2014_2017.txt
-shasum -a 256 ohchr_crimea_2014_2017.pdf
+shasum -a 256 situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt
+shasum -a 256 situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf
 ```
 | файл | sha256 |
 |---|---|
-| ohchr_crimea_2014_2017.txt | `16f945026768e1eaa416838fa213e793c76e25a0056c33e80271580bb84143ff` |
-| ohchr_crimea_2014_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
+| situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt | `16f945026768e1eaa416838fa213e793c76e25a0056c33e80271580bb84143ff` |
+| situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
 
 ---
 

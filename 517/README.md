@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/517/page.html) | сохранённая страница | 242 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/517/text.txt) | текст | 9 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/517/page.pdf) | PDF | 36 KiB | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html) | сохранённая страница | 242 KiB | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt) | текст | 9 KiB | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf) | PDF | 36 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page.pdf
+shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html
+shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt
+shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `5a3f9195f752af85a92f909e9b5691b9790854026e2499d3ddee51a33117debe` |
-| text.txt | `7d41aae76b9f2432ac4c7f47a3e496c5b99e7da4380454ace6ace3afdda023e1` |
-| page.pdf | `04a7cac666dc3f71f7335c2410b6463b4c1c2d57cf99ae1db884073fd86b16c8` |
+| ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html | `5a3f9195f752af85a92f909e9b5691b9790854026e2499d3ddee51a33117debe` |
+| ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt | `7d41aae76b9f2432ac4c7f47a3e496c5b99e7da4380454ace6ace3afdda023e1` |
+| ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf | `04a7cac666dc3f71f7335c2410b6463b4c1c2d57cf99ae1db884073fd86b16c8` |
 
 ---
 

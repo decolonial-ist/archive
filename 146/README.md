@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kuchuk_kainarji_1774_wikisource.txt](https://github.com/decolonial-ist/archive/blob/main/146/kuchuk_kainarji_1774_wikisource.txt) | текст | 63 KiB | в этой папке |
-| [kuchuk_kainarji_1774_wikisource.pdf](https://github.com/decolonial-ist/archive/blob/main/146/kuchuk_kainarji_1774_wikisource.pdf) | PDF | 74 KiB | в этой папке |
+| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt) | текст | 63 KiB | в этой папке |
+| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf) | PDF | 74 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 kuchuk_kainarji_1774_wikisource.txt
-shasum -a 256 kuchuk_kainarji_1774_wikisource.pdf
+shasum -a 256 kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt
+shasum -a 256 kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf
 ```
 | файл | sha256 |
 |---|---|
-| kuchuk_kainarji_1774_wikisource.txt | `23e4c61ebec173a3943482f0e8754dd89a19277462cc1bbf7425fdffbc43f6a0` |
-| kuchuk_kainarji_1774_wikisource.pdf | `84793ba25ec61af8ff3a004b4ca1486f9dee937c1ae22298cbc0c4d0e4c1a01d` |
+| kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt | `23e4c61ebec173a3943482f0e8754dd89a19277462cc1bbf7425fdffbc43f6a0` |
+| kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf | `84793ba25ec61af8ff3a004b4ca1486f9dee937c1ae22298cbc0c4d0e4c1a01d` |
 
 ---
 

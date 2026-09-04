@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [promethee_1930_09_no46_situation_religion_un_montagnard.pdf](https://github.com/decolonial-ist/archive/blob/main/486/promethee_1930_09_no46_situation_religion_un_montagnard.pdf) | PDF | 57 KiB | в этой папке |
-| [promethee_1930_09_no46_situation_religion_un_montagnard.txt](https://github.com/decolonial-ist/archive/blob/main/486/promethee_1930_09_no46_situation_religion_un_montagnard.txt) | текст | 22 KiB | в этой папке |
+| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf) | PDF | 57 KiB | в этой папке |
+| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt) | текст | 22 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 promethee_1930_09_no46_situation_religion_un_montagnard.pdf
-shasum -a 256 promethee_1930_09_no46_situation_religion_un_montagnard.txt
+shasum -a 256 la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf
+shasum -a 256 la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt
 ```
 | файл | sha256 |
 |---|---|
-| promethee_1930_09_no46_situation_religion_un_montagnard.pdf | `fc0bf14dbd493b8ec226293ab48f85da5c1c29f11547047ef180f765ff7902bf` |
-| promethee_1930_09_no46_situation_religion_un_montagnard.txt | `e997510edc8c8a769f643a85b0f39e2795a710dd0195d21b6d1a282f338b0c52` |
+| la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf | `fc0bf14dbd493b8ec226293ab48f85da5c1c29f11547047ef180f765ff7902bf` |
+| la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt | `e997510edc8c8a769f643a85b0f39e2795a710dd0195d21b6d1a282f338b0c52` |
 
 ---
 

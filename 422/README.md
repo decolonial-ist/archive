@@ -11,11 +11,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/422/document.pdf) | PDF | 29 KiB | в этой папке |
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/422/page.html) | сохранённая страница | 18 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/422/document.txt) | текст | 4 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/422/document_layer.txt) | текст | 5 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/422/text.txt) | текст | 3 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf) | PDF | 29 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html) | сохранённая страница | 18 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt) | текст | 4 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt) | текст | 5 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt) | текст | 3 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -28,19 +28,19 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 page.html
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
-shasum -a 256 text.txt
+shasum -a 256 o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf
+shasum -a 256 o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html
+shasum -a 256 o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt
+shasum -a 256 o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt
+shasum -a 256 o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `155d510017e9d1aaecf2a0e4e40bef044bde00276e6f1994fa68368c06800aa8` |
-| page.html | `6758b81ee3ddd5476f9f7fe2b44d562ee1717657856e28b29bce70bb29a87b46` |
-| document.txt | `14ab95a3fcd0840773ae104a7da7ae9ad01dcf4f4c0bd31021e460d6c606b3cb` |
-| document_layer.txt | `345255a9a323935483167fc71a296f632fa0503ddec6865ecf5e15a55b5fc815` |
-| text.txt | `b29963082a03a59bf1ddc670a392f02a4e29e81478e9079aa58ab8146e02bc40` |
+| o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf | `155d510017e9d1aaecf2a0e4e40bef044bde00276e6f1994fa68368c06800aa8` |
+| o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html | `6758b81ee3ddd5476f9f7fe2b44d562ee1717657856e28b29bce70bb29a87b46` |
+| o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt | `14ab95a3fcd0840773ae104a7da7ae9ad01dcf4f4c0bd31021e460d6c606b3cb` |
+| o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt | `345255a9a323935483167fc71a296f632fa0503ddec6865ecf5e15a55b5fc815` |
+| o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt | `b29963082a03a59bf1ddc670a392f02a4e29e81478e9079aa58ab8146e02bc40` |
 
 ---
 

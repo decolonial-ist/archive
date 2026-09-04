@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [elbuzdukaeva_2015_layer.txt](https://github.com/decolonial-ist/archive/blob/main/259/elbuzdukaeva_2015_layer.txt) | текст | 49 KiB | в этой папке |
-| [elbuzdukaeva_2015.pdf](https://github.com/decolonial-ist/archive/blob/main/259/elbuzdukaeva_2015.pdf) | PDF | 71 KiB | в этой папке |
-| [elbuzdukaeva_2015.txt](https://github.com/decolonial-ist/archive/blob/main/259/elbuzdukaeva_2015.txt) | текст | 54 KiB | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015_layer.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015_layer.txt) | текст | 49 KiB | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015.pdf](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.pdf) | PDF | 71 KiB | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.txt) | текст | 54 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 elbuzdukaeva_2015_layer.txt
-shasum -a 256 elbuzdukaeva_2015.pdf
-shasum -a 256 elbuzdukaeva_2015.txt
+shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015_layer.txt
+shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015.pdf
+shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015.txt
 ```
 | файл | sha256 |
 |---|---|
-| elbuzdukaeva_2015_layer.txt | `520f455e0b484e4651da5db8825336d483b652720fe27e1b3509d4694b5c4e45` |
-| elbuzdukaeva_2015.pdf | `f81f78237cd304e8fa845f55dbb1ca7806d2afafc833ffcc8c21c55a5906507c` |
-| elbuzdukaeva_2015.txt | `fc6c7c101f7bdd0cb014cec484775855e48679d057bdb14c95ea442c73fb4dc8` |
+| hronika_pervogo_razoruzheniya_chechni_2015_layer.txt | `520f455e0b484e4651da5db8825336d483b652720fe27e1b3509d4694b5c4e45` |
+| hronika_pervogo_razoruzheniya_chechni_2015.pdf | `f81f78237cd304e8fa845f55dbb1ca7806d2afafc833ffcc8c21c55a5906507c` |
+| hronika_pervogo_razoruzheniya_chechni_2015.txt | `fc6c7c101f7bdd0cb014cec484775855e48679d057bdb14c95ea442c73fb4dc8` |
 
 ---
 

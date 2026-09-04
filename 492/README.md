@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/492/page.html) | сохранённая страница | 2 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/492/page.pdf) | PDF | 25 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/492/page_layer.txt) | текст | 1 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/492/text.txt) | текст | 1 KiB | в этой папке |
-| [zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/zatonsky_1929_uryvky.txt) | текст | 145 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html) | сохранённая страница | 2 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf) | PDF | 25 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt) | текст | 1 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt) | текст | 1 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt) | текст | 145 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -27,19 +27,19 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 page.pdf
-shasum -a 256 page_layer.txt
-shasum -a 256 text.txt
-shasum -a 256 zatonsky_1929_uryvky.txt
+shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html
+shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf
+shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt
+shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt
+shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `61fdeca8a2b1d19fba838e0b3a4bb3c1923858e118e4e20417cc3771b20b37d3` |
-| page.pdf | `3192e262e2769c85f55e1884a448f2a9fe153a04e83abbcb62654644c750579b` |
-| page_layer.txt | `22e0de5bd81a7d0d934e3fccdbfeca8962fbd234602655ea981102bde994a3bf` |
-| text.txt | `ad0be7ad8839395c95d1d6b7e24cd4a07049d216ecbaac1d4b57e30710f965d3` |
-| zatonsky_1929_uryvky.txt | `130aba1a050e286ab74ede2b4ae3c5edaeba0a0ea857e212fad1bc5fd09f622b` |
+| urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html | `61fdeca8a2b1d19fba838e0b3a4bb3c1923858e118e4e20417cc3771b20b37d3` |
+| urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf | `3192e262e2769c85f55e1884a448f2a9fe153a04e83abbcb62654644c750579b` |
+| urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt | `22e0de5bd81a7d0d934e3fccdbfeca8962fbd234602655ea981102bde994a3bf` |
+| urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt | `ad0be7ad8839395c95d1d6b7e24cd4a07049d216ecbaac1d4b57e30710f965d3` |
+| urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt | `130aba1a050e286ab74ede2b4ae3c5edaeba0a0ea857e212fad1bc5fd09f622b` |
 
 ---
 

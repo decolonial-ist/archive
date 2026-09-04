@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [yamamoto_katkov_nationalism.txt](https://github.com/decolonial-ist/archive/blob/main/208/yamamoto_katkov_nationalism.txt) | текст | 38 KiB | в этой папке |
-| [yamamoto_katkov_nationalism.pdf](https://github.com/decolonial-ist/archive/blob/main/208/yamamoto_katkov_nationalism.pdf) | PDF | 58 KiB | в этой папке |
+| [politicheskiy_nacionalizm_m_n_katkova_2018.txt](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.txt) | текст | 38 KiB | в этой папке |
+| [politicheskiy_nacionalizm_m_n_katkova_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.pdf) | PDF | 58 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 yamamoto_katkov_nationalism.txt
-shasum -a 256 yamamoto_katkov_nationalism.pdf
+shasum -a 256 politicheskiy_nacionalizm_m_n_katkova_2018.txt
+shasum -a 256 politicheskiy_nacionalizm_m_n_katkova_2018.pdf
 ```
 | файл | sha256 |
 |---|---|
-| yamamoto_katkov_nationalism.txt | `c6b9be953497f7382aad3a73dd5c8bdbf9facec249e640ab00d4a2bf0b355315` |
-| yamamoto_katkov_nationalism.pdf | `931f6ea2092dedc4b1545b0351467c02e5478b15a24052bbc82a59daf46803f1` |
+| politicheskiy_nacionalizm_m_n_katkova_2018.txt | `c6b9be953497f7382aad3a73dd5c8bdbf9facec249e640ab00d4a2bf0b355315` |
+| politicheskiy_nacionalizm_m_n_katkova_2018.pdf | `931f6ea2092dedc4b1545b0351467c02e5478b15a24052bbc82a59daf46803f1` |
 
 ---
 

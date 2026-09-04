@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/566/document.pdf) | PDF | 37 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/566/document.txt) | текст | 10 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/566/document_layer.txt) | текст | 11 KiB | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf) | PDF | 37 KiB | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt) | текст | 10 KiB | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt) | текст | 11 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf
+shasum -a 256 soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt
+shasum -a 256 soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `b84907a673ff786938a763ea4593b074ddba8a3687f5767ca047f7ce683896e4` |
-| document.txt | `47b325b535eae7be6ed3b602392d9bd434af10c10d01d80c905a95d3afa34038` |
-| document_layer.txt | `d276845dc61805c8e6f970e44887ba180bb28061c77b5961c0ee11c0ba163062` |
+| soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf | `b84907a673ff786938a763ea4593b074ddba8a3687f5767ca047f7ce683896e4` |
+| soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt | `47b325b535eae7be6ed3b602392d9bd434af10c10d01d80c905a95d3afa34038` |
+| soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt | `d276845dc61805c8e6f970e44887ba180bb28061c77b5961c0ee11c0ba163062` |
 
 ---
 

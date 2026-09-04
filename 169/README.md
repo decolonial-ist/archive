@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_krym_1954.txt](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_krym_1954.txt) | текст | 9 KiB | в этой папке |
-| [ukaz_krym_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_krym_1954.pdf) | PDF | 33 KiB | в этой папке |
+| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt) | текст | 9 KiB | в этой папке |
+| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf) | PDF | 33 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 ukaz_krym_1954.txt
-shasum -a 256 ukaz_krym_1954.pdf
+shasum -a 256 ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt
+shasum -a 256 ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf
 ```
 | файл | sha256 |
 |---|---|
-| ukaz_krym_1954.txt | `4f4f999a730664c362d0cc8208d14de72850e5aad5c11cab19926aac60252ba5` |
-| ukaz_krym_1954.pdf | `a74e02337c501c4a118b04249ea73e1cb0954cae23c177dcbf4948773b0b8313` |
+| ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt | `4f4f999a730664c362d0cc8208d14de72850e5aad5c11cab19926aac60252ba5` |
+| ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf | `a74e02337c501c4a118b04249ea73e1cb0954cae23c177dcbf4948773b0b8313` |
 
 ---
 

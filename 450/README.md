@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/450/page.html) | сохранённая страница | 41 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/450/text.txt) | текст | 3 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/450/page_layer.txt) | текст | 57 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/450/page.pdf) | PDF | 70 KiB | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.html](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.html) | сохранённая страница | 41 KiB | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt) | текст | 3 KiB | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt) | текст | 57 KiB | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf) | PDF | 70 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 kirilo_mefodiivske_tovaristvo_u_3_t_1990.html
+shasum -a 256 kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt
+shasum -a 256 kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt
+shasum -a 256 kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `924d93cdda0b7bf990ecf82172fb47fa41378c65910e18964da3c8c7a3cf78f2` |
-| text.txt | `d33ad137c8cc65c18c2d9b79029e41418254cdd09e42a9d00486426714429b8c` |
-| page_layer.txt | `979929dfa98f670298f52a60814adb5ebd1f9ea9faefc29f36b482e7e9e93b5c` |
-| page.pdf | `90f513ef1b9bf79db996ba2b67853ee17b48746ca154de51af1c014b1e0840ca` |
+| kirilo_mefodiivske_tovaristvo_u_3_t_1990.html | `924d93cdda0b7bf990ecf82172fb47fa41378c65910e18964da3c8c7a3cf78f2` |
+| kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt | `d33ad137c8cc65c18c2d9b79029e41418254cdd09e42a9d00486426714429b8c` |
+| kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt | `979929dfa98f670298f52a60814adb5ebd1f9ea9faefc29f36b482e7e9e93b5c` |
+| kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf | `90f513ef1b9bf79db996ba2b67853ee17b48746ca154de51af1c014b1e0840ca` |
 
 ---
 

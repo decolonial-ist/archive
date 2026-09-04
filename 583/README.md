@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/583/document.pdf) | PDF | 33 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/583/document.txt) | текст | 10 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/583/document_layer.txt) | текст | 9 KiB | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf) | PDF | 33 KiB | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt) | текст | 10 KiB | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt) | текст | 9 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf
+shasum -a 256 protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt
+shasum -a 256 protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `207e93f67044272432544022a7133c6fc67f1e06265b7dcf1d3b1821d2843611` |
-| document.txt | `79584a3639b9585201bf11316c7512d658da2f7df715319eb15ee5f452f27238` |
-| document_layer.txt | `5fd17e11e2137948dff9f15b2beeb6b2b9834b861883ae4461bb4ff3225e9118` |
+| protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf | `207e93f67044272432544022a7133c6fc67f1e06265b7dcf1d3b1821d2843611` |
+| protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt | `79584a3639b9585201bf11316c7512d658da2f7df715319eb15ee5f452f27238` |
+| protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt | `5fd17e11e2137948dff9f15b2beeb6b2b9834b861883ae4461bb4ff3225e9118` |
 
 ---
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/562/text.txt) | текст | 922 KiB | в этой папке |
-| [text.pdf](https://github.com/decolonial-ist/archive/blob/main/562/text.pdf) | PDF | 759 KiB | в этой папке |
+| [krasnyy_terror_v_rossii_1924.txt](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.txt) | текст | 922 KiB | в этой папке |
+| [krasnyy_terror_v_rossii_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf) | PDF | 759 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 text.txt
-shasum -a 256 text.pdf
+shasum -a 256 krasnyy_terror_v_rossii_1924.txt
+shasum -a 256 krasnyy_terror_v_rossii_1924.pdf
 ```
 | файл | sha256 |
 |---|---|
-| text.txt | `a3e7e090642412527448b7df772a7f167eb472cac78d912211146a1f453bf71e` |
-| text.pdf | `7c1c333818df335dcca57a4bcabdece49f385ca53a93d9bcf0f53e6c452cfc09` |
+| krasnyy_terror_v_rossii_1924.txt | `a3e7e090642412527448b7df772a7f167eb472cac78d912211146a1f453bf71e` |
+| krasnyy_terror_v_rossii_1924.pdf | `7c1c333818df335dcca57a4bcabdece49f385ca53a93d9bcf0f53e6c452cfc09` |
 
 ---
 

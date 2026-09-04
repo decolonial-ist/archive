@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.pdf](https://github.com/decolonial-ist/archive/blob/main/148/04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.pdf) | PDF | 41 KiB | в этой папке |
-| [04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.txt](https://github.com/decolonial-ist/archive/blob/main/148/04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.txt) | текст | 12 KiB | в этой папке |
-| [04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108_layer.txt](https://github.com/decolonial-ist/archive/blob/main/148/04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108_layer.txt) | текст | 12 KiB | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf) | PDF | 41 KiB | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt) | текст | 12 KiB | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt) | текст | 12 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.pdf
-shasum -a 256 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.txt
-shasum -a 256 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108_layer.txt
+shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf
+shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt
+shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.pdf | `cdf36c9bcea4e7405881d4acf62b54a6ab2a62ef14975266929de3a34d52f4c0` |
-| 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108.txt | `e9f0d97681e5b464f8a192a4cfd820f13b465d3b4b75fbd3567adf2b6f9372a9` |
-| 04_manifest_prisoedinenie_kryma_1783_pszri_xxi_15108_layer.txt | `345c4fe91a06f5c19e91fdd474460626ae63a1fe6fbc606752925dbd588f1c31` |
+| manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf | `cdf36c9bcea4e7405881d4acf62b54a6ab2a62ef14975266929de3a34d52f4c0` |
+| manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt | `e9f0d97681e5b464f8a192a4cfd820f13b465d3b4b75fbd3567adf2b6f9372a9` |
+| manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt | `345c4fe91a06f5c19e91fdd474460626ae63a1fe6fbc606752925dbd588f1c31` |
 
 ---
 

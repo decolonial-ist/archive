@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [tragedia_derevni_t3.pdf](https://github.com/decolonial-ist/archive/blob/main/461/tragedia_derevni_t3.pdf) | PDF | 5.4 MiB | в этой папке |
-| [tragedia_derevni_t3.txt](https://github.com/decolonial-ist/archive/blob/main/461/tragedia_derevni_t3.txt) | текст | 4.9 MiB | в этой папке |
+| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf) | PDF | 5.4 MiB | в этой папке |
+| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt) | текст | 4.9 MiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,13 +25,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 tragedia_derevni_t3.pdf
-shasum -a 256 tragedia_derevni_t3.txt
+shasum -a 256 o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf
+shasum -a 256 o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt
 ```
 | файл | sha256 |
 |---|---|
-| tragedia_derevni_t3.pdf | `df46676594dd7817e503e1d73d9f1fcd1177b0f0627534d7936e6b9f1ddc0710` |
-| tragedia_derevni_t3.txt | `27f50cbc08d19f0971bf10b06e30f90d58e8b9760c11db4dd87bd5101a451345` |
+| o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf | `df46676594dd7817e503e1d73d9f1fcd1177b0f0627534d7936e6b9f1ddc0710` |
+| o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt | `27f50cbc08d19f0971bf10b06e30f90d58e8b9760c11db4dd87bd5101a451345` |
 
 ---
 

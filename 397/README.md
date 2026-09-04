@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [xxi.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/397__xxi.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/397__imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,11 +23,11 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 xxi.pdf
+shasum -a 256 imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf
 ```
 | файл | sha256 |
 |---|---|
-| xxi.pdf | `651119a60cb965f51789a84f4b441a9801229c23a5dbd97cedec94d0b2bd0e0a` |
+| imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf | `651119a60cb965f51789a84f4b441a9801229c23a5dbd97cedec94d0b2bd0e0a` |
 
 ---
 

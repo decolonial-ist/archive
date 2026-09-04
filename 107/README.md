@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_10.md](https://github.com/decolonial-ist/archive/blob/main/107/akak_10.md) | текст | 7.7 MiB | в этой папке |
-| [akak_10.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akak_10.pdf) | PDF | 219.4 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md](https://github.com/decolonial-ist/archive/blob/main/107/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md) | текст | 7.7 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf) | PDF | 219.4 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_10.md
-shasum -a 256 akak_10.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_10.md | `9d7d27e171223f23456b1710d0f4a06cc8f54f4cd3d4264000a8bd094b8da429` |
-| akak_10.pdf | `b629449be9606b76b3d21a869346bbe82a0f1a5ce56e2bb69930a969a11f1f33` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md | `9d7d27e171223f23456b1710d0f4a06cc8f54f4cd3d4264000a8bd094b8da429` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf | `b629449be9606b76b3d21a869346bbe82a0f1a5ce56e2bb69930a969a11f1f33` |
 
 ---
 

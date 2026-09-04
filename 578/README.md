@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/578/document.pdf) | PDF | 28 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/578/document.txt) | текст | 2 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/578/document_layer.txt) | текст | 2 KiB | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf) | PDF | 28 KiB | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt) | текст | 2 KiB | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt) | текст | 2 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf
+shasum -a 256 postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt
+shasum -a 256 postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `e5280eae2c0b8901f7c1742ae7d7437bdc81adffa3f2c88a48feedb360aa3309` |
-| document.txt | `65de90f3595eabe3bb64908dc4789b8eafe80d2ac733947d1c01d68f1606d055` |
-| document_layer.txt | `ae89b8bd509dc0c23491ebe222cea7e648823e04a29d9e511f70d86e7ffed193` |
+| postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf | `e5280eae2c0b8901f7c1742ae7d7437bdc81adffa3f2c88a48feedb360aa3309` |
+| postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt | `65de90f3595eabe3bb64908dc4789b8eafe80d2ac733947d1c01d68f1606d055` |
+| postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt | `ae89b8bd509dc0c23491ebe222cea7e648823e04a29d9e511f70d86e7ffed193` |
 
 ---
 

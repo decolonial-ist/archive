@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [02_emsky_ukaz_1876_05_18.txt](https://github.com/decolonial-ist/archive/blob/main/153/02_emsky_ukaz_1876_05_18.txt) | текст | 10 KiB | в этой папке |
-| [02_emsky_ukaz_1876_05_18.pdf](https://github.com/decolonial-ist/archive/blob/main/153/02_emsky_ukaz_1876_05_18.pdf) | PDF | 32 KiB | в этой папке |
+| [emskiy_ukaz_1876.txt](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.txt) | текст | 10 KiB | в этой папке |
+| [emskiy_ukaz_1876.pdf](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf) | PDF | 32 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 02_emsky_ukaz_1876_05_18.txt
-shasum -a 256 02_emsky_ukaz_1876_05_18.pdf
+shasum -a 256 emskiy_ukaz_1876.txt
+shasum -a 256 emskiy_ukaz_1876.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 02_emsky_ukaz_1876_05_18.txt | `5f18c6b5f7dd9d7d03d51bd6589db134445a10659e4352d868f0a875e46cd3a3` |
-| 02_emsky_ukaz_1876_05_18.pdf | `19d05f1d356a0d1867370bdbde8042516e647ea588de6d3dc3321af67d86b7b3` |
+| emskiy_ukaz_1876.txt | `5f18c6b5f7dd9d7d03d51bd6589db134445a10659e4352d868f0a875e46cd3a3` |
+| emskiy_ukaz_1876.pdf | `19d05f1d356a0d1867370bdbde8042516e647ea588de6d3dc3321af67d86b7b3` |
 
 ---
 

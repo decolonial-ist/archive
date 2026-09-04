@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [un_coi_a_hrc_52_62.pdf](https://github.com/decolonial-ist/archive/blob/main/221/un_coi_a_hrc_52_62.pdf) | PDF | 284 KiB | в этой папке |
-| [un_coi_a_hrc_52_62.txt](https://github.com/decolonial-ist/archive/blob/main/221/un_coi_a_hrc_52_62.txt) | текст | 75 KiB | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf) | PDF | 284 KiB | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt) | текст | 75 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 un_coi_a_hrc_52_62.pdf
-shasum -a 256 un_coi_a_hrc_52_62.txt
+shasum -a 256 report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf
+shasum -a 256 report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt
 ```
 | файл | sha256 |
 |---|---|
-| un_coi_a_hrc_52_62.pdf | `397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a` |
-| un_coi_a_hrc_52_62.txt | `7b064435c8e57ee9170dc873cef78b883789de001a0309575f0ea3743c8672f3` |
+| report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf | `397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a` |
+| report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt | `7b064435c8e57ee9170dc873cef78b883789de001a0309575f0ea3743c8672f3` |
 
 ---
 

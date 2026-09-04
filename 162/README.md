@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/162/page.html) | сохранённая страница | 64 KiB | в этой папке |
-| [file.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/162__file.pdf) | PDF | 17.8 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [sbornik_gramot_1922_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_1922_ocr.txt) | текст | 1.9 MiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/162/text.txt) | текст | 12 KiB | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html) | сохранённая страница | 64 KiB | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/162__sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf) | PDF | 17.8 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt) | текст | 1.9 MiB | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt) | текст | 12 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,17 +25,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 file.pdf
-shasum -a 256 sbornik_gramot_1922_ocr.txt
-shasum -a 256 text.txt
+shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html
+shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf
+shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt
+shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `a73522f2d9f0c7b064097ec3df51e0cc3790a297df39f89546da6b666a8bd80c` |
-| file.pdf | `59e54f8a9e399ee053c412cd808cc50b35a8bb2a3abe5f37ee9100da865d3ffb` |
-| sbornik_gramot_1922_ocr.txt | `e6f868a57c8678c0e29c9f8b0ecc2315f3c4074e217b27533788621fe26f957c` |
-| text.txt | `92cdbf960a39fc660b48ea9a9e3b5e9c2e09e3fcf46ba5ece750420ee74a309d` |
+| sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html | `a73522f2d9f0c7b064097ec3df51e0cc3790a297df39f89546da6b666a8bd80c` |
+| sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf | `59e54f8a9e399ee053c412cd808cc50b35a8bb2a3abe5f37ee9100da865d3ffb` |
+| sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt | `e6f868a57c8678c0e29c9f8b0ecc2315f3c4074e217b27533788621fe26f957c` |
+| sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt | `92cdbf960a39fc660b48ea9a9e3b5e9c2e09e3fcf46ba5ece750420ee74a309d` |
 
 ---
 

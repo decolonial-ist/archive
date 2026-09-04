@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.txt](https://github.com/decolonial-ist/archive/blob/main/423/08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.txt) | текст | 21 KiB | в этой папке |
-| [08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.pdf](https://github.com/decolonial-ist/archive/blob/main/423/08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.pdf) | PDF | 51 KiB | в этой папке |
+| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt) | текст | 21 KiB | в этой папке |
+| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf) | PDF | 51 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,13 +25,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.txt
-shasum -a 256 08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.pdf
+shasum -a 256 ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt
+shasum -a 256 ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.txt | `eb46bb2ba27d321f729c78e20bd3ed21c6b4b6523c0860e965f31ad1ee6565dc` |
-| 08_postanovlenie_1938_obyazatelnoe_izuchenie_russkogo_yazyka.pdf | `83041e3dc79a2a2e57e926f91c20bd50c32d19e866d123ec0c1c3fe2a5746a35` |
+| ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt | `eb46bb2ba27d321f729c78e20bd3ed21c6b4b6523c0860e965f31ad1ee6565dc` |
+| ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf | `83041e3dc79a2a2e57e926f91c20bd50c32d19e866d123ec0c1c3fe2a5746a35` |
 
 ---
 

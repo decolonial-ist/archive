@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [esbe_malorusskoe_narechie_1896.pdf](https://github.com/decolonial-ist/archive/blob/main/157/esbe_malorusskoe_narechie_1896.pdf) | PDF | 26 KiB | в этой папке |
-| [esbe_malorusskoe_narechie_1896_wikitext_polnyy.pdf](https://github.com/decolonial-ist/archive/blob/main/157/esbe_malorusskoe_narechie_1896_wikitext_polnyy.pdf) | PDF | 56 KiB | в этой папке |
-| [esbe_malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/esbe_malorusskoe_narechie_1896.txt) | текст | 3 KiB | в этой папке |
-| [esbe_malorusskoe_narechie_1896_wikitext_polnyy.txt](https://github.com/decolonial-ist/archive/blob/main/157/esbe_malorusskoe_narechie_1896_wikitext_polnyy.txt) | текст | 24 KiB | в этой папке |
-| [esbe_malorusskoe_narechie_1896_wikitext_polnyy_layer.txt](https://github.com/decolonial-ist/archive/blob/main/157/esbe_malorusskoe_narechie_1896_wikitext_polnyy_layer.txt) | текст | 24 KiB | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf) | PDF | 26 KiB | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf) | PDF | 56 KiB | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt) | текст | 3 KiB | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt) | текст | 24 KiB | в этой папке |
+| [malorusskoe_narechie_1896_layer.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_layer.txt) | текст | 24 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -27,19 +27,19 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 esbe_malorusskoe_narechie_1896.pdf
-shasum -a 256 esbe_malorusskoe_narechie_1896_wikitext_polnyy.pdf
-shasum -a 256 esbe_malorusskoe_narechie_1896.txt
-shasum -a 256 esbe_malorusskoe_narechie_1896_wikitext_polnyy.txt
-shasum -a 256 esbe_malorusskoe_narechie_1896_wikitext_polnyy_layer.txt
+shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf
+shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf
+shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt
+shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt
+shasum -a 256 malorusskoe_narechie_1896_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| esbe_malorusskoe_narechie_1896.pdf | `cb76e6c9acf916464be8ad0b2fe84c912794b0f3695f1a70058780782150b42f` |
-| esbe_malorusskoe_narechie_1896_wikitext_polnyy.pdf | `6152b81ddab36256d7d4ae29b64460cdecb694122bde25c2c64dfd729bf4e29a` |
-| esbe_malorusskoe_narechie_1896.txt | `ffabf4ce60b9408694ba200060e830cc3f5b7d86f0314dd7669bf8235fdc58f0` |
-| esbe_malorusskoe_narechie_1896_wikitext_polnyy.txt | `011aef928201c8b695c6c979a3aa9fc66b75a19bb4b0e130bc67405bf4fe8650` |
-| esbe_malorusskoe_narechie_1896_wikitext_polnyy_layer.txt | `9e200d217e34cea56a9604ada6904f6b3b0c383d6d19799fd6fa1f59ed0b2be1` |
+| malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf | `cb76e6c9acf916464be8ad0b2fe84c912794b0f3695f1a70058780782150b42f` |
+| malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf | `6152b81ddab36256d7d4ae29b64460cdecb694122bde25c2c64dfd729bf4e29a` |
+| malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt | `ffabf4ce60b9408694ba200060e830cc3f5b7d86f0314dd7669bf8235fdc58f0` |
+| malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt | `011aef928201c8b695c6c979a3aa9fc66b75a19bb4b0e130bc67405bf4fe8650` |
+| malorusskoe_narechie_1896_layer.txt | `9e200d217e34cea56a9604ada6904f6b3b0c383d6d19799fd6fa1f59ed0b2be1` |
 
 ---
 

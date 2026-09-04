@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [lenin_pss_t50_pisma_mart_aprel_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/lenin_pss_t50_pisma_mart_aprel_1919.pdf) | PDF | 80 KiB | в этой папке |
-| [lenin_pss_t50_pisma_mart_aprel_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/576/lenin_pss_t50_pisma_mart_aprel_1919_layer.txt) | текст | 66 KiB | в этой папке |
-| [lenin_pss_t50_pisma_mart_aprel_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/lenin_pss_t50_pisma_mart_aprel_1919.txt) | текст | 65 KiB | в этой папке |
+| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 80 KiB | в этой папке |
+| [petrogradskim_organizaciyam_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919_layer.txt) | текст | 66 KiB | в этой папке |
+| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 65 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 lenin_pss_t50_pisma_mart_aprel_1919.pdf
-shasum -a 256 lenin_pss_t50_pisma_mart_aprel_1919_layer.txt
-shasum -a 256 lenin_pss_t50_pisma_mart_aprel_1919.txt
+shasum -a 256 petrogradskim_organizaciyam_1919.pdf
+shasum -a 256 petrogradskim_organizaciyam_1919_layer.txt
+shasum -a 256 petrogradskim_organizaciyam_1919.txt
 ```
 | файл | sha256 |
 |---|---|
-| lenin_pss_t50_pisma_mart_aprel_1919.pdf | `ae7d62a84f0ba210106ae05c8123e1d90475e19e444f8617b03acad71fc8153d` |
-| lenin_pss_t50_pisma_mart_aprel_1919_layer.txt | `130a69da3ba124f4545ee0737924dc0a0d09b1cbb4d838966ce86875cdbc7d9f` |
-| lenin_pss_t50_pisma_mart_aprel_1919.txt | `117d96d7e9625faf4353b326326e29ab46c27a6c9d00c497afd9baea0a5a10d2` |
+| petrogradskim_organizaciyam_1919.pdf | `ae7d62a84f0ba210106ae05c8123e1d90475e19e444f8617b03acad71fc8153d` |
+| petrogradskim_organizaciyam_1919_layer.txt | `130a69da3ba124f4545ee0737924dc0a0d09b1cbb4d838966ce86875cdbc7d9f` |
+| petrogradskim_organizaciyam_1919.txt | `117d96d7e9625faf4353b326326e29ab46c27a6c9d00c497afd9baea0a5a10d2` |
 
 ---
 

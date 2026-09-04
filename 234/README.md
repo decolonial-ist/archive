@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [svoboda_17122013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/svoboda_17122013.pdf) | PDF | 43 KiB | в этой папке |
-| [svoboda_17122013.html](https://github.com/decolonial-ist/archive/blob/main/234/svoboda_17122013.html) | сохранённая страница | 94 KiB | в этой папке |
-| [svoboda_17122013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/234/svoboda_17122013_layer.txt) | текст | 23 KiB | в этой папке |
-| [svoboda_17122013.txt](https://github.com/decolonial-ist/archive/blob/main/234/svoboda_17122013.txt) | текст | 18 KiB | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf) | PDF | 43 KiB | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html) | сохранённая страница | 94 KiB | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt) | текст | 23 KiB | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt) | текст | 18 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,17 +25,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 svoboda_17122013.pdf
-shasum -a 256 svoboda_17122013.html
-shasum -a 256 svoboda_17122013_layer.txt
-shasum -a 256 svoboda_17122013.txt
+shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf
+shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html
+shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt
+shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt
 ```
 | файл | sha256 |
 |---|---|
-| svoboda_17122013.pdf | `ebeebd528384e87a775c8563086a40b9be639296fb2dfd161ebd4174fde3a43c` |
-| svoboda_17122013.html | `a52252a21c8887bdc549d37302d95e247ee14204ac15f15f64bc7ecb0b906323` |
-| svoboda_17122013_layer.txt | `738daea6d9cbf961604acb411b491fa1ff3df76d9e98efbe46204a1485d3f263` |
-| svoboda_17122013.txt | `f65f75460cdb4858dd2d0de1a230cd6c1c2bc2cc9023b14e8c8c6510353822c8` |
+| viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf | `ebeebd528384e87a775c8563086a40b9be639296fb2dfd161ebd4174fde3a43c` |
+| viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html | `a52252a21c8887bdc549d37302d95e247ee14204ac15f15f64bc7ecb0b906323` |
+| viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt | `738daea6d9cbf961604acb411b491fa1ff3df76d9e98efbe46204a1485d3f263` |
+| viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt | `f65f75460cdb4858dd2d0de1a230cd6c1c2bc2cc9023b14e8c8c6510353822c8` |
 
 ---
 

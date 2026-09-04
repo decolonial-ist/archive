@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prlib_436361_layer.txt](https://github.com/decolonial-ist/archive/blob/main/407/prlib_436361_layer.txt) | текст | 8 KiB | в этой папке |
-| [prlib_436361.pdf](https://github.com/decolonial-ist/archive/blob/main/407/prlib_436361.pdf) | PDF | 35 KiB | в этой папке |
-| [prlib_436361.txt](https://github.com/decolonial-ist/archive/blob/main/407/prlib_436361.txt) | текст | 7 KiB | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt) | текст | 8 KiB | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf) | PDF | 35 KiB | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt) | текст | 7 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 prlib_436361_layer.txt
-shasum -a 256 prlib_436361.pdf
-shasum -a 256 prlib_436361.txt
+shasum -a 256 pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt
+shasum -a 256 pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf
+shasum -a 256 pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt
 ```
 | файл | sha256 |
 |---|---|
-| prlib_436361_layer.txt | `09aa320dab689acedfd8c7e450dc32e94ff2e38ff3cd2dbb393b161af2702d44` |
-| prlib_436361.pdf | `b4a5a4151133b9c70b2462a09735685881061ce1a02f6389f2a1fa089fb96699` |
-| prlib_436361.txt | `d3615626d21bf3329e195084ef69236932683a5892a33eb3ce0a53e783e71c9c` |
+| pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt | `09aa320dab689acedfd8c7e450dc32e94ff2e38ff3cd2dbb393b161af2702d44` |
+| pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf | `b4a5a4151133b9c70b2462a09735685881061ce1a02f6389f2a1fa089fb96699` |
+| pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt | `d3615626d21bf3329e195084ef69236932683a5892a33eb3ce0a53e783e71c9c` |
 
 ---
 

@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03_layer.txt](https://github.com/decolonial-ist/archive/blob/main/147/05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03_layer.txt) | текст | 14 KiB | в этой папке |
-| [05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.txt](https://github.com/decolonial-ist/archive/blob/main/147/05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.txt) | текст | 13 KiB | в этой папке |
-| [05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.pdf](https://github.com/decolonial-ist/archive/blob/main/147/05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.pdf) | PDF | 41 KiB | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt) | текст | 14 KiB | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt) | текст | 13 KiB | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf) | PDF | 41 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03_layer.txt
-shasum -a 256 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.txt
-shasum -a 256 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.pdf
+shasum -a 256 manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt
+shasum -a 256 manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt
+shasum -a 256 manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03_layer.txt | `c8575e0eea7d534c876aac0a0054ef6c02e78bc7d544f048eaf8a131304070bd` |
-| 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.txt | `a3a74e98122e2cd745bb6771450a8f0100e029eb51c352e745eea617ef8f6636` |
-| 05_manifest_unichtozhenie_zaporozhskoy_sechi_1775_08_03.pdf | `30d408d2999dd4a790749a84d03ba8dbcd8cd92803957c8d66217ed873ee8c35` |
+| manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt | `c8575e0eea7d534c876aac0a0054ef6c02e78bc7d544f048eaf8a131304070bd` |
+| manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt | `a3a74e98122e2cd745bb6771450a8f0100e029eb51c352e745eea617ef8f6636` |
+| manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf | `30d408d2999dd4a790749a84d03ba8dbcd8cd92803957c8d66217ed873ee8c35` |
 
 ---
 

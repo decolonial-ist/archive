@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [z_arkhiviv_vuchk_2013_1_2_40_41.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/564__z_arkhiviv_vuchk_2013_1_2_40_41.pdf) | PDF | 11.8 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt](https://github.com/decolonial-ist/archive/blob/main/564/z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt) | текст | 235 KiB | в этой папке |
-| [podkur_article_pp7_31_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/564/podkur_article_pp7_31_ocr.txt) | текст | 175 KiB | в этой папке |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/564__f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf) | PDF | 11.8 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt) | текст | 235 KiB | в этой папке |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt) | текст | 175 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,15 +26,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 z_arkhiviv_vuchk_2013_1_2_40_41.pdf
-shasum -a 256 z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt
-shasum -a 256 podkur_article_pp7_31_ocr.txt
+shasum -a 256 f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf
+shasum -a 256 f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt
+shasum -a 256 f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt
 ```
 | файл | sha256 |
 |---|---|
-| z_arkhiviv_vuchk_2013_1_2_40_41.pdf | `e56ea027f7d63ecac54866d45e12fefb573086e55fd6bd9bf8a72f92907e1b49` |
-| z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt | `57438c01fbcdff21ce90735e91acabba4d90826faefd10f6151ed1fe2a5ae5b6` |
-| podkur_article_pp7_31_ocr.txt | `7cb4177b8c7b888137a2f23284d74a694f081527006605ac429d97bae2a5b6fc` |
+| f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf | `e56ea027f7d63ecac54866d45e12fefb573086e55fd6bd9bf8a72f92907e1b49` |
+| f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt | `57438c01fbcdff21ce90735e91acabba4d90826faefd10f6151ed1fe2a5ae5b6` |
+| f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt | `7cb4177b8c7b888137a2f23284d74a694f081527006605ac429d97bae2a5b6fc` |
 
 ---
 

@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kievstarina_1905_10.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievstarina_1905_10.txt) | текст | 606 KiB | в этой папке |
-| [kievstarina_1905_10_layer.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievstarina_1905_10_layer.txt) | текст | 614 KiB | в этой папке |
-| [kievstarina_1905_10.pdf](https://github.com/decolonial-ist/archive/blob/main/158/kievstarina_1905_10.pdf) | PDF | 549 KiB | в этой папке |
+| [kievskaya_starina_no_10_1905.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.txt) | текст | 606 KiB | в этой папке |
+| [kievskaya_starina_no_10_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905_layer.txt) | текст | 614 KiB | в этой папке |
+| [kievskaya_starina_no_10_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.pdf) | PDF | 549 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 kievstarina_1905_10.txt
-shasum -a 256 kievstarina_1905_10_layer.txt
-shasum -a 256 kievstarina_1905_10.pdf
+shasum -a 256 kievskaya_starina_no_10_1905.txt
+shasum -a 256 kievskaya_starina_no_10_1905_layer.txt
+shasum -a 256 kievskaya_starina_no_10_1905.pdf
 ```
 | файл | sha256 |
 |---|---|
-| kievstarina_1905_10.txt | `6ffc51197dfd80a45488384c6626fce591869de0b3e7f76d58d77a43276514a9` |
-| kievstarina_1905_10_layer.txt | `36bbd1dcb15369aed71d200c10fcef9358ca8513da2e7879efa7fcddcb00c403` |
-| kievstarina_1905_10.pdf | `d2c6086bfab415267982139c5a89432a89f3368e8f4011bd7fd77a11d7b8e11b` |
+| kievskaya_starina_no_10_1905.txt | `6ffc51197dfd80a45488384c6626fce591869de0b3e7f76d58d77a43276514a9` |
+| kievskaya_starina_no_10_1905_layer.txt | `36bbd1dcb15369aed71d200c10fcef9358ca8513da2e7879efa7fcddcb00c403` |
+| kievskaya_starina_no_10_1905.pdf | `d2c6086bfab415267982139c5a89432a89f3368e8f4011bd7fd77a11d7b8e11b` |
 
 ---
 

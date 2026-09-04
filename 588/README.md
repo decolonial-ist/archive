@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/588/document.pdf) | PDF | 27 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/588/document.txt) | текст | 2 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/588/document_layer.txt) | текст | 2 KiB | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf) | PDF | 27 KiB | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt) | текст | 2 KiB | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt) | текст | 2 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf
+shasum -a 256 soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt
+shasum -a 256 soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `654b658caadc303d6a8a700ba4a2fa2718ed5e11279e8ecb3958313392fa88c7` |
-| document.txt | `e92412cf54e0d2265e55bf38dbf2a0597d3ee1c460eb19925ee4d6df5c0db9d7` |
-| document_layer.txt | `158577eeaa9186bf1c9c0b88ff382b5e6321483d494b7cb11e0a3288ce72f44c` |
+| soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf | `654b658caadc303d6a8a700ba4a2fa2718ed5e11279e8ecb3958313392fa88c7` |
+| soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt | `e92412cf54e0d2265e55bf38dbf2a0597d3ee1c460eb19925ee4d6df5c0db9d7` |
+| soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt | `158577eeaa9186bf1c9c0b88ff382b5e6321483d494b7cb11e0a3288ce72f44c` |
 
 ---
 

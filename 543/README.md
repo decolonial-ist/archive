@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/543/page.html) | сохранённая страница | 20 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/543/page_layer.txt) | текст | 3 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/543/page.pdf) | PDF | 28 KiB | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html) | сохранённая страница | 20 KiB | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt) | текст | 3 KiB | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf) | PDF | 28 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html
+shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt
+shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `c3a9096ea1498f3a977069c2886117f5f24fddacb4932a968d3915a55e3cb3ed` |
-| page_layer.txt | `24e026455c81bd06ed13d626ecabdc562417c5b4d13084a97e656c49f073e30f` |
-| page.pdf | `de69402cb596669f612942a256addeba053aab6322218561e632f5783773a7ec` |
+| tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html | `c3a9096ea1498f3a977069c2886117f5f24fddacb4932a968d3915a55e3cb3ed` |
+| tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt | `24e026455c81bd06ed13d626ecabdc562417c5b4d13084a97e656c49f073e30f` |
+| tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf | `de69402cb596669f612942a256addeba053aab6322218561e632f5783773a7ec` |
 
 ---
 

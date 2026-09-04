@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/260/page.html) | сохранённая страница | 109 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/260/text.txt) | текст | 47 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/260/page_layer.txt) | текст | 49 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/260/page.pdf) | PDF | 73 KiB | в этой папке |
+| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html) | сохранённая страница | 109 KiB | в этой папке |
+| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt) | текст | 47 KiB | в этой папке |
+| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024_layer.txt](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024_layer.txt) | текст | 49 KiB | в этой папке |
+| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf) | PDF | 73 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html
+shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt
+shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024_layer.txt
+shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `7fe8d8dc8e8e7d1222674b73de49931da3e66cea2fb6cea2053fe6b2957931c8` |
-| text.txt | `0f909930041bbcd46abd27d967dbe8d6240d84883d351960aa43813de762c924` |
-| page_layer.txt | `ddbcca6224345173ec3f036409e805289796862f438d2807b519616ba58b4962` |
-| page.pdf | `5399f6726817249430a3afbc809aee12ba4a37cec75a194b038d41b0110ee9bb` |
+| iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html | `7fe8d8dc8e8e7d1222674b73de49931da3e66cea2fb6cea2053fe6b2957931c8` |
+| iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt | `0f909930041bbcd46abd27d967dbe8d6240d84883d351960aa43813de762c924` |
+| iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024_layer.txt | `ddbcca6224345173ec3f036409e805289796862f438d2807b519616ba58b4962` |
+| iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf | `5399f6726817249430a3afbc809aee12ba4a37cec75a194b038d41b0110ee9bb` |
 
 ---
 

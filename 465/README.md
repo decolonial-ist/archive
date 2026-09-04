@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nkvd_00485_1937.html](https://github.com/decolonial-ist/archive/blob/main/465/nkvd_00485_1937.html) | сохранённая страница | 79 KiB | в этой папке |
-| [nkvd_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/nkvd_00485_1937.pdf) | PDF | 36 KiB | в этой папке |
-| [nkvd_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/nkvd_00485_1937.txt) | текст | 13 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.html](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.html) | сохранённая страница | 79 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf) | PDF | 36 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt) | текст | 13 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 nkvd_00485_1937.html
-shasum -a 256 nkvd_00485_1937.pdf
-shasum -a 256 nkvd_00485_1937.txt
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00485_1937.html
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf
+shasum -a 256 operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt
 ```
 | файл | sha256 |
 |---|---|
-| nkvd_00485_1937.html | `e1dbdf0220a13a8bfa6982d0f0d8c2ecb8cf97c3ed79be6999ecfd9b43ccee80` |
-| nkvd_00485_1937.pdf | `2650106128758d078c68dc9527baac292b040d647aed8372909df890cf5ff702` |
-| nkvd_00485_1937.txt | `770275078ac0be55e7670c0fde8f39509650bb1f10b5d03b9f48b001e94f9a99` |
+| operativnyy_prikaz_nkvd_sssr_no_00485_1937.html | `e1dbdf0220a13a8bfa6982d0f0d8c2ecb8cf97c3ed79be6999ecfd9b43ccee80` |
+| operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf | `2650106128758d078c68dc9527baac292b040d647aed8372909df890cf5ff702` |
+| operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt | `770275078ac0be55e7670c0fde8f39509650bb1f10b5d03b9f48b001e94f9a99` |
 
 ---
 

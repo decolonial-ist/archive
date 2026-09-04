@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rezolyutsiya_samoopredelenie_1917.txt](https://github.com/decolonial-ist/archive/blob/main/490/rezolyutsiya_samoopredelenie_1917.txt) | текст | 8 KiB | в этой папке |
-| [rezolyutsiya_samoopredelenie_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyutsiya_samoopredelenie_1917.pdf) | PDF | 34 KiB | в этой папке |
+| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt) | текст | 8 KiB | в этой папке |
+| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf) | PDF | 34 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 rezolyutsiya_samoopredelenie_1917.txt
-shasum -a 256 rezolyutsiya_samoopredelenie_1917.pdf
+shasum -a 256 rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt
+shasum -a 256 rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf
 ```
 | файл | sha256 |
 |---|---|
-| rezolyutsiya_samoopredelenie_1917.txt | `4b388b7e0178d8e1ee322e2c0b4102749dfb92831feaf8d32e16fc91113d9053` |
-| rezolyutsiya_samoopredelenie_1917.pdf | `1491db459833296173b8ad7f89fd3f419c5d8c171f8da76bfdf24add47d18e5f` |
+| rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt | `4b388b7e0178d8e1ee322e2c0b4102749dfb92831feaf8d32e16fc91113d9053` |
+| rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf | `1491db459833296173b8ad7f89fd3f419c5d8c171f8da76bfdf24add47d18e5f` |
 
 ---
 

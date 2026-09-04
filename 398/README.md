@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [06_konotopskie_stati_1672_sggd_ch4_no80.txt](https://github.com/decolonial-ist/archive/blob/main/398/06_konotopskie_stati_1672_sggd_ch4_no80.txt) | текст | 9 KiB | в этой папке |
-| [06_konotopskie_stati_1672_sggd_ch4_no80.pdf](https://github.com/decolonial-ist/archive/blob/main/398/06_konotopskie_stati_1672_sggd_ch4_no80.pdf) | PDF | 37 KiB | в этой папке |
+| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt) | текст | 9 KiB | в этой папке |
+| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf) | PDF | 37 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 06_konotopskie_stati_1672_sggd_ch4_no80.txt
-shasum -a 256 06_konotopskie_stati_1672_sggd_ch4_no80.pdf
+shasum -a 256 sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt
+shasum -a 256 sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 06_konotopskie_stati_1672_sggd_ch4_no80.txt | `4cb429ec4c9df0ecd38813a61e95d20dd69fe6898447aac7b4e001317dabd29e` |
-| 06_konotopskie_stati_1672_sggd_ch4_no80.pdf | `fb40e312535b26377cfeef37e46cbbcea61cbb14dd2f61472f77d18aa65acce9` |
+| sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt | `4cb429ec4c9df0ecd38813a61e95d20dd69fe6898447aac7b4e001317dabd29e` |
+| sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf | `fb40e312535b26377cfeef37e46cbbcea61cbb14dd2f61472f77d18aa65acce9` |
 
 ---
 

@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/141/page.html) | сохранённая страница | 27 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/141/text.txt) | текст | 6 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/141/page.pdf) | PDF | 31 KiB | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html) | сохранённая страница | 27 KiB | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt) | текст | 6 KiB | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf) | PDF | 31 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,15 +24,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page.pdf
+shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html
+shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt
+shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `9da3b969e60e7abc2abfca6af185204f6aa5a7b45de745b75b73efbc91ec690a` |
-| text.txt | `36d72934a7d5e86b058263a75c7cb85aec82c9468a6da7a4de85cea94442daa1` |
-| page.pdf | `d2638643253b91da6394e04d42969cd5e29a9e6858e6fa6a686e89d9e86e88a7` |
+| terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html | `9da3b969e60e7abc2abfca6af185204f6aa5a7b45de745b75b73efbc91ec690a` |
+| terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt | `36d72934a7d5e86b058263a75c7cb85aec82c9468a6da7a4de85cea94442daa1` |
+| terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf | `d2638643253b91da6394e04d42969cd5e29a9e6858e6fa6a686e89d9e86e88a7` |
 
 ---
 

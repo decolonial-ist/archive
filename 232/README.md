@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [khpg_ovsienko_interview.pdf](https://github.com/decolonial-ist/archive/blob/main/232/khpg_ovsienko_interview.pdf) | PDF | 509 KiB | в этой папке |
-| [khpg_ovsienko_interview.html](https://github.com/decolonial-ist/archive/blob/main/232/khpg_ovsienko_interview.html) | сохранённая страница | 580 KiB | в этой папке |
-| [khpg_ovsienko_interview_layer.txt](https://github.com/decolonial-ist/archive/blob/main/232/khpg_ovsienko_interview_layer.txt) | текст | 578 KiB | в этой папке |
-| [khpg_ovsienko_interview.txt](https://github.com/decolonial-ist/archive/blob/main/232/khpg_ovsienko_interview.txt) | текст | 563 KiB | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf) | PDF | 509 KiB | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html) | сохранённая страница | 580 KiB | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt) | текст | 578 KiB | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt) | текст | 563 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 khpg_ovsienko_interview.pdf
-shasum -a 256 khpg_ovsienko_interview.html
-shasum -a 256 khpg_ovsienko_interview_layer.txt
-shasum -a 256 khpg_ovsienko_interview.txt
+shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf
+shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html
+shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt
+shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt
 ```
 | файл | sha256 |
 |---|---|
-| khpg_ovsienko_interview.pdf | `c56b2261763b1de1314dd9aa03f9bd028a22e170f598a348a079bcb2f6c482b3` |
-| khpg_ovsienko_interview.html | `bc0aa1ec928e63f569862768b49f1a705da43e1e9fdefc3ff716411377815b2d` |
-| khpg_ovsienko_interview_layer.txt | `e805138251c7cb865bac8b064b396eaa8f1422738ddfa485a3c901e88283b485` |
-| khpg_ovsienko_interview.txt | `fb0b13572f1f1bebd78e42b97550ee76d20b3557ab422e08b82922f570808e79` |
+| interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf | `c56b2261763b1de1314dd9aa03f9bd028a22e170f598a348a079bcb2f6c482b3` |
+| interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html | `bc0aa1ec928e63f569862768b49f1a705da43e1e9fdefc3ff716411377815b2d` |
+| interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt | `e805138251c7cb865bac8b064b396eaa8f1422738ddfa485a3c901e88283b485` |
+| interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt | `fb0b13572f1f1bebd78e42b97550ee76d20b3557ab422e08b82922f570808e79` |
 
 ---
 

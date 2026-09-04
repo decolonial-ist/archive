@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [radiosvoboda_kherson_museums_looting.html](https://github.com/decolonial-ist/archive/blob/main/525/radiosvoboda_kherson_museums_looting.html) | сохранённая страница | 119 KiB | в этой папке |
-| [radiosvoboda_kherson_museums_looting_layer.txt](https://github.com/decolonial-ist/archive/blob/main/525/radiosvoboda_kherson_museums_looting_layer.txt) | текст | 17 KiB | в этой папке |
-| [radiosvoboda_kherson_museums_looting.pdf](https://github.com/decolonial-ist/archive/blob/main/525/radiosvoboda_kherson_museums_looting.pdf) | PDF | 43 KiB | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html) | сохранённая страница | 119 KiB | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt) | текст | 17 KiB | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf) | PDF | 43 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 radiosvoboda_kherson_museums_looting.html
-shasum -a 256 radiosvoboda_kherson_museums_looting_layer.txt
-shasum -a 256 radiosvoboda_kherson_museums_looting.pdf
+shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html
+shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt
+shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf
 ```
 | файл | sha256 |
 |---|---|
-| radiosvoboda_kherson_museums_looting.html | `8bbeaa60307ff5cfc7632de65f019affe1f38c5346f286ddbf367f76df4d1ea9` |
-| radiosvoboda_kherson_museums_looting_layer.txt | `6e25e01c6838e8c4d52020ba5124bda165381570d3ab7f4b974274ddb5fe5dde` |
-| radiosvoboda_kherson_museums_looting.pdf | `64836cf35e7b7525d892aa49d779eee19268c623bf8d4f2a2531dac8dc7af587` |
+| vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html | `8bbeaa60307ff5cfc7632de65f019affe1f38c5346f286ddbf367f76df4d1ea9` |
+| vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt | `6e25e01c6838e8c4d52020ba5124bda165381570d3ab7f4b974274ddb5fe5dde` |
+| vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf | `64836cf35e7b7525d892aa49d779eee19268c623bf8d4f2a2531dac8dc7af587` |
 
 ---
 

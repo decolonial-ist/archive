@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [severnyi_kavkaz_1936_no23_full_ocr_layer.txt](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr_layer.txt) | текст | 300 KiB | в этой папке |
-| [severnyi_kavkaz_1936_no23_full_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr.txt) | текст | 296 KiB | в этой папке |
-| [severnyi_kavkaz_1936_no23_full_ocr.pdf](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr.pdf) | PDF | 322 KiB | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt) | текст | 300 KiB | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt) | текст | 296 KiB | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf) | PDF | 322 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr_layer.txt
-shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr.txt
-shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr.pdf
+shasum -a 256 kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt
+shasum -a 256 kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt
+shasum -a 256 kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf
 ```
 | файл | sha256 |
 |---|---|
-| severnyi_kavkaz_1936_no23_full_ocr_layer.txt | `f9d1456e670e5a38b2c9b3d194764916924d314c015cef8f9e8555c74b299dea` |
-| severnyi_kavkaz_1936_no23_full_ocr.txt | `78de8958d22d61f6a9cf2917fdc17da769b50f46eaabcaacefebafef98acc606` |
-| severnyi_kavkaz_1936_no23_full_ocr.pdf | `b0a26a6091a251d474965583bd0c4b62bdc95a5f78cd21f3fb82ce0ddcf9c1d7` |
+| kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt | `f9d1456e670e5a38b2c9b3d194764916924d314c015cef8f9e8555c74b299dea` |
+| kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt | `78de8958d22d61f6a9cf2917fdc17da769b50f46eaabcaacefebafef98acc606` |
+| kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf | `b0a26a6091a251d474965583bd0c4b62bdc95a5f78cd21f3fb82ce0ddcf9c1d7` |
 
 ---
 

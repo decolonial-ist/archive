@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [08_ukaz_petra_i_1720_10_05_pechat_excerpt_layer.txt](https://github.com/decolonial-ist/archive/blob/main/143/08_ukaz_petra_i_1720_10_05_pechat_excerpt_layer.txt) | текст | 4 KiB | в этой папке |
-| [08_ukaz_petra_i_1720_10_05_pechat_excerpt.txt](https://github.com/decolonial-ist/archive/blob/main/143/08_ukaz_petra_i_1720_10_05_pechat_excerpt.txt) | текст | 4 KiB | в этой папке |
-| [08_ukaz_petra_i_1720_10_05_pechat_excerpt.pdf](https://github.com/decolonial-ist/archive/blob/main/143/08_ukaz_petra_i_1720_10_05_pechat_excerpt.pdf) | PDF | 28 KiB | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720_layer.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720_layer.txt) | текст | 4 KiB | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.txt) | текст | 4 KiB | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720.pdf](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf) | PDF | 28 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 08_ukaz_petra_i_1720_10_05_pechat_excerpt_layer.txt
-shasum -a 256 08_ukaz_petra_i_1720_10_05_pechat_excerpt.txt
-shasum -a 256 08_ukaz_petra_i_1720_10_05_pechat_excerpt.pdf
+shasum -a 256 ukaz_petra_i_o_knigopechatanii_1720_layer.txt
+shasum -a 256 ukaz_petra_i_o_knigopechatanii_1720.txt
+shasum -a 256 ukaz_petra_i_o_knigopechatanii_1720.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 08_ukaz_petra_i_1720_10_05_pechat_excerpt_layer.txt | `96c26d8290aaaf78260be0a2246093c581db275e17b051087f6c892846fa8df3` |
-| 08_ukaz_petra_i_1720_10_05_pechat_excerpt.txt | `73aa6f9763ef84965084bd1099ac0ad2132599fa6d16751f291cf3351caa739e` |
-| 08_ukaz_petra_i_1720_10_05_pechat_excerpt.pdf | `28cdf3d9edd03357e36f925fa539200e5bce95772920fca14c05006a47d9a700` |
+| ukaz_petra_i_o_knigopechatanii_1720_layer.txt | `96c26d8290aaaf78260be0a2246093c581db275e17b051087f6c892846fa8df3` |
+| ukaz_petra_i_o_knigopechatanii_1720.txt | `73aa6f9763ef84965084bd1099ac0ad2132599fa6d16751f291cf3351caa739e` |
+| ukaz_petra_i_o_knigopechatanii_1720.pdf | `28cdf3d9edd03357e36f925fa539200e5bce95772920fca14c05006a47d9a700` |
 
 ---
 

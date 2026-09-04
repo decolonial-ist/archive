@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [page.html](https://github.com/decolonial-ist/archive/blob/main/414/page.html) | сохранённая страница | 162 KiB | в этой папке |
-| [text.txt](https://github.com/decolonial-ist/archive/blob/main/414/text.txt) | текст | 5 KiB | в этой папке |
-| [page_layer.txt](https://github.com/decolonial-ist/archive/blob/main/414/page_layer.txt) | текст | 7 KiB | в этой папке |
-| [page.pdf](https://github.com/decolonial-ist/archive/blob/main/414/page.pdf) | PDF | 116 KiB | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html) | сохранённая страница | 162 KiB | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt) | текст | 5 KiB | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt) | текст | 7 KiB | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf) | PDF | 116 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,17 +26,17 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 page.html
-shasum -a 256 text.txt
-shasum -a 256 page_layer.txt
-shasum -a 256 page.pdf
+shasum -a 256 pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html
+shasum -a 256 pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt
+shasum -a 256 pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt
+shasum -a 256 pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf
 ```
 | файл | sha256 |
 |---|---|
-| page.html | `791824730659163b261887156b27e8525b99bf01d8fcaf194153ff18c37586f5` |
-| text.txt | `ce392fd3ff0bd9ca041b753027190d63328f72f09d647144d55cbd3fd6f7cf14` |
-| page_layer.txt | `ba998320a0339558e1898e0593886bdf946678e69a497aed24e2e4dbe35cb888` |
-| page.pdf | `8d8fa026a21a15bfe4315cdfe29262fceb9c57e935f705298b01db37964925d6` |
+| pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html | `791824730659163b261887156b27e8525b99bf01d8fcaf194153ff18c37586f5` |
+| pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt | `ce392fd3ff0bd9ca041b753027190d63328f72f09d647144d55cbd3fd6f7cf14` |
+| pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt | `ba998320a0339558e1898e0593886bdf946678e69a497aed24e2e4dbe35cb888` |
+| pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf | `8d8fa026a21a15bfe4315cdfe29262fceb9c57e935f705298b01db37964925d6` |
 
 ---
 

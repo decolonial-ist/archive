@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [xvi.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/395__xvi.pdf) | PDF | 60.6 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/395__vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf) | PDF | 60.6 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,11 +23,11 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 xvi.pdf
+shasum -a 256 vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf
 ```
 | файл | sha256 |
 |---|---|
-| xvi.pdf | `302f4fea075c93c2ef49599e8b5c9d867cd07c7e5e1e75d81b21ca792348aed5` |
+| vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf | `302f4fea075c93c2ef49599e8b5c9d867cd07c7e5e1e75d81b21ca792348aed5` |
 
 ---
 

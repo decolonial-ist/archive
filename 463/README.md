@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [programma_kpss_1961.txt](https://github.com/decolonial-ist/archive/blob/main/463/programma_kpss_1961.txt) | текст | 483 KiB | в этой папке |
-| [programma_kpss_1961.pdf](https://github.com/decolonial-ist/archive/blob/main/463/programma_kpss_1961.pdf) | PDF | 359 KiB | в этой папке |
+| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt) | текст | 483 KiB | в этой папке |
+| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf) | PDF | 359 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 programma_kpss_1961.txt
-shasum -a 256 programma_kpss_1961.pdf
+shasum -a 256 programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt
+shasum -a 256 programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf
 ```
 | файл | sha256 |
 |---|---|
-| programma_kpss_1961.txt | `95c5037b082c2d6ff4d2b54f6624826b335201b604515b9503400815f6822c41` |
-| programma_kpss_1961.pdf | `da251db9be46cf3b28a004266909473f5447042217fec965c4878a8c311bf700` |
+| programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt | `95c5037b082c2d6ff4d2b54f6624826b335201b604515b9503400815f6822c41` |
+| programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf | `da251db9be46cf3b28a004266909473f5447042217fec965c4878a8c311bf700` |
 
 ---
 

@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_5.md](https://github.com/decolonial-ist/archive/blob/main/101/akak_5.md) | текст | 8.8 MiB | в этой папке |
-| [akak_5.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akak_5.pdf) | PDF | 140.5 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md](https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md) | текст | 8.8 MiB | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf) | PDF | 140.5 MiB | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 
@@ -23,13 +23,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_5.md
-shasum -a 256 akak_5.pdf
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md
+shasum -a 256 akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_5.md | `5ca5cc3a4d82e598dded36102a641ecd5587726192cb34fae33ac1b04544d0e6` |
-| akak_5.pdf | `b8b77e78c0f055b6a5198842716e8eed1dfca3e3c801c21a8ad81461a0b68eec` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md | `5ca5cc3a4d82e598dded36102a641ecd5587726192cb34fae33ac1b04544d0e6` |
+| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf | `b8b77e78c0f055b6a5198842716e8eed1dfca3e3c801c21a8ad81461a0b68eec` |
 
 ---
 

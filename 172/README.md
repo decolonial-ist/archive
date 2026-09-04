@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [14_postanovlenie_snd_sssr_1989_12_24.txt](https://github.com/decolonial-ist/archive/blob/main/172/14_postanovlenie_snd_sssr_1989_12_24.txt) | текст | 9 KiB | в этой папке |
-| [14_postanovlenie_snd_sssr_1989_12_24.pdf](https://github.com/decolonial-ist/archive/blob/main/172/14_postanovlenie_snd_sssr_1989_12_24.pdf) | PDF | 33 KiB | в этой папке |
+| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt) | текст | 9 KiB | в этой папке |
+| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf) | PDF | 33 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,13 +24,13 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 14_postanovlenie_snd_sssr_1989_12_24.txt
-shasum -a 256 14_postanovlenie_snd_sssr_1989_12_24.pdf
+shasum -a 256 postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt
+shasum -a 256 postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf
 ```
 | файл | sha256 |
 |---|---|
-| 14_postanovlenie_snd_sssr_1989_12_24.txt | `6cc44b76d4135c14d42941887e4944302e2e873b645c12ecc3367afb3f502ba5` |
-| 14_postanovlenie_snd_sssr_1989_12_24.pdf | `305b1367a3697fa371e3f583f35b250a177102ff6207f7aa318d27711b0c6486` |
+| postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt | `6cc44b76d4135c14d42941887e4944302e2e873b645c12ecc3367afb3f502ba5` |
+| postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf | `305b1367a3697fa371e3f583f35b250a177102ff6207f7aa318d27711b0c6486` |
 
 ---
 

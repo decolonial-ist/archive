@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/596/document.txt) | текст | 2 KiB | в этой папке |
+| [telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt](https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt) | текст | 2 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -23,11 +23,11 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.txt
+shasum -a 256 telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.txt | `5fbc114c51ffa2acc943677182bb046f98f8e6b6bd1c061ac24236901fa50bf1` |
+| telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt | `5fbc114c51ffa2acc943677182bb046f98f8e6b6bd1c061ac24236901fa50bf1` |
 
 ---
 

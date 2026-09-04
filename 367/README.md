@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nakaz_mkt_58_2010.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_mkt_58_2010.txt) | текст | 168 KiB | в этой папке |
-| [nakaz_mkt_58_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_mkt_58_2010.pdf) | PDF | 954 KiB | в этой папке |
-| [nakaz_mkt_58_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_mkt_58_2010_layer.txt) | текст | 168 KiB | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt) | текст | 168 KiB | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf) | PDF | 954 KiB | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt) | текст | 168 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,15 +25,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 nakaz_mkt_58_2010.txt
-shasum -a 256 nakaz_mkt_58_2010.pdf
-shasum -a 256 nakaz_mkt_58_2010_layer.txt
+shasum -a 256 nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt
+shasum -a 256 nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf
+shasum -a 256 nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| nakaz_mkt_58_2010.txt | `552d0ad8c1a159817ffa7d15efd75cd8b12e74c7aaf8abe699aae843b170459d` |
-| nakaz_mkt_58_2010.pdf | `a235f5ab86954e9a763e5bb40c5d7b57cf354be98576ebd9023aca52050a26ae` |
-| nakaz_mkt_58_2010_layer.txt | `552d0ad8c1a159817ffa7d15efd75cd8b12e74c7aaf8abe699aae843b170459d` |
+| nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt | `552d0ad8c1a159817ffa7d15efd75cd8b12e74c7aaf8abe699aae843b170459d` |
+| nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf | `a235f5ab86954e9a763e5bb40c5d7b57cf354be98576ebd9023aca52050a26ae` |
+| nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt | `552d0ad8c1a159817ffa7d15efd75cd8b12e74c7aaf8abe699aae843b170459d` |
 
 ---
 

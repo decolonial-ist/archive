@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/471/document.pdf) | PDF | 36 KiB | в этой папке |
-| [document.txt](https://github.com/decolonial-ist/archive/blob/main/471/document.txt) | текст | 9 KiB | в этой папке |
-| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/471/document_layer.txt) | текст | 10 KiB | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf) | PDF | 36 KiB | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt) | текст | 9 KiB | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt) | текст | 10 KiB | в этой папке |
 
 ## Откуда это у нас
 
@@ -26,15 +26,15 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 document.pdf
-shasum -a 256 document.txt
-shasum -a 256 document_layer.txt
+shasum -a 256 svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf
+shasum -a 256 svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt
+shasum -a 256 svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt
 ```
 | файл | sha256 |
 |---|---|
-| document.pdf | `2a338395afb929d82701ed2bf4d3ddaff30a6cd739f25e51d497eb99789a4320` |
-| document.txt | `e6e391643968c86201a9248b5ea5da75ed04761bb84a20d9b7249eebab3b9cb7` |
-| document_layer.txt | `9e9526f8d68eb45222add135961a93c9c4bc9e0656327370483967f49b212798` |
+| svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf | `2a338395afb929d82701ed2bf4d3ddaff30a6cd739f25e51d497eb99789a4320` |
+| svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt | `e6e391643968c86201a9248b5ea5da75ed04761bb84a20d9b7249eebab3b9cb7` |
+| svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt | `9e9526f8d68eb45222add135961a93c9c4bc9e0656327370483967f49b212798` |
 
 ---
 
