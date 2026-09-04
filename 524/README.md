@@ -1,0 +1,20 @@
+# Масове поховання під Ізюмом: неідентифікованими залишаються 122 тіла (Укрінформ)
+
+**Год.** 2023
+**Где напечатано.** Укрінформ
+
+Страница витрины: https://archive.decolonial.ist/524
+
+## Файлы не выкладываем
+
+Почему: права: материал организации или СМИ под авторским правом (ukrinform.ua)
+
+## Откуда это у нас
+
+Издание: [https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html](https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html)
+
+Права: нельзя. материал организации или СМИ под авторским правом (ukrinform.ua)
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

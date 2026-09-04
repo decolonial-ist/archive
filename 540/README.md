@@ -1,0 +1,40 @@
+# Постановление о религиозных объединениях
+
+**Автор.** Всероссийский центральный исполнительный комитет и Совет народных комиссаров РСФСР
+**Год.** 1929
+**Где напечатано.** постановление от 8 апреля 1929 г.; подписали пред. ВЦИК Калинин М. И., зам. пред. СНК Смирнов А., зам. секр. ВЦИК Досов А.; СУ РСФСР. № 35. Ст. 353
+
+Страница витрины: https://archive.decolonial.ist/540
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt) | текст | 55 KiB | в этой папке |
+| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt) | текст | 55 KiB | в этой папке |
+| [postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf) | PDF | 63 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://ru.wikisource.org/wiki/О_религиозных_объединениях_(Постановление_ВЦИК_и_СНК_РСФСР_от_8_апреля_1929_года)](https://ru.wikisource.org/wiki/О_религиозных_объединениях_(Постановление_ВЦИК_и_СНК_РСФСР_от_8_апреля_1929_года))
+
+Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt
+shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt
+shasum -a 256 postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf
+```
+| файл | sha256 |
+|---|---|
+| postanovlenie_vcik_snk_08041929_o_religioznyh_obedinen_kisource_layer.txt | `8d9827571f348169cb55d64769a40a5e030ccff3fe9c9085ed0220619316b905` |
+| postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.txt | `a6f0dc8f337c54287edb4fd96cd68be233bae2811ef94e1425e5a88408cb4370` |
+| postanovlenie_vcik_snk_08041929_o_religioznyh_obedineniyah_wikisource.pdf | `d466c8ad085daedd7224ac6117429ad7440f9d13301621937bd9b24301765b82` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

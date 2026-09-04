@@ -1,0 +1,20 @@
+# Українська церква: Нариси з історії української православної церкви (гл. XIII. Як цариця Катерина обмосковлювала Церкву Українську)
+
+**Автор.** Огієнко І. (митрополит Іларіон)
+**Год.** 1993
+
+Страница витрины: https://archive.decolonial.ist/415
+
+## Файлы не выкладываем
+
+Почему: права: современная публикация 1993 года под авторским правом
+
+## Откуда это у нас
+
+Издание: [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/)
+
+Права: нельзя. современная публикация 1993 года под авторским правом
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

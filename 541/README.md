@@ -1,0 +1,41 @@
+# Резолюция краевого комитета по религиозному вопросу
+
+**Автор.** Национальная комиссия Северо-Кавказского крайкома ВКП(б)
+**Год.** 1927
+**Где напечатано.** резолюция пленума; протокол № 96 Бюро Крайкома от 28 июня 1927, § 1690, приложение № 4
+**Архивный шифр.** РГАСПИ Ф. 17. Оп. 21. Д. 3362. Л. 165, 213-217
+
+Страница витрины: https://archive.decolonial.ist/541
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [protokol96_prilozhenie4_transkript.pdf](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript.pdf) | PDF | 32 KiB | в этой папке |
+| [protokol96_prilozhenie4_transkript_layer.txt](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript_layer.txt) | текст | 9 KiB | в этой папке |
+| [protokol96_prilozhenie4_transkript.txt](https://github.com/decolonial-ist/archive/blob/main/541/protokol96_prilozhenie4_transkript.txt) | текст | 8 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: `islamperspectives[.]org/rpi/items/show/22379`
+
+Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 protokol96_prilozhenie4_transkript.pdf
+shasum -a 256 protokol96_prilozhenie4_transkript_layer.txt
+shasum -a 256 protokol96_prilozhenie4_transkript.txt
+```
+| файл | sha256 |
+|---|---|
+| protokol96_prilozhenie4_transkript.pdf | `eec811dab185a7ff97249b357d10e9cfa6069997b9c5cd492582a5d98ca92f24` |
+| protokol96_prilozhenie4_transkript_layer.txt | `2a5251c0ec74f7cda9b40438574596bbd26f474a8578d00a00deba87900a192b` |
+| protokol96_prilozhenie4_transkript.txt | `f01fee70f0305385e01b2b2169dd99a12793e8e288ee4f8d304a74f43f4d8091` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -1,0 +1,40 @@
+# Как погиб Нажмутдин Гоцинский
+
+**Автор.** Дж. Х-и
+**Год.** 1936
+**Где напечатано.** со слов участника событий // Северный Кавказ (Şimalî Kafkasya), орган Народной партии горцев Кавказа, Варшава, № 23, с. 27-28
+
+Страница витрины: https://archive.decolonial.ist/484
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [severnyi_kavkaz_1936_no23_full_ocr_layer.txt](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr_layer.txt) | текст | 300 KiB | в этой папке |
+| [severnyi_kavkaz_1936_no23_full_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr.txt) | текст | 296 KiB | в этой папке |
+| [severnyi_kavkaz_1936_no23_full_ocr.pdf](https://github.com/decolonial-ist/archive/blob/main/484/severnyi_kavkaz_1936_no23_full_ocr.pdf) | PDF | 322 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611](https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611)
+
+Права: свободно. анонимная публикация 1936 года в журнале эмигрантов, срок охраны истёк до 1996 года
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr_layer.txt
+shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr.txt
+shasum -a 256 severnyi_kavkaz_1936_no23_full_ocr.pdf
+```
+| файл | sha256 |
+|---|---|
+| severnyi_kavkaz_1936_no23_full_ocr_layer.txt | `f9d1456e670e5a38b2c9b3d194764916924d314c015cef8f9e8555c74b299dea` |
+| severnyi_kavkaz_1936_no23_full_ocr.txt | `78de8958d22d61f6a9cf2917fdc17da769b50f46eaabcaacefebafef98acc606` |
+| severnyi_kavkaz_1936_no23_full_ocr.pdf | `b0a26a6091a251d474965583bd0c4b62bdc95a5f78cd21f3fb82ce0ddcf9c1d7` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

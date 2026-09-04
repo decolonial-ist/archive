@@ -1,0 +1,37 @@
+# Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR)
+
+**Автор.** Office of the United Nations High Commissioner for Human Rights
+**Год.** 2024
+**Где напечатано.** Human Rights Monitoring Mission in Ukraine
+
+Страница витрины: https://archive.decolonial.ist/516
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [ohchr_25th_report_ukraine_kerch.pdf](https://github.com/decolonial-ist/archive/blob/main/516/ohchr_25th_report_ukraine_kerch.pdf) | PDF | 1.3 MiB | в этой папке |
+| [ohchr_25th_report_ukraine_kerch.txt](https://github.com/decolonial-ist/archive/blob/main/516/ohchr_25th_report_ukraine_kerch.txt) | текст | 133 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf](https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf)
+
+Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 ohchr_25th_report_ukraine_kerch.pdf
+shasum -a 256 ohchr_25th_report_ukraine_kerch.txt
+```
+| файл | sha256 |
+|---|---|
+| ohchr_25th_report_ukraine_kerch.pdf | `c78d5ca79a549b27c4f88b4a2f7adc97f580b1be800c72ddbad797c58064cad9` |
+| ohchr_25th_report_ukraine_kerch.txt | `2dbd5a8ddec3f981759de092662ebc7465f4fd95d2ca929f6ec59da37618a561` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

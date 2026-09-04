@@ -1,0 +1,41 @@
+# Ф. Дзержинський у взаєминах ВЧК та ВУЧК у 1919 р.
+
+**Автор.** Подкур Р. Ю.
+**Год.** 2013
+**Где напечатано.** «З архівів ВУЧК-ГПУ-НКВД-КГБ», № 1/2 (40/41); статья в журнале; письмо Раковского Ленину 09.08.1919
+**Архивный шифр.** РГАСПИ, ф. 17, оп. 84, д. 12, лл. 16-17
+
+Страница витрины: https://archive.decolonial.ist/564
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [z_arkhiviv_vuchk_2013_1_2_40_41.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/564__z_arkhiviv_vuchk_2013_1_2_40_41.pdf) | PDF | 11.8 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt](https://github.com/decolonial-ist/archive/blob/main/564/z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt) | текст | 235 KiB | в этой папке |
+| [podkur_article_pp7_31_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/564/podkur_article_pp7_31_ocr.txt) | текст | 175 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://history.org.ua/JournALL/gpu/gpu_2013_1/gpu_2013_1.pdf](https://history.org.ua/JournALL/gpu/gpu_2013_1/gpu_2013_1.pdf)
+
+Права: свободно. журнал «З архівів ВУЧК-ГПУ-НКВД-КГБ»: CC BY-NC-ND (лицензия объявлена на сайте журнала)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 z_arkhiviv_vuchk_2013_1_2_40_41.pdf
+shasum -a 256 z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt
+shasum -a 256 podkur_article_pp7_31_ocr.txt
+```
+| файл | sha256 |
+|---|---|
+| z_arkhiviv_vuchk_2013_1_2_40_41.pdf | `e56ea027f7d63ecac54866d45e12fefb573086e55fd6bd9bf8a72f92907e1b49` |
+| z_arkhiviv_vuchk_2013_1_2_40_41_layer.txt | `57438c01fbcdff21ce90735e91acabba4d90826faefd10f6151ed1fe2a5ae5b6` |
+| podkur_article_pp7_31_ocr.txt | `7cb4177b8c7b888137a2f23284d74a694f081527006605ac429d97bae2a5b6fc` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

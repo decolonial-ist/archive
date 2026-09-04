@@ -1,0 +1,20 @@
+# The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination
+
+**Автор.** Laruelle M.
+**Год.** 2015
+
+Страница витрины: https://archive.decolonial.ist/63
+
+## Файлы не выкладываем
+
+Почему: права: современная научная статья под авторским правом
+
+## Откуда это у нас
+
+Издание: [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May)
+
+Права: нельзя. современная научная статья под авторским правом
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

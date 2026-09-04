@@ -1,0 +1,40 @@
+# Приказ армиям Украинского фронта № 68 о ликвидации авантюры Григорьева
+
+**Год.** 1919
+**Где напечатано.** Гражданская война на Украине, т. 2 (1967), док. № 68
+**Архивный шифр.** ЦГАСА, ф. 103, оп. 1, д. 260, л. 9
+
+Страница витрины: https://archive.decolonial.ist/580
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [document.pdf](https://github.com/decolonial-ist/archive/blob/main/580/document.pdf) | PDF | 31 KiB | в этой папке |
+| [document.txt](https://github.com/decolonial-ist/archive/blob/main/580/document.txt) | текст | 4 KiB | в этой папке |
+| [document_layer.txt](https://github.com/decolonial-ist/archive/blob/main/580/document_layer.txt) | текст | 5 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/`
+
+Права: свободно: документ. документ 1919 года свободен, но напечатан в издании 1967 года — выкладываем только текст документа, не издание
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 document.pdf
+shasum -a 256 document.txt
+shasum -a 256 document_layer.txt
+```
+| файл | sha256 |
+|---|---|
+| document.pdf | `d9ce1c8f12b4522ea8b92f646f16f45bdbf98f1e97db0021d58dd01a82386eee` |
+| document.txt | `2509f0c701688e04c81a73d387ffb2e28f1349bff8e4325b3d62a580e669c863` |
+| document_layer.txt | `4c9e11d40236d0cae3648e5675c9f8d8f968f6ae1c7268b7d8f998880d85c360` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -1,0 +1,21 @@
+# Danger Close: Fancy Bear Tracking of Ukrainian Field Artillery Units
+
+**Автор.** Meyers A.
+**Год.** 2016
+**Где напечатано.** CrowdStrike
+
+Страница витрины: https://archive.decolonial.ist/216
+
+## Файлы не выкладываем
+
+Почему: права: современная публикация 2016 года под авторским правом
+
+## Откуда это у нас
+
+Издание: `www.crowdstrike[.]com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/`
+
+Права: нельзя. современная публикация 2016 года под авторским правом
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

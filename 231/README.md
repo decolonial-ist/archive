@@ -1,0 +1,20 @@
+# Ukraine: The Forgotten Victims (FIDH)
+
+**Автор.** International Federation for Human Rights (FIDH)
+**Год.** 2014
+
+Страница витрины: https://archive.decolonial.ist/231
+
+## Файлы не выкладываем
+
+Почему: права: материал организации или СМИ под авторским правом (fidh[.]org)
+
+## Откуда это у нас
+
+Издание: `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf`
+
+Права: нельзя. материал организации или СМИ под авторским правом (fidh[.]org)
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -1,0 +1,21 @@
+# The Russia-Ukraine War Report Card, May 13, 2026
+
+**Автор.** Russia Matters (Belfer Center, Harvard Kennedy School)
+**Год.** 2026
+**Где напечатано.** данные Institute for the Study of War по состоянию на 12.05.2026
+
+Страница витрины: https://archive.decolonial.ist/473
+
+## Файлы не выкладываем
+
+Почему: права: современная публикация 2026 года под авторским правом
+
+## Откуда это у нас
+
+Издание: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
+
+Права: нельзя. современная публикация 2026 года под авторским правом
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

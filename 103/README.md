@@ -1,0 +1,39 @@
+# Акты собранные Кавказскою археографическою комиссиею. Том VI, часть вторая (1816-1827)
+
+**Автор.** Кавказская археографическая комиссия
+**Год.** 1875
+
+Страница витрины: https://archive.decolonial.ist/103
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [akak_6_2.djvu](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akak_6_2.djvu) | скан DjVu | 22.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akak_6_2.md](https://github.com/decolonial-ist/archive/blob/main/103/akak_6_2.md) | текст | 6.9 MiB | в этой папке |
+| [akak_6_2.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akak_6_2.pdf) | PDF | 120.9 MiB | актив релиза (файл тяжелее 10 МБ) |
+
+## Откуда это у нас
+
+Первоисточник: `apsnyteka[.]org/381-akak_i_xii.html`
+
+Права: свободно. общественное достояние: издано в 1875 году
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 akak_6_2.djvu
+shasum -a 256 akak_6_2.md
+shasum -a 256 akak_6_2.pdf
+```
+| файл | sha256 |
+|---|---|
+| akak_6_2.djvu | `bb172350fed8ef5bf2d03c5fc44d7109ce3e06a447c0d3fa6ba0f2792a03286a` |
+| akak_6_2.md | `5069772fd78a9eff37739a3bd3ffed7d7439f4e03746e3940a6abedb56f28726` |
+| akak_6_2.pdf | `0d0c99499e557fe4e100f8d5bc2cec97a633763dedc8a19aba5f5751d971655c` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

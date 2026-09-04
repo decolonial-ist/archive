@@ -1,0 +1,37 @@
+# Приказ НКВД СССР № 00447
+
+**Автор.** Ежов Н. И.
+**Год.** 1937
+**Где напечатано.** оперативный приказ НКВД СССР № 00447 от 30 июля 1937 года; подписан народным комиссаром внутренних дел; сов. секретно
+
+Страница витрины: https://archive.decolonial.ist/545
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [nkvd_prikaz_00447_1937_wikisource_layer.txt](https://github.com/decolonial-ist/archive/blob/main/545/nkvd_prikaz_00447_1937_wikisource_layer.txt) | текст | 36 KiB | в этой папке |
+| [nkvd_prikaz_00447_1937_wikisource.pdf](https://github.com/decolonial-ist/archive/blob/main/545/nkvd_prikaz_00447_1937_wikisource.pdf) | PDF | 61 KiB | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447](https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447)
+
+Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 nkvd_prikaz_00447_1937_wikisource_layer.txt
+shasum -a 256 nkvd_prikaz_00447_1937_wikisource.pdf
+```
+| файл | sha256 |
+|---|---|
+| nkvd_prikaz_00447_1937_wikisource_layer.txt | `d5db849687ed6feac15193af5bed9a0a42d6373fa6ec20b8e65fde237cf2233e` |
+| nkvd_prikaz_00447_1937_wikisource.pdf | `6e5938a976716c7ab479e4c254fa170a79e7e99a580272535b6f38e2d6e2c2f6` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

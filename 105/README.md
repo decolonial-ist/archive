@@ -1,0 +1,39 @@
+# Акты собранные Кавказскою археографическою комиссиею. Том VIII (1831-1837)
+
+**Автор.** Кавказская археографическая комиссия
+**Год.** 1881
+
+Страница витрины: https://archive.decolonial.ist/105
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [akak_8.djvu](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akak_8.djvu) | скан DjVu | 29.2 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akak_8.md](https://github.com/decolonial-ist/archive/blob/main/105/akak_8.md) | текст | 7.8 MiB | в этой папке |
+| [akak_8.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akak_8.pdf) | PDF | 155.3 MiB | актив релиза (файл тяжелее 10 МБ) |
+
+## Откуда это у нас
+
+Первоисточник: `apsnyteka[.]org/381-akak_i_xii.html`
+
+Права: свободно. общественное достояние: издано в 1881 году
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 akak_8.djvu
+shasum -a 256 akak_8.md
+shasum -a 256 akak_8.pdf
+```
+| файл | sha256 |
+|---|---|
+| akak_8.djvu | `060814527ec2f569636e4c59d549a1f51f28e7cdb9d9ecaad6c4462182eca8d2` |
+| akak_8.md | `5b51f8fdadbd477718590cc3f5510a0f541ecc01ec154e4ace9b911955f80d88` |
+| akak_8.pdf | `b5983cef6d702958ef328fed1a22d06f7b9ce1db7c9f1a52a95f3549920165e1` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

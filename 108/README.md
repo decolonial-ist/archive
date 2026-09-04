@@ -1,0 +1,39 @@
+# Акты собранные Кавказскою археографическою комиссиею. Том XI (1854-1856)
+
+**Автор.** Кавказская археографическая комиссия
+**Год.** 1888
+
+Страница витрины: https://archive.decolonial.ist/108
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [akak_11.djvu](https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akak_11.djvu) | скан DjVu | 30.7 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akak_11.md](https://github.com/decolonial-ist/archive/blob/main/108/akak_11.md) | текст | 8.8 MiB | в этой папке |
+| [akak_11.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akak_11.pdf) | PDF | 188.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+
+## Откуда это у нас
+
+Первоисточник: `apsnyteka[.]org/381-akak_i_xii.html`
+
+Права: свободно. общественное достояние: издано в 1888 году
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Как проверить, что файл не подменён
+
+```
+shasum -a 256 akak_11.djvu
+shasum -a 256 akak_11.md
+shasum -a 256 akak_11.pdf
+```
+| файл | sha256 |
+|---|---|
+| akak_11.djvu | `8195e25cfc5688317e240c3c55f4ec03c9ab8847f3326d22742f13a0c09194d6` |
+| akak_11.md | `b85ef5393c0a1ee142d28f82c4e4a6102c844d0dc1f422237f6643d8d2b60a5b` |
+| akak_11.pdf | `37c132bb77a612986331955937db59ddd185ed9d9cec3d6d936898a3b32d096d` |
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

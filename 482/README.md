@@ -1,0 +1,21 @@
+# Утраченные иллюзии: советизация Чечни по-сталински (1917-1925 гг.)
+
+**Автор.** Дендиев К. Г., Осмаев А. Д.
+**Год.** 2022
+**Где напечатано.** Архивный вестник. Вып. 8. Грозный, с. 22-35
+
+Страница витрины: https://archive.decolonial.ist/482
+
+## Файлы не выкладываем
+
+Почему: права: современная научная статья под авторским правом
+
+## Откуда это у нас
+
+Издание: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
+
+Права: нельзя. современная научная статья под авторским правом
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

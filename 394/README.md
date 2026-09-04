@@ -1,0 +1,21 @@
+# Письма и бумаги императора Петра Великого. Т. VIII, вып. 1 (июль-декабрь 1708 г.)
+
+**Автор.** Пётр I
+**Год.** 1948
+**Где напечатано.** ред. Андреев И. Н.; М.-Л.: Изд-во АН СССР
+
+Страница витрины: https://archive.decolonial.ist/394
+
+## Файлы не выкладываем
+
+Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+
+## Откуда это у нас
+
+Первоисточник: [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0)
+
+Права: свободно: документ. бумаги Петра I, тексты в общественном достоянии
+
+---
+
+Страница собрана автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).
