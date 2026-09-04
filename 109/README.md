@@ -9,7 +9,6 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akak_12.djvu](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akak_12.djvu) | скан DjVu | 45.1 MiB | актив релиза (файл тяжелее 10 МБ) |
 | [akak_12.md](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akak_12.md) | текст | 13.5 MiB | актив релиза (файл тяжелее 10 МБ) |
 | [akak_12.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akak_12.pdf) | PDF | 323.4 MiB | актив релиза (файл тяжелее 10 МБ) |
 
@@ -24,13 +23,11 @@
 ## Как проверить, что файл не подменён
 
 ```
-shasum -a 256 akak_12.djvu
 shasum -a 256 akak_12.md
 shasum -a 256 akak_12.pdf
 ```
 | файл | sha256 |
 |---|---|
-| akak_12.djvu | `86810d5bbc4217d28cff27f914cf0fb6216c702bc8af466e68ec4c83aa5e01e2` |
 | akak_12.md | `d1b237185385e35c8fbf93469f819dd7e69d4c37c1b47410647284263ead6476` |
 | akak_12.pdf | `31b2f656cf3f5ccdcc7bd854772e9da683cdb1639819c07467d7ecc878382fb9` |
 

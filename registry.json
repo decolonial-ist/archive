@@ -1653,13 +1653,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_3.djvu",
-     "bytes": 23702003,
-     "sha256": "fefd8cf4b24b7feae1970f518d721bdc1cf912ff1945c654e4ab6801ee7234d6",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/99__akak_3.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_3.md",
      "bytes": 5952695,
      "sha256": "96f65afc4b393a48ebc213faa82ea914425487eaf7fe9c7ec700a7e56c301a42",
@@ -1690,13 +1683,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_4.djvu",
-     "bytes": 26411361,
-     "sha256": "bc4accac287e8146442005e030beac91fdf44907f378ae79f2dc3feaae4f37eb",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akak_4.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_4.md",
      "bytes": 8066631,
      "sha256": "c684d7590dc4e5e53ab8b32d98faa30068de6ad0e2659f98845db7d013311929",
@@ -1726,13 +1712,6 @@
    "github": "https://github.com/decolonial-ist/archive/tree/main/101",
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
-    {
-     "name": "akak_5.djvu",
-     "bytes": 35539081,
-     "sha256": "7d6f6e741869cf748d9b832f8ec035731927b21890d77f809110db8bd440b155",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akak_5.djvu",
-     "where": "release"
-    },
     {
      "name": "akak_5.md",
      "bytes": 9198949,
@@ -1779,13 +1758,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_6_2.djvu",
-     "bytes": 23197737,
-     "sha256": "bb172350fed8ef5bf2d03c5fc44d7109ce3e06a447c0d3fa6ba0f2792a03286a",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akak_6_2.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_6_2.md",
      "bytes": 7224043,
      "sha256": "5069772fd78a9eff37739a3bd3ffed7d7439f4e03746e3940a6abedb56f28726",
@@ -1815,13 +1787,6 @@
    "github": "https://github.com/decolonial-ist/archive/tree/main/104",
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
-    {
-     "name": "akak_7.djvu",
-     "bytes": 28220208,
-     "sha256": "168fe730871a0b075cf3030f6d5b2ac4688f6f41bf5119613821b5404a891f5d",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akak_7.djvu",
-     "where": "release"
-    },
     {
      "name": "akak_7.md",
      "bytes": 7684798,
@@ -1853,13 +1818,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_8.djvu",
-     "bytes": 30647831,
-     "sha256": "060814527ec2f569636e4c59d549a1f51f28e7cdb9d9ecaad6c4462182eca8d2",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akak_8.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_8.md",
      "bytes": 8180729,
      "sha256": "5b51f8fdadbd477718590cc3f5510a0f541ecc01ec154e4ace9b911955f80d88",
@@ -1889,13 +1847,6 @@
    "github": "https://github.com/decolonial-ist/archive/tree/main/106",
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
-    {
-     "name": "akak_9.djvu",
-     "bytes": 32287297,
-     "sha256": "4c16ee255d26821a39b4ea247da2ec6b3c5e8751784009aab05cd456e1bc6690",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/106__akak_9.djvu",
-     "where": "release"
-    },
     {
      "name": "akak_9.md",
      "bytes": 7691027,
@@ -1927,13 +1878,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_10.djvu",
-     "bytes": 31422395,
-     "sha256": "0525e0f9a6e6d45bdf7aa261ff67038c77764626492ac4e01cd38702046c575e",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akak_10.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_10.md",
      "bytes": 8048696,
      "sha256": "9d7d27e171223f23456b1710d0f4a06cc8f54f4cd3d4264000a8bd094b8da429",
@@ -1964,13 +1908,6 @@
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akak_11.djvu",
-     "bytes": 32180908,
-     "sha256": "8195e25cfc5688317e240c3c55f4ec03c9ab8847f3326d22742f13a0c09194d6",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akak_11.djvu",
-     "where": "release"
-    },
-    {
      "name": "akak_11.md",
      "bytes": 9248588,
      "sha256": "b85ef5393c0a1ee142d28f82c4e4a6102c844d0dc1f422237f6643d8d2b60a5b",
@@ -2000,13 +1937,6 @@
    "github": "https://github.com/decolonial-ist/archive/tree/main/109",
    "source": "http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
-    {
-     "name": "akak_12.djvu",
-     "bytes": 47327665,
-     "sha256": "86810d5bbc4217d28cff27f914cf0fb6216c702bc8af466e68ec4c83aa5e01e2",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akak_12.djvu",
-     "where": "release"
-    },
     {
      "name": "akak_12.md",
      "bytes": 14107879,
@@ -2489,13 +2419,6 @@
    "github": "https://github.com/decolonial-ist/archive/tree/main/129",
    "source": "https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y",
    "files": [
-    {
-     "name": "kavkazskie_voyny_i_imamat_shamilya_pokrovskiy_n_i_9bd8_anna_s_archive.djvu",
-     "bytes": 13608045,
-     "sha256": "487494152f9e58b64ff9ffa4f136dea8d2bd3b36afe1bf63aed928cc38cd9b3d",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/129__kavkazskie_voyny_i_imamat_shamilya_pokrovskiy_n_i_9bd8_anna_s_archive.djvu",
-     "where": "release"
-    },
     {
      "name": "kavkazskie_voyny_i_imamat_shamilya_pokrovskiy_n_i_9bd8_anna_s_archive.md",
      "bytes": 2294685,
