@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи, Собрание 1-е, том XXVIII (1804-1805)
 
 **Автор:** Собственная Его Императорского Величества канцелярия
-**Год:** 1830
+**Год публикации:** 1830
 **Где напечатано:** издание
 
 Страница витрины: https://archive.decolonial.ist/437
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/437__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf) | PDF | 75.2 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt) | текст | 12 KiB | в этой папке |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt) | текст | 9.5 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/437__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf) | PDF | 75.2 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt) | текст | 12 КБ | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt) | текст | 9.5 МБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Манифест об учреждении в Слободских полках гражданского устройства
 
 **Автор:** Екатерина II
-**Год:** 1765
+**Год публикации:** 1765
 **Где напечатано:** манифест от 28 июля 1765; ПСЗРИ, т. XVII, № 12440
 
 Страница витрины: https://archive.decolonial.ist/396
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf) | PDF | 32 KiB | в этой папке |
-| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt) | текст | 6 KiB | в этой папке |
-| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt) | текст | 6 KiB | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf) | PDF | 32 КБ | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt) | текст | 6 КБ | в этой папке |
+| [manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt](https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt) | текст | 6 КБ | в этой папке |
 
 ## Откуда это у нас
 

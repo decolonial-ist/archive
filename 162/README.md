@@ -1,7 +1,7 @@
 # Сборник грамот и договоров о присоединении царств и областей
 
 **Автор:** —
-**Год:** 1922
+**Год публикации:** 1922
 **Где напечатано:** Петербург, ч. 1; текст «Вечного мира» 1686 г.
 
 Страница витрины: https://archive.decolonial.ist/162
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html) | сохранённая страница | 64 KiB | в этой папке |
-| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/162__sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf) | PDF | 17.8 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt) | текст | 1.9 MiB | в этой папке |
-| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt) | текст | 12 KiB | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html) | сохранённая страница | 64 КБ | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/162__sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf) | PDF | 17.8 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt) | текст | 1.9 МБ | в этой папке |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас
 

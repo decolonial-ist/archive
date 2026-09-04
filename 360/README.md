@@ -1,7 +1,7 @@
 # Постановление ГКО СССР № 5074сс
 
 **Автор:** Государственный комитет обороны СССР
-**Год:** 1944
+**Год публикации:** 1944
 
 Страница витрины: https://archive.decolonial.ist/360
 
@@ -9,11 +9,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_gko_sssr_no_5074ss_1944.pdf](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.pdf) | PDF | 32 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944.html](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.html) | сохранённая страница | 18 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_document.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_document.txt) | текст | 7 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_layer.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_layer.txt) | текст | 8 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_2.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_2.txt) | текст | 3 KiB | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944.pdf](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.pdf) | PDF | 32 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944.html](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.html) | сохранённая страница | 18 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944_document.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_document.txt) | текст | 7 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944_layer.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_layer.txt) | текст | 8 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944_2.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_2.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас
 

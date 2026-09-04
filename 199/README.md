@@ -1,7 +1,7 @@
 # Україна в міжнародних відносинах
 
 **Автор:** Інститут історії України НАН України
-**Год:** 2012
+**Год публикации:** 2012
 **Где напечатано:** ред. Варварцев М.; енциклопедичний словник-довідник, вип. 3
 
 Страница витрины: https://archive.decolonial.ist/199
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukraina_v_mizhnarodnih_vidnosinah_2012.txt](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.txt) | текст | 5 KiB | в этой папке |
-| [ukraina_v_mizhnarodnih_vidnosinah_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.pdf) | PDF | 29 KiB | в этой папке |
+| [ukraina_v_mizhnarodnih_vidnosinah_2012.txt](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.txt) | текст | 5 КБ | в этой папке |
+| [ukraina_v_mizhnarodnih_vidnosinah_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

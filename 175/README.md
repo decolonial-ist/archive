@@ -1,7 +1,7 @@
 # Акт проголошення незалежності України
 
 **Автор:** Верховна Рада УРСР
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** постанова № 1427-XII від 24.08.1991
 
 Страница витрины: https://archive.decolonial.ist/175
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akt_progoloshennya_nezalezhnosti_ukraini_1991.html](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.html) | сохранённая страница | 44 KiB | в этой папке |
-| [akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf) | PDF | 31 KiB | в этой папке |
-| [akt_progoloshennya_nezalezhnosti_ukraini_1991.txt](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.txt) | текст | 3 KiB | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.html](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.html) | сохранённая страница | 44 КБ | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf) | PDF | 31 КБ | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.txt](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас
 

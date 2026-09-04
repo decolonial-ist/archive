@@ -1,7 +1,7 @@
 # Указ Петра I о книгопечатании
 
 **Автор:** Пётр I
-**Год:** 1720
+**Год публикации:** 1720
 **Где напечатано:** указ Синода от 5 октября 1720; публ. Огієнко І.
 
 Страница витрины: https://archive.decolonial.ist/143
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_petra_i_o_knigopechatanii_1720_layer.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720_layer.txt) | текст | 4 KiB | в этой папке |
-| [ukaz_petra_i_o_knigopechatanii_1720.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.txt) | текст | 4 KiB | в этой папке |
-| [ukaz_petra_i_o_knigopechatanii_1720.pdf](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf) | PDF | 28 KiB | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720_layer.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720_layer.txt) | текст | 4 КБ | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.txt) | текст | 4 КБ | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720.pdf](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf) | PDF | 28 КБ | в этой папке |
 
 ## Откуда это у нас
 

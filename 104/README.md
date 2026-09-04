@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том VII (1827-1831)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1878
+**Год публикации:** 1878
 
 Страница витрины: https://archive.decolonial.ist/104
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md](https://github.com/decolonial-ist/archive/blob/main/104/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md) | текст | 7.3 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf) | PDF | 186.6 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md](https://github.com/decolonial-ist/archive/blob/main/104/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md) | текст | 7.3 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf) | PDF | 186.6 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

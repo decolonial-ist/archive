@@ -1,7 +1,7 @@
 # К вопросу о ходе и основных этапах восстания в Чечне в 1877 году
 
 **Автор:** Исмаилова А. И.
-**Год:** 2007
+**Год публикации:** 2007
 
 Страница витрины: https://archive.decolonial.ist/253
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007.pdf](https://github.com/decolonial-ist/archive/blob/main/253/k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007.pdf) | PDF | 208 KiB | в этой папке |
-| [k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007_layer.txt](https://github.com/decolonial-ist/archive/blob/main/253/k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007_layer.txt) | текст | 38 KiB | в этой папке |
+| [k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007.pdf](https://github.com/decolonial-ist/archive/blob/main/253/k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007.pdf) | PDF | 208 КБ | в этой папке |
+| [k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007_layer.txt](https://github.com/decolonial-ist/archive/blob/main/253/k_voprosu_o_hode_i_osnovnyh_etapah_vosstaniya_v_chechne_v_1877_godu_2007_layer.txt) | текст | 38 КБ | в этой папке |
 
 ## Откуда это у нас
 

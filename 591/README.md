@@ -1,7 +1,7 @@
 # Телеграмма В. И. Ленина Х. Г. Раковскому и В. И. Межлауку
 
 **Автор:** Ленин В. И.
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Полное собрание сочинений, т. 50 (1965)
 
 Страница витрины: https://archive.decolonial.ist/591
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.html](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.html) | сохранённая страница | 212 KiB | в этой папке |
-| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf) | PDF | 158 KiB | в этой папке |
+| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.html](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.html) | сохранённая страница | 212 КБ | в этой папке |
+| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf) | PDF | 158 КБ | в этой папке |
 
 ## Откуда это у нас
 

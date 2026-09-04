@@ -1,7 +1,7 @@
 # Постановление о религиозных объединениях
 
 **Автор:** Всероссийский центральный исполнительный комитет и Совет народных комиссаров РСФСР
-**Год:** 1929
+**Год публикации:** 1929
 **Где напечатано:** постановление от 8 апреля 1929 г.; подписали пред. ВЦИК Калинин М. И., зам. пред. СНК Смирнов А., зам. секр. ВЦИК Досов А.; СУ РСФСР. № 35. Ст. 353
 
 Страница витрины: https://archive.decolonial.ist/540
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt) | текст | 55 KiB | в этой папке |
-| [postanovlenie_o_religioznyh_obedineniyah_1929.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.txt) | текст | 55 KiB | в этой папке |
-| [postanovlenie_o_religioznyh_obedineniyah_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.pdf) | PDF | 63 KiB | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929_layer.txt) | текст | 55 КБ | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929.txt](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.txt) | текст | 55 КБ | в этой папке |
+| [postanovlenie_o_religioznyh_obedineniyah_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.pdf) | PDF | 63 КБ | в этой папке |
 
 ## Откуда это у нас
 

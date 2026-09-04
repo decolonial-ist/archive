@@ -1,7 +1,7 @@
 # Федеральный закон № 36-ФЗ о ратификации договора с Республикой Крым
 
 **Автор:** Путин В. В.
-**Год:** 2014
+**Год публикации:** 2014
 **Где напечатано:** президент Российской Федерации; закон подписан 21 марта 2014; подписан 21 марта 2014
 
 Страница витрины: https://archive.decolonial.ist/204
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html) | сохранённая страница | 76 KiB | в этой папке |
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf) | PDF | 77 KiB | в этой папке |
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt) | текст | 5 KiB | в этой папке |
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014_layer.txt) | текст | 7 KiB | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html) | сохранённая страница | 76 КБ | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf) | PDF | 77 КБ | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt) | текст | 5 КБ | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014_layer.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Два года борьбы на внутреннем фронте
 
 **Автор:** Лацис (Судрабс) М. Я.
-**Год:** 1920
+**Год публикации:** 1920
 **Где напечатано:** М.: Госиздат
 
 Страница витрины: https://archive.decolonial.ist/567
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dva_goda_borby_na_vnutrennem_fronte_1920.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/567__dva_goda_borby_na_vnutrennem_fronte_1920.pdf) | PDF | 12.0 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [dva_goda_borby_na_vnutrennem_fronte_1920.txt](https://github.com/decolonial-ist/archive/blob/main/567/dva_goda_borby_na_vnutrennem_fronte_1920.txt) | текст | 342 KiB | в этой папке |
+| [dva_goda_borby_na_vnutrennem_fronte_1920.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/567__dva_goda_borby_na_vnutrennem_fronte_1920.pdf) | PDF | 12.0 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [dva_goda_borby_na_vnutrennem_fronte_1920.txt](https://github.com/decolonial-ist/archive/blob/main/567/dva_goda_borby_na_vnutrennem_fronte_1920.txt) | текст | 342 КБ | в этой папке |
 
 ## Откуда это у нас
 

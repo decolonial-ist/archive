@@ -1,7 +1,7 @@
 # Владикавказская железная дорога (ЭСБЕ)
 
 **Автор:** Воейков А. И.
-**Год:** 1892
+**Год публикации:** 1892
 **Где напечатано:** Энциклопедический словарь Брокгауза и Ефрона, т. VIa
 
 Страница витрины: https://archive.decolonial.ist/460
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.html](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.html) | сохранённая страница | 9 KiB | в этой папке |
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt) | текст | 9 KiB | в этой папке |
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892_layer.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892_layer.txt) | текст | 9 KiB | в этой папке |
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf) | PDF | 33 KiB | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.html](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.html) | сохранённая страница | 9 КБ | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt) | текст | 9 КБ | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_esbe_1892_layer.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892_layer.txt) | текст | 9 КБ | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

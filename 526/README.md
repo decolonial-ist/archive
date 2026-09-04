@@ -1,7 +1,7 @@
 # Мер Мелітополя Іван Федоров розповів про своє викрадення росіянами (NV)
 
 **Автор:** —
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** NV
 
 Страница витрины: https://archive.decolonial.ist/526
@@ -10,12 +10,12 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html) | сохранённая страница | 92 KiB | в этой папке |
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_page_ne_tot_material.html](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_page_ne_tot_material.html) | сохранённая страница | 93 KiB | в этой папке |
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt) | текст | 2 KiB | в этой папке |
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt) | текст | 3 KiB | в этой папке |
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_layer.txt) | текст | 3 KiB | в этой папке |
-| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf) | PDF | 29 KiB | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html) | сохранённая страница | 92 КБ | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_page_ne_tot_material.html](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_page_ne_tot_material.html) | сохранённая страница | 93 КБ | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt) | текст | 2 КБ | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt) | текст | 3 КБ | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_layer.txt) | текст | 3 КБ | в этой папке |
+| [mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

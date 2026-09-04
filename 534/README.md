@@ -1,7 +1,7 @@
 # Горцы под игом коммунистов
 
 **Автор:** Заурбек Х.
-**Год:** 1927
+**Год публикации:** 1927
 **Где напечатано:** рубрика «Вести с Кавказа»; Вольные Горцы. Прага, № 5 (22 октября). С. 18-19
 
 Страница витрины: https://archive.decolonial.ist/534
@@ -10,12 +10,12 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [gorcy_pod_igom_kommunistov_1927.html](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927.html) | сохранённая страница | 8 KiB | в этой папке |
-| [gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5_bez_pamy.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/534__gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5_bez_pamy.pdf) | PDF | 21.2 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17.pdf](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17.pdf) | PDF | 2.7 MiB | в этой папке |
-| [gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/534__gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf) | PDF | 21.2 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf) | PDF | 2.6 MiB | в этой папке |
-| [gorcy_pod_igom_kommunistov_1927.txt](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927.txt) | текст | 23 KiB | в этой папке |
+| [gorcy_pod_igom_kommunistov_1927.html](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927.html) | сохранённая страница | 8 КБ | в этой папке |
+| [gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5_bez_pamy.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/534__gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5_bez_pamy.pdf) | PDF | 21.2 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17.pdf](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17.pdf) | PDF | 2.7 МБ | в этой папке |
+| [gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/534__gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf) | PDF | 21.2 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf) | PDF | 2.6 МБ | в этой папке |
+| [gorcy_pod_igom_kommunistov_1927.txt](https://github.com/decolonial-ist/archive/blob/main/534/gorcy_pod_igom_kommunistov_1927.txt) | текст | 23 КБ | в этой папке |
 
 ## Откуда это у нас
 

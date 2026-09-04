@@ -1,7 +1,7 @@
 # Remarks to the Supreme Soviet of the Republic of the Ukraine in Kiev
 
 **Автор:** Bush G. H. W.
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** The American Presidency Project, UCSB
 
 Страница витрины: https://archive.decolonial.ist/174

@@ -1,7 +1,7 @@
 # Генерал-майор Н. П. Слепцов (биографический очерк, Терский сборник)
 
 **Автор:** —
-**Год:** 1903
+**Год публикации:** 1903
 **Где напечатано:** Терский сборник, Владикавказ
 
 Страница витрины: https://archive.decolonial.ist/314
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt) | текст | 25 KiB | в этой папке |
-| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md) | текст | 24 KiB | в этой папке |
-| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf) | PDF | 48 KiB | в этой папке |
+| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt) | текст | 25 КБ | в этой папке |
+| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md) | текст | 24 КБ | в этой папке |
+| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf) | PDF | 48 КБ | в этой папке |
 
 ## Откуда это у нас
 

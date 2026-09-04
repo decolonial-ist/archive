@@ -1,7 +1,7 @@
 # Собрание государственных грамот и договоров. Часть 4
 
 **Автор:** Коллегия иностранных дел
-**Год:** 1828
+**Год публикации:** 1828
 **Где напечатано:** М., с. 50-59: Переяславские статьи 1659 г.
 
 Страница витрины: https://archive.decolonial.ist/398
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt) | текст | 9 KiB | в этой папке |
-| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf) | PDF | 37 KiB | в этой папке |
+| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt) | текст | 9 КБ | в этой папке |
+| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf) | PDF | 37 КБ | в этой папке |
 
 ## Откуда это у нас
 

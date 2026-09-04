@@ -1,7 +1,7 @@
 # The Kremlin's Shifting, Self-Contradicting Narratives on MH17
 
 **Автор:** Bellingcat
-**Год:** 2019
+**Год публикации:** 2019
 
 Страница витрины: https://archive.decolonial.ist/227
 

@@ -1,7 +1,7 @@
 # Хроника первого разоружения Чечни
 
 **Автор:** Эльбуздукаева Т. У.
-**Год:** 2015
+**Год публикации:** 2015
 
 Страница витрины: https://archive.decolonial.ist/259
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [hronika_pervogo_razoruzheniya_chechni_2015_layer.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015_layer.txt) | текст | 49 KiB | в этой папке |
-| [hronika_pervogo_razoruzheniya_chechni_2015.pdf](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.pdf) | PDF | 71 KiB | в этой папке |
-| [hronika_pervogo_razoruzheniya_chechni_2015.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.txt) | текст | 54 KiB | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015_layer.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015_layer.txt) | текст | 49 КБ | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015.pdf](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.pdf) | PDF | 71 КБ | в этой папке |
+| [hronika_pervogo_razoruzheniya_chechni_2015.txt](https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.txt) | текст | 54 КБ | в этой папке |
 
 ## Откуда это у нас
 

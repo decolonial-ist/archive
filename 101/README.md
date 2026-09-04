@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том V (1811-1816)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1873
+**Год публикации:** 1873
 
 Страница витрины: https://archive.decolonial.ist/101
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md](https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md) | текст | 8.8 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf) | PDF | 140.5 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md](https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md) | текст | 8.8 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf) | PDF | 140.5 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

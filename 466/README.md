@@ -1,7 +1,7 @@
 # Оперативный приказ НКВД СССР № 00439
 
 **Автор:** Ежов Н. И.
-**Год:** 1937
+**Год публикации:** 1937
 **Где напечатано:** приказ народного комиссара внутренних дел от 25 июля 1937 («немецкая операция»); Викитека, публ. по ксерокопии архива УФСБ СПб
 
 Страница витрины: https://archive.decolonial.ist/466
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.html](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.html) | сохранённая страница | 8 KiB | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt) | текст | 7 KiB | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt) | текст | 7 KiB | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf) | PDF | 36 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.html](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.html) | сохранённая страница | 8 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.txt) | текст | 7 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937_layer.txt) | текст | 7 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

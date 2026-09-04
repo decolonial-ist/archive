@@ -1,7 +1,7 @@
 # Статья Владимира Путина «Об историческом единстве русских и украинцев»
 
 **Автор:** Путин В. В.
-**Год:** 2021
+**Год публикации:** 2021
 **Где напечатано:** kremlin.ru, 12 июля 2021
 
 Страница витрины: https://archive.decolonial.ist/245
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html) | сохранённая страница | 108 KiB | в этой папке |
-| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf) | PDF | 85 KiB | в этой папке |
-| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt) | текст | 72 KiB | в этой папке |
+| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html) | сохранённая страница | 108 КБ | в этой папке |
+| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf) | PDF | 85 КБ | в этой папке |
+| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt) | текст | 72 КБ | в этой папке |
 
 ## Откуда это у нас
 

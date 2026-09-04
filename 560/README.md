@@ -1,7 +1,7 @@
 # За державність зб. 8
 
 **Автор:** Українське воєнно-історичне товариство
-**Год:** 1938
+**Год публикации:** 1938
 **Где напечатано:** Варшава; За державність. Матеріяли до історії війська українського. Збірник 8; мемуарный сборник
 
 Страница витрины: https://archive.decolonial.ist/560
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [za_derzhavnist_zb_8_1938.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/560__za_derzhavnist_zb_8_1938.pdf) | PDF | 19.4 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [za_derzhavnist_zb_8_1938_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/560/za_derzhavnist_zb_8_1938_ocr.txt) | текст | 1.2 MiB | в этой папке |
-| [za_derzhavnist_zb_8_1938.txt](https://github.com/decolonial-ist/archive/blob/main/560/za_derzhavnist_zb_8_1938.txt) | текст | 1.2 MiB | в этой папке |
+| [za_derzhavnist_zb_8_1938.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/560__za_derzhavnist_zb_8_1938.pdf) | PDF | 19.4 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [za_derzhavnist_zb_8_1938_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/560/za_derzhavnist_zb_8_1938_ocr.txt) | текст | 1.2 МБ | в этой папке |
+| [za_derzhavnist_zb_8_1938.txt](https://github.com/decolonial-ist/archive/blob/main/560/za_derzhavnist_zb_8_1938.txt) | текст | 1.2 МБ | в этой папке |
 
 ## Откуда это у нас
 

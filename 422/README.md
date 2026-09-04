@@ -1,7 +1,7 @@
 # О ликвидации национальных районов и сельсоветов
 
 **Автор:** Организационное бюро Центрального комитета ВКП(б)
-**Год:** 1938
+**Год публикации:** 1938
 **Где напечатано:** постановление от 24.01.1938
 **Архивный шифр:** РГАСПИ, ф. 17, оп. 114, д. 637, л. 7
 
@@ -11,11 +11,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf) | PDF | 29 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html) | сохранённая страница | 18 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt) | текст | 4 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt) | текст | 5 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt) | текст | 3 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf) | PDF | 29 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.html) | сохранённая страница | 18 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt) | текст | 4 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_layer.txt) | текст | 5 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Доклад ЦК РОКК о деятельности Чрезвычайной комиссии в Киеве
 
 **Автор:** —
-**Год:** 1920
+**Год публикации:** 1920
 **Где напечатано:** «Архив русской революции», т. VI (Берлин, 1922); текст по сб.: Волков С. (сост.) Красный террор глазами очевидцев
 
 Страница витрины: https://archive.decolonial.ist/569
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/569/doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt) | текст | 166 KiB | в этой папке |
-| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/569__doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920.pdf) | PDF | 27.1 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/569/doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt) | текст | 2.0 MiB | в этой папке |
+| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/569/doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt) | текст | 166 КБ | в этой папке |
+| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/569__doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920.pdf) | PDF | 27.1 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/569/doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt) | текст | 2.0 МБ | в этой папке |
 
 ## Откуда это у нас
 

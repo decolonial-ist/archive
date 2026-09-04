@@ -1,7 +1,7 @@
 # Про заходи по дальшому удосконаленню вивчення і викладання російської мови в Українській РСР
 
 **Автор:** Рада Міністрів УРСР
-**Год:** 1978
+**Год публикации:** 1978
 **Где напечатано:** постанова від 2 листопада 1978 р. № 518 (на виконання постанови Ради Міністрів СРСР від 13.10.1978 № 835); офіційний текст zakon.rada.gov.ua
 
 Страница витрины: https://archive.decolonial.ist/464
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt) | текст | 20 KiB | в этой папке |
-| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf) | PDF | 45 KiB | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt) | текст | 20 КБ | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf) | PDF | 45 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Постановление Президиума ЦК КПСС «О политическом и хозяйственном состоянии западных областей Украинской ССР»
 
 **Автор:** Президиум Центрального комитета КПСС
-**Год:** 1953
+**Год публикации:** 1953
 **Где напечатано:** постановление от 26 мая 1953
 
 Страница витрины: https://archive.decolonial.ist/403
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt) | текст | 19 KiB | в этой папке |
-| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf) | PDF | 42 KiB | в этой папке |
+| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt) | текст | 19 КБ | в этой папке |
+| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf) | PDF | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 

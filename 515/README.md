@@ -1,7 +1,7 @@
 # UN Commission concludes that Russian armed forces' drone attacks against civilians in Kherson Province amount to crimes against humanity of murder (OHCHR)
 
 **Автор:** Independent International Commission of Inquiry on Ukraine
-**Год:** 2025
+**Год публикации:** 2025
 **Где напечатано:** Office of the United Nations High Commissioner for Human Rights
 
 Страница витрины: https://archive.decolonial.ist/515
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html) | сохранённая страница | 103 KiB | в этой папке |
-| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt) | текст | 6 KiB | в этой папке |
-| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf) | PDF | 34 KiB | в этой папке |
+| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html) | сохранённая страница | 103 КБ | в этой папке |
+| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt) | текст | 6 КБ | в этой папке |
+| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf) | PDF | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 

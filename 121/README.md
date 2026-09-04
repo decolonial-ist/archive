@@ -1,7 +1,7 @@
 # 1858 год в Чечне
 
 **Автор:** Волконский Н. А.
-**Год:** 1879
+**Год публикации:** 1879
 
 Страница витрины: https://archive.decolonial.ist/121
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [1858_god_v_chechne_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf) | PDF | 281 KiB | в этой папке |
-| [1858_god_v_chechne_1879.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.txt) | текст | 319 KiB | в этой папке |
-| [1858_god_v_chechne_1879_layer.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879_layer.txt) | текст | 325 KiB | в этой папке |
+| [1858_god_v_chechne_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf) | PDF | 281 КБ | в этой папке |
+| [1858_god_v_chechne_1879.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.txt) | текст | 319 КБ | в этой папке |
+| [1858_god_v_chechne_1879_layer.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879_layer.txt) | текст | 325 КБ | в этой папке |
 
 ## Откуда это у нас
 

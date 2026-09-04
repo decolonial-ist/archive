@@ -1,7 +1,7 @@
 # Рішення Мінкульту щодо переміщення чи зняття статусу пам'яток в рамках декомунізації, дерусифікації та деколонізації (станом на 20.05.2026)
 
 **Автор:** Міністерство культури та стратегічних комунікацій України
-**Год:** 2026
+**Год публикации:** 2026
 
 Страница витрины: https://archive.decolonial.ist/440
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.txt](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.txt) | текст | 753 KiB | в этой папке |
-| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026_layer.txt) | текст | 512 KiB | в этой папке |
-| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.pdf) | PDF | 558 KiB | в этой папке |
+| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.txt](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.txt) | текст | 753 КБ | в этой папке |
+| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026_layer.txt) | текст | 512 КБ | в этой папке |
+| [rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/440/rishennya_minkultu_schodo_peremischennya_chi_znyat_stanom_na_20_05_2026_2026.pdf) | PDF | 558 КБ | в этой папке |
 
 ## Откуда это у нас
 

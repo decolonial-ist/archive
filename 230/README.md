@@ -1,7 +1,7 @@
 # Ukraine's Stolen Art: Cultural plunder in the shadow of war
 
 **Автор:** Tulaganova S.
-**Год:** 2025
+**Год публикации:** 2025
 **Где напечатано:** Justice Info
 
 Страница витрины: https://archive.decolonial.ist/230

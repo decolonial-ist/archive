@@ -1,7 +1,7 @@
 # О ликвидации национальных школ и национальных отделений в школах
 
 **Автор:** Организационное бюро Центрального комитета ВКП(б)
-**Год:** 1938
+**Год публикации:** 1938
 **Где напечатано:** постановление от 24.01.1938
 **Архивный шифр:** РГАСПИ, ф. 17, оп. 114, д. 634, л. 7
 
@@ -11,11 +11,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf) | PDF | 33 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.html](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.html) | сохранённая страница | 18 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt) | текст | 9 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt) | текст | 3 KiB | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_layer.txt) | текст | 10 KiB | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf) | PDF | 33 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.html](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.html) | сохранённая страница | 18 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt) | текст | 9 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt) | текст | 3 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_layer.txt) | текст | 10 КБ | в этой папке |
 
 ## Откуда это у нас
 

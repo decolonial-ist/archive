@@ -1,7 +1,7 @@
 # The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination
 
 **Автор:** Laruelle M.
-**Год:** 2015
+**Год публикации:** 2015
 
 Страница витрины: https://archive.decolonial.ist/63
 

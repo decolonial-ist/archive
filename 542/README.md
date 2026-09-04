@@ -1,7 +1,7 @@
 # Совершенно секретно: Лубянка - Сталину о положении в стране. Том 7, 1929 год
 
 **Автор:** Информационный отдел ОГПУ
-**Год:** 2004
+**Год публикации:** 2004
 **Где напечатано:** обзоры политического состояния СССР; М.
 **Архивный шифр:** ЦА ФСБ РФ Ф. 2. Оп. 7
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt) | текст | 190 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004_layer.txt](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004_layer.txt) | текст | 193 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf) | PDF | 190 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt) | текст | 190 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004_layer.txt](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004_layer.txt) | текст | 193 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf) | PDF | 190 КБ | в этой папке |
 
 ## Откуда это у нас
 

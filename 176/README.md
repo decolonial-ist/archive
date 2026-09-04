@@ -1,7 +1,7 @@
 # Заявление ГКЧП
 
 **Автор:** Государственный комитет по чрезвычайному положению в СССР
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** заявление от 18.08.1991; подписали Янаев Г., Павлов В., Бакланов О.
 
 Страница витрины: https://archive.decolonial.ist/176
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zayavlenie_gkchp_1991.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.txt) | текст | 6 KiB | в этой папке |
-| [zayavlenie_gkchp_1991.html](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.html) | сохранённая страница | 69 KiB | в этой папке |
-| [zayavlenie_gkchp_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991_layer.txt) | текст | 6 KiB | в этой папке |
-| [zayavlenie_gkchp_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.pdf) | PDF | 29 KiB | в этой папке |
+| [zayavlenie_gkchp_1991.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.txt) | текст | 6 КБ | в этой папке |
+| [zayavlenie_gkchp_1991.html](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.html) | сохранённая страница | 69 КБ | в этой папке |
+| [zayavlenie_gkchp_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991_layer.txt) | текст | 6 КБ | в этой папке |
+| [zayavlenie_gkchp_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

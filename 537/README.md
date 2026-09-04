@@ -1,7 +1,7 @@
 # Об искажениях классовой политики в Чечне
 
 **Автор:** Ларин Ф.
-**Год:** 1930
+**Год публикации:** 1930
 **Где напечатано:** Революция и горец: политико-экономический, литературно-публицистический и историко-краеведческий ежемесячник. Ростов н/Д, № 2 (16), февраль. С. 8-14; скан РНБ (Vivaldi)
 
 Страница витрины: https://archive.decolonial.ist/537
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf) | PDF | 2.4 MiB | в этой папке |
-| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt) | текст | 40 KiB | в этой папке |
+| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.pdf) | PDF | 2.4 МБ | в этой папке |
+| [ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt](https://github.com/decolonial-ist/archive/blob/main/537/ob_iskazheniyah_klassovoy_politiki_v_chechne_1930.txt) | текст | 40 КБ | в этой папке |
 
 ## Откуда это у нас
 

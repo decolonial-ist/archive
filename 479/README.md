@@ -1,7 +1,7 @@
 # О подготовке к операции по разоружению и борьбе с бандитизмом в Чечне
 
 **Автор:** АУП ЧР ф. Р-1299 оп. 1 д. 17; РГВА ф. 25896 оп. 9 д. 277
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** публ. Орсаханов А. Р., Садаев С. В. // Архивный вестник. Вып. 8. Грозный: Архивное управление Правительства ЧР, с. 36-65 (продолжение - вып. 9, 2023, с. 155-197)
 **Архивный шифр:** АУП ЧР ф. Р-1299 оп. 1 д. 17; РГВА ф. 25896 оп. 9 д. 277
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt) | текст | 115 KiB | в этой папке |
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt) | текст | 105 KiB | в этой папке |
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf) | PDF | 119 KiB | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt) | текст | 115 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt) | текст | 105 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf) | PDF | 119 КБ | в этой папке |
 
 ## Откуда это у нас
 

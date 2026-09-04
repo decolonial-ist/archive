@@ -1,7 +1,7 @@
 # Конвенция о законах и обычаях сухопутной войны
 
 **Автор:** Гаагская мирная конференция
-**Год:** 1907
+**Год публикации:** 1907
 **Где напечатано:** конвенция от 18.10.1907
 
 Страница витрины: https://archive.decolonial.ist/472
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html) | сохранённая страница | 47 KiB | в этой папке |
-| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt) | текст | 47 KiB | в этой папке |
-| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt) | текст | 48 KiB | в этой папке |
-| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf) | PDF | 66 KiB | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.html) | сохранённая страница | 47 КБ | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt) | текст | 47 КБ | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907_layer.txt) | текст | 48 КБ | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf) | PDF | 66 КБ | в этой папке |
 
 ## Откуда это у нас
 

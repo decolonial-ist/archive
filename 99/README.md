@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том III (1806-1809)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1869
+**Год публикации:** 1869
 
 Страница витрины: https://archive.decolonial.ist/99
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md](https://github.com/decolonial-ist/archive/blob/main/99/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md) | текст | 5.7 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/99__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf) | PDF | 100.5 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md](https://github.com/decolonial-ist/archive/blob/main/99/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md) | текст | 5.7 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/99__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf) | PDF | 100.5 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

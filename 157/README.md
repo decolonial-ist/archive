@@ -1,7 +1,7 @@
 # Малорусское наречие
 
 **Автор:** Булич С. К.
-**Год:** 1896
+**Год публикации:** 1896
 **Где напечатано:** Энциклопедический словарь Брокгауза и Ефрона, т. XVIIIa
 
 Страница витрины: https://archive.decolonial.ist/157
@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf) | PDF | 26 KiB | в этой папке |
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf) | PDF | 56 KiB | в этой папке |
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt) | текст | 3 KiB | в этой папке |
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt) | текст | 24 KiB | в этой папке |
-| [malorusskoe_narechie_1896_layer.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_layer.txt) | текст | 24 KiB | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf) | PDF | 26 КБ | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf) | PDF | 56 КБ | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt) | текст | 3 КБ | в этой папке |
+| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt) | текст | 24 КБ | в этой папке |
+| [malorusskoe_narechie_1896_layer.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_layer.txt) | текст | 24 КБ | в этой папке |
 
 ## Откуда это у нас
 

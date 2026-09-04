@@ -1,7 +1,7 @@
 # Історія України-Руси: Т. IX
 
 **Автор:** Грушевський М. С.
-**Год:** 1931
+**Год публикации:** 1931
 **Где напечатано:** кн. 2: Хмельниччини роки 1654–1657; переказ статейного списку посольства Бутурліна В. за Актами ЮЗР, т. X
 
 Страница витрины: https://archive.decolonial.ist/249
@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt) | текст | 63 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931_layer.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_layer.txt) | текст | 152 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt) | текст | 37 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt) | текст | 52 KiB | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf) | PDF | 154 KiB | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt) | текст | 63 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_layer.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_layer.txt) | текст | 152 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt) | текст | 37 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt) | текст | 52 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf) | PDF | 154 КБ | в этой папке |
 
 ## Откуда это у нас
 

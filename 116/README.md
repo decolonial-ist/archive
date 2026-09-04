@@ -1,7 +1,7 @@
 # Война на Восточном Кавказе с 1824 по 1834 г. в связи с мюридизмом
 
 **Автор:** Волконский Н. А.
-**Год:** 1886
+**Год публикации:** 1886
 
 Страница витрины: https://archive.decolonial.ist/116
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf) | PDF | 4.4 MiB | в этой папке |
-| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.txt](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.txt) | текст | 5.6 MiB | в этой папке |
-| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886_layer.txt](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886_layer.txt) | текст | 5.7 MiB | в этой папке |
+| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf) | PDF | 4.4 МБ | в этой папке |
+| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.txt](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.txt) | текст | 5.6 МБ | в этой папке |
+| [voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886_layer.txt](https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886_layer.txt) | текст | 5.7 МБ | в этой папке |
 
 ## Откуда это у нас
 

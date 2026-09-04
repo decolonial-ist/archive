@@ -1,7 +1,7 @@
 # The North Caucasus Borderland: Between Muscovy and the Ottoman Empire, 1555–1605
 
 **Автор:** Yaşar M.
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** Edinburgh: Edinburgh University Press, 2022. ISBN 978-1-4744-9869-2
 
 Страница витрины: https://archive.decolonial.ist/72

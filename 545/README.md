@@ -1,7 +1,7 @@
 # Приказ НКВД СССР № 00447
 
 **Автор:** Ежов Н. И.
-**Год:** 1937
+**Год публикации:** 1937
 **Где напечатано:** оперативный приказ НКВД СССР № 00447 от 30 июля 1937 года; подписан народным комиссаром внутренних дел; сов. секретно
 
 Страница витрины: https://archive.decolonial.ist/545
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_nkvd_sssr_no_00447_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937_layer.txt) | текст | 36 KiB | в этой папке |
-| [prikaz_nkvd_sssr_no_00447_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937.pdf) | PDF | 61 KiB | в этой папке |
+| [prikaz_nkvd_sssr_no_00447_1937_layer.txt](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937_layer.txt) | текст | 36 КБ | в этой папке |
+| [prikaz_nkvd_sssr_no_00447_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937.pdf) | PDF | 61 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # О мероприятиях по ликвидации кулацких хозяйств в районах сплошной коллективизации
 
 **Автор:** Политбюро Центрального комитета ВКП(б)
-**Год:** 1930
+**Год публикации:** 1930
 **Где напечатано:** постановление от 30 января 1930
 
 Страница витрины: https://archive.decolonial.ist/240
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt](https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt) | текст | 26 KiB | в этой папке |
-| [o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf) | PDF | 45 KiB | в этой папке |
+| [o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt](https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt) | текст | 26 КБ | в этой папке |
+| [o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf) | PDF | 45 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Ukraine: Cluster Munitions Launched Into Kharkiv Neighborhoods (Human Rights Watch)
 
 **Автор:** Human Rights Watch
-**Год:** 2022
+**Год публикации:** 2022
 
 Страница витрины: https://archive.decolonial.ist/517
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html) | сохранённая страница | 242 KiB | в этой папке |
-| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt) | текст | 9 KiB | в этой папке |
-| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf) | PDF | 36 KiB | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html) | сохранённая страница | 242 КБ | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt) | текст | 9 КБ | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

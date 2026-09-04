@@ -1,7 +1,7 @@
 # Ф. Дзержинський у взаєминах ВЧК та ВУЧК у 1919 р.
 
 **Автор:** Подкур Р. Ю.
-**Год:** 2013
+**Год публикации:** 2013
 **Где напечатано:** «З архівів ВУЧК-ГПУ-НКВД-КГБ», № 1/2 (40/41); статья в журнале; письмо Раковского Ленину 09.08.1919
 **Архивный шифр:** РГАСПИ, ф. 17, оп. 84, д. 12, лл. 16-17
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/564__f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf) | PDF | 11.8 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt) | текст | 235 KiB | в этой папке |
-| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt) | текст | 175 KiB | в этой папке |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/564__f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013.pdf) | PDF | 11.8 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_layer.txt) | текст | 235 КБ | в этой папке |
+| [f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/564/f_dzerzhinskiy_u_vzaeminah_vchk_ta_vuchk_u_1919_r_2013_ocr.txt) | текст | 175 КБ | в этой папке |
 
 ## Откуда это у нас
 

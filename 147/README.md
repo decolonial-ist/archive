@@ -1,7 +1,7 @@
 # Манифест об уничтожении Запорожской Сечи
 
 **Автор:** Екатерина II
-**Год:** 1775
+**Год публикации:** 1775
 **Где напечатано:** ПСЗРИ, т. XX, № 14354
 
 Страница витрины: https://archive.decolonial.ist/147
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt) | текст | 14 KiB | в этой папке |
-| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt) | текст | 13 KiB | в этой папке |
-| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf) | PDF | 41 KiB | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775_layer.txt) | текст | 14 КБ | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt) | текст | 13 КБ | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf) | PDF | 41 КБ | в этой папке |
 
 ## Откуда это у нас
 

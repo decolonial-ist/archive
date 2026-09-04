@@ -1,7 +1,7 @@
 # Приказ Реввоенсовета Республики № 579 о мерах по борьбе с партизанщиной в Красной Армии
 
 **Автор:** ЦГАСА, ф. 100, оп. 3, д. 1126, лл. 539об., 549–550. Типографский оттиск
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 2 (1967), док. № 579 (сам приказ - № 180, приложение к приказу армиям Южфронта № 1933)
 **Архивный шифр:** ЦГАСА, ф. 100, оп. 3, д. 1126, лл. 539об., 549–550. Типографский оттиск
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf) | PDF | 38 KiB | в этой папке |
-| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt) | текст | 14 KiB | в этой папке |
-| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919_layer.txt) | текст | 15 KiB | в этой папке |
+| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf) | PDF | 38 КБ | в этой папке |
+| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt) | текст | 14 КБ | в этой папке |
+| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919_layer.txt) | текст | 15 КБ | в этой папке |
 
 ## Откуда это у нас
 

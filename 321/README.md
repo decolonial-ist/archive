@@ -1,7 +1,7 @@
 # Update 4 – IAEA Director General Statement on Situation in Ukraine
 
 **Автор:** International Atomic Energy Agency
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** 28 February 2022; via ReliefWeb
 
 Страница витрины: https://archive.decolonial.ist/321
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf) | PDF | 33 KiB | в этой папке |
-| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt) | текст | 3 KiB | в этой папке |
-| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md) | текст | 4 KiB | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf) | PDF | 33 КБ | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt) | текст | 3 КБ | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас
 

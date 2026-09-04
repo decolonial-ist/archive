@@ -1,7 +1,7 @@
 # Декрет ВЦИК об объединении советских республик: России, Украины, Латвии, Литвы, Белоруссии для борьбы с мировым империализмом
 
 **Автор:** —
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** декрет от 1 июня 1919; документ
 
 Страница витрины: https://archive.decolonial.ist/559
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html) | сохранённая страница | 35 KiB | в этой папке |
-| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt) | текст | 16 KiB | в этой папке |
-| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919_layer.txt) | текст | 17 KiB | в этой папке |
-| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf) | PDF | 39 KiB | в этой папке |
+| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html) | сохранённая страница | 35 КБ | в этой папке |
+| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt) | текст | 16 КБ | в этой папке |
+| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919_layer.txt) | текст | 17 КБ | в этой папке |
+| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf) | PDF | 39 КБ | в этой папке |
 
 ## Откуда это у нас
 

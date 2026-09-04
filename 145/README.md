@@ -1,7 +1,7 @@
 # Указ об учреждении Малороссийской коллегии
 
 **Автор:** Екатерина II
-**Год:** 1764
+**Год публикации:** 1764
 **Где напечатано:** указ от 10 ноября 1764
 
 Страница витрины: https://archive.decolonial.ist/145
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764_layer.txt](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764_layer.txt) | текст | 7 KiB | в этой папке |
-| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf) | PDF | 31 KiB | в этой папке |
-| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt) | текст | 7 KiB | в этой папке |
+| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764_layer.txt](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764_layer.txt) | текст | 7 КБ | в этой папке |
+| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf) | PDF | 31 КБ | в этой папке |
+| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

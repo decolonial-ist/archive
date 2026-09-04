@@ -1,7 +1,7 @@
 # 64 отдельной мотострелковой бригаде присвоено почётное наименование гвардейской (kremlin.ru)
 
 **Автор:** Администрация президента РФ
-**Год:** 2022
+**Год публикации:** 2022
 
 Страница витрины: https://archive.decolonial.ist/509
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf) | PDF | 25 KiB | в этой папке |
-| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt) | текст | 2 KiB | в этой папке |
-| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022_layer.txt) | текст | 2 KiB | в этой папке |
-| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.html](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.html) | сохранённая страница | 37 KiB | в этой папке |
+| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf) | PDF | 25 КБ | в этой папке |
+| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt) | текст | 2 КБ | в этой папке |
+| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022_layer.txt) | текст | 2 КБ | в этой папке |
+| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.html](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.html) | сохранённая страница | 37 КБ | в этой папке |
 
 ## Откуда это у нас
 

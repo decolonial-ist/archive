@@ -1,7 +1,7 @@
 # История сталинского Гулага
 
 **Автор:** —
-**Год:** 2004
+**Год публикации:** 2004
 **Где напечатано:** Т. 1. Массовые репрессии в СССР. М.: РОССПЭН; документы № 161-165 (с. 486-494)
 
 Страница витрины: https://archive.decolonial.ist/555
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_stalinskogo_gulaga_2004.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.txt) | текст | 10 KiB | в этой папке |
-| [istoriya_stalinskogo_gulaga_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf) | PDF | 53 KiB | в этой папке |
-| [istoriya_stalinskogo_gulaga_2004_layer.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004_layer.txt) | текст | 23 KiB | в этой папке |
-| [istoriya_stalinskogo_gulaga_2004.md](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md) | текст | 12 KiB | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.txt) | текст | 10 КБ | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf) | PDF | 53 КБ | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004_layer.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004_layer.txt) | текст | 23 КБ | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.md](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас
 

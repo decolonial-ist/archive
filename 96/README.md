@@ -1,7 +1,7 @@
 # Записки А.П. Ермолова. 1798-1826 гг.
 
 **Автор:** Ермолов А. П.
-**Год:** 1991
+**Год публикации:** 1991
 
 Страница витрины: https://archive.decolonial.ist/96
 
@@ -9,14 +9,14 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_layer.txt) | текст | 1.8 MiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_3.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_3.html) | сохранённая страница | 29 KiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_2.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_2.html) | сохранённая страница | 310 KiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_5.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_5.html) | сохранённая страница | 634 KiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_4.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_4.html) | сохранённая страница | 533 KiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991.pdf) | PDF | 1.4 MiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_6.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_6.html) | сохранённая страница | 7 KiB | в этой папке |
-| [zapiski_a_p_ermolova_1798_1826_gg_1991_1.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_1.html) | сохранённая страница | 21 KiB | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_layer.txt) | текст | 1.8 МБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_3.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_3.html) | сохранённая страница | 29 КБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_2.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_2.html) | сохранённая страница | 310 КБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_5.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_5.html) | сохранённая страница | 634 КБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_4.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_4.html) | сохранённая страница | 533 КБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991.pdf) | PDF | 1.4 МБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_6.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_6.html) | сохранённая страница | 7 КБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991_1.html](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991_1.html) | сохранённая страница | 21 КБ | в этой папке |
 
 ## Откуда это у нас
 

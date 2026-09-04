@@ -1,7 +1,7 @@
 # Об организации Всеукраинской Чрезвычайной Комиссии
 
 **Автор:** Временное рабоче-крестьянское правительство Украины
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** декрет от 3 декабря 1918; реквизиты по сноскам Якубовой, текст НЕ ДОБЫТ
 
 Страница витрины: https://archive.decolonial.ist/575
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf) | PDF | 28 KiB | в этой папке |
-| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt) | текст | 2 KiB | в этой папке |
-| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt) | текст | 3 KiB | в этой папке |
+| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf) | PDF | 28 КБ | в этой папке |
+| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt) | текст | 2 КБ | в этой папке |
+| [ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас
 

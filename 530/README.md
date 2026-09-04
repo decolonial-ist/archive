@@ -1,7 +1,7 @@
 # UN report details increase in civilian deaths amid systematic strikes on energy facilities (OHCHR)
 
 **Автор:** Office of the United Nations High Commissioner for Human Rights
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** Human Rights Monitoring Mission in Ukraine
 
 Страница витрины: https://archive.decolonial.ist/530
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt) | текст | 34 KiB | в этой папке |
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_en.html](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_en.html) | сохранённая страница | 53 KiB | в этой папке |
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_ru.html](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_ru.html) | сохранённая страница | 62 KiB | в этой папке |
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf) | PDF | 54 KiB | в этой папке |
+| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt) | текст | 34 КБ | в этой папке |
+| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_en.html](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_en.html) | сохранённая страница | 53 КБ | в этой папке |
+| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_ru.html](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_ru.html) | сохранённая страница | 62 КБ | в этой папке |
+| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf) | PDF | 54 КБ | в этой папке |
 
 ## Откуда это у нас
 

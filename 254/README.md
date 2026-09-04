@@ -1,7 +1,7 @@
 # Становление и развитие нефтяной промышленности в Терской области
 
 **Автор:** Гайтамирова С. А.
-**Год:** 2018
+**Год публикации:** 2018
 
 Страница витрины: https://archive.decolonial.ist/254
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/254/stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt) | текст | 32 KiB | в этой папке |
-| [stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/254/stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf) | PDF | 3.4 MiB | в этой папке |
+| [stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/254/stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt) | текст | 32 КБ | в этой папке |
+| [stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/254/stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf) | PDF | 3.4 МБ | в этой папке |
 
 ## Откуда это у нас
 

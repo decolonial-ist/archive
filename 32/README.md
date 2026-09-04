@@ -1,7 +1,7 @@
 # 2015 Ukraine Electric Power Attack | MITRE ATT&CK®
 
 **Автор:** MITRE ATT&CK®
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/32
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.html](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.html) | сохранённая страница | 92 KiB | в этой папке |
-| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt) | текст | 11 KiB | в этой папке |
-| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf) | PDF | 56 KiB | в этой папке |
+| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.html](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.html) | сохранённая страница | 92 КБ | в этой папке |
+| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt) | текст | 11 КБ | в этой папке |
+| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf) | PDF | 56 КБ | в этой папке |
 
 ## Откуда это у нас
 

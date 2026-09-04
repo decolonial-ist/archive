@@ -1,7 +1,7 @@
 # Инструкция о преподавании мусульманского вероучения
 
 **Автор:** Народный комиссариат внутренних дел РСФСР и Народный комиссариат просвещения РСФСР
-**Год:** 1925
+**Год публикации:** 1925
 **Где напечатано:** инструкция № 446/72/цс от 21 августа 1925 г.; подписали Болдырев Н. Н., Яковлева В. Н.
 **Архивный шифр:** ГА РФ Ф. Р-5263. Оп. 2. Д. 1. Л. 13-13 об.
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md) | текст | 7 KiB | в этой папке |
-| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt) | текст | 8 KiB | в этой папке |
-| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf) | PDF | 31 KiB | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md) | текст | 7 КБ | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925_layer.txt) | текст | 8 КБ | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

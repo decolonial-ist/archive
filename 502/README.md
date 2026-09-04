@@ -1,7 +1,7 @@
 # Останні дні збройної боротьби (21.XI.1920 — 21.XI.1930)
 
 **Автор:** Середа М. Т.
-**Год:** 1930
+**Год публикации:** 1930
 **Где напечатано:** Літопис Червоної Калини, ч. 12
 
 Страница витрины: https://archive.decolonial.ist/502
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt) | текст | 207 KiB | в этой папке |
-| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf) | PDF | 207 KiB | в этой папке |
-| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt) | текст | 203 KiB | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930_layer.txt) | текст | 207 КБ | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf) | PDF | 207 КБ | в этой папке |
+| [ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt](https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.txt) | текст | 203 КБ | в этой папке |
 
 ## Откуда это у нас
 

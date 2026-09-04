@@ -1,7 +1,7 @@
 # Сказание очевидца о Шамиле
 
 **Автор:** Гаджи-Али
-**Год:** 1873
+**Год публикации:** 1873
 
 Страница витрины: https://archive.decolonial.ist/123
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [skazanie_ochevidca_o_shamile_1873_layer.txt](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873_layer.txt) | текст | 226 KiB | в этой папке |
-| [skazanie_ochevidca_o_shamile_1873.txt](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.txt) | текст | 221 KiB | в этой папке |
-| [skazanie_ochevidca_o_shamile_1873.pdf](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.pdf) | PDF | 199 KiB | в этой папке |
+| [skazanie_ochevidca_o_shamile_1873_layer.txt](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873_layer.txt) | текст | 226 КБ | в этой папке |
+| [skazanie_ochevidca_o_shamile_1873.txt](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.txt) | текст | 221 КБ | в этой папке |
+| [skazanie_ochevidca_o_shamile_1873.pdf](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.pdf) | PDF | 199 КБ | в этой папке |
 
 ## Откуда это у нас
 

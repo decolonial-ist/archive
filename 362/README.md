@@ -1,7 +1,7 @@
 # 1876 - підписано Емський указ
 
 **Автор:** Український інститут національної пам'яті
-**Год:** 2026
+**Год публикации:** 2026
 
 Страница витрины: https://archive.decolonial.ist/362
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [1876_pidpisano_emskiy_ukaz_2026.html](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.html) | сохранённая страница | 149 KiB | в этой папке |
-| [1876_pidpisano_emskiy_ukaz_2026.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.txt) | текст | 7 KiB | в этой папке |
-| [1876_pidpisano_emskiy_ukaz_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026_layer.txt) | текст | 7 KiB | в этой папке |
-| [1876_pidpisano_emskiy_ukaz_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.pdf) | PDF | 31 KiB | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2026.html](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.html) | сохранённая страница | 149 КБ | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2026.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.txt) | текст | 7 КБ | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026_layer.txt) | текст | 7 КБ | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

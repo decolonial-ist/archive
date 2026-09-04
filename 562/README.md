@@ -1,7 +1,7 @@
 # Красный террор в России
 
 **Автор:** Мельгунов С. П.
-**Год:** 1924
+**Год публикации:** 1924
 **Где напечатано:** монография
 
 Страница витрины: https://archive.decolonial.ist/562
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [krasnyy_terror_v_rossii_1924.txt](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.txt) | текст | 922 KiB | в этой папке |
-| [krasnyy_terror_v_rossii_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf) | PDF | 759 KiB | в этой папке |
+| [krasnyy_terror_v_rossii_1924.txt](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.txt) | текст | 922 КБ | в этой папке |
+| [krasnyy_terror_v_rossii_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf) | PDF | 759 КБ | в этой папке |
 
 ## Откуда это у нас
 

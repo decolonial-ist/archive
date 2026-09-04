@@ -1,7 +1,7 @@
 # Источники Малороссийской истории, собранные Д.Н.Бантышем-Каменским и изданные О.Бодянским. Часть 2 (1691-1722)
 
 **Автор:** Бантыш-Каменский Д. Н.
-**Год:** 1859
+**Год публикации:** 1859
 **Где напечатано:** публ. Бодянский О. М.; Чтения в Обществе истории и древностей российских, кн. 1
 
 Страница витрины: https://archive.decolonial.ist/393
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf) | PDF | 65 KiB | в этой папке |
-| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt) | текст | 36 KiB | в этой папке |
-| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt) | текст | 37 KiB | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf) | PDF | 65 КБ | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt) | текст | 36 КБ | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859_layer.txt) | текст | 37 КБ | в этой папке |
 
 ## Откуда это у нас
 

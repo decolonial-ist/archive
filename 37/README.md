@@ -1,7 +1,7 @@
 # Campaign C0026 | MITRE ATT&CK®
 
 **Автор:** MITRE ATT&CK®
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/37
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [campaign_c0026_mitre_att_ck_2023.html](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.html) | сохранённая страница | 66 KiB | в этой папке |
-| [campaign_c0026_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf) | PDF | 44 KiB | в этой папке |
-| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 6 KiB | в этой папке |
-| [campaign_c0026_mitre_att_ck_2023_2.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023_2.pdf) | PDF | 44 KiB | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.html](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.html) | сохранённая страница | 66 КБ | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf) | PDF | 44 КБ | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 6 КБ | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023_2.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023_2.pdf) | PDF | 44 КБ | в этой папке |
 
 ## Откуда это у нас
 

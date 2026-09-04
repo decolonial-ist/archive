@@ -1,7 +1,7 @@
 # Сообщение Бюро информации при Совете рабоче-крестьянской обороны УССР о положении в Киеве после захвата его деникинцами
 
 **Автор:** ЦГАОР УССР, ф. 2579, оп. 1, д. 7, лл. 33-35
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** «Гражданская война на Украине», т. 2, 1967, док. № 398; документ
 **Архивный шифр:** ЦГАОР УССР, ф. 2579, оп. 1, д. 7, лл. 33-35
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf) | PDF | 37 KiB | в этой папке |
-| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt) | текст | 10 KiB | в этой папке |
-| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt) | текст | 11 KiB | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf) | PDF | 37 КБ | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt) | текст | 10 КБ | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919_layer.txt) | текст | 11 КБ | в этой папке |
 
 ## Откуда это у нас
 

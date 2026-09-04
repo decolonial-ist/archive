@@ -1,7 +1,7 @@
 # Погром Чечни (1852)
 
 **Автор:** Волконский Н. А.
-**Год:** 1880
+**Год публикации:** 1880
 
 Страница витрины: https://archive.decolonial.ist/119
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pogrom_chechni_1852_1880.pdf](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880.pdf) | PDF | 4.4 MiB | в этой папке |
-| [pogrom_chechni_1852_1880.txt](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880.txt) | текст | 5.6 MiB | в этой папке |
-| [pogrom_chechni_1852_1880_layer.txt](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880_layer.txt) | текст | 5.7 MiB | в этой папке |
+| [pogrom_chechni_1852_1880.pdf](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880.pdf) | PDF | 4.4 МБ | в этой папке |
+| [pogrom_chechni_1852_1880.txt](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880.txt) | текст | 5.6 МБ | в этой папке |
+| [pogrom_chechni_1852_1880_layer.txt](https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880_layer.txt) | текст | 5.7 МБ | в этой папке |
 
 ## Откуда это у нас
 

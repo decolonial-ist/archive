@@ -1,7 +1,7 @@
 # African Borders: Neither Random Nor Decided at the Berlin Conference
 
 **Автор:** Paine J., Qiu X., Ricart-Huguet J.
-**Год:** 2025
+**Год публикации:** 2025
 
 Страница витрины: https://archive.decolonial.ist/58
 

@@ -1,7 +1,7 @@
 # Воспоминания. Книга 2. Год на Кавказе. 1839-1840
 
 **Автор:** Милютин Д. А.
-**Год:** 1919
+**Год публикации:** 1919
 
 Страница витрины: https://archive.decolonial.ist/137
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt) | текст | 557 KiB | в этой папке |
-| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf) | PDF | 461 KiB | в этой папке |
-| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md) | текст | 544 KiB | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919_layer.txt) | текст | 557 КБ | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf) | PDF | 461 КБ | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md) | текст | 544 КБ | в этой папке |
 
 ## Откуда это у нас
 

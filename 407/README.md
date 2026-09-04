@@ -1,7 +1,7 @@
 # Памятник царю-освободителю императору Александру II
 
 **Автор:** —
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** фототипия из серии «Виды Кіева» по фотографии Гудшона и Губчевского; электронная копия Президентской библиотеки, оригинал — Национальная парламентская библиотека Украины
 
 Страница витрины: https://archive.decolonial.ist/407
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt) | текст | 8 KiB | в этой папке |
-| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf) | PDF | 35 KiB | в этой папке |
-| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt) | текст | 7 KiB | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026_layer.txt) | текст | 8 КБ | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.pdf) | PDF | 35 КБ | в этой папке |
+| [pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt](https://github.com/decolonial-ist/archive/blob/main/407/pamyatnik_caryu_osvoboditelyu_imperatoru_aleksandru_ii_2026.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

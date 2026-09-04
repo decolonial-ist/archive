@@ -1,7 +1,7 @@
 # Memorandum of Conversation: Meeting with President of Russia (Sochi)
 
 **Автор:** Білий дім
-**Год:** 2008
+**Год публикации:** 2008
 **Где напечатано:** розсекречено 2025; National Security Archive
 
 Страница витрины: https://archive.decolonial.ist/220

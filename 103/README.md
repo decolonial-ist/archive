@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том VI, часть вторая (1816-1827)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1875
+**Год публикации:** 1875
 
 Страница витрины: https://archive.decolonial.ist/103
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md](https://github.com/decolonial-ist/archive/blob/main/103/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md) | текст | 6.9 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf) | PDF | 120.9 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md](https://github.com/decolonial-ist/archive/blob/main/103/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md) | текст | 6.9 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf) | PDF | 120.9 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

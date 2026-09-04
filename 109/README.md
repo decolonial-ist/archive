@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том XII (1856-1862)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1904
+**Год публикации:** 1904
 
 Страница витрины: https://archive.decolonial.ist/109
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md) | текст | 13.5 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf) | PDF | 323.4 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md) | текст | 13.5 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf) | PDF | 323.4 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Bucha: nine Russian soldiers sentenced and more trials to come (JusticeInfo)
 
 **Автор:** —
-**Год:** 2023
+**Год публикации:** 2023
 **Где напечатано:** Justice Info; Fondation Hirondelle
 
 Страница витрины: https://archive.decolonial.ist/508

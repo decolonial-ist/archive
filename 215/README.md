@@ -1,7 +1,7 @@
 # Cable 08KYIV2414: Firtash makes his case to the USG
 
 **Автор:** Посольство США в Києві
-**Год:** 2008
+**Год публикации:** 2008
 **Где напечатано:** WikiLeaks PlusD
 
 Страница витрины: https://archive.decolonial.ist/215

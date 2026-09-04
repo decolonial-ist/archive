@@ -1,7 +1,7 @@
 # Директива ЦК ВКП(б) и СНК СССР № 65/ш
 
 **Автор:** Сталин И., Молотов В. М.
-**Год:** 1933
+**Год публикации:** 1933
 **Где напечатано:** директива от 22 января 1933
 
 Страница витрины: https://archive.decolonial.ist/235
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt) | текст | 9 KiB | в этой папке |
-| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf) | PDF | 35 KiB | в этой папке |
+| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt) | текст | 9 КБ | в этой папке |
+| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf) | PDF | 35 КБ | в этой папке |
 
 ## Откуда это у нас
 

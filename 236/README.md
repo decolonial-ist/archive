@@ -1,7 +1,7 @@
 # Доклад Верховного комиссара ООН по правам человека о положении в области прав человека в Украине (A/HRC/27/75)
 
 **Автор:** Управління Верховного комісара ООН з прав людини
-**Год:** 2014
+**Год публикации:** 2014
 
 Страница витрины: https://archive.decolonial.ist/236
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt) | текст | 800 KiB | в этой папке |
-| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt) | текст | 798 KiB | в этой папке |
-| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf) | PDF | 2.8 MiB | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt) | текст | 800 КБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt) | текст | 798 КБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf) | PDF | 2.8 МБ | в этой папке |
 
 ## Откуда это у нас
 

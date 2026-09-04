@@ -1,7 +1,7 @@
 # The Russia-Ukraine War Report Card, May 13, 2026
 
 **Автор:** Russia Matters (Belfer Center, Harvard Kennedy School)
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** данные Institute for the Study of War по состоянию на 12.05.2026
 
 Страница витрины: https://archive.decolonial.ist/473

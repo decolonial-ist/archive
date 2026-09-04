@@ -1,7 +1,7 @@
 # Виктор Янукович и Владимир Путин достигли компромисса в Москве
 
 **Автор:** —
-**Год:** 2013
+**Год публикации:** 2013
 **Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/234
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf) | PDF | 43 KiB | в этой папке |
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html) | сохранённая страница | 94 KiB | в этой папке |
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt) | текст | 23 KiB | в этой папке |
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt) | текст | 18 KiB | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf) | PDF | 43 КБ | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html) | сохранённая страница | 94 КБ | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt) | текст | 23 КБ | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt) | текст | 18 КБ | в этой папке |
 
 ## Откуда это у нас
 

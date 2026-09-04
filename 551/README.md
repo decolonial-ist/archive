@@ -1,7 +1,7 @@
 # Рекомендация Европейского парламента по отношениям ЕС-Россия
 
 **Автор:** Европейский парламент
-**Год:** 2004
+**Год публикации:** 2004
 **Где напечатано:** recommendation to the Council on EU-Russia relations, P5_TA(2004)0121, 26 февраля 2004 года
 
 Страница витрины: https://archive.decolonial.ist/551
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf) | PDF | 175 KiB | в этой папке |
-| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt) | текст | 41 KiB | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf) | PDF | 175 КБ | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt) | текст | 41 КБ | в этой папке |
 
 ## Откуда это у нас
 

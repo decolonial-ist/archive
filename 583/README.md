@@ -1,7 +1,7 @@
 # Протокол заседания представителей уездных органов Советской власти в д. Тютьковичи
 
 **Автор:** —
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Книга погромов. Погромы на Украине... 1918–1922 (2007), док. № 63
 
 Страница витрины: https://archive.decolonial.ist/583
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf) | PDF | 33 KiB | в этой папке |
-| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt) | текст | 10 KiB | в этой папке |
-| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt) | текст | 9 KiB | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf) | PDF | 33 КБ | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt) | текст | 10 КБ | в этой папке |
+| [protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919_layer.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 

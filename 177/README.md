@@ -1,7 +1,7 @@
 # Постанова ВР УРСР про проведення референдуму
 
 **Автор:** Верховна Рада УРСР
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** постанова № 788-XII від 27.02.1991
 
 Страница витрины: https://archive.decolonial.ist/177
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt) | текст | 9 KiB | в этой папке |
-| [postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf) | PDF | 80 KiB | в этой папке |
-| [postanova_vr_ursr_pro_provedennya_referendumu_1991.html](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.html) | сохранённая страница | 42 KiB | в этой папке |
-| [postanova_vr_ursr_pro_provedennya_referendumu_1991.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.txt) | текст | 3 KiB | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991_layer.txt) | текст | 9 КБ | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf) | PDF | 80 КБ | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.html](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.html) | сохранённая страница | 42 КБ | в этой папке |
+| [postanova_vr_ursr_pro_provedennya_referendumu_1991.txt](https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас
 

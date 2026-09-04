@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи. Собрание второе. Том XXX, отделение 1 (1855)
 
 **Автор:** —
-**Год:** 1856
+**Год публикации:** 1856
 **Где напечатано:** акты № 28991-28993 от 29 января 1855 г. (манифест о государственном ополчении, повод к «Киевской козаччине»); ПСЗРИ
 
 Страница витрины: https://archive.decolonial.ist/449
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt) | текст | 4.8 MiB | в этой папке |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf) | PDF | 4.0 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.txt) | текст | 4.8 МБ | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf](https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf) | PDF | 4.0 МБ | в этой папке |
 
 ## Откуда это у нас
 

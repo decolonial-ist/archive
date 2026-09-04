@@ -1,7 +1,7 @@
 # Постановление ВУЦИК о проведении всеобщей мобилизации
 
 **Автор:** —
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** «Коммунист», № 95, 1 июля 1919; Гражданская война на Украине, т. 2 (1967), док. № 219
 
 Страница витрины: https://archive.decolonial.ist/578
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf) | PDF | 28 KiB | в этой папке |
-| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt) | текст | 2 KiB | в этой папке |
-| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt) | текст | 2 KiB | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf) | PDF | 28 КБ | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt) | текст | 2 КБ | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919_layer.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 

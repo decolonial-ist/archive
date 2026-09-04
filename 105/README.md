@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том VIII (1831-1837)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1881
+**Год публикации:** 1881
 
 Страница витрины: https://archive.decolonial.ist/105
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md](https://github.com/decolonial-ist/archive/blob/main/105/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md) | текст | 7.8 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf) | PDF | 155.3 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md](https://github.com/decolonial-ist/archive/blob/main/105/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md) | текст | 7.8 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf) | PDF | 155.3 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Доклад Евдокимова о политическом состоянии национальных областей
 
 **Автор:** Евдокимов Е. Г.
-**Год:** 1928
+**Год публикации:** 1928
 **Где напечатано:** полномочный представитель ОГПУ на Северном Кавказе; доклад, февраль 1928; по сводным материалам ИНФО ПП ОГПУ СКК за 1927 год
 **Архивный шифр:** ГАРФ Ф. Р-374. Оп. 27. Д. 899
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt) | текст | 30 KiB | в этой папке |
-| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf) | PDF | 51 KiB | в этой папке |
-| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928_layer.txt](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928_layer.txt) | текст | 32 KiB | в этой папке |
+| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt) | текст | 30 КБ | в этой папке |
+| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf) | PDF | 51 КБ | в этой папке |
+| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928_layer.txt](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928_layer.txt) | текст | 32 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи. Собрание первое. Том XX (1775-1780)
 
 **Автор:** Екатерина II
-**Год:** 1830
+**Год публикации:** 1830
 **Где напечатано:** манифест № 15554 от 5 августа 1775 г. «Об уничтожении Запорожской Сечи»; ПСЗРИ
 
 Страница витрины: https://archive.decolonial.ist/390
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/390__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf) | PDF | 56.7 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/390/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830_ocr.txt) | текст | 6.2 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/390__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf) | PDF | 56.7 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/390/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830_ocr.txt) | текст | 6.2 МБ | в этой папке |
 
 ## Откуда это у нас
 

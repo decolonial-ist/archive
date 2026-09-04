@@ -1,7 +1,7 @@
 # Приказ главноначальствующего Екатеринославской, Харьковской, Курской и Полтавской губерний генерала Май-Маевского № 22
 
 **Автор:** —
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 2 (1967), док. № 320; «Голос Юга», № 3, 8 августа 1919
 
 Страница витрины: https://archive.decolonial.ist/582
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf) | PDF | 35 KiB | в этой папке |
-| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt) | текст | 6 KiB | в этой папке |
-| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt) | текст | 7 KiB | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf) | PDF | 35 КБ | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt) | текст | 6 КБ | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919_layer.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

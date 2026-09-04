@@ -1,7 +1,7 @@
 # Сообщение о введении деникинцами военной и губернаторской цензуры на печатные издания
 
 **Автор:** ЦГАОР УССР, ф. 2579, оп. 2, д. 3, л. 17. Отпуск
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 2 (1967)
 **Архивный шифр:** ЦГАОР УССР, ф. 2579, оп. 2, д. 3, л. 17. Отпуск
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf) | PDF | 27 KiB | в этой папке |
-| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt) | текст | 2 KiB | в этой папке |
-| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt) | текст | 2 KiB | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf) | PDF | 27 КБ | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt) | текст | 2 КБ | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919_layer.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 

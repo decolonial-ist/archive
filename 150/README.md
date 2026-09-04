@@ -1,7 +1,7 @@
 # Указ о правах гражданства евреев
 
 **Автор:** Екатерина II
-**Год:** 1791
+**Год публикации:** 1791
 **Где напечатано:** указ от 23 декабря 1791; ПСЗРИ, т. XXIII, № 17006
 
 Страница витрины: https://archive.decolonial.ist/150
@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_o_pravah_grazhdanstva_evreev_1791.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/150__ukaz_o_pravah_grazhdanstva_evreev_1791.pdf) | PDF | 56.2 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [ukaz_o_pravah_grazhdanstva_evreev_1791.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/150__ukaz_o_pravah_grazhdanstva_evreev_1791.pdf) | PDF | 56.2 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

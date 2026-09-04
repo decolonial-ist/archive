@@ -1,7 +1,7 @@
 # La Situation de la Religion dans la République des Montagnards
 
 **Автор:** Un Montagnard (аноним, горец Северного Кавказа)
-**Год:** 1930
+**Год публикации:** 1930
 **Где напечатано:** Prométhée. Париж, № 46 (septembre). С. 15-18; скан Gallica / BnF
 
 Страница витрины: https://archive.decolonial.ist/486
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf) | PDF | 57 KiB | в этой папке |
-| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt) | текст | 22 KiB | в этой папке |
+| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf) | PDF | 57 КБ | в этой папке |
+| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt) | текст | 22 КБ | в этой папке |
 
 ## Откуда это у нас
 

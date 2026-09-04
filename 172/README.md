@@ -1,7 +1,7 @@
 # Постановление Съезда народных депутатов СССР о секретных протоколах
 
 **Автор:** Съезд народных депутатов СССР
-**Год:** 1989
+**Год публикации:** 1989
 **Где напечатано:** постановление № 979-1 от 24.12.1989
 
 Страница витрины: https://archive.decolonial.ist/172
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt) | текст | 9 KiB | в этой папке |
-| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf) | PDF | 33 KiB | в этой папке |
+| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt) | текст | 9 КБ | в этой папке |
+| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Закон «Об укреплении связи школы с жизнью и о дальнейшем развитии системы народного образования в СССР»
 
 **Автор:** Верховный Совет СССР
-**Год:** 1958
+**Год публикации:** 1958
 **Где напечатано:** закон от 24 декабря 1958; подписал Ворошилов К.
 
 Страница витрины: https://archive.decolonial.ist/404
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt) | текст | 136 KiB | в этой папке |
-| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf) | PDF | 120 KiB | в этой папке |
+| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt) | текст | 136 КБ | в этой папке |
+| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf) | PDF | 120 КБ | в этой папке |
 
 ## Откуда это у нас
 

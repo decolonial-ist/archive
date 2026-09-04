@@ -1,7 +1,7 @@
 # Трагедия советской деревни. Коллективизация и раскулачивание. Том 2. Ноябрь 1929 - декабрь 1930
 
 **Автор:** —
-**Год:** 2000
+**Год публикации:** 2000
 **Где напечатано:** М.: РОССПЭН; ред. Данилов В. и др.
 
 Страница витрины: https://archive.decolonial.ist/543
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html) | сохранённая страница | 20 KiB | в этой папке |
-| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt) | текст | 3 KiB | в этой папке |
-| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf) | PDF | 28 KiB | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html) | сохранённая страница | 20 КБ | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt) | текст | 3 КБ | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf) | PDF | 28 КБ | в этой папке |
 
 ## Откуда это у нас
 

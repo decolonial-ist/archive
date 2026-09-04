@@ -1,7 +1,7 @@
 # Высочайше утвержденный доклад князя Шаховского, генерал-аншефа Панина об учреждении Слободской губернии
 
 **Автор:** Екатерина II
-**Год:** 1764
+**Год публикации:** 1764
 **Где напечатано:** указ от 16 декабря 1764; ПСЗРИ, т. XVI, № 12293
 
 Страница витрины: https://archive.decolonial.ist/395
@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/395__vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf) | PDF | 60.6 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/395__vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf) | PDF | 60.6 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

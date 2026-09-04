@@ -1,7 +1,7 @@
 # Нота правительства СССР послу Польши
 
 **Автор:** Молотов В. М.
-**Год:** 1939
+**Год публикации:** 1939
 **Где напечатано:** нота послу Гжибовскому 17.09.1939; публ.: «Правда», 18.09.1939
 
 Страница витрины: https://archive.decolonial.ist/165
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nota_pravitelstva_sssr_poslu_polshi_1939.txt](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.txt) | текст | 5 KiB | в этой папке |
-| [nota_pravitelstva_sssr_poslu_polshi_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.pdf) | PDF | 30 KiB | в этой папке |
+| [nota_pravitelstva_sssr_poslu_polshi_1939.txt](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.txt) | текст | 5 КБ | в этой папке |
+| [nota_pravitelstva_sssr_poslu_polshi_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

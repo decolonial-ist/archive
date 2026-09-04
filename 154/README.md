@@ -1,7 +1,7 @@
 # Дневник писателя
 
 **Автор:** Достоевский Ф. М.
-**Год:** 1877
+**Год публикации:** 1877
 **Где напечатано:** Собрание сочинений в 15 томах. Т. 14. СПб.: Наука, 1995
 
 Страница витрины: https://archive.decolonial.ist/154
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dnevnik_pisatelya_1877.txt](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.txt) | текст | 23 KiB | в этой папке |
-| [dnevnik_pisatelya_1877.pdf](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.pdf) | PDF | 42 KiB | в этой папке |
+| [dnevnik_pisatelya_1877.txt](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.txt) | текст | 23 КБ | в этой папке |
+| [dnevnik_pisatelya_1877.pdf](https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.pdf) | PDF | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Territorial integrity of Ukraine: defending the principles of the Charter of the United Nations (A/RES/ES-11/4)
 
 **Автор:** Генеральна Асамблея ООН
-**Год:** 2022
+**Год публикации:** 2022
 
 Страница витрины: https://archive.decolonial.ist/226
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html) | сохранённая страница | 187 KiB | в этой папке |
-| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt) | текст | 8 KiB | в этой папке |
-| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf) | PDF | 369 KiB | в этой папке |
+| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html) | сохранённая страница | 187 КБ | в этой папке |
+| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt) | текст | 8 КБ | в этой папке |
+| [territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf) | PDF | 369 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Кіевская старина № 10
 
 **Автор:** Анна Иоанновна
-**Год:** 1905
+**Год публикации:** 1905
 **Где напечатано:** секретный указ 1734 г.; архивная публикация
 
 Страница витрины: https://archive.decolonial.ist/158
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kievskaya_starina_no_10_1905.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.txt) | текст | 606 KiB | в этой папке |
-| [kievskaya_starina_no_10_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905_layer.txt) | текст | 614 KiB | в этой папке |
-| [kievskaya_starina_no_10_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.pdf) | PDF | 549 KiB | в этой папке |
+| [kievskaya_starina_no_10_1905.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.txt) | текст | 606 КБ | в этой папке |
+| [kievskaya_starina_no_10_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905_layer.txt) | текст | 614 КБ | в этой папке |
+| [kievskaya_starina_no_10_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.pdf) | PDF | 549 КБ | в этой папке |
 
 ## Откуда это у нас
 

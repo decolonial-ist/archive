@@ -1,7 +1,7 @@
 # Горська Алла Олександрівна
 
 **Автор:** Овсієнко В. В.
-**Год:** 2005
+**Год публикации:** 2005
 **Где напечатано:** Музей дисидентського руху Харківської правозахисної групи
 
 Страница витрины: https://archive.decolonial.ist/188
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [gorska_alla_oleksandrivna_2005.txt](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.txt) | текст | 10 KiB | в этой папке |
-| [gorska_alla_oleksandrivna_2005.html](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.html) | сохранённая страница | 22 KiB | в этой папке |
-| [gorska_alla_oleksandrivna_2005_layer.txt](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005_layer.txt) | текст | 11 KiB | в этой папке |
-| [gorska_alla_oleksandrivna_2005.pdf](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.pdf) | PDF | 35 KiB | в этой папке |
+| [gorska_alla_oleksandrivna_2005.txt](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.txt) | текст | 10 КБ | в этой папке |
+| [gorska_alla_oleksandrivna_2005.html](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.html) | сохранённая страница | 22 КБ | в этой папке |
+| [gorska_alla_oleksandrivna_2005_layer.txt](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005_layer.txt) | текст | 11 КБ | в этой папке |
+| [gorska_alla_oleksandrivna_2005.pdf](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.pdf) | PDF | 35 КБ | в этой папке |
 
 ## Откуда это у нас
 

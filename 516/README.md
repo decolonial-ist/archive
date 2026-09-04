@@ -1,7 +1,7 @@
 # Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR)
 
 **Автор:** Office of the United Nations High Commissioner for Human Rights
-**Год:** 2024
+**Год публикации:** 2024
 **Где напечатано:** Human Rights Monitoring Mission in Ukraine
 
 Страница витрины: https://archive.decolonial.ist/516
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf) | PDF | 1.3 MiB | в этой папке |
-| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt) | текст | 133 KiB | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf) | PDF | 1.3 МБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt) | текст | 133 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Russia's Steppe Frontier: The Making of a Colonial Empire 1500-1800
 
 **Автор:** Khodarkovsky M.
-**Год:** 2002
+**Год публикации:** 2002
 **Где напечатано:** Bloomington: Indiana University Press, 2002. ISBN 978-0-253-21770-7
 
 Страница витрины: https://archive.decolonial.ist/70

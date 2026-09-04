@@ -1,7 +1,7 @@
 # Указ о передаче Крымской области из состава РСФСР в состав УССР
 
 **Автор:** Президиум Верховного Совета СССР
-**Год:** 1954
+**Год публикации:** 1954
 **Где напечатано:** указ от 19 февраля 1954
 
 Страница витрины: https://archive.decolonial.ist/169
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt) | текст | 9 KiB | в этой папке |
-| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf) | PDF | 33 KiB | в этой папке |
+| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.txt) | текст | 9 КБ | в этой папке |
+| [ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

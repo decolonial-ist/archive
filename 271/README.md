@@ -1,7 +1,7 @@
 # Постановление ГКО СССР № 5073сс
 
 **Автор:** Государственный комитет обороны СССР
-**Год:** 1944
+**Год публикации:** 1944
 
 Страница витрины: https://archive.decolonial.ist/271
 
@@ -9,11 +9,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_gko_sssr_no_5073ss_1944.pdf](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.pdf) | PDF | 34 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5073ss_1944.html](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.html) | сохранённая страница | 19 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5073ss_1944_document.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_document.txt) | текст | 11 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5073ss_1944_layer.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_layer.txt) | текст | 11 KiB | в этой папке |
-| [postanovlenie_gko_sssr_no_5073ss_1944_2.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_2.txt) | текст | 4 KiB | в этой папке |
+| [postanovlenie_gko_sssr_no_5073ss_1944.pdf](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.pdf) | PDF | 34 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5073ss_1944.html](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.html) | сохранённая страница | 19 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5073ss_1944_document.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_document.txt) | текст | 11 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5073ss_1944_layer.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_layer.txt) | текст | 11 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5073ss_1944_2.txt](https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_2.txt) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас
 

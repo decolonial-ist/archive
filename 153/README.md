@@ -1,7 +1,7 @@
 # Эмский указ
 
 **Автор:** Александр II
-**Год:** 1876
+**Год публикации:** 1876
 **Где напечатано:** решение Особого совещания от 18.05.1876
 
 Страница витрины: https://archive.decolonial.ist/153
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [emskiy_ukaz_1876.txt](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.txt) | текст | 10 KiB | в этой папке |
-| [emskiy_ukaz_1876.pdf](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf) | PDF | 32 KiB | в этой папке |
+| [emskiy_ukaz_1876.txt](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.txt) | текст | 10 КБ | в этой папке |
+| [emskiy_ukaz_1876.pdf](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf) | PDF | 32 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Сводные данные об арестованных и осужденных органами НКВД УССР за время с 1 октября 1936 года по 1-е июля 1938 года
 
 **Автор:** Назаренко
-**Год:** 1938
+**Год публикации:** 1938
 **Где напечатано:** док. № 158 (редакційний заголовок тому: «Цифрові зведення про заарештованих і засуджених органами НКВС УРСР за період з 1 жовтня 1936 р. по 1 липня 1938 р.») у вид.: Польща та Україна у тридцятих–сорокових роках XX століття. Т. 8: Великий терор: польська операція 1937–1938, ч. 2 (ГДА СБУ + ІПН, Варшава–Київ, 2010); підписано 30.08.1938 нач. 1-го спецвідділу НКВС УРСР
 **Архивный шифр:** ГДА СБУ, ф. 16, оп. 31 (1951), спр. 55, арк. 199–204
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf) | PDF | 36 KiB | в этой папке |
-| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt) | текст | 9 KiB | в этой папке |
-| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt) | текст | 10 KiB | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf) | PDF | 36 КБ | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt) | текст | 9 КБ | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938_layer.txt) | текст | 10 КБ | в этой папке |
 
 ## Откуда это у нас
 

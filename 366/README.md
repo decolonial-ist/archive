@@ -1,7 +1,7 @@
 # Наказ Міністерства культури та інформаційної політики України № 223
 
 **Автор:** Міністерство культури та інформаційної політики України
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** наказ від 28.06.2022
 
 Страница витрины: https://archive.decolonial.ist/366
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022_layer.txt) | текст | 3 KiB | в этой папке |
-| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.txt](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.txt) | текст | 3 KiB | в этой папке |
-| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.pdf) | PDF | 88 KiB | в этой папке |
+| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022_layer.txt) | текст | 3 КБ | в этой папке |
+| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.txt](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.txt) | текст | 3 КБ | в этой папке |
+| [nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/366/nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.pdf) | PDF | 88 КБ | в этой папке |
 
 ## Откуда это у нас
 

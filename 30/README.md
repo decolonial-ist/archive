@@ -1,7 +1,7 @@
 # ДИССИДЕНТСКОЕ ДВИЖЕНИЕ В УКРАИНЕ (1954 – 1987)
 
 **Автор:** Захаров Е. Ю.
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** Харьковская правозащитная группа
 
 Страница витрины: https://archive.decolonial.ist/30
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.html](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.html) | сохранённая страница | 66 KiB | в этой папке |
-| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt) | текст | 50 KiB | в этой папке |
-| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026_layer.txt) | текст | 51 KiB | в этой папке |
-| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf) | PDF | 72 KiB | в этой папке |
+| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.html](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.html) | сохранённая страница | 66 КБ | в этой папке |
+| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt) | текст | 50 КБ | в этой папке |
+| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026_layer.txt](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026_layer.txt) | текст | 51 КБ | в этой папке |
+| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf) | PDF | 72 КБ | в этой папке |
 
 ## Откуда это у нас
 

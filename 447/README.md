@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи. Собрание первое. Том VII (1723-1727)
 
 **Автор:** —
-**Год:** 1830
+**Год публикации:** 1830
 **Где напечатано:** указ № 4651 от 8 февраля 1725 г. «О мерах, принятых к отвращению притеснений... Малороссийским народом» (дело Полуботка П., Черныша И., Савича С.); ПСЗРИ
 
 Страница витрины: https://archive.decolonial.ist/447
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/447__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf) | PDF | 46.3 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt](https://github.com/decolonial-ist/archive/blob/main/447/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt) | текст | 5.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/447__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.pdf) | PDF | 46.3 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt](https://github.com/decolonial-ist/archive/blob/main/447/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_vii_1723_1727_1830.txt) | текст | 5.4 МБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Історія Слобідської України
 
 **Автор:** Багалій Д. І.
-**Год:** 1918
+**Год публикации:** 1918
 
 Страница витрины: https://archive.decolonial.ist/161
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_slobidskoi_ukraini_1918_layer.txt](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918_layer.txt) | текст | 1.3 MiB | в этой папке |
-| [istoriya_slobidskoi_ukraini_1918.pdf](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.pdf) | PDF | 1.0 MiB | в этой папке |
-| [istoriya_slobidskoi_ukraini_1918.txt](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.txt) | текст | 1.3 MiB | в этой папке |
+| [istoriya_slobidskoi_ukraini_1918_layer.txt](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918_layer.txt) | текст | 1.3 МБ | в этой папке |
+| [istoriya_slobidskoi_ukraini_1918.pdf](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.pdf) | PDF | 1.0 МБ | в этой папке |
+| [istoriya_slobidskoi_ukraini_1918.txt](https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.txt) | текст | 1.3 МБ | в этой папке |
 
 ## Откуда это у нас
 

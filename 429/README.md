@@ -1,7 +1,7 @@
 # «Исторический путь» у Києві
 
 **Автор:** Щітківський І.
-**Год:** 1926
+**Год публикации:** 1926
 **Где напечатано:** у зб. «Київ та його околиця в історії і пам'ятках»
 
 Страница витрины: https://archive.decolonial.ist/429
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoricheskiy_put_u_kievi_1926.pdf](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf) | PDF | 57 KiB | в этой папке |
-| [istoricheskiy_put_u_kievi_1926.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.txt) | текст | 34 KiB | в этой папке |
-| [istoricheskiy_put_u_kievi_1926_layer.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926_layer.txt) | текст | 35 KiB | в этой папке |
+| [istoricheskiy_put_u_kievi_1926.pdf](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf) | PDF | 57 КБ | в этой папке |
+| [istoricheskiy_put_u_kievi_1926.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.txt) | текст | 34 КБ | в этой папке |
+| [istoricheskiy_put_u_kievi_1926_layer.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926_layer.txt) | текст | 35 КБ | в этой папке |
 
 ## Откуда это у нас
 

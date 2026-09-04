@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том XI (1854-1856)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1888
+**Год публикации:** 1888
 
 Страница витрины: https://archive.decolonial.ist/108
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md](https://github.com/decolonial-ist/archive/blob/main/108/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md) | текст | 8.8 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf) | PDF | 188.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md](https://github.com/decolonial-ist/archive/blob/main/108/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md) | текст | 8.8 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf) | PDF | 188.1 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

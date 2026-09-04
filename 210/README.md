@@ -1,7 +1,7 @@
 # Що замовчують екскурсоводи у Києво-Печерській лаврі
 
 **Автор:** Гирич І. Б.
-**Год:** 2018
+**Год публикации:** 2018
 **Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/210
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html) | сохранённая страница | 115 KiB | в этой папке |
-| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018_layer.txt) | текст | 17 KiB | в этой папке |
-| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf) | PDF | 40 KiB | в этой папке |
-| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.txt](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.txt) | текст | 16 KiB | в этой папке |
+| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html) | сохранённая страница | 115 КБ | в этой папке |
+| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018_layer.txt) | текст | 17 КБ | в этой папке |
+| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf) | PDF | 40 КБ | в этой папке |
+| [scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.txt](https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.txt) | текст | 16 КБ | в этой папке |
 
 ## Откуда это у нас
 

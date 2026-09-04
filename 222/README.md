@@ -1,7 +1,7 @@
 # Report on the human rights situation in Ukraine, 1 February to 31 July 2023 (OHCHR)
 
 **Автор:** Управління Верховного комісара ООН з прав людини
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/222
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf) | PDF | 1.3 MiB | в этой папке |
-| [report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt) | текст | 133 KiB | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf) | PDF | 1.3 МБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt) | текст | 133 КБ | в этой папке |
 
 ## Откуда это у нас
 

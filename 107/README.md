@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том X (1844-1854)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1885
+**Год публикации:** 1885
 
 Страница витрины: https://archive.decolonial.ist/107
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md](https://github.com/decolonial-ist/archive/blob/main/107/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md) | текст | 7.7 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf) | PDF | 219.4 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md](https://github.com/decolonial-ist/archive/blob/main/107/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md) | текст | 7.7 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf) | PDF | 219.4 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

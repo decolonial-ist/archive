@@ -1,7 +1,7 @@
 # Постановление СНК Союза ССР с Инструкцией НКВД о выселении из западных областей УССР и БССР (по пост. от 2 марта 1940 г. № 289-127сс)
 
 **Автор:** Совет народных комиссаров СССР
-**Год:** 1940
+**Год публикации:** 1940
 **Где напечатано:** постановление от 10 апреля 1940; подписал Молотов В.
 
 Страница витрины: https://archive.decolonial.ist/401
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.html](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.html) | сохранённая страница | 16 KiB | в этой папке |
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt) | текст | 2 KiB | в этой папке |
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940_layer.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940_layer.txt) | текст | 19 KiB | в этой папке |
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf) | PDF | 43 KiB | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.html](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.html) | сохранённая страница | 16 КБ | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt) | текст | 2 КБ | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940_layer.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940_layer.txt) | текст | 19 КБ | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf) | PDF | 43 КБ | в этой папке |
 
 ## Откуда это у нас
 

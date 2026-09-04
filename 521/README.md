@@ -1,7 +1,7 @@
 # Russia defends submarine missile attack that killed 23 civilians (Al Jazeera)
 
 **Автор:** —
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** Al Jazeera
 
 Страница витрины: https://archive.decolonial.ist/521

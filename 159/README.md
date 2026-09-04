@@ -1,7 +1,7 @@
 # Об отмене стеснений малорусского печатного слова
 
 **Автор:** Императорская Академия наук
-**Год:** 1905
+**Год публикации:** 1905
 **Где напечатано:** СПб.
 
 Страница витрины: https://archive.decolonial.ist/159
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt) | текст | 580 KiB | в этой папке |
-| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt) | текст | 606 KiB | в этой папке |
-| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf) | PDF | 470 KiB | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt) | текст | 580 КБ | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt) | текст | 606 КБ | в этой папке |
+| [ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf](https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf) | PDF | 470 КБ | в этой папке |
 
 ## Откуда это у нас
 

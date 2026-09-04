@@ -1,7 +1,7 @@
 # 2022 - теракт у Оленівці (Український інститут національної пам'яті)
 
 **Автор:** Український інститут національної пам'яті
-**Год:** 2022
+**Год публикации:** 2022
 
 Страница витрины: https://archive.decolonial.ist/528
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.html](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.html) | сохранённая страница | 146 KiB | в этой папке |
-| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt) | текст | 5 KiB | в этой папке |
-| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022_layer.txt) | текст | 5 KiB | в этой папке |
-| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf) | PDF | 29 KiB | в этой папке |
+| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.html](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.html) | сохранённая страница | 146 КБ | в этой папке |
+| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt) | текст | 5 КБ | в этой папке |
+| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022_layer.txt) | текст | 5 КБ | в этой папке |
+| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

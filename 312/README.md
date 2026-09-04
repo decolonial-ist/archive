@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи. Т. I
 
 **Автор:** Второе отделение Собственной Его Императорского Величества канцелярии
-**Год:** 1830
+**Год публикации:** 1830
 **Где напечатано:** Андрусовский договор 1667 — № 398, с. 656–669
 
 Страница витрины: https://archive.decolonial.ist/312
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/312__polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf) | PDF | 62.4 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt](https://github.com/decolonial-ist/archive/blob/main/312/polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt) | текст | 6.2 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/312__polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.pdf) | PDF | 62.4 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt](https://github.com/decolonial-ist/archive/blob/main/312/polnoe_sobranie_zakonov_rossiyskoy_imperii_t_i_1830.txt) | текст | 6.2 МБ | в этой папке |
 
 ## Откуда это у нас
 

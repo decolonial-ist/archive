@@ -1,7 +1,7 @@
 # «Вивезли золото, зброю, нагороди Вермахту». У музеях Херсону розповіли, як російські окупанти їх спустошили (Радіо Свобода)
 
 **Автор:** Антипенко І.
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/525
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html) | сохранённая страница | 119 KiB | в этой папке |
-| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt) | текст | 17 KiB | в этой папке |
-| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf) | PDF | 43 KiB | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html) | сохранённая страница | 119 КБ | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt) | текст | 17 КБ | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf) | PDF | 43 КБ | в этой папке |
 
 ## Откуда это у нас
 

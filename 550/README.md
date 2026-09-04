@@ -1,7 +1,7 @@
 # О реабилитации репрессированных народов
 
 **Автор:** —
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** закон РСФСР от 26 апреля 1991 года № 1107-1; ст. 2: политика «клеветы и геноцида» против репрессированных народов признана на государственном уровне
 
 Страница витрины: https://archive.decolonial.ist/550
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_reabilitacii_repressirovannyh_narodov_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991_layer.txt) | текст | 12 KiB | в этой папке |
-| [o_reabilitacii_repressirovannyh_narodov_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991.pdf) | PDF | 32 KiB | в этой папке |
-| [o_reabilitacii_repressirovannyh_narodov_1991.txt](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991.txt) | текст | 12 KiB | в этой папке |
+| [o_reabilitacii_repressirovannyh_narodov_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991_layer.txt) | текст | 12 КБ | в этой папке |
+| [o_reabilitacii_repressirovannyh_narodov_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991.pdf) | PDF | 32 КБ | в этой папке |
+| [o_reabilitacii_repressirovannyh_narodov_1991.txt](https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991.txt) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас
 

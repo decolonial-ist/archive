@@ -1,7 +1,7 @@
 # Український національний фронт (УНФ)
 
 **Автор:** Овсієнко В. В.
-**Год:** 2006
+**Год публикации:** 2006
 **Где напечатано:** Музей дисидентського руху Харківської правозахисної групи
 
 Страница витрины: https://archive.decolonial.ist/190
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukrainskiy_nacionalniy_front_unf_2006.txt](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.txt) | текст | 7 KiB | в этой папке |
-| [ukrainskiy_nacionalniy_front_unf_2006.html](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.html) | сохранённая страница | 17 KiB | в этой папке |
-| [ukrainskiy_nacionalniy_front_unf_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.pdf) | PDF | 32 KiB | в этой папке |
-| [ukrainskiy_nacionalniy_front_unf_2006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006_layer.txt) | текст | 7 KiB | в этой папке |
+| [ukrainskiy_nacionalniy_front_unf_2006.txt](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.txt) | текст | 7 КБ | в этой папке |
+| [ukrainskiy_nacionalniy_front_unf_2006.html](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.html) | сохранённая страница | 17 КБ | в этой папке |
+| [ukrainskiy_nacionalniy_front_unf_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.pdf) | PDF | 32 КБ | в этой папке |
+| [ukrainskiy_nacionalniy_front_unf_2006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006_layer.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

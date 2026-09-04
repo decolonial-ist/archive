@@ -1,7 +1,7 @@
 # ICC judges issue arrest warrants against Vladimir Putin and Maria Lvova-Belova
 
 **Автор:** Міжнародний кримінальний суд
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/219
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt) | текст | 18 KiB | в этой папке |
-| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.html](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.html) | сохранённая страница | 66 KiB | в этой папке |
-| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf) | PDF | 43 KiB | в этой папке |
-| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt) | текст | 17 KiB | в этой папке |
+| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt) | текст | 18 КБ | в этой папке |
+| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.html](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.html) | сохранённая страница | 66 КБ | в этой папке |
+| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf) | PDF | 43 КБ | в этой папке |
+| [icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt](https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt) | текст | 17 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Манифест о принятии Крыма под Российскую державу
 
 **Автор:** Екатерина II
-**Год:** 1783
+**Год публикации:** 1783
 **Где напечатано:** ПСЗРИ, т. XXI, № 15708
 
 Страница витрины: https://archive.decolonial.ist/148
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf) | PDF | 41 KiB | в этой папке |
-| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt) | текст | 12 KiB | в этой папке |
-| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt) | текст | 12 KiB | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf) | PDF | 41 КБ | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt) | текст | 12 КБ | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас
 

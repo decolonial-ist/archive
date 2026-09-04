@@ -1,7 +1,7 @@
 # Оперативный приказ НКВД СССР № 00485
 
 **Автор:** Ежов Н. И.
-**Год:** 1937
+**Год публикации:** 1937
 **Где напечатано:** приказ народного комиссара внутренних дел от 11 августа 1937 («польская операция»); Викитека, публ. по архивной копии
 
 Страница витрины: https://archive.decolonial.ist/465
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.html](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.html) | сохранённая страница | 79 KiB | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf) | PDF | 36 KiB | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt) | текст | 13 KiB | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.html](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.html) | сохранённая страница | 79 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf) | PDF | 36 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt) | текст | 13 КБ | в этой папке |
 
 ## Откуда это у нас
 

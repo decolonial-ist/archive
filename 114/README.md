@@ -1,7 +1,7 @@
 # История войны и владычества русских на Кавказе. Том 5
 
 **Автор:** Дубровин Н. Ф.
-**Год:** 1871
+**Год публикации:** 1871
 
 Страница витрины: https://archive.decolonial.ist/114
 
@@ -9,14 +9,14 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt) | текст | 188 KiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2) | книга FB2 | 1.8 MiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf) | PDF | 191 KiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2) | книга FB2 | 2.2 MiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2) | книга FB2 | 1.7 MiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2) | книга FB2 | 1.7 MiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2) | книга FB2 | 1.3 MiB | в этой папке |
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2) | книга FB2 | 1.2 MiB | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt) | текст | 188 КБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2) | книга FB2 | 1.8 МБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf) | PDF | 191 КБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2) | книга FB2 | 2.2 МБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2) | книга FB2 | 1.7 МБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2) | книга FB2 | 1.7 МБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2) | книга FB2 | 1.3 МБ | в этой папке |
+| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2) | книга FB2 | 1.2 МБ | в этой папке |
 
 ## Откуда это у нас
 

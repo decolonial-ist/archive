@@ -1,7 +1,7 @@
 # Інтерв'ю Василя Овсієнка (Музей дисидентського руху)
 
 **Автор:** Овсієнко В. В.
-**Год:** 2011
+**Год публикации:** 2011
 **Где напечатано:** Харківська правозахисна група
 
 Страница витрины: https://archive.decolonial.ist/232
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf) | PDF | 509 KiB | в этой папке |
-| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html) | сохранённая страница | 580 KiB | в этой папке |
-| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt) | текст | 578 KiB | в этой папке |
-| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt) | текст | 563 KiB | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf) | PDF | 509 КБ | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html) | сохранённая страница | 580 КБ | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt) | текст | 578 КБ | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt) | текст | 563 КБ | в этой папке |
 
 ## Откуда это у нас
 

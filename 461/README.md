@@ -1,7 +1,7 @@
 # О хлебозаготовках на Украине, Северном Кавказе и в Западной области
 
 **Автор:** Центральный комитет ВКП(б) и Совет народных комиссаров СССР
-**Год:** 1932
+**Год публикации:** 1932
 **Где напечатано:** постановление от 14 декабря 1932; подписали Сталин И., Молотов В.
 **Архивный шифр:** РГАСПИ, ф. 17, оп. 3, д. 2025, л. 42-42 об.
 
@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf) | PDF | 5.4 MiB | в этой папке |
-| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt) | текст | 4.9 MiB | в этой папке |
+| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.pdf) | PDF | 5.4 МБ | в этой папке |
+| [o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt](https://github.com/decolonial-ist/archive/blob/main/461/o_hlebozagotovkah_na_ukraine_severnom_kavkaze_i_v_zapadnoy_oblasti_1932.txt) | текст | 4.9 МБ | в этой папке |
 
 ## Откуда это у нас
 

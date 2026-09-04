@@ -1,7 +1,7 @@
 # Post-Soviet Borders: A Kaleidoscope of Shifting Lives and Lands
 
 **Автор:** —
-**Год:** 2023
+**Год публикации:** 2023
 **Где напечатано:** ред.: von Löwis S., Eschment B.
 
 Страница витрины: https://archive.decolonial.ist/59

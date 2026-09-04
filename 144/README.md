@@ -1,7 +1,7 @@
 # Наставление Екатерины II князю Вяземскому
 
 **Автор:** Екатерина II
-**Год:** 1764
+**Год публикации:** 1764
 **Где напечатано:** Сборник Русского исторического общества, т. VII, с. 345
 
 Страница витрины: https://archive.decolonial.ist/144
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt) | текст | 4 KiB | в этой папке |
-| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 30 KiB | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt) | текст | 4 КБ | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

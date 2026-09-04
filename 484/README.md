@@ -1,7 +1,7 @@
 # Как погиб Нажмутдин Гоцинский
 
 **Автор:** Дж. Х-и
-**Год:** 1936
+**Год публикации:** 1936
 **Где напечатано:** со слов участника событий // Северный Кавказ (Şimalî Kafkasya), орган Народной партии горцев Кавказа, Варшава, № 23, с. 27-28
 
 Страница витрины: https://archive.decolonial.ist/484
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt) | текст | 300 KiB | в этой папке |
-| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt) | текст | 296 KiB | в этой папке |
-| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf) | PDF | 322 KiB | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_layer.txt) | текст | 300 КБ | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.txt) | текст | 296 КБ | в этой папке |
+| [kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf](https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf) | PDF | 322 КБ | в этой папке |
 
 ## Откуда это у нас
 

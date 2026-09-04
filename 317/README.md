@@ -1,7 +1,7 @@
 # Обращение Президента Российской Федерации 21 февраля 2022 года
 
 **Автор:** Путин В. В.
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** kremlin.ru, 21 февраля 2022
 
 Страница витрины: https://archive.decolonial.ist/317
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt) | текст | 84 KiB | в этой папке |
-| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt) | текст | 82 KiB | в этой папке |
-| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf) | PDF | 93 KiB | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt) | текст | 84 КБ | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt) | текст | 82 КБ | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf) | PDF | 93 КБ | в этой папке |
 
 ## Откуда это у нас
 

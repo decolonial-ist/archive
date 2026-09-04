@@ -1,7 +1,7 @@
 # Сообщение Г. И. Рабиновича о последствиях погрома в м. Фастов
 
 **Автор:** —
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Книга погромов. Погромы на Украине... 1918–1922 (2007)
 
 Страница витрины: https://archive.decolonial.ist/587
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf) | PDF | 38 KiB | в этой папке |
-| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt) | текст | 14 KiB | в этой папке |
-| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt) | текст | 15 KiB | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf) | PDF | 38 КБ | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt) | текст | 14 КБ | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt) | текст | 15 КБ | в этой папке |
 
 ## Откуда это у нас
 

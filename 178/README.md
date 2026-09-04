@@ -1,7 +1,7 @@
 # Постановление ВС СССР об организации референдума
 
 **Автор:** Верховный Совет СССР
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** постановление № 1910-I от 16.01.1991
 
 Страница витрины: https://archive.decolonial.ist/178
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.html](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.html) | сохранённая страница | 78 KiB | в этой папке |
-| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt) | текст | 8 KiB | в этой папке |
-| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991_layer.txt) | текст | 8 KiB | в этой папке |
-| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf) | PDF | 30 KiB | в этой папке |
+| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.html](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.html) | сохранённая страница | 78 КБ | в этой папке |
+| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt) | текст | 8 КБ | в этой папке |
+| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991_layer.txt) | текст | 8 КБ | в этой папке |
+| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

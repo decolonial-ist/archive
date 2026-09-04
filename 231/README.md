@@ -1,7 +1,7 @@
 # Ukraine: The Forgotten Victims (FIDH)
 
 **Автор:** International Federation for Human Rights (FIDH)
-**Год:** 2014
+**Год публикации:** 2014
 
 Страница витрины: https://archive.decolonial.ist/231
 

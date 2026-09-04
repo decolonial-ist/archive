@@ -1,7 +1,7 @@
 # Декрет ВЦИК «О праве отзыва делегатов»
 
 **Автор:** Всероссийский центральный исполнительный комитет Советов рабочих, солдатских и крестьянских депутатов
-**Год:** 1917
+**Год публикации:** 1917
 **Где напечатано:** декрет от 4 декабря 1917
 
 Страница витрины: https://archive.decolonial.ist/400
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dekret_vcik_o_prave_otzyva_delegatov_1917.html](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.html) | сохранённая страница | 15 KiB | в этой папке |
-| [dekret_vcik_o_prave_otzyva_delegatov_1917_layer.txt](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917_layer.txt) | текст | 8 KiB | в этой папке |
-| [dekret_vcik_o_prave_otzyva_delegatov_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.pdf) | PDF | 31 KiB | в этой папке |
+| [dekret_vcik_o_prave_otzyva_delegatov_1917.html](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.html) | сохранённая страница | 15 КБ | в этой папке |
+| [dekret_vcik_o_prave_otzyva_delegatov_1917_layer.txt](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917_layer.txt) | текст | 8 КБ | в этой папке |
+| [dekret_vcik_o_prave_otzyva_delegatov_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

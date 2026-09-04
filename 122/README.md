@@ -1,7 +1,7 @@
 # Воспоминания
 
 **Автор:** Полторацкий В. А.
-**Год:** 1895
+**Год публикации:** 1895
 
 Страница витрины: https://archive.decolonial.ist/122
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vospominaniya_1895.pdf](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895.pdf) | PDF | 896 KiB | в этой папке |
-| [vospominaniya_1895.txt](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895.txt) | текст | 1.0 MiB | в этой папке |
-| [vospominaniya_1895_layer.txt](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895_layer.txt) | текст | 1.1 MiB | в этой папке |
+| [vospominaniya_1895.pdf](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895.pdf) | PDF | 896 КБ | в этой папке |
+| [vospominaniya_1895.txt](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895.txt) | текст | 1.0 МБ | в этой папке |
+| [vospominaniya_1895_layer.txt](https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895_layer.txt) | текст | 1.1 МБ | в этой папке |
 
 ## Откуда это у нас
 

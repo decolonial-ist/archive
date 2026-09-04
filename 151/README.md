@@ -1,7 +1,7 @@
 # Валуевский циркуляр
 
 **Автор:** Валуев П. А.
-**Год:** 1863
+**Год публикации:** 1863
 **Где напечатано:** циркуляр министра внутренних дел Российской империи
 
 Страница витрины: https://archive.decolonial.ist/151
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [valuevskiy_cirkulyar_1863.txt](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.txt) | текст | 7 KiB | в этой папке |
-| [valuevskiy_cirkulyar_1863.pdf](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.pdf) | PDF | 33 KiB | в этой папке |
+| [valuevskiy_cirkulyar_1863.txt](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.txt) | текст | 7 КБ | в этой папке |
+| [valuevskiy_cirkulyar_1863.pdf](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

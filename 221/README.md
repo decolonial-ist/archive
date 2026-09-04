@@ -1,7 +1,7 @@
 # Report of the Independent International Commission of Inquiry on Ukraine (A/HRC/52/62)
 
 **Автор:** Незалежна міжнародна комісія ООН з розслідування подій в Україні
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/221
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf) | PDF | 284 KiB | в этой папке |
-| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt) | текст | 75 KiB | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf) | PDF | 284 КБ | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt) | текст | 75 КБ | в этой папке |
 
 ## Откуда это у нас
 

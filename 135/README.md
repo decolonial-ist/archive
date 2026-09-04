@@ -1,7 +1,7 @@
 # Журнал военных действий отряда генерал-лейтенанта Галафеева июль-сентябрь 1840
 
 **Автор:** Галафеев А. В.
-**Год:** 1912
+**Год публикации:** 1912
 
 Страница витрины: https://archive.decolonial.ist/135
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt) | текст | 108 KiB | в этой папке |
-| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md) | текст | 105 KiB | в этой папке |
-| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf) | PDF | 114 KiB | в этой папке |
+| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt) | текст | 108 КБ | в этой папке |
+| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md) | текст | 105 КБ | в этой папке |
+| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf) | PDF | 114 КБ | в этой папке |
 
 ## Откуда это у нас
 

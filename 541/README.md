@@ -1,7 +1,7 @@
 # Резолюция краевого комитета по религиозному вопросу
 
 **Автор:** Национальная комиссия Северо-Кавказского крайкома ВКП(б)
-**Год:** 1927
+**Год публикации:** 1927
 **Где напечатано:** резолюция пленума; протокол № 96 Бюро Крайкома от 28 июня 1927, § 1690, приложение № 4
 **Архивный шифр:** РГАСПИ Ф. 17. Оп. 21. Д. 3362. Л. 165, 213-217
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf) | PDF | 32 KiB | в этой папке |
-| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt) | текст | 9 KiB | в этой папке |
-| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt) | текст | 8 KiB | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf) | PDF | 32 КБ | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927_layer.txt) | текст | 9 КБ | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt) | текст | 8 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Danger Close: Fancy Bear Tracking of Ukrainian Field Artillery Units
 
 **Автор:** Meyers A.
-**Год:** 2016
+**Год публикации:** 2016
 **Где напечатано:** CrowdStrike
 
 Страница витрины: https://archive.decolonial.ist/216

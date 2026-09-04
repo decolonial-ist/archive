@@ -1,7 +1,7 @@
 # Резолюция I Всеукраинского съезда Советов о самоопределении Украины
 
 **Автор:** I Всеукраинский съезд Советов
-**Год:** 1917
+**Год публикации:** 1917
 **Где напечатано:** Харьков, 12(25) декабря 1917; публ.: Съезды Советов в документах. 1917—1936. Т. II. М., 1960. С. 16—17
 
 Страница витрины: https://archive.decolonial.ist/490
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt) | текст | 8 KiB | в этой папке |
-| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf) | PDF | 34 KiB | в этой папке |
+| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt) | текст | 8 КБ | в этой папке |
+| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf) | PDF | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Жалованная грамота царя Алексея Михайловича Войску Запорожскому
 
 **Автор:** Алексей Михайлович
-**Год:** 1654
+**Год публикации:** 1654
 **Где напечатано:** Акты ЮЗР, т. X, с. 489–494
 
 Страница витрины: https://archive.decolonial.ist/142
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.html](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.html) | сохранённая страница | 74 KiB | в этой папке |
-| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf) | PDF | 71 KiB | в этой папке |
+| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.html](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.html) | сохранённая страница | 74 КБ | в этой папке |
+| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf) | PDF | 71 КБ | в этой папке |
 
 ## Откуда это у нас
 

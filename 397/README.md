@@ -1,7 +1,7 @@
 # Именный указ, данный Сенату, об учреждении Киевского наместничества
 
 **Автор:** Екатерина II
-**Год:** 1781
+**Год публикации:** 1781
 **Где напечатано:** указ от 16 сентября 1781; ПСЗРИ, т. XXI, № 15228
 
 Страница витрины: https://archive.decolonial.ist/397
@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/397__imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/397__imennyy_ukaz_dannyy_senatu_ob_uchrezhdenii_kievskogo_namestnichestva_1781.pdf) | PDF | 58.1 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

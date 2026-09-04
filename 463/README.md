@@ -1,7 +1,7 @@
 # Программа Коммунистической партии Советского Союза
 
 **Автор:** XXII съезд КПСС
-**Год:** 1961
+**Год публикации:** 1961
 **Где напечатано:** принята 31 октября 1961; Музей історії російських реформ ім. П. А. Столипіна, публікація повного тексту
 
 Страница витрины: https://archive.decolonial.ist/463
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt) | текст | 483 KiB | в этой папке |
-| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf) | PDF | 359 KiB | в этой папке |
+| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt) | текст | 483 КБ | в этой папке |
+| [programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf](https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf) | PDF | 359 КБ | в этой папке |
 
 ## Откуда это у нас
 

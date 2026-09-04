@@ -1,7 +1,7 @@
 # Директива СНК СССР и ЦК ВКП(б)
 
 **Автор:** Совет народных комиссаров СССР и Центральный комитет ВКП(б)
-**Год:** 1941
+**Год публикации:** 1941
 **Где напечатано:** директива от 29 июня 1941; Решения партии и правительства, т. 3
 
 Страница витрины: https://archive.decolonial.ist/167
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [direktiva_snk_sssr_i_ck_vkp_b_1941.txt](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.txt) | текст | 9 KiB | в этой папке |
-| [direktiva_snk_sssr_i_ck_vkp_b_1941.pdf](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.pdf) | PDF | 31 KiB | в этой папке |
+| [direktiva_snk_sssr_i_ck_vkp_b_1941.txt](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.txt) | текст | 9 КБ | в этой папке |
+| [direktiva_snk_sssr_i_ck_vkp_b_1941.pdf](https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

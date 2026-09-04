@@ -1,7 +1,7 @@
 # Общий свод по Империи результатов разработки данных Первой всеобщей переписи населения, произведенной 28 января 1897 года. Т. 2
 
 **Автор:** Центральный статистический комитет Министерства внутренних дел
-**Год:** 1905
+**Год публикации:** 1905
 **Где напечатано:** под ред. Тройницкого Н. А.; табл. XIII и XIII-а «Распределение населения по родному языку»
 
 Страница витрины: https://archive.decolonial.ist/491
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt](https://github.com/decolonial-ist/archive/blob/main/491/obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt) | текст | 2.2 MiB | в этой папке |
-| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/491__obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.pdf) | PDF | 32.8 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/491/obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905_layer.txt) | текст | 2.3 MiB | в этой папке |
+| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt](https://github.com/decolonial-ist/archive/blob/main/491/obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt) | текст | 2.2 МБ | в этой папке |
+| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/491__obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.pdf) | PDF | 32.8 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905_layer.txt](https://github.com/decolonial-ist/archive/blob/main/491/obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905_layer.txt) | текст | 2.3 МБ | в этой папке |
 
 ## Откуда это у нас
 

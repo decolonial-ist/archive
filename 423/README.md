@@ -1,7 +1,7 @@
 # Об обязательном изучении русского языка в школах национальных республик и областей
 
 **Автор:** Центральный комитет ВКП(б) и Совет народных комиссаров СССР
-**Год:** 1938
+**Год публикации:** 1938
 **Где напечатано:** постановление № 324 от 13.03.1938
 **Архивный шифр:** РГАСПИ, ф. 17, оп. 3, д. 997, л. 103—107
 
@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt) | текст | 21 KiB | в этой папке |
-| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf) | PDF | 51 KiB | в этой папке |
+| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt) | текст | 21 КБ | в этой папке |
+| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf) | PDF | 51 КБ | в этой папке |
 
 ## Откуда это у нас
 

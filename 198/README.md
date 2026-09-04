@@ -1,7 +1,7 @@
 # Про засади державної мовної політики
 
 **Автор:** Верховна Рада України
-**Год:** 2012
+**Год публикации:** 2012
 **Где напечатано:** закон № 5029-VI; втратив чинність 2018
 
 Страница витрины: https://archive.decolonial.ist/198
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.html](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.html) | сохранённая страница | 87 KiB | в этой папке |
-| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt) | текст | 33 KiB | в этой папке |
-| [pro_zasadi_derzhavnoi_movnoi_politiki_2012_layer.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012_layer.txt) | текст | 33 KiB | в этой папке |
-| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf) | PDF | 56 KiB | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.html](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.html) | сохранённая страница | 87 КБ | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt) | текст | 33 КБ | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012_layer.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012_layer.txt) | текст | 33 КБ | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf) | PDF | 56 КБ | в этой папке |
 
 ## Откуда это у нас
 

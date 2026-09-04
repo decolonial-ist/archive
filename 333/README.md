@@ -1,7 +1,7 @@
 # Договор о Вечном мире с Польшей
 
 **Автор:** —
-**Год:** 1686
+**Год публикации:** 1686
 **Где напечатано:** договор России и Речи Посполитой от 26 апреля (6 мая) 1686; ПСЗРИ, т. II, № 1186
 
 Страница витрины: https://archive.decolonial.ist/333
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dogovor_o_vechnom_mire_s_polshey_1686.txt](https://github.com/decolonial-ist/archive/blob/main/333/dogovor_o_vechnom_mire_s_polshey_1686.txt) | текст | 37 KiB | в этой папке |
-| [dogovor_o_vechnom_mire_s_polshey_1686_layer.txt](https://github.com/decolonial-ist/archive/blob/main/333/dogovor_o_vechnom_mire_s_polshey_1686_layer.txt) | текст | 5.6 MiB | в этой папке |
-| [dogovor_o_vechnom_mire_s_polshey_1686.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/333__dogovor_o_vechnom_mire_s_polshey_1686.pdf) | PDF | 45.6 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [dogovor_o_vechnom_mire_s_polshey_1686.txt](https://github.com/decolonial-ist/archive/blob/main/333/dogovor_o_vechnom_mire_s_polshey_1686.txt) | текст | 37 КБ | в этой папке |
+| [dogovor_o_vechnom_mire_s_polshey_1686_layer.txt](https://github.com/decolonial-ist/archive/blob/main/333/dogovor_o_vechnom_mire_s_polshey_1686_layer.txt) | текст | 5.6 МБ | в этой папке |
+| [dogovor_o_vechnom_mire_s_polshey_1686.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/333__dogovor_o_vechnom_mire_s_polshey_1686.pdf) | PDF | 45.6 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

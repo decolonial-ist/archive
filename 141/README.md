@@ -1,7 +1,7 @@
 # Terror and videoed ‘repentance’ for supporting Ukraine in Russian-occupied Crimea
 
 **Автор:** Coynash
-**Год:** 2023
+**Год публикации:** 2023
 
 Страница витрины: https://archive.decolonial.ist/141
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html) | сохранённая страница | 27 KiB | в этой папке |
-| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt) | текст | 6 KiB | в этой папке |
-| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf) | PDF | 31 KiB | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html) | сохранённая страница | 27 КБ | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt) | текст | 6 КБ | в этой папке |
+| [terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

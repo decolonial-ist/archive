@@ -1,7 +1,7 @@
 # Пам'ятний знак на честь 300-річчя Переяславської Ради, обеліск на площі Переяславської Ради
 
 **Автор:** Волтарс
-**Год:** 2014
+**Год публикации:** 2014
 **Где напечатано:** фотофіксація меморіальної дошки; Вікісховище, CC BY-SA 4.0, знімок 14.08.2014
 
 Страница витрины: https://archive.decolonial.ist/414
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html) | сохранённая страница | 162 KiB | в этой папке |
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt) | текст | 5 KiB | в этой папке |
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt) | текст | 7 KiB | в этой папке |
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf) | PDF | 116 KiB | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.html) | сохранённая страница | 162 КБ | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt) | текст | 5 КБ | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014_layer.txt) | текст | 7 КБ | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf) | PDF | 116 КБ | в этой папке |
 
 ## Откуда это у нас
 

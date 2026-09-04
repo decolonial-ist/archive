@@ -1,7 +1,7 @@
 # Полное собрание законов Российской империи. Собрание первое. Том XXI (1781-1783)
 
 **Автор:** Екатерина II
-**Год:** 1830
+**Год публикации:** 1830
 **Где напечатано:** манифест № 15108 от 8 апреля 1783 г. «О принятии полуострова Крымского, острова Тамана и всей Кубанской стороны под Российскую державу»; ПСЗРИ
 
 Страница витрины: https://archive.decolonial.ist/391
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/391__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf) | PDF | 58.1 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/391/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt) | текст | 6.4 MiB | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/391__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf) | PDF | 58.1 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/391/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830_ocr.txt) | текст | 6.4 МБ | в этой папке |
 
 ## Откуда это у нас
 

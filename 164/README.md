@@ -1,7 +1,7 @@
 # Патріарший і Синодальний Томос
 
 **Автор:** Вселенський патріархат
-**Год:** 1924
+**Год публикации:** 1924
 **Где напечатано:** Константинополь, 13.11.1924
 
 Страница витрины: https://archive.decolonial.ist/164
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [patriarshiy_i_sinodalniy_tomos_1924.html](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.html) | сохранённая страница | 166 KiB | в этой папке |
-| [patriarshiy_i_sinodalniy_tomos_1924_layer.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924_layer.txt) | текст | 22 KiB | в этой папке |
-| [patriarshiy_i_sinodalniy_tomos_1924.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.txt) | текст | 53 KiB | в этой папке |
-| [patriarshiy_i_sinodalniy_tomos_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.pdf) | PDF | 160 KiB | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924.html](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.html) | сохранённая страница | 166 КБ | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924_layer.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924_layer.txt) | текст | 22 КБ | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.txt) | текст | 53 КБ | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.pdf) | PDF | 160 КБ | в этой папке |
 
 ## Откуда это у нас
 

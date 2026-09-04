@@ -1,7 +1,7 @@
 # Civilian-combatant ratio among war dead: Israel in Gaza and other select conflicts (AOAV)
 
 **Автор:** Action on Armed Violence
-**Год:** 2026
+**Год публикации:** 2026
 
 Страница витрины: https://archive.decolonial.ist/532
 

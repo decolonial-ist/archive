@@ -1,7 +1,7 @@
 # Архив Юго-Западной России. Часть 1. Том V
 
 **Автор:** Временная комиссия для разбора древних актов
-**Год:** 1872
+**Год публикации:** 1872
 **Где напечатано:** Киев
 
 Страница витрины: https://archive.decolonial.ist/152
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt) | текст | 1.9 MiB | в этой папке |
-| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf) | PDF | 1.6 MiB | в этой папке |
+| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.txt) | текст | 1.9 МБ | в этой папке |
+| [arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf](https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf) | PDF | 1.6 МБ | в этой папке |
 
 ## Откуда это у нас
 

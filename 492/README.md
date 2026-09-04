@@ -1,7 +1,7 @@
 # Уривки з спогадів про українську революцію
 
 **Автор:** Затонський В. П.
-**Год:** 1929
+**Год публикации:** 1929
 **Где напечатано:** Літопис революції, № 4 (37), с. 139–172
 
 Страница витрины: https://archive.decolonial.ist/492
@@ -10,11 +10,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html) | сохранённая страница | 2 KiB | в этой папке |
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf) | PDF | 25 KiB | в этой папке |
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt) | текст | 1 KiB | в этой папке |
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt) | текст | 1 KiB | в этой папке |
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt) | текст | 145 KiB | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html) | сохранённая страница | 2 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf) | PDF | 25 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt) | текст | 1 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt) | текст | 1 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt) | текст | 145 КБ | в этой папке |
 
 ## Откуда это у нас
 

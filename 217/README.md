@@ -1,7 +1,7 @@
 # Fake: Crucifixion in Slovyansk
 
 **Автор:** StopFake
-**Год:** 2014
+**Год публикации:** 2014
 
 Страница витрины: https://archive.decolonial.ist/217
 

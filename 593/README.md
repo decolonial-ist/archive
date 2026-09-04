@@ -1,7 +1,7 @@
 # Телеграмма Н. А. Скрыпника о ликвидации банд Зеленого
 
 **Автор:** ЦГАОР УССР, ф. 2579, оп. 1, д. 14, лл. 55–60. Телеграфный бланк. Рукопись
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 2 (1967)
 **Архивный шифр:** ЦГАОР УССР, ф. 2579, оп. 1, д. 14, лл. 55–60. Телеграфный бланк. Рукопись
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf) | PDF | 31 KiB | в этой папке |
-| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt) | текст | 6 KiB | в этой папке |
-| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919_layer.txt) | текст | 7 KiB | в этой папке |
+| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf) | PDF | 31 КБ | в этой папке |
+| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt) | текст | 6 КБ | в этой папке |
+| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919_layer.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

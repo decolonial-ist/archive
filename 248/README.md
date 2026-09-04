@@ -1,7 +1,7 @@
 # К населению Малороссии
 
 **Автор:** Деникин А. И.
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** обращение главнокомандующего Вооружёнными силами Юга России; Таганрог, 12(25) августа 1919
 
 Страница витрины: https://archive.decolonial.ist/248
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [k_naseleniyu_malorossii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919_layer.txt) | текст | 44 KiB | в этой папке |
-| [k_naseleniyu_malorossii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.pdf) | PDF | 58 KiB | в этой папке |
-| [k_naseleniyu_malorossii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.txt) | текст | 43 KiB | в этой папке |
-| [k_naseleniyu_malorossii_1919.html](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.html) | сохранённая страница | 89 KiB | в этой папке |
+| [k_naseleniyu_malorossii_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919_layer.txt) | текст | 44 КБ | в этой папке |
+| [k_naseleniyu_malorossii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.pdf) | PDF | 58 КБ | в этой папке |
+| [k_naseleniyu_malorossii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.txt) | текст | 43 КБ | в этой папке |
+| [k_naseleniyu_malorossii_1919.html](https://github.com/decolonial-ist/archive/blob/main/248/k_naseleniyu_malorossii_1919.html) | сохранённая страница | 89 КБ | в этой папке |
 
 ## Откуда это у нас
 

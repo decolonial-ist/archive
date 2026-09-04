@@ -1,7 +1,7 @@
 # История России с древнейших времён
 
 **Автор:** Соловьёв С. М.
-**Год:** 1879
+**Год публикации:** 1879
 **Где напечатано:** 2-е изд., т. XI
 
 Страница витрины: https://archive.decolonial.ist/155
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_rossii_s_drevneyshih_vremen_1879.txt](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.txt) | текст | 335 KiB | в этой папке |
-| [istoriya_rossii_s_drevneyshih_vremen_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.pdf) | PDF | 283 KiB | в этой папке |
-| [istoriya_rossii_s_drevneyshih_vremen_1879_layer.txt](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879_layer.txt) | текст | 342 KiB | в этой папке |
+| [istoriya_rossii_s_drevneyshih_vremen_1879.txt](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.txt) | текст | 335 КБ | в этой папке |
+| [istoriya_rossii_s_drevneyshih_vremen_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.pdf) | PDF | 283 КБ | в этой папке |
+| [istoriya_rossii_s_drevneyshih_vremen_1879_layer.txt](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879_layer.txt) | текст | 342 КБ | в этой папке |
 
 ## Откуда это у нас
 

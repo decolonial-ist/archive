@@ -1,7 +1,7 @@
 # Про затвердження списку пам'яток мистецтва, історії та археології Української РСР
 
 **Автор:** Рада Міністрів УРСР
-**Год:** 1965
+**Год публикации:** 1965
 **Где напечатано:** постанова від 21.07.1965 № 711
 
 Страница витрины: https://archive.decolonial.ist/387
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html) | сохранённая страница | 235 KiB | в этой папке |
-| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt) | текст | 123 KiB | в этой папке |
-| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt) | текст | 127 KiB | в этой папке |
-| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf) | PDF | 100 KiB | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.html) | сохранённая страница | 235 КБ | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt) | текст | 123 КБ | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965_layer.txt) | текст | 127 КБ | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf) | PDF | 100 КБ | в этой папке |
 
 ## Откуда это у нас
 

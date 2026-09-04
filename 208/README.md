@@ -1,7 +1,7 @@
 # Политический национализм М. Н. Каткова
 
 **Автор:** Ямамото Кенсо
-**Год:** 2018
+**Год публикации:** 2018
 **Где напечатано:** «Русская политология», № 1
 
 Страница витрины: https://archive.decolonial.ist/208
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [politicheskiy_nacionalizm_m_n_katkova_2018.txt](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.txt) | текст | 38 KiB | в этой папке |
-| [politicheskiy_nacionalizm_m_n_katkova_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.pdf) | PDF | 58 KiB | в этой папке |
+| [politicheskiy_nacionalizm_m_n_katkova_2018.txt](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.txt) | текст | 38 КБ | в этой папке |
+| [politicheskiy_nacionalizm_m_n_katkova_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.pdf) | PDF | 58 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Политика царизма по переселению горцев Северо-Восточного Кавказа в Турцию
 
 **Автор:** Болохина Н. И.
-**Год:** 2010
+**Год публикации:** 2010
 
 Страница витрины: https://archive.decolonial.ist/255
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/255/politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf) | PDF | 279 KiB | в этой папке |
-| [politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/255/politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010_layer.txt) | текст | 39 KiB | в этой папке |
+| [politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/255/politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf) | PDF | 279 КБ | в этой папке |
+| [politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/255/politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010_layer.txt) | текст | 39 КБ | в этой папке |
 
 ## Откуда это у нас
 

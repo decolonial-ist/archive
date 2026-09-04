@@ -1,7 +1,7 @@
 # 1840, 1841 и 1842-й годы на Кавказе
 
 **Автор:** Юров А.
-**Год:** 1886
+**Год публикации:** 1886
 
 Страница витрины: https://archive.decolonial.ist/134
 
@@ -9,10 +9,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md) | текст | 788 KiB | в этой папке |
-| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md) | текст | 634 KiB | в этой папке |
-| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md) | текст | 489 KiB | в этой папке |
-| [1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf) | PDF | 1.2 MiB | в этой папке |
+| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md) | текст | 788 КБ | в этой папке |
+| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md) | текст | 634 КБ | в этой папке |
+| [1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md) | текст | 489 КБ | в этой папке |
+| [1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf](https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf) | PDF | 1.2 МБ | в этой папке |
 
 ## Откуда это у нас
 

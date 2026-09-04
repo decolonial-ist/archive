@@ -1,7 +1,7 @@
 # Указ об утверждении временного Положения о военной цензуре
 
 **Автор:** Николай II
-**Год:** 1914
+**Год публикации:** 1914
 **Где напечатано:** Музей історії російських реформ ім. П. А. Столипіна, публікація повного тексту
 
 Страница витрины: https://archive.decolonial.ist/416
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.html](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.html) | сохранённая страница | 126 KiB | в этой папке |
-| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf) | PDF | 83 KiB | в этой папке |
+| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.html](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.html) | сохранённая страница | 126 КБ | в этой папке |
+| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf) | PDF | 83 КБ | в этой папке |
 
 ## Откуда это у нас
 

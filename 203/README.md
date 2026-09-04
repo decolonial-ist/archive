@@ -1,7 +1,7 @@
 # Прямая линия с Владимиром Путиным
 
 **Автор:** Путин В. В.
-**Год:** 2014
+**Год публикации:** 2014
 **Где напечатано:** президент Российской Федерации; официальная стенограмма 17 апреля 2014; официальная стенограмма 17.04.2014
 
 Страница витрины: https://archive.decolonial.ist/203
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt) | текст | 331 KiB | в этой папке |
-| [pryamaya_liniya_s_vladimirom_putinym_2014.html](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.html) | сохранённая страница | 389 KiB | в этой папке |
-| [pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt) | текст | 330 KiB | в этой папке |
-| [pryamaya_liniya_s_vladimirom_putinym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf) | PDF | 289 KiB | в этой папке |
+| [pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt) | текст | 331 КБ | в этой папке |
+| [pryamaya_liniya_s_vladimirom_putinym_2014.html](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.html) | сохранённая страница | 389 КБ | в этой папке |
+| [pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt) | текст | 330 КБ | в этой папке |
+| [pryamaya_liniya_s_vladimirom_putinym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf) | PDF | 289 КБ | в этой папке |
 
 ## Откуда это у нас
 

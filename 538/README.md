@@ -1,7 +1,7 @@
 # Политбюро и крестьянство: Высылка, спецпоселение. 1930-1940 гг. Книга II
 
 **Автор:** —
-**Год:** 2006
+**Год публикации:** 2006
 **Где напечатано:** ред. Покровский Н. Н., Данилов В. П., Красильников С. А., Виола Л.; М.: РОССПЭН; серия «Архивы Кремля»
 
 Страница витрины: https://archive.decolonial.ist/538
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf) | PDF | 37 KiB | в этой папке |
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html) | сохранённая страница | 29 KiB | в этой папке |
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt) | текст | 8 KiB | в этой папке |
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt) | текст | 9 KiB | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf) | PDF | 37 КБ | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html) | сохранённая страница | 29 КБ | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt) | текст | 8 КБ | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Указ Екатерины II о податях
 
 **Автор:** Екатерина II
-**Год:** 1783
+**Год публикации:** 1783
 **Где напечатано:** указ от 3 мая 1783; ПСЗРИ, т. XXI, № 15724
 
 Страница витрины: https://archive.decolonial.ist/149
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_ekateriny_ii_o_podatyah_1783.txt](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.txt) | текст | 3 KiB | в этой папке |
-| [ukaz_ekateriny_ii_o_podatyah_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf) | PDF | 28 KiB | в этой папке |
+| [ukaz_ekateriny_ii_o_podatyah_1783.txt](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.txt) | текст | 3 КБ | в этой папке |
+| [ukaz_ekateriny_ii_o_podatyah_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf) | PDF | 28 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Бій під Крутами в національній пам'яті: Збірник документів і матеріалів
 
 **Автор:** Український інститут національної пам'яті
-**Год:** 2013
+**Год публикации:** 2013
 **Где напечатано:** упоряд.: Любовець О. М. (керівник), Березовський О. М., Бутко С. В., Тищенко А. О., Цимбал І. В.
 
 Страница витрины: https://archive.decolonial.ist/497
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/497__biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf) | PDF | 17.7 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt](https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt) | текст | 179 KiB | в этой папке |
+| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/497__biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf) | PDF | 17.7 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt](https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt) | текст | 179 КБ | в этой папке |
 
 ## Откуда это у нас
 

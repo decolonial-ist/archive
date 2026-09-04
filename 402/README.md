@@ -1,7 +1,7 @@
 # Инструкция НКВД СССР о порядке переселения польских осадников из западных областей УССР и БССР (утв. пост. СНК СССР № 2122-617сс)
 
 **Автор:** Берия Л. П.
-**Год:** 1939
+**Год публикации:** 1939
 **Где напечатано:** народный комиссар внутренних дел СССР; инструкция утверждена СНК СССР 29 декабря 1939; подписал Берия Л.; утв. СНК СССР 29 декабря 1939
 
 Страница витрины: https://archive.decolonial.ist/402
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html) | сохранённая страница | 8 KiB | в этой папке |
-| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt) | текст | 8 KiB | в этой папке |
-| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt) | текст | 8 KiB | в этой папке |
-| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf) | PDF | 42 KiB | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.html) | сохранённая страница | 8 КБ | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt) | текст | 8 КБ | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939_layer.txt) | текст | 8 КБ | в этой папке |
+| [instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf) | PDF | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 

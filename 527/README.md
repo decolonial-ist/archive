@@ -1,7 +1,7 @@
 # Russia's Systematic Program for the Re-education and Adoption of Ukraine's Children (Yale HRL)
 
 **Автор:** Humanitarian Research Lab, Yale School of Public Health
-**Год:** 2023
+**Год публикации:** 2023
 **Где напечатано:** Conflict Observatory
 
 Страница витрины: https://archive.decolonial.ist/527

@@ -1,7 +1,7 @@
 # Нарис української історіографії
 
 **Автор:** Багалій Д. І.
-**Год:** 1923
+**Год публикации:** 1923
 **Где напечатано:** цит. за movahistory.org.ua
 
 Страница витрины: https://archive.decolonial.ist/163
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [naris_ukrainskoi_istoriografii_1923.pdf](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.pdf) | PDF | 77 KiB | в этой папке |
-| [naris_ukrainskoi_istoriografii_1923.html](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.html) | сохранённая страница | 153 KiB | в этой папке |
-| [naris_ukrainskoi_istoriografii_1923.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt) | текст | 55 KiB | в этой папке |
-| [naris_ukrainskoi_istoriografii_1923_layer.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923_layer.txt) | текст | 43 KiB | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.pdf](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.pdf) | PDF | 77 КБ | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.html](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.html) | сохранённая страница | 153 КБ | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt) | текст | 55 КБ | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923_layer.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923_layer.txt) | текст | 43 КБ | в этой папке |
 
 ## Откуда это у нас
 

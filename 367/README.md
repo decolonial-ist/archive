@@ -1,7 +1,7 @@
 # Наказ Міністерства культури і туризму України № 58/0/16-10
 
 **Автор:** Міністерство культури і туризму України
-**Год:** 2010
+**Год публикации:** 2010
 **Где напечатано:** наказ від 03.02.2010, додаток 10
 
 Страница витрины: https://archive.decolonial.ist/367
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt) | текст | 168 KiB | в этой папке |
-| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf) | PDF | 954 KiB | в этой папке |
-| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt) | текст | 168 KiB | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.txt) | текст | 168 КБ | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf) | PDF | 954 КБ | в этой папке |
+| [nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/367/nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010_layer.txt) | текст | 168 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Новая волна репрессий против крестьянства и других слоев населения в республиках Северного Кавказа в 1937-1938 гг.
 
 **Автор:** Какагасанов Г. И.
-**Год:** 2014
+**Год публикации:** 2014
 **Где напечатано:** Вестник Института истории, археологии и этнографии, № 2
 
 Страница витрины: https://archive.decolonial.ist/258
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/258/novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014_layer.txt) | текст | 69 KiB | в этой папке |
-| [novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/258/novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014.pdf) | PDF | 396 KiB | в этой папке |
+| [novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/258/novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014_layer.txt) | текст | 69 КБ | в этой папке |
+| [novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/258/novaya_volna_repressiy_protiv_krestyanstva_i_drugi_vkaza_v_1937_1938_gg_2014.pdf) | PDF | 396 КБ | в этой папке |
 
 ## Откуда это у нас
 

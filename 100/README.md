@@ -1,7 +1,7 @@
 # Акты собранные Кавказскою археографическою комиссиею. Том IV (1809-1811)
 
 **Автор:** Кавказская археографическая комиссия
-**Год:** 1870
+**Год публикации:** 1870
 
 Страница витрины: https://archive.decolonial.ist/100
 
@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md](https://github.com/decolonial-ist/archive/blob/main/100/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md) | текст | 7.7 MiB | в этой папке |
-| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf) | PDF | 159.0 MiB | актив релиза (файл тяжелее 10 МБ) |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md](https://github.com/decolonial-ist/archive/blob/main/100/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md) | текст | 7.7 МБ | в этой папке |
+| [akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf) | PDF | 159.0 МБ | актив релиза (файл тяжелее 10 МБ) |
 
 ## Откуда это у нас
 

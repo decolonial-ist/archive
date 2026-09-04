@@ -1,7 +1,7 @@
 # Чека. Личные воспоминания об Одесской чрезвычайке
 
 **Автор:** Алинин К. (псевдоним)
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Одесса; текст по сб.: Волков С. (сост.) Красный террор глазами очевидцев
 
 Страница витрины: https://archive.decolonial.ist/597
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf) | PDF | 194 KiB | в этой папке |
-| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt) | текст | 207 KiB | в этой папке |
-| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919_layer.txt) | текст | 213 KiB | в этой папке |
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf) | PDF | 194 КБ | в этой папке |
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt) | текст | 207 КБ | в этой папке |
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919_layer.txt) | текст | 213 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # 2025 deadliest year for civilians in Ukraine since 2022, UN human rights monitors find (OHCHR)
 
 **Автор:** Управление Верховного комиссара ООН по правам человека
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** Мониторинговая миссия ООН по правам человека в Украине, февраль 2026
 
 Страница витрины: https://archive.decolonial.ist/358
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt) | текст | 6 KiB | в этой папке |
-| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf) | PDF | 31 KiB | в этой папке |
-| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html) | сохранённая страница | 56 KiB | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt) | текст | 6 КБ | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf) | PDF | 31 КБ | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html) | сохранённая страница | 56 КБ | в этой папке |
 
 ## Откуда это у нас
 

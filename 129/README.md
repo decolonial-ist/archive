@@ -1,7 +1,7 @@
 # Кавказские войны и имамат Шамиля
 
 **Автор:** Покровский Н. И.
-**Год:** 2009
+**Год публикации:** 2009
 
 Страница витрины: https://archive.decolonial.ist/129
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kavkazskie_voyny_i_imamat_shamilya_2009.md](https://github.com/decolonial-ist/archive/blob/main/129/kavkazskie_voyny_i_imamat_shamilya_2009.md) | текст | 2.2 MiB | в этой папке |
-| [kavkazskie_voyny_i_imamat_shamilya_2009.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/129__kavkazskie_voyny_i_imamat_shamilya_2009.pdf) | PDF | 176.9 MiB | актив релиза (файл тяжелее 10 МБ) |
-| [kavkazskie_voyny_i_imamat_shamilya_2009_layer.txt](https://github.com/decolonial-ist/archive/blob/main/129/kavkazskie_voyny_i_imamat_shamilya_2009_layer.txt) | текст | 2.1 MiB | в этой папке |
+| [kavkazskie_voyny_i_imamat_shamilya_2009.md](https://github.com/decolonial-ist/archive/blob/main/129/kavkazskie_voyny_i_imamat_shamilya_2009.md) | текст | 2.2 МБ | в этой папке |
+| [kavkazskie_voyny_i_imamat_shamilya_2009.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/129__kavkazskie_voyny_i_imamat_shamilya_2009.pdf) | PDF | 176.9 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [kavkazskie_voyny_i_imamat_shamilya_2009_layer.txt](https://github.com/decolonial-ist/archive/blob/main/129/kavkazskie_voyny_i_imamat_shamilya_2009_layer.txt) | текст | 2.1 МБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Рішення Конституційного Суду України у справі щодо закону «Про засади державної мовної політики»
 
 **Автор:** Конституційний Суд України
-**Год:** 2018
+**Год публикации:** 2018
 **Где напечатано:** рішення № 2-р/2018 від 28 лютого 2018 р., справа № 1-1/2018
 
 Страница витрины: https://archive.decolonial.ist/446
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html) | сохранённая страница | 87 KiB | в этой папке |
-| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf) | PDF | 56 KiB | в этой папке |
-| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018_layer.txt) | текст | 33 KiB | в этой папке |
-| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt) | текст | 33 KiB | в этой папке |
+| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html) | сохранённая страница | 87 КБ | в этой папке |
+| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf) | PDF | 56 КБ | в этой папке |
+| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018_layer.txt](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018_layer.txt) | текст | 33 КБ | в этой папке |
+| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt) | текст | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

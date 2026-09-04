@@ -1,7 +1,7 @@
 # Кирило-Мефодіївське товариство: У 3 т.
 
 **Автор:** Інститут історії України АН УРСР
-**Год:** 1990
+**Год публикации:** 1990
 **Где напечатано:** Наукова думка, Київ; Т. 1 — доклад гр. Орлова А. Ф. Миколі I від 26.05.1847 з вироками, с. 62-70; Т. 2 — окремий запис рішення у справі Шевченка від 30.05.1847, с. 329
 
 Страница витрины: https://archive.decolonial.ist/450
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.html](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.html) | сохранённая страница | 41 KiB | в этой папке |
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt) | текст | 3 KiB | в этой папке |
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt) | текст | 57 KiB | в этой папке |
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf) | PDF | 70 KiB | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.html](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.html) | сохранённая страница | 41 КБ | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt) | текст | 3 КБ | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990_layer.txt) | текст | 57 КБ | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf) | PDF | 70 КБ | в этой папке |
 
 ## Откуда это у нас
 

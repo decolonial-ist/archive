@@ -1,7 +1,7 @@
 # Записки о Полтаве и её памятниках
 
 **Автор:** Бучневич В. Е.
-**Год:** 1902
+**Год публикации:** 1902
 **Где напечатано:** цит. Голиков, «Деяния Петра Великого», изд. 2-е, т. XI, с. 234
 
 Страница витрины: https://archive.decolonial.ist/432
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zapiski_o_poltave_i_ee_pamyatnikah_1902.html](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.html) | сохранённая страница | 1.7 MiB | в этой папке |
-| [zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf) | PDF | 1.1 MiB | в этой папке |
+| [zapiski_o_poltave_i_ee_pamyatnikah_1902.html](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.html) | сохранённая страница | 1.7 МБ | в этой папке |
+| [zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf) | PDF | 1.1 МБ | в этой папке |
 
 ## Откуда это у нас
 

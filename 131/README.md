@@ -1,7 +1,7 @@
 # Моя боевая жизнь. Записки Войска Донскаго генерал-лейтенанта Якова Петрова Бакланова, написанные собственною его рукою
 
 **Автор:** Бакланов Я. П.
-**Год:** 1871
+**Год публикации:** 1871
 
 Страница витрины: https://archive.decolonial.ist/131
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt) | текст | 101 KiB | в этой папке |
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 112 KiB | в этой папке |
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 99 KiB | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt) | текст | 101 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 112 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 99 КБ | в этой папке |
 
 ## Откуда это у нас
 

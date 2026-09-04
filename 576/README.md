@@ -1,7 +1,7 @@
 # Петроградским организациям
 
 **Автор:** Ленин В. И.
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Полное собрание сочинений, т. 50 (1965)
 
 Страница витрины: https://archive.decolonial.ist/576
@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 80 KiB | в этой папке |
-| [petrogradskim_organizaciyam_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919_layer.txt) | текст | 66 KiB | в этой папке |
-| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 65 KiB | в этой папке |
+| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 80 КБ | в этой папке |
+| [petrogradskim_organizaciyam_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919_layer.txt) | текст | 66 КБ | в этой папке |
+| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 65 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Останній відступ (Спомини М. Андрусяка)
 
 **Автор:** Андрусяк М.
-**Год:** 1930
+**Год публикации:** 1930
 **Где напечатано:** Літопис Червоної Калини, ч. 12
 
 Страница витрины: https://archive.decolonial.ist/505
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf) | PDF | 203 KiB | в этой папке |
-| [ostanniy_vidstup_spomini_m_andrusyaka_1930.txt](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.txt) | текст | 202 KiB | в этой папке |
+| [ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf) | PDF | 203 КБ | в этой папке |
+| [ostanniy_vidstup_spomini_m_andrusyaka_1930.txt](https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.txt) | текст | 202 КБ | в этой папке |
 
 ## Откуда это у нас
 

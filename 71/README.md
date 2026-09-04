@@ -1,7 +1,7 @@
 # Of Christianity, Enlightenment, and Colonialism: Russia in the North Caucasus, 1550–1800
 
 **Автор:** Khodarkovsky M.
-**Год:** 1999
+**Год публикации:** 1999
 
 Страница витрины: https://archive.decolonial.ist/71
 

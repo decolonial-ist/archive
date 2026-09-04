@@ -1,7 +1,7 @@
 # Мазепинці
 
 **Автор:** Костомаров Н. И.
-**Год:** 1885
+**Год публикации:** 1885
 
 Страница витрины: https://archive.decolonial.ist/156
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [mazepinci_1885.pdf](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.pdf) | PDF | 240 KiB | в этой папке |
-| [mazepinci_1885.html](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.html) | сохранённая страница | 379 KiB | в этой папке |
-| [mazepinci_1885_layer.txt](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885_layer.txt) | текст | 280 KiB | в этой папке |
+| [mazepinci_1885.pdf](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.pdf) | PDF | 240 КБ | в этой папке |
+| [mazepinci_1885.html](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.html) | сохранённая страница | 379 КБ | в этой папке |
+| [mazepinci_1885_layer.txt](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885_layer.txt) | текст | 280 КБ | в этой папке |
 
 ## Откуда это у нас
 

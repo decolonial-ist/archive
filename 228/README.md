@@ -1,7 +1,7 @@
 # The Russian-Ukrainian gas crisis of January 2006
 
 **Автор:** Stern J.
-**Год:** 2006
+**Год публикации:** 2006
 **Где напечатано:** Oxford Institute for Energy Studies
 
 Страница витрины: https://archive.decolonial.ist/228

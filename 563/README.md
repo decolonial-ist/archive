@@ -1,7 +1,7 @@
 # Постановление СНК «О красном терроре»
 
 **Автор:** —
-**Год:** 1918
+**Год публикации:** 1918
 **Где напечатано:** постановление от 5 сентября 1918; документ
 
 Страница витрины: https://archive.decolonial.ist/563
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_snk_o_krasnom_terrore_1918.html](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.html) | сохранённая страница | 3 KiB | в этой папке |
-| [postanovlenie_snk_o_krasnom_terrore_1918.txt](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.txt) | текст | 3 KiB | в этой папке |
-| [postanovlenie_snk_o_krasnom_terrore_1918_layer.txt](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918_layer.txt) | текст | 2 KiB | в этой папке |
-| [postanovlenie_snk_o_krasnom_terrore_1918.pdf](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.pdf) | PDF | 27 KiB | в этой папке |
+| [postanovlenie_snk_o_krasnom_terrore_1918.html](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.html) | сохранённая страница | 3 КБ | в этой папке |
+| [postanovlenie_snk_o_krasnom_terrore_1918.txt](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.txt) | текст | 3 КБ | в этой папке |
+| [postanovlenie_snk_o_krasnom_terrore_1918_layer.txt](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918_layer.txt) | текст | 2 КБ | в этой папке |
+| [postanovlenie_snk_o_krasnom_terrore_1918.pdf](https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.pdf) | PDF | 27 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Бандитизм на Северном Кавказе в годы Великой Отечественной войны
 
 **Автор:** Аренин С. П.
-**Год:** 2010
+**Год публикации:** 2010
 **Где напечатано:** Вестник Саратовского государственного социально-экономического университета. № 1. С. 142-145; написана по фонду Отдела по борьбе с бандитизмом НКВД СССР
 **Архивный шифр:** ГА РФ Ф. 9478 Оп. 1
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt) | текст | 36 KiB | в этой папке |
-| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf) | PDF | 231 KiB | в этой папке |
-| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt) | текст | 36 KiB | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt) | текст | 36 КБ | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf) | PDF | 231 КБ | в этой папке |
+| [banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt](https://github.com/decolonial-ist/archive/blob/main/548/banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt) | текст | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

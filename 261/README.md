@@ -1,7 +1,7 @@
 # Материалы для описания русско-турецкой войны 1877-1878 гг. на Кавказско-Малоазиатском театре. Том VI, часть 1
 
 **Автор:** Кавказский военно-исторический отдел
-**Год:** 1910
+**Год публикации:** 1910
 **Где напечатано:** Тифлис; в корпусе с. 192-196
 
 Страница витрины: https://archive.decolonial.ist/261
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt) | текст | 27 KiB | в этой папке |
-| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf) | PDF | 1.1 MiB | в этой папке |
-| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt) | текст | 26 KiB | в этой папке |
-| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf) | PDF | 51 KiB | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt) | текст | 27 КБ | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf) | PDF | 1.1 МБ | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt) | текст | 26 КБ | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf) | PDF | 51 КБ | в этой папке |
 
 ## Откуда это у нас
 

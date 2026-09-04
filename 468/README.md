@@ -1,7 +1,7 @@
 # View on the Monument to the Soviet Constitution, Lviv 1940 (REESOURCES)
 
 **Автор:** Центр міської історії Центрально-Східної Європи
-**Год:** 2026
+**Год публикации:** 2026
 **Где напечатано:** освітня платформа REESOURCES; дослідження і коментар Котлобулатової І.
 
 Страница витрины: https://archive.decolonial.ist/468

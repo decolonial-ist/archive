@@ -1,7 +1,7 @@
 # Договори і постанови прав і свобод військових (Конституція Пилипа Орлика)
 
 **Автор:** Орлик П. С.
-**Год:** 1710
+**Год публикации:** 1710
 **Где напечатано:** 5 квітня 1710; укр. переклад, zakon.rada.gov.ua
 
 Страница витрины: https://archive.decolonial.ist/332
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt) | текст | 54 KiB | в этой папке |
-| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.html](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.html) | сохранённая страница | 67 KiB | в этой папке |
-| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt) | текст | 53 KiB | в этой папке |
-| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf) | PDF | 63 KiB | в этой папке |
+| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt) | текст | 54 КБ | в этой папке |
+| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.html](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.html) | сохранённая страница | 67 КБ | в этой папке |
+| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt) | текст | 53 КБ | в этой папке |
+| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf) | PDF | 63 КБ | в этой папке |
 
 ## Откуда это у нас
 

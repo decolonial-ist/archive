@@ -1,7 +1,7 @@
 # Письмо Ф. Э. Дзержинского М. И. Лацису о положении в ВУЧК
 
 **Автор:** ЦА ФСБ России, ф. 1, оп. 3, д. 50, лл. 8-9
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** сб. «Ф. Э. Дзержинский - председатель ВЧК-ОГПУ» (2007), док. № 209
 **Архивный шифр:** ЦА ФСБ России, ф. 1, оп. 3, д. 50, лл. 8-9
 
@@ -11,10 +11,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.html](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.html) | сохранённая страница | 14 KiB | в этой папке |
-| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt) | текст | 6 KiB | в этой папке |
-| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919_layer.txt) | текст | 6 KiB | в этой папке |
-| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf) | PDF | 37 KiB | в этой папке |
+| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.html](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.html) | сохранённая страница | 14 КБ | в этой папке |
+| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt) | текст | 6 КБ | в этой папке |
+| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919_layer.txt) | текст | 6 КБ | в этой папке |
+| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf) | PDF | 37 КБ | в этой папке |
 
 ## Откуда это у нас
 

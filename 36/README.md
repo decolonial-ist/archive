@@ -1,7 +1,7 @@
 # APT28 Nearest Neighbor Campaign | MITRE ATT&CK®
 
 **Автор:** MITRE ATT&CK®
-**Год:** 2025
+**Год публикации:** 2025
 
 Страница витрины: https://archive.decolonial.ist/36
 
@@ -9,9 +9,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html) | сохранённая страница | 66 KiB | в этой папке |
-| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf) | PDF | 44 KiB | в этой папке |
-| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt) | текст | 6 KiB | в этой папке |
+| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html) | сохранённая страница | 66 КБ | в этой папке |
+| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf) | PDF | 44 КБ | в этой папке |
+| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt) | текст | 6 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # Постановление ГКЧП о выпуске газет
 
 **Автор:** Государственный комитет по чрезвычайному положению в СССР
-**Год:** 1991
+**Год публикации:** 1991
 **Где напечатано:** постановление № 2 от 19.08.1991
 
 Страница витрины: https://archive.decolonial.ist/179
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_gkchp_o_vypuske_gazet_1991.txt](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.txt) | текст | 9 KiB | в этой папке |
-| [postanovlenie_gkchp_o_vypuske_gazet_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf) | PDF | 60 KiB | в этой папке |
-| [postanovlenie_gkchp_o_vypuske_gazet_1991.html](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.html) | сохранённая страница | 68 KiB | в этой папке |
-| [postanovlenie_gkchp_o_vypuske_gazet_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991_layer.txt) | текст | 6 KiB | в этой папке |
+| [postanovlenie_gkchp_o_vypuske_gazet_1991.txt](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.txt) | текст | 9 КБ | в этой папке |
+| [postanovlenie_gkchp_o_vypuske_gazet_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf) | PDF | 60 КБ | в этой папке |
+| [postanovlenie_gkchp_o_vypuske_gazet_1991.html](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.html) | сохранённая страница | 68 КБ | в этой папке |
+| [postanovlenie_gkchp_o_vypuske_gazet_1991_layer.txt](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991_layer.txt) | текст | 6 КБ | в этой папке |
 
 ## Откуда это у нас
 

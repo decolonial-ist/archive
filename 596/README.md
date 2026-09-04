@@ -1,7 +1,7 @@
 # Телеграмма из Могилева-Подольского в Бюро украинской печати
 
 **Автор:** ЦГАОР УССР, ф. 1738, оп. 1, д. 57, л. 63. Телеграфный бланк. Рукопись
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 1, кн. 1 (1967), док. № 821, с. 717
 **Архивный шифр:** ЦГАОР УССР, ф. 1738, оп. 1, д. 57, л. 63. Телеграфный бланк. Рукопись
 
@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt](https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt) | текст | 2 KiB | в этой папке |
+| [telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt](https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 

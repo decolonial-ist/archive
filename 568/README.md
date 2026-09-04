@@ -1,7 +1,7 @@
 # Доклад Х. Гофмана о погромах в м. Фастов Киевской губ.
 
 **Автор:** ГА РФ, ф. Р-1339
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Книга погромов. Погромы на Украине... 1918–1922 (2007); фонд Еврейского общественного комитета
 **Архивный шифр:** ГА РФ, ф. Р-1339
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf) | PDF | 60 KiB | в этой папке |
-| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.txt](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.txt) | текст | 43 KiB | в этой папке |
-| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919_layer.txt) | текст | 41 KiB | в этой папке |
+| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf) | PDF | 60 КБ | в этой папке |
+| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.txt](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.txt) | текст | 43 КБ | в этой папке |
+| [doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919_layer.txt) | текст | 41 КБ | в этой папке |
 
 ## Откуда это у нас
 

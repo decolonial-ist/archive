@@ -1,7 +1,7 @@
 # Документи про заборону української мови
 
 **Автор:** Вірченко Н. О.
-**Год:** 2008
+**Год публикации:** 2008
 **Где напечатано:** Академія наук вищої школи України
 
 Страница витрины: https://archive.decolonial.ist/531
@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf) | PDF | 127 KiB | в этой папке |
-| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt) | текст | 73 KiB | в этой папке |
-| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008_layer.txt](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008_layer.txt) | текст | 78 KiB | в этой папке |
-| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.html](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.html) | сохранённая страница | 91 KiB | в этой папке |
+| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf) | PDF | 127 КБ | в этой папке |
+| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt) | текст | 73 КБ | в этой папке |
+| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008_layer.txt](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008_layer.txt) | текст | 78 КБ | в этой папке |
+| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.html](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.html) | сохранённая страница | 91 КБ | в этой папке |
 
 ## Откуда это у нас
 

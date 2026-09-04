@@ -1,7 +1,7 @@
 # Приказ армиям Украинского фронта № 68 о ликвидации авантюры Григорьева
 
 **Автор:** ЦГАСА, ф. 103, оп. 1, д. 260, л. 9
-**Год:** 1919
+**Год публикации:** 1919
 **Где напечатано:** Гражданская война на Украине, т. 2 (1967), док. № 68
 **Архивный шифр:** ЦГАСА, ф. 103, оп. 1, д. 260, л. 9
 
@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf) | PDF | 31 KiB | в этой папке |
-| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt) | текст | 4 KiB | в этой папке |
-| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919_layer.txt) | текст | 5 KiB | в этой папке |
+| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf) | PDF | 31 КБ | в этой папке |
+| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt) | текст | 4 КБ | в этой папке |
+| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919_layer.txt](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919_layer.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас
 

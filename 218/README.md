@@ -1,7 +1,7 @@
 # IAEA Director General Statement on Situation in Ukraine, Update 9
 
 **Автор:** Grossi R. M.
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** Міжнародне агентство з атомної енергії
 
 Страница витрины: https://archive.decolonial.ist/218
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html) | сохранённая страница | 122 KiB | в этой папке |
-| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf) | PDF | 28 KiB | в этой папке |
+| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.html) | сохранённая страница | 122 КБ | в этой папке |
+| [iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf) | PDF | 28 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,7 +1,7 @@
 # О занесении на черную доску сел, злостно саботирующих хлебозаготовки
 
 **Автор:** Совет народных комиссаров УССР и Центральный комитет КП(б)У
-**Год:** 1932
+**Год публикации:** 1932
 **Где напечатано:** постановление от 6 декабря 1932; подписали Чубарь В., Косиор С.
 
 Страница витрины: https://archive.decolonial.ist/239
@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt) | текст | 6 KiB | в этой папке |
-| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf) | PDF | 31 KiB | в этой папке |
+| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt) | текст | 6 КБ | в этой папке |
+| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

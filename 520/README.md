@@ -1,7 +1,7 @@
 # Russian missile strike kills 23 people in Vinnytsia (Militarnyi)
 
 **Автор:** —
-**Год:** 2022
+**Год публикации:** 2022
 **Где напечатано:** Militarnyi
 
 Страница витрины: https://archive.decolonial.ist/520

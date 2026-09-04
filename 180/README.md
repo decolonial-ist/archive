@@ -1,7 +1,7 @@
 # The Pogrom of 1905 in Odessa
 
 **Автор:** Weinberg R.
-**Год:** 1992
+**Год публикации:** 1992
 
 Страница витрины: https://archive.decolonial.ist/180
 

@@ -1,7 +1,7 @@
 # Совершенно секретно: Лубянка - Сталину о положении в стране. Том 3, 1925 год
 
 **Автор:** Информационный отдел ОГПУ
-**Год:** 2002
+**Год публикации:** 2002
 **Где напечатано:** обзоры политического состояния СССР; изд. ИРИ РАН, М.
 **Архивный шифр:** ЦА ФСБ РФ Ф. 2. Оп. 3
 
@@ -11,12 +11,12 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt) | текст | 224 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf) | PDF | 1.2 MiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt) | текст | 333 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt) | текст | 285 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt) | текст | 428 KiB | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt) | текст | 376 KiB | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt) | текст | 224 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf) | PDF | 1.2 МБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt) | текст | 333 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt) | текст | 285 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt) | текст | 428 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt](https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt) | текст | 376 КБ | в этой папке |
 
 ## Откуда это у нас
 

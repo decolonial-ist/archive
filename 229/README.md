@@ -1,7 +1,7 @@
 # The Russo-Ukrainian gas dispute of January 2009
 
 **Автор:** Stern J., Pirani S., Yafimava K.
-**Год:** 2009
+**Год публикации:** 2009
 **Где напечатано:** Oxford Institute for Energy Studies
 
 Страница витрины: https://archive.decolonial.ist/229
