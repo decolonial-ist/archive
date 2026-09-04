@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Издание: `militera.lib[.]ru/memo/russian/mikoyan/02.html`
+Издание: [https://openlibrary.org/books/OL22497158M](https://openlibrary.org/books/OL22497158M)
 
 Права: нельзя. мемуары Микояна, издание 1999 года под авторским правом
 

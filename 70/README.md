@@ -2,6 +2,7 @@
 
 **Автор.** Khodarkovsky M.
 **Год.** 2002
+**Где напечатано.** Bloomington: Indiana University Press, 2002. ISBN 978-0-253-21770-7
 
 Страница витрины: https://archive.decolonial.ist/70
 
@@ -11,7 +12,7 @@
 
 ## Откуда это у нас
 
-Издание: `dokumen[.]pub/russias-steppe-frontier-the-making-of-a-colonial-empire-1500-1800-9780253339898.html`
+Издание: [https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC](https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC)
 
 Права: нельзя. современная публикация 2002 года под авторским правом
 

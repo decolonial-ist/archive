@@ -2,6 +2,7 @@
 
 **Автор.** Yaşar M.
 **Год.** 2022
+**Где напечатано.** Edinburgh: Edinburgh University Press, 2022. ISBN 978-1-4744-9869-2
 
 Страница витрины: https://archive.decolonial.ist/72
 
@@ -11,7 +12,7 @@
 
 ## Откуда это у нас
 
-Издание: `dokumen[.]pub/the-north-caucasus-borderland-between-muscovy-and-the-ottoman-empire-1555-1605-9781474498715.html`
+Издание: [https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ](https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ)
 
 Права: нельзя. современная публикация 2022 года под авторским правом
 

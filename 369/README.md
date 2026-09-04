@@ -8,13 +8,13 @@
 
 ## Файлы не выкладываем
 
-Почему: права: современная книга под авторским правом, источник royallib[.]com
+Почему: права: современная публикация 1952 года под авторским правом
 
 ## Откуда это у нас
 
-Издание: `royallib[.]com/book/uralov_avtorhanov_aleksandr/ubiystvo_checheno_ingushskogo_naroda_narodoubiystvo_v_sssr.html`
+Издание: [https://openlibrary.org/works/OL38612563W/Narodoubiĭstvo_v_SSSR](https://openlibrary.org/works/OL38612563W/Narodoubiĭstvo_v_SSSR)
 
-Права: нельзя. современная книга под авторским правом, источник royallib[.]com
+Права: нельзя. современная публикация 1952 года под авторским правом
 
 ---
 

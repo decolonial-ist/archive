@@ -11,6 +11,8 @@
 
 ## Откуда это у нас
 
+Издание: [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491)
+
 Права: нельзя. современная публикация 1993 года под авторским правом
 
 ---
