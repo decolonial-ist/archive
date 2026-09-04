@@ -1,6 +1,6 @@
 # Russian missile strike kills 23 people in Vinnytsia (Militarnyi)
 
-**Автор:** —
+**Автор:** Militarnyi
 **Год публикации:** 2022
 **Где напечатано:** Militarnyi
 

@@ -1,6 +1,6 @@
 # Bucha: nine Russian soldiers sentenced and more trials to come (JusticeInfo)
 
-**Автор:** —
+**Автор:** Justice Info; Fondation Hirondelle
 **Год публикации:** 2023
 **Где напечатано:** Justice Info; Fondation Hirondelle
 

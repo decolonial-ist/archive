@@ -1,6 +1,6 @@
 # Post-Soviet Borders: A Kaleidoscope of Shifting Lives and Lands
 
-**Автор:** —
+**Автор:** редактор: von Löwis S., Eschment B.
 **Год публикации:** 2023
 **Где напечатано:** редактор: von Löwis S., Eschment B.
 

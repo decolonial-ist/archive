@@ -1,6 +1,6 @@
 # TCDD poisoning in Victor Yushchenko (The Lancet)
 
-**Автор:** Sorg O., Zennegg M., Schmid P. та ін.
+**Автор:** Sorg O., Zennegg M., Schmid P. та інші
 **Год публикации:** 2009
 
 Страница витрины: https://archive.decolonial.ist/225
