@@ -1,7 +1,7 @@
 # Война на Восточном Кавказе с 1824 по 1834 г. в связи с мюридизмом
 
-**Автор.** Волконский Н. А.
-**Год.** 1886
+**Автор:** Волконский Н. А.
+**Год:** 1886
 
 Страница витрины: https://archive.decolonial.ist/116
 
@@ -17,17 +17,12 @@
 
 Первоисточник: `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php`
 
-Права: свободно. общественное достояние: издано в 1886 году
+Права на публикацию: свободно (общественное достояние: издано в 1886 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf
-shasum -a 256 voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.txt
-shasum -a 256 voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf | `f52a362b96eecc102dada7482dea02a8ab1adaeb5299ea8c02d6a2177aa58471` |

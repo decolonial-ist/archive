@@ -1,7 +1,7 @@
 # История войны и владычества русских на Кавказе. Том 5
 
-**Автор.** Дубровин Н. Ф.
-**Год.** 1871
+**Автор:** Дубровин Н. Ф.
+**Год:** 1871
 
 Страница витрины: https://archive.decolonial.ist/114
 
@@ -22,22 +22,12 @@
 
 Первоисточник: `apsnyteka[.]org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html`
 
-Права: свободно. общественное достояние: издано в 1871 году
+Права на публикацию: свободно (общественное достояние: издано в 1871 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva.fb2
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_2.fb2
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_3.fb2
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_4.fb2
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_5.fb2
-shasum -a 256 istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_istoriya_voiny_i_vladychestva_6.fb2
-```
 | файл | sha256 |
 |---|---|
 | istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt | `32f0d38a4978b520f69a4ac831762c25ca4b393ef5258a4ef6e88f71f49927b5` |

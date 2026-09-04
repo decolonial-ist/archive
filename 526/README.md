@@ -1,7 +1,8 @@
 # Мер Мелітополя Іван Федоров розповів про своє викрадення росіянами (NV)
 
-**Год.** 2022
-**Где напечатано.** NV
+**Автор:** —
+**Год:** 2022
+**Где напечатано:** NV
 
 Страница витрины: https://archive.decolonial.ist/526
 
@@ -20,20 +21,12 @@
 
 Первоисточник: [https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html](https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html)
 
-Права: свободно. NV.ua: текст можно использовать без письменного разрешения при гиперссылке на источник
+Права на публикацию: свободно (NV.ua: текст можно использовать без письменного разрешения при гиперссылке на источник)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_page_ne_tot_material.html
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_layer.txt
-shasum -a 256 mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.html | `e1a62cfb0d274f89e7aecd2cffb2e4891cec87089e4b0f85ad1f1b86808d3a7a` |

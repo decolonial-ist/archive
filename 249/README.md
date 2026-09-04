@@ -1,8 +1,8 @@
 # Історія України-Руси: Т. IX
 
-**Автор.** Грушевський М. С.
-**Год.** 1931
-**Где напечатано.** кн. 2: Хмельниччини роки 1654–1657; переказ статейного списку посольства Бутурліна В. за Актами ЮЗР, т. X
+**Автор:** Грушевський М. С.
+**Год:** 1931
+**Где напечатано:** кн. 2: Хмельниччини роки 1654–1657; переказ статейного списку посольства Бутурліна В. за Актами ЮЗР, т. X
 
 Страница витрины: https://archive.decolonial.ist/249
 
@@ -20,19 +20,12 @@
 
 Первоисточник: [http://litopys.org.ua/hrushrus/iur9.htm](http://litopys.org.ua/hrushrus/iur9.htm)
 
-Права: свободно. автор М. С. Грушевский умер в 1934 году, срок охраны истёк до 1996 года
+Права на публикацию: свободно (автор М. С. Грушевский умер в 1934 году, срок охраны истёк до 1996 года)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_layer.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt
-shasum -a 256 istoriya_ukraini_rusi_t_ix_1931.pdf
-```
 | файл | sha256 |
 |---|---|
 | istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt | `89be30bef1bacd1330dd85530306e424a979b8a406992055e1f43077c89cacc2` |

@@ -1,7 +1,8 @@
 # В Ірпені від обстрілу військ РФ 6 березня загинули щонайменше вісім цивільних жителів - мер (Радіо Свобода)
 
-**Год.** 2022
-**Где напечатано.** Радіо Свобода
+**Автор:** —
+**Год:** 2022
+**Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/510
 
@@ -18,18 +19,12 @@
 
 Первоисточник: [https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html](https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html)
 
-Права: свободно. RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL
+Права на публикацию: свободно (RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.html
-shasum -a 256 v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.txt
-shasum -a 256 v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022_layer.txt
-shasum -a 256 v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.html | `ec27aa312532ad3f2ddb3a420cef1a943dc29897d14968cecbf8c5f4b16050ab` |

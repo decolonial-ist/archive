@@ -1,8 +1,8 @@
 # Федеральный закон № 36-ФЗ о ратификации договора с Республикой Крым
 
-**Автор.** Путин В. В.
-**Год.** 2014
-**Где напечатано.** президент Российской Федерации; закон подписан 21 марта 2014; подписан 21 марта 2014
+**Автор:** Путин В. В.
+**Год:** 2014
+**Где напечатано:** президент Российской Федерации; закон подписан 21 марта 2014; подписан 21 марта 2014
 
 Страница витрины: https://archive.decolonial.ist/204
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://ru.wikisource.org/wiki/Федеральный_закон_от_21.03.2014_№_36-ФЗ](https://ru.wikisource.org/wiki/Федеральный_закон_от_21.03.2014_№_36-ФЗ)
 
-Права: свободно. Викимедиа: CC BY-SA 4.0 либо общественное достояние
+Права на публикацию: свободно (Викимедиа: CC BY-SA 4.0 либо общественное достояние)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html
-shasum -a 256 federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf
-shasum -a 256 federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt
-shasum -a 256 federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.html | `46ea5ad946f8cb263748737b5e3424ddfed0599f6dee77817fae750073110587` |

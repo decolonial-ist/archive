@@ -1,8 +1,8 @@
 # La Situation de la Religion dans la République des Montagnards
 
-**Автор.** Un Montagnard (аноним, горец Северного Кавказа)
-**Год.** 1930
-**Где напечатано.** Prométhée. Париж, № 46 (septembre). С. 15-18; скан Gallica / BnF
+**Автор:** Un Montagnard (аноним, горец Северного Кавказа)
+**Год:** 1930
+**Где напечатано:** Prométhée. Париж, № 46 (septembre). С. 15-18; скан Gallica / BnF
 
 Страница витрины: https://archive.decolonial.ist/486
 
@@ -17,16 +17,12 @@
 
 Первоисточник: [https://gallica.bnf.fr/ark:/12148/bpt6k6361221r](https://gallica.bnf.fr/ark:/12148/bpt6k6361221r)
 
-Права: свободно. общественное достояние: издано в 1930 году
+Права на публикацию: свободно (общественное достояние: издано в 1930 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf
-shasum -a 256 la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt
-```
 | файл | sha256 |
 |---|---|
 | la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf | `fc0bf14dbd493b8ec226293ab48f85da5c1c29f11547047ef180f765ff7902bf` |

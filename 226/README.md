@@ -1,7 +1,7 @@
 # Territorial integrity of Ukraine: defending the principles of the Charter of the United Nations (A/RES/ES-11/4)
 
-**Автор.** Генеральна Асамблея ООН
-**Год.** 2022
+**Автор:** Генеральна Асамблея ООН
+**Год:** 2022
 
 Страница витрины: https://archive.decolonial.ist/226
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://documents.un.org/api/symbol/access?s=A/RES/ES-11/4&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=A/RES/ES-11/4&l=en&t=pdf)
 
-Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+Права на публикацию: свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html
-shasum -a 256 territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt
-shasum -a 256 territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.html | `5e4b62e23e16664cd3fef53772fdff452ab705aa7c0be6d0203c81250f92f1d6` |

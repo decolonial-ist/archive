@@ -1,8 +1,8 @@
 # Рекомендация Европейского парламента по отношениям ЕС-Россия
 
-**Автор.** Европейский парламент
-**Год.** 2004
-**Где напечатано.** recommendation to the Council on EU-Russia relations, P5_TA(2004)0121, 26 февраля 2004 года
+**Автор:** Европейский парламент
+**Год:** 2004
+**Где напечатано:** recommendation to the Council on EU-Russia relations, P5_TA(2004)0121, 26 февраля 2004 года
 
 Страница витрины: https://archive.decolonial.ist/551
 
@@ -17,16 +17,12 @@
 
 Первоисточник: [https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html](https://www.europarl.europa.eu/doceo/document/TA-5-2004-0121_EN.html)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf
-shasum -a 256 rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004_ocr.txt
-```
 | файл | sha256 |
 |---|---|
 | rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf | `64c09aa92f5787421d311ca04b237eb9eced7428df4f44c4ee4eae432624a756` |

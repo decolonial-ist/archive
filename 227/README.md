@@ -1,19 +1,17 @@
 # The Kremlin's Shifting, Self-Contradicting Narratives on MH17
 
-**Автор.** Bellingcat
-**Год.** 2019
+**Автор:** Bellingcat
+**Год:** 2019
 
 Страница витрины: https://archive.decolonial.ist/227
 
 ## Файлы не выкладываем
 
-Почему: права: материал организации или СМИ под авторским правом (bellingcat[.]com)
-
 ## Откуда это у нас
 
 Издание: `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/`
 
-Права: нельзя. материал организации или СМИ под авторским правом (bellingcat[.]com)
+Права на публикацию: нельзя (материал организации или СМИ под авторским правом (bellingcat[.]com))
 
 ---
 

@@ -1,8 +1,8 @@
 # Прямая линия с Владимиром Путиным
 
-**Автор.** Путин В. В.
-**Год.** 2014
-**Где напечатано.** президент Российской Федерации; официальная стенограмма 17 апреля 2014; официальная стенограмма 17.04.2014
+**Автор:** Путин В. В.
+**Год:** 2014
+**Где напечатано:** президент Российской Федерации; официальная стенограмма 17 апреля 2014; официальная стенограмма 17.04.2014
 
 Страница витрины: https://archive.decolonial.ist/203
 
@@ -19,18 +19,12 @@
 
 Первоисточник: `www.kremlin[.]ru/events/president/transcripts/20796/work`
 
-Права: свободно. kremlin[.]ru: CC BY 4.0
+Права на публикацию: свободно (kremlin[.]ru: CC BY 4.0)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt
-shasum -a 256 pryamaya_liniya_s_vladimirom_putinym_2014.html
-shasum -a 256 pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt
-shasum -a 256 pryamaya_liniya_s_vladimirom_putinym_2014.pdf
-```
 | файл | sha256 |
 |---|---|
 | pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt | `aecabca8a9f384524a14d6958e75bf118107814d1e5056914198c1e6dda3ae2e` |

@@ -1,7 +1,7 @@
 # Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы. Том I
 
-**Автор.** Кушева Е. Н.
-**Год.** 1957
+**Автор:** Кушева Е. Н.
+**Год:** 1957
 
 Страница витрины: https://archive.decolonial.ist/92
 
@@ -13,7 +13,7 @@
 
 Первоисточник: [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/)
 
-Права: свободно: документ. сборник документов XVI-XVIII веков, тексты в общественном достоянии
+Права на публикацию: свободно: документ (сборник документов XVI-XVIII веков, тексты в общественном достоянии)
 
 ---
 

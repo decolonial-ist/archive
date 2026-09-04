@@ -1,8 +1,8 @@
 # Договори і постанови прав і свобод військових (Конституція Пилипа Орлика)
 
-**Автор.** Орлик П. С.
-**Год.** 1710
-**Где напечатано.** 5 квітня 1710; укр. переклад, zakon.rada.gov.ua
+**Автор:** Орлик П. С.
+**Год:** 1710
+**Где напечатано:** 5 квітня 1710; укр. переклад, zakon.rada.gov.ua
 
 Страница витрины: https://archive.decolonial.ist/332
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://zakon.rada.gov.ua/laws/show/001_003](https://zakon.rada.gov.ua/laws/show/001_003)
 
-Права: свободно. общественное достояние: издано в 1710 году
+Права на публикацию: свободно (общественное достояние: издано в 1710 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt
-shasum -a 256 dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.html
-shasum -a 256 dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt
-shasum -a 256 dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf
-```
 | файл | sha256 |
 |---|---|
 | dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710_layer.txt | `30472dba605ef355db05838600d816a203f4193022e09e30ae80ba0873f1fe46` |

@@ -1,8 +1,8 @@
 # Манифест о принятии Крыма под Российскую державу
 
-**Автор.** Екатерина II
-**Год.** 1783
-**Где напечатано.** ПСЗРИ, т. XXI, № 15708
+**Автор:** Екатерина II
+**Год:** 1783
+**Где напечатано:** ПСЗРИ, т. XXI, № 15708
 
 Страница витрины: https://archive.decolonial.ist/148
 
@@ -18,17 +18,12 @@
 
 Первоисточник: `sevkrimrus.narod[.]ru/ZAKON/manifest.htm`
 
-Права: свободно. общественное достояние: издано в 1783 году
+Права на публикацию: свободно (общественное достояние: издано в 1783 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf
-shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt
-shasum -a 256 manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf | `cdf36c9bcea4e7405881d4acf62b54a6ab2a62ef14975266929de3a34d52f4c0` |

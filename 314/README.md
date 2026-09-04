@@ -1,7 +1,8 @@
 # Генерал-майор Н. П. Слепцов (биографический очерк, Терский сборник)
 
-**Год.** 1903
-**Где напечатано.** Терский сборник, Владикавказ
+**Автор:** —
+**Год:** 1903
+**Где напечатано:** Терский сборник, Владикавказ
 
 Страница витрины: https://archive.decolonial.ist/314
 
@@ -17,17 +18,12 @@
 
 Первоисточник: `ghalghay[.]com/2010/03/15/генерал-майор-н-п-слепцов-владикавказ/`
 
-Права: свободно. общественное достояние: издано в 1903 году
+Права на публикацию: свободно (общественное достояние: издано в 1903 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt
-shasum -a 256 general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md
-shasum -a 256 general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf
-```
 | файл | sha256 |
 |---|---|
 | general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903_layer.txt | `6d91f52badf26efa1ab2c2b0435d5ecb4dc4f36b244e43b358595332219c1fe7` |

@@ -1,7 +1,7 @@
 # Territorial integrity of Ukraine (A/RES/68/262)
 
-**Автор.** United Nations General Assembly
-**Год.** 2014
+**Автор:** United Nations General Assembly
+**Год:** 2014
 
 Страница витрины: https://archive.decolonial.ist/202
 
@@ -16,16 +16,12 @@
 
 Первоисточник: [https://digitallibrary.un.org/record/767883/files/A_RES_68_262-EN.pdf](https://digitallibrary.un.org/record/767883/files/A_RES_68_262-EN.pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 territorial_integrity_of_ukraine_a_res_68_262_2014.pdf
-shasum -a 256 territorial_integrity_of_ukraine_a_res_68_262_2014.txt
-```
 | файл | sha256 |
 |---|---|
 | territorial_integrity_of_ukraine_a_res_68_262_2014.pdf | `c0156b2e043a976794b46d90a56bd6d394cfd016b44e7266b5564133cce42dc7` |

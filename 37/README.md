@@ -1,7 +1,7 @@
 # Campaign C0026 | MITRE ATT&CK®
 
-**Автор.** MITRE ATT&CK®
-**Год.** 2023
+**Автор:** MITRE ATT&CK®
+**Год:** 2023
 
 Страница витрины: https://archive.decolonial.ist/37
 
@@ -18,18 +18,12 @@
 
 Первоисточник: [https://attack.mitre.org/campaigns/C0026/](https://attack.mitre.org/campaigns/C0026/)
 
-Права: свободно. MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE
+Права на публикацию: свободно (MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 campaign_c0026_mitre_att_ck_2023.html
-shasum -a 256 campaign_c0026_mitre_att_ck_2023.pdf
-shasum -a 256 campaign_c0026_mitre_att_ck_2023.txt
-shasum -a 256 campaign_c0026_mitre_att_ck_2023_2.pdf
-```
 | файл | sha256 |
 |---|---|
 | campaign_c0026_mitre_att_ck_2023.html | `aebcfc8beffe3a79a6f53246e5662e2624863ef40ea16cecf61f4d2c12e15725` |

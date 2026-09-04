@@ -1,7 +1,7 @@
 # Доклад Верховного комиссара ООН по правам человека о положении в области прав человека в Украине (A/HRC/27/75)
 
-**Автор.** Управління Верховного комісара ООН з прав людини
-**Год.** 2014
+**Автор:** Управління Верховного комісара ООН з прав людини
+**Год:** 2014
 
 Страница витрины: https://archive.decolonial.ist/236
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://digitallibrary.un.org/record/780616/files/A_HRC_27_75-RU.pdf](https://digitallibrary.un.org/record/780616/files/A_HRC_27_75-RU.pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt
-shasum -a 256 doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt
-shasum -a 256 doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf
-```
 | файл | sha256 |
 |---|---|
 | doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt | `020f6c88726319de432364739d7af6b4f58dc1ad01dacb96f21210297669f1d1` |

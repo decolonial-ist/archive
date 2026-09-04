@@ -1,7 +1,8 @@
 # Виктор Янукович и Владимир Путин достигли компромисса в Москве
 
-**Год.** 2013
-**Где напечатано.** Радіо Свобода
+**Автор:** —
+**Год:** 2013
+**Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/234
 
@@ -18,18 +19,12 @@
 
 Первоисточник: [https://www.svoboda.org/a/25203188.html](https://www.svoboda.org/a/25203188.html)
 
-Права: свободно. RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL
+Права на публикацию: свободно (RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf
-shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.html
-shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013_layer.txt
-shasum -a 256 viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt
-```
 | файл | sha256 |
 |---|---|
 | viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf | `ebeebd528384e87a775c8563086a40b9be639296fb2dfd161ebd4174fde3a43c` |

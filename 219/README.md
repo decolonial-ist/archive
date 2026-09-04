@@ -1,7 +1,7 @@
 # ICC judges issue arrest warrants against Vladimir Putin and Maria Lvova-Belova
 
-**Автор.** Міжнародний кримінальний суд
-**Год.** 2023
+**Автор:** Міжнародний кримінальний суд
+**Год:** 2023
 
 Страница витрины: https://archive.decolonial.ist/219
 
@@ -18,18 +18,12 @@
 
 Первоисточник: [https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt
-shasum -a 256 icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.html
-shasum -a 256 icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf
-shasum -a 256 icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt
-```
 | файл | sha256 |
 |---|---|
 | icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023_layer.txt | `08fbdeeaaaa32c4765654dc43a066996c5381b5c68b181fa955ddf54bb7af5e0` |

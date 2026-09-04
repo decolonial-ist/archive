@@ -1,7 +1,7 @@
 # Моя боевая жизнь. Записки Войска Донскаго генерал-лейтенанта Якова Петрова Бакланова, написанные собственною его рукою
 
-**Автор.** Бакланов Я. П.
-**Год.** 1871
+**Автор:** Бакланов Я. П.
+**Год:** 1871
 
 Страница витрины: https://archive.decolonial.ist/131
 
@@ -17,17 +17,12 @@
 
 Первоисточник: `readli[.]net/moya-boevaya-zhizn-yazyik-doreformennyiy/`
 
-Права: свободно. общественное достояние: издано в 1871 году
+Права на публикацию: свободно (общественное достояние: издано в 1871 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt
-shasum -a 256 moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf
-shasum -a 256 moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md
-```
 | файл | sha256 |
 |---|---|
 | moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_layer.txt | `88978f9f38c5e26b034763fc7c0d6e0382b39fe6b0dbf36254889515e16e9499` |

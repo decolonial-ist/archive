@@ -1,8 +1,8 @@
 # 2025 deadliest year for civilians in Ukraine since 2022, UN human rights monitors find (OHCHR)
 
-**Автор.** Управление Верховного комиссара ООН по правам человека
-**Год.** 2026
-**Где напечатано.** Мониторинговая миссия ООН по правам человека в Украине, февраль 2026
+**Автор:** Управление Верховного комиссара ООН по правам человека
+**Год:** 2026
+**Где напечатано:** Мониторинговая миссия ООН по правам человека в Украине, февраль 2026
 
 Страница витрины: https://archive.decolonial.ist/358
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://ukraine.ohchr.org/en/2025-deadliest-year-for-civilians-in-Ukraine-since-2022-UN-human-rights-monitors-find](https://ukraine.ohchr.org/en/2025-deadliest-year-for-civilians-in-Ukraine-since-2022-UN-human-rights-monitors-find)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt
-shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf
-shasum -a 256 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.html
-```
 | файл | sha256 |
 |---|---|
 | 2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt | `ddf8554a1c24beb3b1e6067edc4e03dd7553e53a0df8d9a846e6c03a65851143` |

@@ -1,8 +1,8 @@
 # Обращение Президента Российской Федерации 21 февраля 2022 года
 
-**Автор.** Путин В. В.
-**Год.** 2022
-**Где напечатано.** kremlin.ru, 21 февраля 2022
+**Автор:** Путин В. В.
+**Год:** 2022
+**Где напечатано:** kremlin.ru, 21 февраля 2022
 
 Страница витрины: https://archive.decolonial.ist/317
 
@@ -18,17 +18,12 @@
 
 Первоисточник: `kremlin[.]ru/events/president/news/67828`
 
-Права: свободно. kremlin[.]ru: CC BY 4.0
+Права на публикацию: свободно (kremlin[.]ru: CC BY 4.0)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt
-shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt
-shasum -a 256 obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_layer.txt | `8faec516ed7577e37602511af6d3cbed3620a9ecb5976b68a2eba5f6835f8e49` |

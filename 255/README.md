@@ -1,7 +1,7 @@
 # Политика царизма по переселению горцев Северо-Восточного Кавказа в Турцию
 
-**Автор.** Болохина Н. И.
-**Год.** 2010
+**Автор:** Болохина Н. И.
+**Год:** 2010
 
 Страница витрины: https://archive.decolonial.ist/255
 
@@ -16,16 +16,12 @@
 
 Первоисточник: `cyberleninka[.]ru/article/n/politika-tsarizma-po-pereseleniyu-gortsev-severo-vostochnogo-kavkaza-v-turtsiyu-vtoraya-polovina-hih-nachalo-hh-veka`
 
-Права: свободно. CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи)
+Права на публикацию: свободно (CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf
-shasum -a 256 politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | politika_carizma_po_pereseleniyu_gorcev_severo_vos_go_kavkaza_v_turciyu_2010.pdf | `4938951c452cdf67432a770049d9e8901b2d2c5ec0252bf6352a2c8f801111be` |

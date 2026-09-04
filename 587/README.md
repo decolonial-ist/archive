@@ -1,7 +1,8 @@
 # Сообщение Г. И. Рабиновича о последствиях погрома в м. Фастов
 
-**Год.** 1919
-**Где напечатано.** Книга погромов. Погромы на Украине... 1918–1922 (2007)
+**Автор:** —
+**Год:** 1919
+**Где напечатано:** Книга погромов. Погромы на Украине... 1918–1922 (2007)
 
 Страница витрины: https://archive.decolonial.ist/587
 
@@ -17,17 +18,12 @@
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g`
 
-Права: свободно: документ. документ 1919 года свободен, но напечатан в издании 2007 года — выкладываем только текст документа, не издание
+Права на публикацию: свободно: документ (документ 1919 года свободен, но напечатан в издании 2007 года — выкладываем только текст документа, не издание)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf
-shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt
-shasum -a 256 soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf | `956ca55eca805481413bf28528da9594c76599129ac5f423343fe20f36dede80` |

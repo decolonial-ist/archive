@@ -1,8 +1,8 @@
 # Situation of human rights in the temporarily occupied Autonomous Republic of Crimea and the city of Sevastopol (OHCHR)
 
-**Автор.** Управление Верховного комиссара ООН по правам человека
-**Год.** 2017
-**Где напечатано.** 25 September 2017
+**Автор:** Управление Верховного комиссара ООН по правам человека
+**Год:** 2017
+**Где напечатано:** 25 September 2017
 
 Страница витрины: https://archive.decolonial.ist/326
 
@@ -17,16 +17,12 @@
 
 Первоисточник: [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Crimea2014_2017_EN.pdf](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Crimea2014_2017_EN.pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt
-shasum -a 256 situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf
-```
 | файл | sha256 |
 |---|---|
 | situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt | `16f945026768e1eaa416838fa213e793c76e25a0056c33e80271580bb84143ff` |

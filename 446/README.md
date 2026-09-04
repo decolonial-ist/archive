@@ -1,8 +1,8 @@
 # Рішення Конституційного Суду України у справі щодо закону «Про засади державної мовної політики»
 
-**Автор.** Конституційний Суд України
-**Год.** 2018
-**Где напечатано.** рішення № 2-р/2018 від 28 лютого 2018 р., справа № 1-1/2018
+**Автор:** Конституційний Суд України
+**Год:** 2018
+**Где напечатано:** рішення № 2-р/2018 від 28 лютого 2018 р., справа № 1-1/2018
 
 Страница витрины: https://archive.decolonial.ist/446
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://zakon.rada.gov.ua/laws/show/v002p710-18](https://zakon.rada.gov.ua/laws/show/v002p710-18)
 
-Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+Права на публикацию: свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html
-shasum -a 256 rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf
-shasum -a 256 rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018_layer.txt
-shasum -a 256 rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt
-```
 | файл | sha256 |
 |---|---|
 | rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.html | `4401a90c56a55e792e92b62d4db53cbad09f50bd6e445749d41fd9f5ef08b83f` |

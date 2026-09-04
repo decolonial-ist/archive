@@ -1,7 +1,7 @@
 # Ukraine: Cluster Munitions Launched Into Kharkiv Neighborhoods (Human Rights Watch)
 
-**Автор.** Human Rights Watch
-**Год.** 2022
+**Автор:** Human Rights Watch
+**Год:** 2022
 
 Страница витрины: https://archive.decolonial.ist/517
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods](https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods)
 
-Права: свободно. Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой
+Права на публикацию: свободно (Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html
-shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt
-shasum -a 256 ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.html | `5a3f9195f752af85a92f909e9b5691b9790854026e2499d3ddee51a33117debe` |

@@ -1,8 +1,8 @@
 # Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR)
 
-**Автор.** Office of the United Nations High Commissioner for Human Rights
-**Год.** 2024
-**Где напечатано.** Human Rights Monitoring Mission in Ukraine
+**Автор:** Office of the United Nations High Commissioner for Human Rights
+**Год:** 2024
+**Где напечатано:** Human Rights Monitoring Mission in Ukraine
 
 Страница витрины: https://archive.decolonial.ist/516
 
@@ -17,16 +17,12 @@
 
 Первоисточник: [https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf](https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf
-shasum -a 256 report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt
-```
 | файл | sha256 |
 |---|---|
 | report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf | `c78d5ca79a549b27c4f88b4a2f7adc97f580b1be800c72ddbad797c58064cad9` |

@@ -1,8 +1,8 @@
 # UN report details increase in civilian deaths amid systematic strikes on energy facilities (OHCHR)
 
-**Автор.** Office of the United Nations High Commissioner for Human Rights
-**Год.** 2026
-**Где напечатано.** Human Rights Monitoring Mission in Ukraine
+**Автор:** Office of the United Nations High Commissioner for Human Rights
+**Год:** 2026
+**Где напечатано:** Human Rights Monitoring Mission in Ukraine
 
 Страница витрины: https://archive.decolonial.ist/530
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities](https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt
-shasum -a 256 un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_en.html
-shasum -a 256 un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_ohchr_energy_strikes_2026_ru.html
-shasum -a 256 un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf
-```
 | файл | sha256 |
 |---|---|
 | un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt | `b78dc1f12750e64fbb1a4e64ddf16c4fa63a1d471905c98e01032e419529b65b` |

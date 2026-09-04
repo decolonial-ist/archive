@@ -1,7 +1,7 @@
 # Report of the Independent International Commission of Inquiry on Ukraine (A/HRC/52/62)
 
-**Автор.** Незалежна міжнародна комісія ООН з розслідування подій в Україні
-**Год.** 2023
+**Автор:** Незалежна міжнародна комісія ООН з розслідування подій в Україні
+**Год:** 2023
 
 Страница витрины: https://archive.decolonial.ist/221
 
@@ -16,16 +16,12 @@
 
 Первоисточник: [https://documents.un.org/api/symbol/access?s=A/HRC/52/62&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=A/HRC/52/62&l=en&t=pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf
-shasum -a 256 report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt
-```
 | файл | sha256 |
 |---|---|
 | report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf | `397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a` |

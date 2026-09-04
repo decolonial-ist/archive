@@ -1,9 +1,9 @@
 # Бандитизм на Северном Кавказе в годы Великой Отечественной войны
 
-**Автор.** Аренин С. П.
-**Год.** 2010
-**Где напечатано.** Вестник Саратовского государственного социально-экономического университета. № 1. С. 142-145; написана по фонду Отдела по борьбе с бандитизмом НКВД СССР
-**Архивный шифр.** ГА РФ Ф. 9478 Оп. 1
+**Автор:** Аренин С. П.
+**Год:** 2010
+**Где напечатано:** Вестник Саратовского государственного социально-экономического университета. № 1. С. 142-145; написана по фонду Отдела по борьбе с бандитизмом НКВД СССР
+**Архивный шифр:** ГА РФ Ф. 9478 Оп. 1
 
 Страница витрины: https://archive.decolonial.ist/548
 
@@ -19,17 +19,12 @@
 
 Первоисточник: `cyberleninka[.]ru/article/n/banditizm-na-severnom-kavkaze-v-gody-velikoy-otechestvennoy-voyny`
 
-Права: свободно. CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи)
+Права на публикацию: свободно (CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt
-shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.pdf
-shasum -a 256 banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | banditizm_na_severnom_kavkaze_v_gody_velikoy_otechestvennoy_voyny_2010.txt | `2e6c9a0efac517aad0f8fbe9bd0c0ac1d29e6dbb060a56efa6c71acdf369bb7a` |

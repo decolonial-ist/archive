@@ -1,8 +1,8 @@
 # Из истории насильственного выселения чеченцев и ингушей: к 80-летию депортации
 
-**Автор.** Исакиева З. С.
-**Год.** 2024
-**Где напечатано.** DOI 10.24158/fik.2024.4.16
+**Автор:** Исакиева З. С.
+**Год:** 2024
+**Где напечатано:** DOI 10.24158/fik.2024.4.16
 
 Страница витрины: https://archive.decolonial.ist/260
 
@@ -19,18 +19,12 @@
 
 Первоисточник: `cyberleninka[.]ru/article/n/iz-istorii-nasilstvennogo-vyseleniya-chechentsev-i-ingushey-k-80-letiyu-deportatsii-1944-2024-gg`
 
-Права: свободно. CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи)
+Права на публикацию: свободно (CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html
-shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt
-shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024_layer.txt
-shasum -a 256 iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf
-```
 | файл | sha256 |
 |---|---|
 | iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.html | `7fe8d8dc8e8e7d1222674b73de49931da3e66cea2fb6cea2053fe6b2957931c8` |

@@ -1,7 +1,7 @@
 # Становление и развитие нефтяной промышленности в Терской области
 
-**Автор.** Гайтамирова С. А.
-**Год.** 2018
+**Автор:** Гайтамирова С. А.
+**Год:** 2018
 
 Страница витрины: https://archive.decolonial.ist/254
 
@@ -16,16 +16,12 @@
 
 Первоисточник: `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-neftyanoy-promyshlennosti-v-terskoy-oblasti-v-kontse-xix-nachale-xx-v`
 
-Права: свободно. CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи)
+Права на публикацию: свободно (CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt
-shasum -a 256 stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf
-```
 | файл | sha256 |
 |---|---|
 | stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018_layer.txt | `68485c2f9b27f8ec40ab4d836c929ab6bfce213a970822d04a6bbca08e160baa` |

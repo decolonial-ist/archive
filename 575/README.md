@@ -1,8 +1,8 @@
 # Об организации Всеукраинской Чрезвычайной Комиссии
 
-**Автор.** Временное рабоче-крестьянское правительство Украины
-**Год.** 1919
-**Где напечатано.** декрет от 3 декабря 1918; реквизиты по сноскам Якубовой, текст НЕ ДОБЫТ
+**Автор:** Временное рабоче-крестьянское правительство Украины
+**Год:** 1919
+**Где напечатано:** декрет от 3 декабря 1918; реквизиты по сноскам Якубовой, текст НЕ ДОБЫТ
 
 Страница витрины: https://archive.decolonial.ist/575
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919](https://archive.org/details/sobr._uzakoneniy_i_rasporyazheniy_r-k_prav_ukrainy_za_1919)
 
-Права: свободно. общественное достояние: издано в 1919 году
+Права на публикацию: свободно (общественное достояние: издано в 1919 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf
-shasum -a 256 ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.txt
-shasum -a 256 ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf | `979be3790176b30e06edf1aa17923d1d2b9ce70dc4534376868547cd2f442861` |

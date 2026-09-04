@@ -1,7 +1,7 @@
 # Хроника первого разоружения Чечни
 
-**Автор.** Эльбуздукаева Т. У.
-**Год.** 2015
+**Автор:** Эльбуздукаева Т. У.
+**Год:** 2015
 
 Страница витрины: https://archive.decolonial.ist/259
 
@@ -17,17 +17,12 @@
 
 Первоисточник: `cyberleninka[.]ru/article/n/hronika-pervogo-razoruzheniya-chechni-20-e-gg-xx-v`
 
-Права: свободно. CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи)
+Права на публикацию: свободно (CyberLeninka: CC BY 4.0 (лицензия проверена на странице статьи))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015_layer.txt
-shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015.pdf
-shasum -a 256 hronika_pervogo_razoruzheniya_chechni_2015.txt
-```
 | файл | sha256 |
 |---|---|
 | hronika_pervogo_razoruzheniya_chechni_2015_layer.txt | `520f455e0b484e4651da5db8825336d483b652720fe27e1b3509d4694b5c4e45` |

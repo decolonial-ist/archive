@@ -1,8 +1,8 @@
 # Заява Верховної Ради України про засудження збройної агресії проти Чеченської Республіки Ічкерія та геноциду Чеченського народу
 
-**Автор.** Верховна Рада України
-**Год.** 2022
-**Где напечатано.** постанова від 18 жовтня 2022 року № 2672-IX
+**Автор:** Верховна Рада України
+**Год:** 2022
+**Где напечатано:** постанова від 18 жовтня 2022 року № 2672-IX
 
 Страница витрины: https://archive.decolonial.ist/552
 
@@ -20,19 +20,12 @@
 
 Первоисточник: [https://zakon.rada.gov.ua/laws/show/2672-20](https://zakon.rada.gov.ua/laws/show/2672-20)
 
-Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+Права на публикацию: свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_direct.html
-shasum -a 256 zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_layer.txt
-shasum -a 256 zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_2672.html
-shasum -a 256 zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt
-shasum -a 256 zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_direct.html | `0c4d55ffc1d3bb6dbbc2c975d9e960658a33080f8ee7d919d5f8654549d0c393` |

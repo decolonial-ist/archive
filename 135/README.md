@@ -1,7 +1,7 @@
 # Журнал военных действий отряда генерал-лейтенанта Галафеева июль-сентябрь 1840
 
-**Автор.** Галафеев А. В.
-**Год.** 1912
+**Автор:** Галафеев А. В.
+**Год:** 1912
 
 Страница витрины: https://archive.decolonial.ist/135
 
@@ -17,17 +17,12 @@
 
 Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Mat_ist_pok_vost_kavk/241-260/241.htm`
 
-Права: свободно. общественное достояние: издано в 1912 году
+Права на публикацию: свободно (общественное достояние: издано в 1912 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt
-shasum -a 256 zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md
-shasum -a 256 zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf
-```
 | файл | sha256 |
 |---|---|
 | zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912_layer.txt | `2d6183c849f3f36aeefa1d59bcc3d514382bca90f783e9908a1420a869501ad9` |

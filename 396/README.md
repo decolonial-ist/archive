@@ -1,8 +1,8 @@
 # Манифест об учреждении в Слободских полках гражданского устройства
 
-**Автор.** Екатерина II
-**Год.** 1765
-**Где напечатано.** манифест от 28 июля 1765; ПСЗРИ, т. XVII, № 12440
+**Автор:** Екатерина II
+**Год:** 1765
+**Где напечатано:** манифест от 28 июля 1765; ПСЗРИ, т. XVII, № 12440
 
 Страница витрины: https://archive.decolonial.ist/396
 
@@ -18,17 +18,12 @@
 
 Первоисточник: `psz.ri.org[.]ru/I/XVII.pdf`
 
-Права: свободно. общественное достояние: издано в 1765 году
+Права на публикацию: свободно (общественное достояние: издано в 1765 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf
-shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765_layer.txt
-shasum -a 256 manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.txt
-```
 | файл | sha256 |
 |---|---|
 | manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf | `3585331713e45ca4ce8b9a78149a185459ef64082413e71faf5cd5c7a1e72fd5` |

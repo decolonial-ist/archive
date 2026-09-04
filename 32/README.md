@@ -1,7 +1,7 @@
 # 2015 Ukraine Electric Power Attack | MITRE ATT&CK®
 
-**Автор.** MITRE ATT&CK®
-**Год.** 2023
+**Автор:** MITRE ATT&CK®
+**Год:** 2023
 
 Страница витрины: https://archive.decolonial.ist/32
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://attack.mitre.org/campaigns/C0028/](https://attack.mitre.org/campaigns/C0028/)
 
-Права: свободно. MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE
+Права на публикацию: свободно (MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 2015_ukraine_electric_power_attack_mitre_att_ck_2023.html
-shasum -a 256 2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt
-shasum -a 256 2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf
-```
 | файл | sha256 |
 |---|---|
 | 2015_ukraine_electric_power_attack_mitre_att_ck_2023.html | `f6ed460980b925f528160da1ede32744246fae642eb70f0bb4e8276b2a314eb3` |

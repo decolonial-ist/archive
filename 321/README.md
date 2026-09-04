@@ -1,8 +1,8 @@
 # Update 4 – IAEA Director General Statement on Situation in Ukraine
 
-**Автор.** International Atomic Energy Agency
-**Год.** 2022
-**Где напечатано.** 28 February 2022; via ReliefWeb
+**Автор:** International Atomic Energy Agency
+**Год:** 2022
+**Где напечатано:** 28 February 2022; via ReliefWeb
 
 Страница витрины: https://archive.decolonial.ist/321
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022](https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf
-shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt
-shasum -a 256 update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md
-```
 | файл | sha256 |
 |---|---|
 | update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf | `8a62a4a60637a05e344a22737b9ccdde16742f04214639dbbd7e66e54227ac05` |

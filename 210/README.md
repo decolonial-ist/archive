@@ -1,8 +1,8 @@
 # Що замовчують екскурсоводи у Києво-Печерській лаврі
 
-**Автор.** Гирич І. Б.
-**Год.** 2018
-**Где напечатано.** Радіо Свобода
+**Автор:** Гирич І. Б.
+**Год:** 2018
+**Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/210
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://www.radiosvoboda.org/a/29170789.html](https://www.radiosvoboda.org/a/29170789.html)
 
-Права: свободно. RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL
+Права на публикацию: свободно (RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html
-shasum -a 256 scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018_layer.txt
-shasum -a 256 scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf
-shasum -a 256 scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.txt
-```
 | файл | sha256 |
 |---|---|
 | scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.html | `419f3997ac694505c92eb07df9a58d0454c2b15416f8ed9f4b3fa8e53bd46302` |

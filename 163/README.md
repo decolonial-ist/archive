@@ -1,8 +1,8 @@
 # Нарис української історіографії
 
-**Автор.** Багалій Д. І.
-**Год.** 1923
-**Где напечатано.** цит. за movahistory.org.ua
+**Автор:** Багалій Д. І.
+**Год:** 1923
+**Где напечатано:** цит. за movahistory.org.ua
 
 Страница витрины: https://archive.decolonial.ist/163
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://web.archive.org/web/20201027050204/http://movahistory.org.ua/wiki/XVII_ст](https://web.archive.org/web/20201027050204/http://movahistory.org.ua/wiki/XVII_ст)
 
-Права: свободно. общественное достояние: издано в 1923 году
+Права на публикацию: свободно (общественное достояние: издано в 1923 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 naris_ukrainskoi_istoriografii_1923.pdf
-shasum -a 256 naris_ukrainskoi_istoriografii_1923.html
-shasum -a 256 naris_ukrainskoi_istoriografii_1923.txt
-shasum -a 256 naris_ukrainskoi_istoriografii_1923_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | naris_ukrainskoi_istoriografii_1923.pdf | `842d6b5cda2cc6aeaaaf4419f8c9777c78526b277aa40411ad745d8e67587e7d` |

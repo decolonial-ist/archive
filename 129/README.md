@@ -1,7 +1,7 @@
 # Кавказские войны и имамат Шамиля
 
-**Автор.** Покровский Н. И.
-**Год.** 2009
+**Автор:** Покровский Н. И.
+**Год:** 2009
 
 Страница витрины: https://archive.decolonial.ist/129
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y)
 
-Права: свободно. автор Н. И. Покровский умер в 1942 году, срок охраны истёк
+Права на публикацию: свободно (автор Н. И. Покровский умер в 1942 году, срок охраны истёк)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 kavkazskie_voyny_i_imamat_shamilya_2009.md
-shasum -a 256 kavkazskie_voyny_i_imamat_shamilya_2009.pdf
-shasum -a 256 kavkazskie_voyny_i_imamat_shamilya_2009_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | kavkazskie_voyny_i_imamat_shamilya_2009.md | `19a5d254f9996dd548eb86008464def2156e0d90387c8970d0b006f886f68aa6` |

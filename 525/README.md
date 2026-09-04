@@ -1,8 +1,8 @@
 # «Вивезли золото, зброю, нагороди Вермахту». У музеях Херсону розповіли, як російські окупанти їх спустошили (Радіо Свобода)
 
-**Автор.** Антипенко І.
-**Год.** 2022
-**Где напечатано.** Радіо Свобода
+**Автор:** Антипенко І.
+**Год:** 2022
+**Где напечатано:** Радіо Свобода
 
 Страница витрины: https://archive.decolonial.ist/525
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html](https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html)
 
-Права: свободно. RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL
+Права на публикацию: свободно (RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html
-shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022_layer.txt
-shasum -a 256 vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.html | `8bbeaa60307ff5cfc7632de65f019affe1f38c5346f286ddbf367f76df4d1ea9` |

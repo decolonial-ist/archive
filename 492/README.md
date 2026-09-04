@@ -1,8 +1,8 @@
 # Уривки з спогадів про українську революцію
 
-**Автор.** Затонський В. П.
-**Год.** 1929
-**Где напечатано.** Літопис революції, № 4 (37), с. 139–172
+**Автор:** Затонський В. П.
+**Год:** 1929
+**Где напечатано:** Літопис революції, № 4 (37), с. 139–172
 
 Страница витрины: https://archive.decolonial.ist/492
 
@@ -20,19 +20,12 @@
 
 Первоисточник: [https://uk.wikisource.org/wiki/Літопис_революції/1929/4/Уривки_з_спогадів_про_українську_революцію](https://uk.wikisource.org/wiki/Літопис_революції/1929/4/Уривки_з_спогадів_про_українську_революцію)
 
-Права: свободно. общественное достояние: издано в 1929 году
+Права на публикацию: свободно (общественное достояние: издано в 1929 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html
-shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf
-shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_layer.txt
-shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_1.txt
-shasum -a 256 urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt
-```
 | файл | sha256 |
 |---|---|
 | urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.html | `61fdeca8a2b1d19fba838e0b3a4bb3c1923858e118e4e20417cc3771b20b37d3` |

@@ -1,7 +1,8 @@
 # Политбюро и крестьянство: Высылка, спецпоселение. 1930-1940 гг. Книга II
 
-**Год.** 2006
-**Где напечатано.** ред. Покровский Н. Н., Данилов В. П., Красильников С. А., Виола Л.; М.: РОССПЭН; серия «Архивы Кремля»
+**Автор:** —
+**Год:** 2006
+**Где напечатано:** ред. Покровский Н. Н., Данилов В. П., Красильников С. А., Виола Л.; М.: РОССПЭН; серия «Архивы Кремля»
 
 Страница витрины: https://archive.decolonial.ist/538
 
@@ -18,18 +19,12 @@
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/51878`
 
-Права: свободно: документ. сборник документов (docs.historyrussia[.]org)
+Права на публикацию: свободно: документ (сборник документов (docs.historyrussia[.]org))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf
-shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.html
-shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt
-shasum -a 256 politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf | `5508f8e9d094ca7277ef062cd900716b38da9e9b59211e093912284550da3177` |

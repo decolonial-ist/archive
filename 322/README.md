@@ -1,8 +1,8 @@
 # Report on the human rights situation in Ukraine, 15 June 2014 (OHCHR)
 
-**Автор.** Управление Верховного комиссара ООН по правам человека
-**Год.** 2014
-**Где напечатано.** Мониторинговая миссия ООН по правам человека в Украине, 15 June 2014
+**Автор:** Управление Верховного комиссара ООН по правам человека
+**Год:** 2014
+**Где напечатано:** Мониторинговая миссия ООН по правам человека в Украине, 15 June 2014
 
 Страница витрины: https://archive.decolonial.ist/322
 
@@ -17,16 +17,12 @@
 
 Первоисточник: [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 report_on_the_human_rights_situation_in_ukraine_15_june_2014_ohchr_2014.txt
-shasum -a 256 report_on_the_human_rights_situation_in_ukraine_15_june_2014_ohchr_2014.pdf
-```
 | файл | sha256 |
 |---|---|
 | report_on_the_human_rights_situation_in_ukraine_15_june_2014_ohchr_2014.txt | `ef5eb9ffcd1b1da061e64866dfa9360b08f12d0576b698490143efeb2be29728` |

@@ -1,9 +1,9 @@
 # Совершенно секретно: Лубянка - Сталину о положении в стране. Том 3, 1925 год
 
-**Автор.** Информационный отдел ОГПУ
-**Год.** 2002
-**Где напечатано.** обзоры политического состояния СССР; изд. ИРИ РАН, М.
-**Архивный шифр.** ЦА ФСБ РФ Ф. 2. Оп. 3
+**Автор:** Информационный отдел ОГПУ
+**Год:** 2002
+**Где напечатано:** обзоры политического состояния СССР; изд. ИРИ РАН, М.
+**Архивный шифр:** ЦА ФСБ РФ Ф. 2. Оп. 3
 
 Страница витрины: https://archive.decolonial.ist/476
 
@@ -22,20 +22,12 @@
 
 Первоисточник: `istmat[.]org/node/22548`
 
-Права: свободно: документ. сборник документов (istmat[.]org)
+Права на публикацию: свободно: документ (сборник документов (istmat[.]org))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_deka.txt
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_noya.txt
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_okty.txt
-shasum -a 256 sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_sent.txt
-```
 | файл | sha256 |
 |---|---|
 | sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002_lubyanka_stalinu_t3_obzor_avgu.txt | `c60cee2a7e1bcbd9bbd3d539b0477e9473bedc9940e62e13623d2bb4c33b76ba` |

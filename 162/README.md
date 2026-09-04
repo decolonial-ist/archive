@@ -1,7 +1,8 @@
 # Сборник грамот и договоров о присоединении царств и областей
 
-**Год.** 1922
-**Где напечатано.** Петербург, ч. 1; текст «Вечного мира» 1686 г.
+**Автор:** —
+**Год:** 1922
+**Где напечатано:** Петербург, ч. 1; текст «Вечного мира» 1686 г.
 
 Страница витрины: https://archive.decolonial.ist/162
 
@@ -18,18 +19,12 @@
 
 Первоисточник: `runivers[.]ru/lib/book20820/602162/`
 
-Права: свободно. общественное достояние: издано в 1922 году
+Права на публикацию: свободно (общественное достояние: издано в 1922 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html
-shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf
-shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt
-shasum -a 256 sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.txt
-```
 | файл | sha256 |
 |---|---|
 | sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.html | `a73522f2d9f0c7b064097ec3df51e0cc3790a297df39f89546da6b666a8bd80c` |

@@ -1,8 +1,8 @@
 # Горцы под игом коммунистов
 
-**Автор.** Заурбек Х.
-**Год.** 1927
-**Где напечатано.** рубрика «Вести с Кавказа»; Вольные Горцы. Прага, № 5 (22 октября). С. 18-19
+**Автор:** Заурбек Х.
+**Год:** 1927
+**Где напечатано:** рубрика «Вести с Кавказа»; Вольные Горцы. Прага, № 5 (22 октября). С. 18-19
 
 Страница витрины: https://archive.decolonial.ist/534
 
@@ -21,20 +21,12 @@
 
 Первоисточник: `kramerius.nkp[.]cz/kramerius/PShowUnit.do?id=413659`
 
-Права: свободно. общественное достояние: издано в 1927 году
+Права на публикацию: свободно (общественное достояние: издано в 1927 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 gorcy_pod_igom_kommunistov_1927.html
-shasum -a 256 gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5_bez_pamy.pdf
-shasum -a 256 gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17.pdf
-shasum -a 256 gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf
-shasum -a 256 gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf
-shasum -a 256 gorcy_pod_igom_kommunistov_1927.txt
-```
 | файл | sha256 |
 |---|---|
 | gorcy_pod_igom_kommunistov_1927.html | `0a1b0e1ccb5add7a9218a2794a77f5023500bb9f07ee62ea12af7080b336e26d` |

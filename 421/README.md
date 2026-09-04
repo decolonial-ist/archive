@@ -1,9 +1,9 @@
 # О ликвидации национальных школ и национальных отделений в школах
 
-**Автор.** Организационное бюро Центрального комитета ВКП(б)
-**Год.** 1938
-**Где напечатано.** постановление от 24.01.1938
-**Архивный шифр.** РГАСПИ, ф. 17, оп. 114, д. 634, л. 7
+**Автор:** Организационное бюро Центрального комитета ВКП(б)
+**Год:** 1938
+**Где напечатано:** постановление от 24.01.1938
+**Архивный шифр:** РГАСПИ, ф. 17, оп. 114, д. 634, л. 7
 
 Страница витрины: https://archive.decolonial.ist/421
 
@@ -21,19 +21,12 @@
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/123862`
 
-Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+Права на публикацию: свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf
-shasum -a 256 o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.html
-shasum -a 256 o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt
-shasum -a 256 o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt
-shasum -a 256 o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf | `95bcb3ed30f4508ea3f7345385a115f8965190393a4803d230c52923c14ee649` |

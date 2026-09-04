@@ -1,8 +1,8 @@
 # Report on Violations of International Humanitarian and Human Rights Law, War Crimes and Crimes against Humanity Committed in Ukraine (OSCE Moscow Mechanism)
 
-**Автор.** Організація з безпеки і співробітництва в Європі, Бюро демократичних інститутів і прав людини
-**Год.** 2022
-**Где напечатано.** Moscow Mechanism mission, 13 April 2022
+**Автор:** Організація з безпеки і співробітництва в Європі, Бюро демократичних інститутів і прав людини
+**Год:** 2022
+**Где напечатано:** Moscow Mechanism mission, 13 April 2022
 
 Страница витрины: https://archive.decolonial.ist/327
 
@@ -17,16 +17,12 @@
 
 Первоисточник: `www.osce[.]org/files/f/documents/f/a/515868.pdf`
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 report_on_violations_of_international_humanitarian_sce_moscow_mechanism_2022.txt
-shasum -a 256 report_on_violations_of_international_humanitarian_sce_moscow_mechanism_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | report_on_violations_of_international_humanitarian_sce_moscow_mechanism_2022.txt | `aa14af8ad8a23a8839dbbfaeb34c74882c64c225046d1edb44bb48ec1c6c82e2` |

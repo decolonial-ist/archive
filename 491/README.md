@@ -1,8 +1,8 @@
 # Общий свод по Империи результатов разработки данных Первой всеобщей переписи населения, произведенной 28 января 1897 года. Т. 2
 
-**Автор.** Центральный статистический комитет Министерства внутренних дел
-**Год.** 1905
-**Где напечатано.** под ред. Тройницкого Н. А.; табл. XIII и XIII-а «Распределение населения по родному языку»
+**Автор:** Центральный статистический комитет Министерства внутренних дел
+**Год:** 1905
+**Где напечатано:** под ред. Тройницкого Н. А.; табл. XIII и XIII-а «Распределение населения по родному языку»
 
 Страница витрины: https://archive.decolonial.ist/491
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://archive.org/details/obschijsvodpoimperiirezultatovrazrabotk19](https://archive.org/details/obschijsvodpoimperiirezultatovrazrabotk19)
 
-Права: свободно. общественное достояние: издано в 1905 году
+Права на публикацию: свободно (общественное достояние: издано в 1905 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt
-shasum -a 256 obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.pdf
-shasum -a 256 obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | obschiy_svod_po_imperii_rezultatov_razrabotki_dann_nvarya_1897_goda_t_2_1905.txt | `6e9c4e47dc20339a4ac8cc050644d016edbcfbd1d233fbc24df4b29baa6d10a9` |

@@ -1,7 +1,7 @@
 # Terror and videoed ‘repentance’ for supporting Ukraine in Russian-occupied Crimea
 
-**Автор.** Coynash
-**Год.** 2023
+**Автор:** Coynash
+**Год:** 2023
 
 Страница витрины: https://archive.decolonial.ist/141
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://khpg.org/en/1608812392](https://khpg.org/en/1608812392)
 
-Права: свободно. Музей ХПГ: передрук дозволено з обов'язковим посиланням на джерело
+Права на публикацию: свободно (Музей ХПГ: передрук дозволено з обов'язковим посиланням на джерело)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html
-shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.txt
-shasum -a 256 terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf
-```
 | файл | sha256 |
 |---|---|
 | terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.html | `9da3b969e60e7abc2abfca6af185204f6aa5a7b45de745b75b73efbc91ec690a` |

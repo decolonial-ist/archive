@@ -1,19 +1,18 @@
 # «Борітеся - поборете»: історія плаката з рядками Шевченка, який росіяни заклеїли під час окупації Балаклії
 
-**Год.** 2023
-**Где напечатано.** Суспільне Харків
+**Автор:** —
+**Год:** 2023
+**Где напечатано:** Суспільне Харків
 
 Страница витрины: https://archive.decolonial.ist/455
 
 ## Файлы не выкладываем
 
-Почему: права: материал организации или СМИ под авторским правом (suspilne.media)
-
 ## Откуда это у нас
 
 Издание: [https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/](https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/)
 
-Права: нельзя. материал организации или СМИ под авторским правом (suspilne.media)
+Права на публикацию: нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 
 ---
 

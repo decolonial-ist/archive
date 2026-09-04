@@ -1,7 +1,8 @@
 # История сталинского Гулага
 
-**Год.** 2004
-**Где напечатано.** Т. 1. Массовые репрессии в СССР. М.: РОССПЭН; документы № 161-165 (с. 486-494)
+**Автор:** —
+**Год:** 2004
+**Где напечатано:** Т. 1. Массовые репрессии в СССР. М.: РОССПЭН; документы № 161-165 (с. 486-494)
 
 Страница витрины: https://archive.decolonial.ist/555
 
@@ -18,18 +19,12 @@
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/49441-spravka-otdela-spetsposeleniy-nkvd-sssr-ob-okonchanii-rabot-po-pereseleniyu-chechentsev-ingushey-i-balkartsev-s-severnogo-kavkaza-v-kirgizskuyu-ssr-7-aprelya-1944-g`
 
-Права: свободно: документ. сборник документов (docs.historyrussia[.]org)
+Права на публикацию: свободно: документ (сборник документов (docs.historyrussia[.]org))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 istoriya_stalinskogo_gulaga_2004.txt
-shasum -a 256 istoriya_stalinskogo_gulaga_2004.pdf
-shasum -a 256 istoriya_stalinskogo_gulaga_2004_layer.txt
-shasum -a 256 istoriya_stalinskogo_gulaga_2004.md
-```
 | файл | sha256 |
 |---|---|
 | istoriya_stalinskogo_gulaga_2004.txt | `088a01ddaf090a0e1d95153c40993e1ce93118d844ea37f0de0c5805f2df55f7` |

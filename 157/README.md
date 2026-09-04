@@ -1,8 +1,8 @@
 # Малорусское наречие
 
-**Автор.** Булич С. К.
-**Год.** 1896
-**Где напечатано.** Энциклопедический словарь Брокгауза и Ефрона, т. XVIIIa
+**Автор:** Булич С. К.
+**Год:** 1896
+**Где напечатано:** Энциклопедический словарь Брокгауза и Ефрона, т. XVIIIa
 
 Страница витрины: https://archive.decolonial.ist/157
 
@@ -20,19 +20,12 @@
 
 Первоисточник: [https://ru.wikisource.org/wiki/ЭСБЕ/Малорусское_наречие](https://ru.wikisource.org/wiki/ЭСБЕ/Малорусское_наречие)
 
-Права: свободно. общественное достояние: издано в 1896 году
+Права на публикацию: свободно (общественное достояние: издано в 1896 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf
-shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.pdf
-shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt
-shasum -a 256 malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt
-shasum -a 256 malorusskoe_narechie_1896_layer.txt
-```
 | файл | sha256 |
 |---|---|
 | malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.pdf | `cb76e6c9acf916464be8ad0b2fe84c912794b0f3695f1a70058780782150b42f` |

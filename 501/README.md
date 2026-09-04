@@ -1,8 +1,8 @@
 # До історії повстанчого рейду ген. хор. Ю. Тютюнника в листопаді 1921 р. (Доклад начальника Польового Повстанчого Штабу)
 
-**Автор.** Отмарштейн Ю. В.
-**Год.** 1930
-**Где напечатано.** полковник генерального штабу; Літопис Червоної Калини, ч. 6 і ч. 7–8
+**Автор:** Отмарштейн Ю. В.
+**Год:** 1930
+**Где напечатано:** полковник генерального штабу; Літопис Червоної Калини, ч. 6 і ч. 7–8
 
 Страница витрины: https://archive.decolonial.ist/501
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://archive.org/details/litopys](https://archive.org/details/litopys)
 
-Права: свободно. общественное достояние: издано в 1930 году
+Права на публикацию: свободно (общественное достояние: издано в 1930 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt
-shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf
-shasum -a 256 do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.txt
-```
 | файл | sha256 |
 |---|---|
 | do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930_layer.txt | `fa6896746273670fa294bff58f44c8355f5da1cf5233241a48659bb72dfc55a9` |

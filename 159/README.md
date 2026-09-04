@@ -1,8 +1,8 @@
 # Об отмене стеснений малорусского печатного слова
 
-**Автор.** Императорская Академия наук
-**Год.** 1905
-**Где напечатано.** СПб.
+**Автор:** Императорская Академия наук
+**Год:** 1905
+**Где напечатано:** СПб.
 
 Страница витрины: https://archive.decolonial.ist/159
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://archive.org/details/OtmStMalPechSl1905](https://archive.org/details/OtmStMalPechSl1905)
 
-Права: свободно. общественное достояние: издано в 1905 году
+Права на публикацию: свободно (общественное достояние: издано в 1905 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt
-shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.txt
-shasum -a 256 ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf
-```
 | файл | sha256 |
 |---|---|
 | ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905_layer.txt | `ff49c4817fa407152438f3e85d23f3ab921d7da864476959cdea9e625043db16` |

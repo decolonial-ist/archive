@@ -1,19 +1,17 @@
 # African Borders: Neither Random Nor Decided at the Berlin Conference
 
-**Автор.** Paine J., Qiu X., Ricart-Huguet J.
-**Год.** 2025
+**Автор:** Paine J., Qiu X., Ricart-Huguet J.
+**Год:** 2025
 
 Страница витрины: https://archive.decolonial.ist/58
 
 ## Файлы не выкладываем
 
-Почему: права: современная публикация 2025 года под авторским правом
-
 ## Откуда это у нас
 
 Издание: `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/`
 
-Права: нельзя. современная публикация 2025 года под авторским правом
+Права на публикацию: нельзя (современная публикация 2025 года под авторским правом)
 
 ---
 

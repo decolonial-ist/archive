@@ -1,8 +1,8 @@
 # Інтерв'ю Василя Овсієнка (Музей дисидентського руху)
 
-**Автор.** Овсієнко В. В.
-**Год.** 2011
-**Где напечатано.** Харківська правозахисна група
+**Автор:** Овсієнко В. В.
+**Год:** 2011
+**Где напечатано:** Харківська правозахисна група
 
 Страница витрины: https://archive.decolonial.ist/232
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://museum.khpg.org/1321393033](https://museum.khpg.org/1321393033)
 
-Права: свободно. Музей ХПГ: передрук дозволено з обов'язковим посиланням на джерело
+Права на публикацию: свободно (Музей ХПГ: передрук дозволено з обов'язковим посиланням на джерело)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf
-shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.html
-shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011_layer.txt
-shasum -a 256 interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt
-```
 | файл | sha256 |
 |---|---|
 | interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf | `c56b2261763b1de1314dd9aa03f9bd028a22e170f598a348a079bcb2f6c482b3` |

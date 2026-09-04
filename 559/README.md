@@ -1,7 +1,8 @@
 # Декрет ВЦИК об объединении советских республик: России, Украины, Латвии, Литвы, Белоруссии для борьбы с мировым империализмом
 
-**Год.** 1919
-**Где напечатано.** декрет от 1 июня 1919; документ
+**Автор:** —
+**Год:** 1919
+**Где напечатано:** декрет от 1 июня 1919; документ
 
 Страница витрины: https://archive.decolonial.ist/559
 
@@ -18,18 +19,12 @@
 
 Первоисточник: `museumreforms[.]ru/node/13772`
 
-Права: свободно. официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются
+Права на публикацию: свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html
-shasum -a 256 dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt
-shasum -a 256 dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919_layer.txt
-shasum -a 256 dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf
-```
 | файл | sha256 |
 |---|---|
 | dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.html | `f22fab06e0adf377c8fabb8ef0f1a16f2acfbb7a07fe7fcd47851ede36e043aa` |

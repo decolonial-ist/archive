@@ -1,7 +1,7 @@
 # APT28 Nearest Neighbor Campaign | MITRE ATT&CK®
 
-**Автор.** MITRE ATT&CK®
-**Год.** 2025
+**Автор:** MITRE ATT&CK®
+**Год:** 2025
 
 Страница витрины: https://archive.decolonial.ist/36
 
@@ -17,17 +17,12 @@
 
 Первоисточник: [https://attack.mitre.org/campaigns/C0051/](https://attack.mitre.org/campaigns/C0051/)
 
-Права: свободно. MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE
+Права на публикацию: свободно (MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html
-shasum -a 256 apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf
-shasum -a 256 apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt
-```
 | файл | sha256 |
 |---|---|
 | apt28_nearest_neighbor_campaign_mitre_att_ck_2025.html | `aebcfc8beffe3a79a6f53246e5662e2624863ef40ea16cecf61f4d2c12e15725` |

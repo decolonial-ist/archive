@@ -1,7 +1,7 @@
 # 64 отдельной мотострелковой бригаде присвоено почётное наименование гвардейской (kremlin.ru)
 
-**Автор.** Администрация президента РФ
-**Год.** 2022
+**Автор:** Администрация президента РФ
+**Год:** 2022
 
 Страница витрины: https://archive.decolonial.ist/509
 
@@ -18,18 +18,12 @@
 
 Первоисточник: `kremlin[.]ru/events/president/news/68235`
 
-Права: свободно. kremlin[.]ru: CC BY 4.0
+Права на публикацию: свободно (kremlin[.]ru: CC BY 4.0)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf
-shasum -a 256 64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt
-shasum -a 256 64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022_layer.txt
-shasum -a 256 64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.html
-```
 | файл | sha256 |
 |---|---|
 | 64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf | `cb81ba47212591722cd0dc441465fb37244a103af77c4c7c31a043db97c518f4` |

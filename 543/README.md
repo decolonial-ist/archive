@@ -1,7 +1,8 @@
 # Трагедия советской деревни. Коллективизация и раскулачивание. Том 2. Ноябрь 1929 - декабрь 1930
 
-**Год.** 2000
-**Где напечатано.** М.: РОССПЭН; ред. Данилов В. и др.
+**Автор:** —
+**Год:** 2000
+**Где напечатано:** М.: РОССПЭН; ред. Данилов В. и др.
 
 Страница витрины: https://archive.decolonial.ist/543
 
@@ -17,17 +18,12 @@
 
 Первоисточник: `istmat[.]org/node/30679`
 
-Права: свободно: документ. сборник документов (istmat[.]org)
+Права на публикацию: свободно: документ (сборник документов (istmat[.]org))
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html
-shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000_layer.txt
-shasum -a 256 tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf
-```
 | файл | sha256 |
 |---|---|
 | tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.html | `c3a9096ea1498f3a977069c2886117f5f24fddacb4932a968d3915a55e3cb3ed` |

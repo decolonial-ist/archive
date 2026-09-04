@@ -1,8 +1,8 @@
 # Статья Владимира Путина «Об историческом единстве русских и украинцев»
 
-**Автор.** Путин В. В.
-**Год.** 2021
-**Где напечатано.** kremlin.ru, 12 июля 2021
+**Автор:** Путин В. В.
+**Год:** 2021
+**Где напечатано:** kremlin.ru, 12 июля 2021
 
 Страница витрины: https://archive.decolonial.ist/245
 
@@ -18,17 +18,12 @@
 
 Первоисточник: `kremlin[.]ru/events/president/news/66181`
 
-Права: свободно. kremlin[.]ru: CC BY 4.0
+Права на публикацию: свободно (kremlin[.]ru: CC BY 4.0)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html
-shasum -a 256 statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf
-shasum -a 256 statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt
-```
 | файл | sha256 |
 |---|---|
 | statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.html | `68bc93dcec1fb969d75e14a97402ebeb99961c6cacf7f21508e5a836751b01a2` |

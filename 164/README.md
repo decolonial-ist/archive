@@ -1,8 +1,8 @@
 # Патріарший і Синодальний Томос
 
-**Автор.** Вселенський патріархат
-**Год.** 1924
-**Где напечатано.** Константинополь, 13.11.1924
+**Автор:** Вселенський патріархат
+**Год:** 1924
+**Где напечатано:** Константинополь, 13.11.1924
 
 Страница витрины: https://archive.decolonial.ist/164
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://mefodiy.org.ua/patriarshiy-i-sinodalniy-tomos-pro-vi/](https://mefodiy.org.ua/patriarshiy-i-sinodalniy-tomos-pro-vi/)
 
-Права: свободно. общественное достояние: издано в 1924 году
+Права на публикацию: свободно (общественное достояние: издано в 1924 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 patriarshiy_i_sinodalniy_tomos_1924.html
-shasum -a 256 patriarshiy_i_sinodalniy_tomos_1924_layer.txt
-shasum -a 256 patriarshiy_i_sinodalniy_tomos_1924.txt
-shasum -a 256 patriarshiy_i_sinodalniy_tomos_1924.pdf
-```
 | файл | sha256 |
 |---|---|
 | patriarshiy_i_sinodalniy_tomos_1924.html | `1ab79a1d8f2c336fbfa60c44d6aa0157b626aabce5b11d582d5865e9c959b52d` |

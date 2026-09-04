@@ -1,8 +1,8 @@
 # Материалы для описания русско-турецкой войны 1877-1878 гг. на Кавказско-Малоазиатском театре. Том VI, часть 1
 
-**Автор.** Кавказский военно-исторический отдел
-**Год.** 1910
-**Где напечатано.** Тифлис; в корпусе с. 192-196
+**Автор:** Кавказский военно-исторический отдел
+**Год:** 1910
+**Где напечатано:** Тифлис; в корпусе с. 192-196
 
 Страница витрины: https://archive.decolonial.ist/261
 
@@ -19,18 +19,12 @@
 
 Первоисточник: `runivers[.]ru/bookreader/book17115/`
 
-Права: свободно. общественное достояние: издано в 1910 году
+Права на публикацию: свободно (общественное достояние: издано в 1910 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt
-shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_materialy_opisaniya_russko_tur.pdf
-shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt
-shasum -a 256 materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_2.pdf
-```
 | файл | sha256 |
 |---|---|
 | materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_layer.txt | `65c47bcbad08fb763834b22eaba1ae45b8b2d9ea4ab915316aa1757a005877aa` |

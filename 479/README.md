@@ -1,8 +1,9 @@
 # О подготовке к операции по разоружению и борьбе с бандитизмом в Чечне
 
-**Год.** 2022
-**Где напечатано.** публ. Орсаханов А. Р., Садаев С. В. // Архивный вестник. Вып. 8. Грозный: Архивное управление Правительства ЧР, с. 36-65 (продолжение - вып. 9, 2023, с. 155-197)
-**Архивный шифр.** АУП ЧР ф. Р-1299 оп. 1 д. 17; РГВА ф. 25896 оп. 9 д. 277
+**Автор:** АУП ЧР ф. Р-1299 оп. 1 д. 17; РГВА ф. 25896 оп. 9 д. 277
+**Год:** 2022
+**Где напечатано:** публ. Орсаханов А. Р., Садаев С. В. // Архивный вестник. Вып. 8. Грозный: Архивное управление Правительства ЧР, с. 36-65 (продолжение - вып. 9, 2023, с. 155-197)
+**Архивный шифр:** АУП ЧР ф. Р-1299 оп. 1 д. 17; РГВА ф. 25896 оп. 9 д. 277
 
 Страница витрины: https://archive.decolonial.ist/479
 
@@ -18,17 +19,12 @@
 
 Первоисточник: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
 
-Права: свободно: документ. публикация архивного документа о разоружении Чечни
+Права на публикацию: свободно: документ (публикация архивного документа о разоружении Чечни)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt
-shasum -a 256 o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_layer.txt
-shasum -a 256 o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf
-```
 | файл | sha256 |
 |---|---|
 | o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.txt | `d4259e35d8c932e79a79afbec178c8c923241dbfb21e59eda844e1cdbb85c535` |

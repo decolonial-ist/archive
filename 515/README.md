@@ -1,8 +1,8 @@
 # UN Commission concludes that Russian armed forces' drone attacks against civilians in Kherson Province amount to crimes against humanity of murder (OHCHR)
 
-**Автор.** Independent International Commission of Inquiry on Ukraine
-**Год.** 2025
-**Где напечатано.** Office of the United Nations High Commissioner for Human Rights
+**Автор:** Independent International Commission of Inquiry on Ukraine
+**Год:** 2025
+**Где напечатано:** Office of the United Nations High Commissioner for Human Rights
 
 Страница витрины: https://archive.decolonial.ist/515
 
@@ -18,17 +18,12 @@
 
 Первоисточник: [https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians](https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians)
 
-Права: свободно. документ межгосударственного органа: свободное воспроизведение с указанием источника
+Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html
-shasum -a 256 un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt
-shasum -a 256 un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf
-```
 | файл | sha256 |
 |---|---|
 | un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.html | `c4302abe433acc376e885a645c7aca192bd055bd80810d40a903790f24e9dcb6` |

@@ -1,19 +1,17 @@
 # Fake: Crucifixion in Slovyansk
 
-**Автор.** StopFake
-**Год.** 2014
+**Автор:** StopFake
+**Год:** 2014
 
 Страница витрины: https://archive.decolonial.ist/217
 
 ## Файлы не выкладываем
 
-Почему: права: современная публикация 2014 года под авторским правом
-
 ## Откуда это у нас
 
 Издание: [https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/](https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/)
 
-Права: нельзя. современная публикация 2014 года под авторским правом
+Права на публикацию: нельзя (современная публикация 2014 года под авторским правом)
 
 ---
 

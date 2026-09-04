@@ -1,8 +1,8 @@
 # Документи про заборону української мови
 
-**Автор.** Вірченко Н. О.
-**Год.** 2008
-**Где напечатано.** Академія наук вищої школи України
+**Автор:** Вірченко Н. О.
+**Год:** 2008
+**Где напечатано:** Академія наук вищої школи України
 
 Страница витрины: https://archive.decolonial.ist/531
 
@@ -19,18 +19,12 @@
 
 Первоисточник: [https://web.archive.org/web/20090214183744/http://anvsu.org.ua/index.files/Articles/Virchenko1.htm](https://web.archive.org/web/20090214183744/http://anvsu.org.ua/index.files/Articles/Virchenko1.htm)
 
-Права: свободно: документ. подборка имперских актов о запрете украинского языка
+Права на публикацию: свободно: документ (подборка имперских актов о запрете украинского языка)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
-## Как проверить, что файл не подменён
+## Цифровые отпечатки файлов
 
-```
-shasum -a 256 dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf
-shasum -a 256 dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt
-shasum -a 256 dokumenti_pro_zaboronu_ukrainskoi_movi_2008_layer.txt
-shasum -a 256 dokumenti_pro_zaboronu_ukrainskoi_movi_2008.html
-```
 | файл | sha256 |
 |---|---|
 | dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf | `b6cdcd7388745aefaf588d0874aa159a8a3463b7943c1fd33f9d75e8aec738ed` |
