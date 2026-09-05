@@ -24,7 +24,6 @@
 
 | файл | sha256 |
 |---|---|
-| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md | `5b51f8fdadbd477718590cc3f5510a0f541ecc01ec154e4ace9b911955f80d88` |
 | akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf | `b5983cef6d702958ef328fed1a22d06f7b9ce1db7c9f1a52a95f3549920165e1` |
 
 ---

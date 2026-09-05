@@ -24,7 +24,6 @@
 
 | файл | sha256 |
 |---|---|
-| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md | `5069772fd78a9eff37739a3bd3ffed7d7439f4e03746e3940a6abedb56f28726` |
 | akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf | `0d0c99499e557fe4e100f8d5bc2cec97a633763dedc8a19aba5f5751d971655c` |
 
 ---

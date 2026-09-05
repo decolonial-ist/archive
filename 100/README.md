@@ -24,7 +24,6 @@
 
 | файл | sha256 |
 |---|---|
-| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md | `c684d7590dc4e5e53ab8b32d98faa30068de6ad0e2659f98845db7d013311929` |
 | akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf | `513cc88c61d3a9e8afb69fbe23f9e2e7607a123cd3ebf59cbf03ab933217d3f5` |
 
 ---

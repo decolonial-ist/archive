@@ -24,7 +24,6 @@
 
 | файл | sha256 |
 |---|---|
-| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md | `9d7d27e171223f23456b1710d0f4a06cc8f54f4cd3d4264000a8bd094b8da429` |
 | akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf | `b629449be9606b76b3d21a869346bbe82a0f1a5ce56e2bb69930a969a11f1f33` |
 
 ---

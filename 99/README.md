@@ -24,7 +24,6 @@
 
 | файл | sha256 |
 |---|---|
-| akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md | `96f65afc4b393a48ebc213faa82ea914425487eaf7fe9c7ec700a7e56c301a42` |
 | akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf | `8d51c8043a0589e36a003908ba3b9be7acc483fb399501fd62e762387a8059e0` |
 
 ---
