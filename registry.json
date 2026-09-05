@@ -10760,6 +10760,75 @@
    "telegram": {}
   },
   {
+   "id": 600,
+   "title": "Сообщение о решении III съезда Советов Донецкого и Криворожского бассейнов в Харькове объединиться с делегатами Советов, прибывшими из Киева, и провозгласить себя Всеукраинским съездом Советов",
+   "year": "1917",
+   "author": "",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ 1917 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
+   "card": "https://archive.decolonial.ist/600",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/600",
+   "source": "https://docs.historyrussia.org/ru/nodes/478206",
+   "files": [
+    {
+     "name": "soobschenie_o_reshenii_iii_sezda_sovetov_doneckogo_nskim_sezdom_sovetov_1917.txt",
+     "bytes": 7098,
+     "sha256": "dedf267c857428b39c88eb75528dc60c18a2c97ed78b9efd07b8d7fe42cd5e15",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/600/soobschenie_o_reshenii_iii_sezda_sovetov_doneckogo_nskim_sezdom_sovetov_1917.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 601,
+   "title": "Резолюции I Всеукраинского съезда Советов",
+   "year": "1917",
+   "author": "",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ 1917 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
+   "card": "https://archive.decolonial.ist/601",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/601",
+   "source": "https://docs.historyrussia.org/ru/nodes/503633",
+   "files": [
+    {
+     "name": "rezolyucii_i_vseukrainskogo_sezda_sovetov_1917.txt",
+     "bytes": 17354,
+     "sha256": "3361c4de23bdfe6c3839d5a6b7b863a54d2faa4851a9c51afc7afc2f4a7f6814",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/601/rezolyucii_i_vseukrainskogo_sezda_sovetov_1917.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 602,
+   "title": "Извещение ЦИК Советов Украины",
+   "year": "1917",
+   "author": "",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ 1917 года свободен, но напечатан в издании 1949 года — выкладываем только текст документа, не издание",
+   "card": "https://archive.decolonial.ist/602",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/602",
+   "source": "https://docs.historyrussia.org/ru/nodes/343067",
+   "files": [
+    {
+     "name": "izveschenie_cik_sovetov_ukrainy_1917.txt",
+     "bytes": 11507,
+     "sha256": "3328e0c7f5b0eb8fd90ae00b3693bfb85e1bc140565a1cb58674306437dff806",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/602/izveschenie_cik_sovetov_ukrainy_1917.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
    "id": 606,
    "title": "Постановление Совета Министров СССР № 1439-649с «О снятии некоторых ограничений в правовом положении спецпоселенцев»",
    "year": "1954",
@@ -10790,6 +10859,156 @@
    "telegram": {}
   },
   {
+   "id": 610,
+   "title": "Директивы командования фронтов Красной армии (1917–1922). Т. 1",
+   "year": "1971",
+   "author": "Институт военной истории Министерства обороны СССР",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/610",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/610",
+   "source": "http://militera.lib.ru/docs/da/dir1/index.html",
+   "files": [
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt",
+     "bytes": 2698297,
+     "sha256": "4c0a3bbcd3badec323c21c7921e94e1d5c411217e41b308f7184ff9a7905cf9e",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt",
+     "where": "repo"
+    },
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.doc",
+     "bytes": 4777984,
+     "sha256": "5f33f00698d8871c2fc48aeea10aa9e1fbe21aafab3e2b3696d97c6228cd5b2c",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.doc",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 611,
+   "title": "Записки о гражданской войне. Т. 1",
+   "year": "1924",
+   "author": "Антонов-Овсеенко В. А.",
+   "people": "Украина",
+   "published": false,
+   "rights": "свободно",
+   "basis": "общественное достояние: издано в 1924 году",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/611",
+   "source": "https://archive.org/details/zapiskiograzhdanskojvojnet125",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 613,
+   "title": "Великая Октябрьская социалистическая революция на Украине. Т. 3",
+   "year": "1957",
+   "author": "Институт истории партии при ЦК КП Украины",
+   "people": "Украина",
+   "published": false,
+   "rights": "проверить",
+   "basis": "научная публикация (resource.history.org.ua), 1957 год",
+   "why_not": "права: научная публикация (resource.history.org.ua), 1957 год",
+   "card": "https://archive.decolonial.ist/613",
+   "source": "https://resource.history.org.ua/item/0013713",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 614,
+   "title": "Приказ М. А. Муравьева о задачах армии по обороне Киева после его освобождения",
+   "year": "1918",
+   "author": "Муравьёв М. А.",
+   "people": "Украина",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "документ 1918 года свободен, но напечатан в издании 1971 года — выкладываем только текст документа, не издание",
+   "why_not": "файла на диске нет",
+   "card": "https://archive.decolonial.ist/614",
+   "source": "https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 615,
+   "title": "Обращение Киевского комитета РСДРП(б) с призывом к свержению Центральной рады и установлению власти Советов",
+   "year": "1918",
+   "author": "",
+   "people": "Украина",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "документ 1918 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
+   "why_not": "файла на диске нет",
+   "card": "https://archive.decolonial.ist/615",
+   "source": "https://docs.historyrussia.org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 616,
+   "title": "Телеграмма тов. Орджоникидзе Совнаркому о восстании рабочих и солдат Киева против Центральной рады и о приближении советских войск к городу",
+   "year": "1918",
+   "author": "Орджоникидзе Г. К.",
+   "people": "Украина",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "документ 1918 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
+   "why_not": "файла на диске нет",
+   "card": "https://archive.decolonial.ist/616",
+   "source": "https://docs.historyrussia.org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 617,
+   "title": "Заседание Совета Р. и С. Д. 28 января",
+   "year": "1918",
+   "author": "",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно",
+   "basis": "общественное достояние: издано в 1918 году",
+   "card": "https://archive.decolonial.ist/617",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/617",
+   "source": "https://rev-lib.com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/",
+   "files": [
+    {
+     "name": "zasedanie_soveta_r_i_s_d_28_yanvarya_1918.pdf",
+     "bytes": 156339353,
+     "sha256": "8e8801f06608c359043fd3755ef38407afc84757791a1e3939ad454afe5eec12",
+     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/617__zasedanie_soveta_r_i_s_d_28_yanvarya_1918.pdf",
+     "where": "release"
+    },
+    {
+     "name": "zasedanie_soveta_r_i_s_d_28_yanvarya_1918.txt",
+     "bytes": 36332,
+     "sha256": "6522f203ef083b91bd0dbc4a5b1d99d33abd2c72cfc9272ecfe5123866d3091d",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/617/zasedanie_soveta_r_i_s_d_28_yanvarya_1918.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 618,
+   "title": "Лист Михайла Артемовича Муравйова В. О. Антонову-Овсієнку з проханням посприяти у звільненні з Таганської в'язниці",
+   "year": "1918",
+   "author": "",
+   "people": "Украина",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "документ 1918 года свободен, но напечатан в издании 2001 года — выкладываем только текст документа, не издание",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/618",
+   "source": "https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 620,
    "title": "По решению Правительства Союза ССР",
    "year": "2003",
@@ -10801,6 +11020,21 @@
    "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/620",
    "source": "https://archive.org/details/po_resheniyu_pravitelstva_soyuza_ssr",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 621,
+   "title": "Манифест к украинскому народу с ультимативными требованиями к Украинской Раде",
+   "year": "1917",
+   "author": "Ленин В. И.",
+   "people": "ukraina",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "документ 1917 года свободен, но напечатан в издании 1974 года — выкладываем только текст документа, не издание",
+   "why_not": "файла на диске нет",
+   "card": "https://archive.decolonial.ist/621",
+   "source": "https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде",
    "files": [],
    "telegram": {}
   }

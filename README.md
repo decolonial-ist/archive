@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **216**, файлов: **640**, объём: **3.11 ГиБ**. Из 621 материалов базы распространять разрешено 341, из них 70 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
+Выложено материалов: **221**, файлов: **647**, объём: **3.26 ГиБ**. Из 621 материалов базы распространять разрешено 341, из них 70 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,8 +18,8 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 129 | нет: срок охраны истёк |
-| не охраняется авторским правом | 48 | нет: закон выводит официальные документы из-под авторского права |
+| общественное достояние | 133 | нет: срок охраны истёк |
+| не охраняется авторским правом | 49 | нет: закон выводит официальные документы из-под авторского права |
 | CC BY 4.0 | 16 | ссылка на источник |
 | CC BY-SA 4.0 | 7 | ссылка на источник и та же лицензия у производного |
 | Музей ХПГ: передрук со ссылкой | 5 | ссылка на источник |
@@ -50,7 +50,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 216 материалов, 640 файлов
+## Что выложено - 221 материалов, 647 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -271,11 +271,16 @@
 | [595](https://archive.decolonial.ist/595) | Телеграмма Х. Г. Раковскому, А. Г. Шлихтеру, Н. И. Подвойскому | Ленин В. И. | 1919 | общественное достояние | 2 | 0.4 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#87` |
 | [596](https://archive.decolonial.ist/596) | Телеграмма из Могилева-Подольского в Бюро украинской печати | - | 1919 | общественное достояние | 1 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-i-kn-1-osvoboditelnaya-vojna-ukrainskogo-naroda-protiv-nemecko-avstrijskih-okkupantov-razgrom-burzhuazno-nacionalisticheskoj-direktorii/` |
 | [597](https://archive.decolonial.ist/597) | Чека. Личные воспоминания об Одесской чрезвычайке | Алинин К. (псевдоним) | 1919 | общественное достояние | 3 | 0.6 МиБ | `coollib[.]com/b/181411/read#t25` |
+| [600](https://archive.decolonial.ist/600) | Сообщение о решении III съезда Советов Донецкого и Криворожского бассейнов в Харькове объединиться с делегатами Советов, прибывшими из Киева, и провозгласить себя Всеукраинским съездом Советов | - | 1917 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/478206` |
+| [601](https://archive.decolonial.ist/601) | Резолюции I Всеукраинского съезда Советов | - | 1917 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/503633` |
+| [602](https://archive.decolonial.ist/602) | Извещение ЦИК Советов Украины | - | 1917 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/343067` |
 | [606](https://archive.decolonial.ist/606) | Постановление Совета Министров СССР № 1439-649с «О снятии некоторых ограничений в правовом положении спецпоселенцев» | - | 1954 | не охраняется авторским правом | 2 | 0.0 МиБ | `istmat[.]org/node/57859` |
+| [610](https://archive.decolonial.ist/610) | Директивы командования фронтов Красной армии (1917–1922). Т. 1 | Институт военной истории Министерства обороны СССР | 1971 | не охраняется авторским правом | 2 | 7.1 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
+| [617](https://archive.decolonial.ist/617) | Заседание Совета Р. и С. Д. 28 января | - | 1918 | общественное достояние | 2 (в релизе 1) | 149.1 МиБ | `rev-lib[.]com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/` |
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 403
+## Свободные, но файла у нас нет - 398
 
 Распространять можно, а файла нет.
 
@@ -419,7 +424,6 @@
 | Денник Начальної Команди Української Галицької Армії | 1974 | Украина | [https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/](https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/) |
 | Депортація (Енциклопедія Сучасної України) | 2007 | Украина | [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038) |
 | Десять дней которые отменили мир | 2021 | Чечня | `versia[.]ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza` |
-| Директивы командования фронтов Красной армии (1917–1922). Т. 1 | 1971 | Украина | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | Директивы командования фронтов Красной армии (1917–1922). Т. 2 | 1972 | Украина | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | Директивы командования фронтов Красной армии (1917–1922). Т. 3 | 1974 | Украина | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | До історії демонтажу пам'ятника Катерині ІІ («Засновникам Одеси») з Катерининської площі Одеси (висновок професора Т. Г. Гончарука) // Вісник ОІКМ №20 | 2023 | Украина | [https://history.odessa.ua/publication20/20.pdf](https://history.odessa.ua/publication20/20.pdf) |
@@ -450,12 +454,10 @@
 | Записки о воссоединении греко-униатского духовенства и народа в Белоруссии и на Волыни с православною церковью | 1881 | Украина | [https://archive.org/details/1881_20260529](https://archive.org/details/1881_20260529) |
 | Записки о гражданской войне. Т. 1 | 1924 | Украина | [https://archive.org/details/zapiskiograzhdanskojvojnet125](https://archive.org/details/zapiskiograzhdanskojvojnet125) |
 | Записки об аварской экспедиции на Кавказе 1837 года | 1851 | Несколько | `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Kosteneckij_Ja_I/text1.htm` |
-| Заседание Совета Р. и С. Д. 28 января | 1918 | Украина | `rev-lib[.]com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/` |
 | Заявление Председателя Совета Безопасности ООН S/26118 | 1993 | Украина | [https://digitallibrary.un.org/record/197230](https://digitallibrary.un.org/record/197230) |
 | Заявление министра инфраструктуры Украины об убытках от досмотров в Азовском море | 2018 | Украина | [https://nv.ua/ukr/ukraine/events/omeljan-rozpoviv-pro-zbitki-cherez-rosijsku-blokadu-v-azovskomu-mori-2487764.html](https://nv.ua/ukr/ukraine/events/omeljan-rozpoviv-pro-zbitki-cherez-rosijsku-blokadu-v-azovskomu-mori-2487764.html) |
 | Знесення пам'ятника в Переяславі на честь «возз'єднання» України й Росії. В чому історичне значення? | 2025 | Украина | [https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html](https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html) |
 | Иван Мазепа и Российская империя. История «предательства» | 2011 | Украина | [https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ](https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ) |
-| Извещение ЦИК Советов Украины | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/343067` |
 | Иосиф Сталин - Лаврентию Берии: «Их надо депортировать» | 1992 | Несколько | `militera.lib[.]ru` |
 | Истории государства Российского Том 11 | 1824 | Несколько | `az.lib[.]ru/k/karamzin_n_m/text_1110.shtml` |
 | Историческая роль крепостей в освоении Северного Кавказа Россией в конце XVIII - первой половине XIX века | 2020 | Чечня | `cyberleninka[.]ru/article/n/istoricheskaya-rol-krepostey-v-osvoenii-severnogo-kavkaza-rossiey-v-kontse-xviii-pervoy-polovine-xix-veka` |
@@ -600,7 +602,6 @@
 | Рашизм: Звір з безодні | 2023 | Украина | [https://resource.history.org.ua/item/0018160](https://resource.history.org.ua/item/0018160) |
 | Региональная журналистика Северного Кавказа 1917-1938 | 2022 | Несколько | `www.science.vsu[.]ru/dissertations/11290/` |
 | Режим контртеррористической операции в Чечне стал достоянием истории | 2009 | Чечня | `ria[.]ru/20090416/168286167.html` |
-| Резолюции I Всеукраинского съезда Советов | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/503633` |
 | Резолюция I Всеукраинского съезда Советов об организации Советской власти на Украине | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/343069` |
 | Речь Путина на открытии Крымского моста | 2018 | Украина | `www.interfax[.]ru/russia/612555` |
 | Российская колонизация Центрального Предкавказья во второй половине XVIII - начале XX в. | 2017 | Несколько | `cyberleninka[.]ru/article/n/rossiyskaya-kolonizatsiya-tsentralnogo-predkavkazya-vo-vtoroy-polovine-xviii-nachale-xx-v` |
@@ -625,7 +626,6 @@
 | Сношения России с Кавказом. Выпуск 1-й. 1578-1613 гг. | 1889 | Несколько | `apsnyteka[.]org/1449-belokurov_s_snoshenja_rossii_s_kavkazom.html` |
 | Соглашение о взаиморасчетах по Черноморскому флоту | 1997 | Украина | [https://zakon.rada.gov.ua/laws/show/643_077](https://zakon.rada.gov.ua/laws/show/643_077) |
 | Сообщение ЦОС ФСБ об инциденте в Керченском проливе | 2018 | Украина | `iz[.]ru/815567/2018-11-26` |
-| Сообщение о решении III съезда Советов Донецкого и Криворожского бассейнов в Харькове объединиться с делегатами Советов, прибывшими из Киева, и провозгласить себя Всеукраинским съездом Советов | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/478206` |
 | Соціально-економічне становище етнічних меншин в УСРР (20-і – початок 30-х років ХХ ст.). | 2004 | Украина | [https://resource.history.org.ua/item/0001785](https://resource.history.org.ua/item/0001785) |
 | Соціальні зміни і національна свідомість в Україні ХХ століття | 1997 | Украина | [http://resource.history.org.ua/item/0018654](http://resource.history.org.ua/item/0018654) |
 | Сочинения в 12 томах. Том 10 | 1959 | Украина | `imwerden[.]de/publ-12028` |
