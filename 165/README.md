@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [nota_pravitelstva_sssr_poslu_polshi_1939.txt](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.txt) | текст | 4 КБ | в этой папке |
-| [nota_pravitelstva_sssr_poslu_polshi_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.pdf) | PDF | 30 КБ | в этой папке |
+| [nota_pravitelstva_sssr_poslu_polshi_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.pdf) | PDF | 27 КБ | в этой папке |
 
 ## Откуда это у нас
 

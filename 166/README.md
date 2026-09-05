@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/166/sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf) | PDF | 32 КБ | в этой папке |
+| [sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf](https://github.com/decolonial-ist/archive/blob/main/166/sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf) | PDF | 29 КБ | в этой папке |
 | [sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.txt](https://github.com/decolonial-ist/archive/blob/main/166/sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.txt) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас

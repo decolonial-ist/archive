@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt](https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt) | текст | 9 КБ | в этой папке |
-| [postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf) | PDF | 31 КБ | в этой папке |
+| [postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf](https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf) | PDF | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 

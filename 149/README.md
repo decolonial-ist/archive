@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [ukaz_ekateriny_ii_o_podatyah_1783.txt](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.txt) | текст | 2 КБ | в этой папке |
-| [ukaz_ekateriny_ii_o_podatyah_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf) | PDF | 28 КБ | в этой папке |
+| [ukaz_ekateriny_ii_o_podatyah_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf) | PDF | 26 КБ | в этой папке |
 
 ## Откуда это у нас
 

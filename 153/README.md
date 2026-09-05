@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [emskiy_ukaz_1876.txt](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.txt) | текст | 10 КБ | в этой папке |
-| [emskiy_ukaz_1876.pdf](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf) | PDF | 32 КБ | в этой папке |
+| [emskiy_ukaz_1876.pdf](https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

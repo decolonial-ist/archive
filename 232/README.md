@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf) | PDF | 492 КБ | в этой папке |
+| [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf) | PDF | 503 КБ | в этой папке |
 | [interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt](https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.txt) | текст | 562 КБ | в этой папке |
 
 ## Откуда это у нас

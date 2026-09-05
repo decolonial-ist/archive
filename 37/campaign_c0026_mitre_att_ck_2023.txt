@@ -1,425 +1,75 @@
-APT28 Nearest Neighbor Campaign
+Campaign C0026 | MITRE ATT&CK®
+https://attack.mitre.org/campaigns/C0026/
 
-APT28 Nearest Neighbor Campaign
- was conducted by
-APT28
- from early February 2022 to November 2024 against organizations and individuals with expertise on Ukraine. APT28 primarily leveraged living-off-the-land techniques, while leveraging the zero-day exploitation of CVE-2022-38028. Notably, APT28 leveraged Wi-Fi networks in close proximity to the intended target to gain initial access to the victim environment. By daisy-chaining multiple compromised organizations nearby the intended target, APT28 discovered dual-homed systems (with both a wired and wireless network connection) to enable Wi-Fi and use compromised credentials to connect to the victim network.
-
-[1]
-
-ID:
-C0051
-
+C0026
+C0026 was a campaign identified in September 2022 that included the selective distribution of KOPILUWAK and QUIETCANARY malware to previous ANDROMEDA malware victims in Ukraine through re-registered ANDROMEDA C2 domains. Several tools and tactics used during C0026 were consistent with historic Turla operations.[1]
+ID: C0026
 First Seen:
-
-February 2022
-
-[1]
-
+August 2022 [1]
 Last Seen:
-
-November 2024
-
-[1]
-
-Version
-: 1.0
-
-Created:
-25 February 2025
-
-Last Modified:
-31 July 2026
-
+September 2022 [1]
+Contributors: Yoshihiro Kori, NEC Corporation; Manikantan Srinivasan, NEC Corporation India; Pooja Natarajan, NEC Corporation India
+Version: 1.0
+Created: 15 May 2023
+Last Modified: 31 July 2026
 Version Permalink
-
 Live Version
-
-Groups
-
-ID
-
-Name
-
-Description
-
-G0007
-
-APT28
-
-APT28 Nearest Neighbor Campaign
- was conducted by
-APT28
- from early February 2022 to November 2024.
-
-[1]
-
-ATT&CK
-®
- Navigator Layers
-
+ATT&CK® Navigator Layers
 Enterprise Layer
-
 download
-
 view
-
 Techniques Used
-
 Domain
-
 ID
-
 Name
-
 Use
-
- Enterprise
-
+Enterprise
+T1583
+.001
+Acquire Infrastructure: Domains
+For C0026, the threat actors re-registered expired C2 domains previously used for ANDROMEDA malware.[1]
+Enterprise
 T1560
-
 .001
-
-Archive Collected Data
-:
-Archive via Utility
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used built-in PowerShell capabilities (
-Compress-Archive
- cmdlet) to compress collected data.
-
-[1]
-
- Enterprise
-
-T1110
-
-.003
-
-Brute Force
-:
-Password Spraying
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- performed password-spray attacks against public facing services to validate credentials.
-
-[1]
-
- Enterprise
-
-T1059
-
-.001
-
-Command and Scripting Interpreter
-:
-PowerShell
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used PowerShell cmdlet
-Get-ChildItem
- to access credentials, among other PowerShell functions deployed.
-
-[1]
-
-.003
-
-Command and Scripting Interpreter
-:
-Windows Command Shell
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used
-cmd.exe
- for execution.
-
-[1]
-
- Enterprise
-
-T1584
-
-Compromise Infrastructure
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- compromised third-party infrastructure in physical proximity to targets of interest for follow-on activities.
-
-[1]
-
- Enterprise
-
-T1074
-
-.001
-
-Data Staged
-:
-Local Data Staging
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- staged captured credential information in the
-C:\ProgramData
- directory.
-
-[1]
-
- Enterprise
-
-T1140
-
-Deobfuscate/Decode Files or Information
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- unarchived data using the GUI version of WinRAR.
-
-[1]
-
- Enterprise
-
-T1006
-
-Direct Volume Access
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- accessed volume shadow copies through executing
-vssadmin
- in order to dump the NTDS.dit file.
-
-[1]
-
- Enterprise
-
-T1686
-
-.003
-
-Disable or Modify System Firewall
-:
-Windows Host Firewall
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- added rules to a victim's Windows firewall to set up a series of port-forwards allowing traffic to target systems.
-
-[1]
-
- Enterprise
-
-T1561
-
-.001
-
-Disk Wipe
-:
-Disk Content Wipe
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used the native Microsoft utility
-cipher.exe
- to securely wipe files and folders – overwriting the deleted data using
-cmd.exe /c cipher /W:C
-.
-
-[1]
-
- Enterprise
-
-T1567
-
-Exfiltration Over Web Service
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- exfiltrated data over public-facing webservers – such as Google Drive.
-
-[1]
-
- Enterprise
-
-T1003
-
-.002
-
-OS Credential Dumping
-:
-Security Account Manager
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used the following commands to dump SAM, SYSTEM, and SECURITY hives:
-reg save hklm\sam, reg save hklm\system,
- and
-reg save hklm\security
-.
-
-[1]
-
-.003
-
-OS Credential Dumping
-:
-NTDS
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- dumped NTDS.dit through creating volume shadow copies via
-vssadmin
-.
-
-[1]
-
- Enterprise
-
-T1090
-
-.001
-
-Proxy
-:
-Internal Proxy
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used the built-in
-netsh portproxy
- command to create internal proxies on compromised systems.
-
-[1]
-
- Enterprise
-
-T1021
-
-.001
-
-Remote Services
-:
-Remote Desktop Protocol
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- used RDP for lateral movement.
-
-[1]
-
-.002
-
-Remote Services
-:
-SMB/Windows Admin Shares
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- leveraged SMB to transfer files and move laterally.
-
-[1]
-
- Enterprise
-
-T1016
-
-.002
-
-System Network Configuration Discovery
-:
-Wi-Fi Discovery
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- collected information on wireless interfaces within range of a compromised system.
-
-[1]
-
- Enterprise
-
-T1669
-
-Wi-Fi Networks
-
-During
-APT28 Nearest Neighbor Campaign
-,
-APT28
- established wireless connections to secure, enterprise Wi-Fi networks belonging to a target organization for initial access into the environment.
-
-[1]
-
+Archive Collected Data: Archive via Utility
+During C0026, the threat actors used WinRAR to collect documents on targeted systems. The threat actors appeared to only exfiltrate files created after January 1, 2021.[1]
+Enterprise
+T1005
+Data from Local System
+During C0026, the threat actors collected documents from compromised hosts.[1]
+Enterprise
+T1030
+Data Transfer Size Limits
+During C0026, the threat actors split encrypted archives containing stolen files and information into 3MB parts prior to exfiltration.[1]
+Enterprise
+T1568
+Dynamic Resolution
+During C0026, the threat actors re-registered a ClouDNS dynamic DNS subdomain which was previously used by ANDROMEDA.[1]
+Enterprise
+T1105
+Ingress Tool Transfer
+During C0026, the threat actors downloaded malicious payloads onto select compromised hosts.[1]
 Software
-
 ID
-
 Name
-
 Description
-
- S1205
-
- cipher.exe
-
-APT28
-
+S1074
+ANDROMEDA
+During C0026, the threat actors re-registered expired ANDROMEDA domains to profile past victims for further targeting.[1]
+S0099
+Arp
 [1]
-
-APT28 Nearest Neighbor Campaign
-
+S1075
+KOPILUWAK
+KOPILUWAK was used as a first-stage profiling utility for previous victims of ANDROMEDA during C0026.[1]
+S0039
+Net
 [1]
-
- S0108
-
- netsh
-
-APT28
-
+S0104
+netstat
 [1]
-
-APT28 Nearest Neighbor Campaign
-
-[1]
-
+S1076
+QUIETCANARY
+During C0026, the threat actors used QUIETCANARY to gather and exfiltrate data. [1]
 References
-
- Koessel, Sean. Adair, Steven. Lancaster, Tom. (2024, November 22). The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access. Retrieved February 25, 2025.
+Hawley, S. et al. (2023, February 2). Turla: A Galaxy of Opportunity. Retrieved May 15, 2023.

@@ -10,10 +10,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt) | текст | 61 КБ | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt) | текст | 36 КБ | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt) | текст | 50 КБ | в этой папке |
-| [istoriya_ukraini_rusi_t_ix_1931.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf) | PDF | 154 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt) | текст | 59 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt) | текст | 33 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt) | текст | 47 КБ | в этой папке |
+| [istoriya_ukraini_rusi_t_ix_1931.pdf](https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf) | PDF | 139 КБ | в этой папке |
 
 ## Откуда это у нас
 

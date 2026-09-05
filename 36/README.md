@@ -9,7 +9,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf) | PDF | 40 КБ | в этой папке |
+| [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf) | PDF | 42 КБ | в этой папке |
 | [apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt](https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt) | текст | 19 КБ | в этой папке |
-| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf) | PDF | 45 КБ | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt) | текст | 13 КБ | в этой папке |
+| [pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf](https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

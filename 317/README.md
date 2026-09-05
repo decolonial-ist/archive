@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt) | текст | 81 КБ | в этой папке |
-| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf) | PDF | 93 КБ | в этой папке |
+| [obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf) | PDF | 91 КБ | в этой папке |
 
 ## Откуда это у нас
 

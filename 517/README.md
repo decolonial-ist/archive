@@ -10,7 +10,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt) | текст | 8 КБ | в этой папке |
-| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf) | PDF | 31 КБ | в этой папке |
+| [ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf) | PDF | 35 КБ | в этой папке |
 
 ## Откуда это у нас
 

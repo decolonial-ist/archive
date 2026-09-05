@@ -10,7 +10,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt) | текст | 10 КБ | в этой папке |
-| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf) | PDF | 52 КБ | в этой папке |
+| [2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf) | PDF | 55 КБ | в этой папке |
 
 ## Откуда это у нас
 

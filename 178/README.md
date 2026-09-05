@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.txt) | текст | 7 КБ | в этой папке |
-| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf) | PDF | 26 КБ | в этой папке |
+| [postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

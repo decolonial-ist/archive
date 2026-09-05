@@ -12,7 +12,7 @@
 |---|---|---|---|
 | [pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt) | текст | 326 КБ | в этой папке |
 | [pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt) | текст | 325 КБ | в этой папке |
-| [pryamaya_liniya_s_vladimirom_putinym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf) | PDF | 281 КБ | в этой папке |
+| [pryamaya_liniya_s_vladimirom_putinym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf) | PDF | 289 КБ | в этой папке |
 
 ## Откуда это у нас
 

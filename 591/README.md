@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf) | PDF | 152 КБ | в этой папке |
+| [telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf) | PDF | 158 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf) | PDF | 38 КБ | в этой папке |
-| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt) | текст | 16 КБ | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf) | PDF | 43 КБ | в этой папке |
+| [viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt](https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt) | текст | 22 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf) | PDF | 31 КБ | в этой папке |
+| [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf) | PDF | 30 КБ | в этой папке |
 | [telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt](https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас

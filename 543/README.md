@@ -10,7 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf) | PDF | 24 КБ | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.txt](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.txt) | текст | 66 КБ | в этой папке |
+| [tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf](https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf) | PDF | 78 КБ | в этой папке |
 
 ## Откуда это у нас
 

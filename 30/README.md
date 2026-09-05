@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt) | текст | 49 КБ | в этой папке |
-| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf) | PDF | 67 КБ | в этой папке |
+| [dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf) | PDF | 72 КБ | в этой папке |
 
 ## Откуда это у нас
 

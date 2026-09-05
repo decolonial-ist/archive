@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.txt](https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.txt) | текст | 4 КБ | в этой папке |
-| [v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf) | PDF | 26 КБ | в этой папке |
+| [v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf) | PDF | 20 КБ | в этой папке |
-| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt) | текст | 145 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt) | текст | 144 КБ | в этой папке |
+| [urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf](https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf) | PDF | 147 КБ | в этой папке |
 
 ## Откуда это у нас
 

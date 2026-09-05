@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zayavlenie_gkchp_1991.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.txt) | текст | 6 КБ | в этой папке |
-| [zayavlenie_gkchp_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.pdf) | PDF | 52 КБ | в этой папке |
+| [zayavlenie_gkchp_1991.txt](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.txt) | текст | 4 КБ | в этой папке |
+| [zayavlenie_gkchp_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.pdf) | PDF | 26 КБ | в этой папке |
 
 ## Откуда это у нас
 

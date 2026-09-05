@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/571/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf) | PDF | 30 КБ | в этой папке |
+| [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/571/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf) | PDF | 29 КБ | в этой папке |
 | [dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.txt](https://github.com/decolonial-ist/archive/blob/main/571/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас

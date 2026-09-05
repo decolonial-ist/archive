@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/595/telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf) | PDF | 152 КБ | в этой папке |
+| [telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/595/telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf) | PDF | 158 КБ | в этой папке |
 
 ## Откуда это у нас
 

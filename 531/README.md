@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf) | PDF | 119 КБ | в этой папке |
+| [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf) | PDF | 127 КБ | в этой папке |
 | [dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt](https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt) | текст | 73 КБ | в этой папке |
 
 ## Откуда это у нас

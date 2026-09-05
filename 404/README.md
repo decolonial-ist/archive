@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.txt) | текст | 135 КБ | в этой папке |
-| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf) | PDF | 120 КБ | в этой папке |
+| [zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf](https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf) | PDF | 119 КБ | в этой папке |
 
 ## Откуда это у нас
 

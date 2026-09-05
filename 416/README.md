@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf) | PDF | 78 КБ | в этой папке |
+| [ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf](https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf) | PDF | 82 КБ | в этой папке |
 
 ## Откуда это у нас
 

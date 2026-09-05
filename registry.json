@@ -183,14 +183,14 @@
    "files": [
     {
      "name": "dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt",
-     "bytes": 50681,
+     "bytes": 49995,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.txt",
      "where": "repo"
     },
     {
      "name": "dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf",
-     "bytes": 68478,
+     "bytes": 73783,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/30/dissidentskoe_dvizhenie_v_ukraine_1954_1987_2026.pdf",
      "where": "repo"
@@ -235,7 +235,7 @@
     },
     {
      "name": "2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
-     "bytes": 53555,
+     "bytes": 56388,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
      "where": "repo"
@@ -265,7 +265,7 @@
     },
     {
      "name": "2016_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
-     "bytes": 45764,
+     "bytes": 48659,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/33/2016_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
      "where": "repo"
@@ -288,7 +288,7 @@
    "files": [
     {
      "name": "apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf",
-     "bytes": 40588,
+     "bytes": 43114,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf",
      "where": "repo"
@@ -317,24 +317,17 @@
    "source": "https://attack.mitre.org/campaigns/C0026/",
    "files": [
     {
-     "name": "campaign_c0026_mitre_att_ck_2023.pdf",
-     "bytes": 40588,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf",
-     "where": "repo"
-    },
-    {
      "name": "campaign_c0026_mitre_att_ck_2023.txt",
-     "bytes": 5154,
+     "bytes": 2311,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt",
      "where": "repo"
     },
     {
-     "name": "campaign_c0026_mitre_att_ck_2023_2.pdf",
-     "bytes": 40588,
+     "name": "campaign_c0026_mitre_att_ck_2023.pdf",
+     "bytes": 27739,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf",
      "where": "repo"
     }
    ],
@@ -685,7 +678,7 @@
    "files": [
     {
      "name": "zapiski_a_p_ermolova_1798_1826_gg_1991.pdf",
-     "bytes": 1221297,
+     "bytes": 1459820,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991.pdf",
      "where": "repo"
@@ -768,7 +761,7 @@
    "files": [
     {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md",
-     "bytes": 9198393,
+     "bytes": 9156960,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md",
      "where": "repo"
@@ -776,7 +769,7 @@
     {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf",
      "bytes": 147318741,
-     "sha256": "",
+     "sha256": "b8b77e78c0f055b6a5198842716e8eed1dfca3e3c801c21a8ad81461a0b68eec",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf",
      "where": "release"
     }
@@ -948,7 +941,7 @@
    "files": [
     {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md",
-     "bytes": 9247682,
+     "bytes": 9242996,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/108/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md",
      "where": "repo"
@@ -1007,13 +1000,6 @@
    "source": "http://apsnyteka.org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html",
    "files": [
     {
-     "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt",
-     "bytes": 186107,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt",
-     "where": "repo"
-    },
-    {
      "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.txt",
      "bytes": 186476,
      "sha256": "",
@@ -1022,8 +1008,8 @@
     },
     {
      "name": "istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf",
-     "bytes": 195989,
-     "sha256": "3e6e915179e074e33376b3ca6ec87108fb1164ad723dbe55ca33c2daa630a060",
+     "bytes": 195924,
+     "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf",
      "where": "repo"
     },
@@ -1052,7 +1038,7 @@
    "files": [
     {
      "name": "voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf",
-     "bytes": 4629923,
+     "bytes": 4629606,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/116/voyna_na_vostochnom_kavkaze_s_1824_po_1834_g_v_svyazi_s_myuridizmom_1886.pdf",
      "where": "repo"
@@ -1082,7 +1068,7 @@
    "files": [
     {
      "name": "pogrom_chechni_1852_1880.pdf",
-     "bytes": 4629923,
+     "bytes": 4629606,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/119/pogrom_chechni_1852_1880.pdf",
      "where": "repo"
@@ -1112,7 +1098,7 @@
    "files": [
     {
      "name": "1858_god_v_chechne_1879.pdf",
-     "bytes": 287700,
+     "bytes": 286415,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf",
      "where": "repo"
@@ -1142,7 +1128,7 @@
    "files": [
     {
      "name": "vospominaniya_1895.pdf",
-     "bytes": 917751,
+     "bytes": 917522,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/122/vospominaniya_1895.pdf",
      "where": "repo"
@@ -1179,7 +1165,7 @@
     },
     {
      "name": "skazanie_ochevidca_o_shamile_1873.pdf",
-     "bytes": 203814,
+     "bytes": 203655,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.pdf",
      "where": "repo"
@@ -1299,7 +1285,7 @@
    "files": [
     {
      "name": "moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf",
-     "bytes": 114255,
+     "bytes": 113906,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf",
      "where": "repo"
@@ -1344,7 +1330,7 @@
    "files": [
     {
      "name": "tri_goda_na_kavkaze_1837_1839_1884.md",
-     "bytes": 1220897,
+     "bytes": 1219932,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.md",
      "where": "repo"
@@ -1374,21 +1360,21 @@
    "files": [
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md",
-     "bytes": 806387,
+     "bytes": 805235,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md",
      "where": "repo"
     },
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md",
-     "bytes": 648552,
+     "bytes": 647770,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md",
      "where": "repo"
     },
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md",
-     "bytes": 500481,
+     "bytes": 499476,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md",
      "where": "repo"
@@ -1418,14 +1404,14 @@
    "files": [
     {
      "name": "zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md",
-     "bytes": 106790,
+     "bytes": 106744,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md",
      "where": "repo"
     },
     {
      "name": "zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf",
-     "bytes": 116819,
+     "bytes": 116374,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf",
      "where": "repo"
@@ -1448,14 +1434,14 @@
    "files": [
     {
      "name": "vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf",
-     "bytes": 471815,
+     "bytes": 469757,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf",
      "where": "repo"
     },
     {
      "name": "vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md",
-     "bytes": 557217,
+     "bytes": 556308,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md",
      "where": "repo"
@@ -1485,7 +1471,7 @@
     },
     {
      "name": "terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf",
-     "bytes": 27557,
+     "bytes": 31214,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/141/terror_and_videoed_repentance_for_supporting_ukrai_sian_occupied_crimea_2023.pdf",
      "where": "repo"
@@ -1507,8 +1493,15 @@
    "source": "https://sevkrimrus.narod.ru/ZAKON/1654.htm",
    "files": [
     {
+     "name": "zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt",
+     "bytes": 36620,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt",
+     "where": "repo"
+    },
+    {
      "name": "zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf",
-     "bytes": 90231,
+     "bytes": 54969,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf",
      "where": "repo"
@@ -1538,7 +1531,7 @@
     },
     {
      "name": "ukaz_petra_i_o_knigopechatanii_1720.pdf",
-     "bytes": 28662,
+     "bytes": 27270,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf",
      "where": "repo"
@@ -1568,7 +1561,7 @@
     },
     {
      "name": "nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf",
-     "bytes": 30456,
+     "bytes": 29934,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf",
      "where": "repo"
@@ -1591,7 +1584,7 @@
    "files": [
     {
      "name": "ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf",
-     "bytes": 31903,
+     "bytes": 30530,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf",
      "where": "repo"
@@ -1621,14 +1614,14 @@
    "files": [
     {
      "name": "kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt",
-     "bytes": 64369,
+     "bytes": 63852,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt",
      "where": "repo"
     },
     {
      "name": "kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf",
-     "bytes": 75749,
+     "bytes": 77908,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf",
      "where": "repo"
@@ -1658,7 +1651,7 @@
     },
     {
      "name": "manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf",
-     "bytes": 41481,
+     "bytes": 40105,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf",
      "where": "repo"
@@ -1681,7 +1674,7 @@
    "files": [
     {
      "name": "manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf",
-     "bytes": 41751,
+     "bytes": 41297,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf",
      "where": "repo"
@@ -1718,7 +1711,7 @@
     },
     {
      "name": "ukaz_ekateriny_ii_o_podatyah_1783.pdf",
-     "bytes": 28268,
+     "bytes": 26587,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/149/ukaz_ekateriny_ii_o_podatyah_1783.pdf",
      "where": "repo"
@@ -1771,7 +1764,7 @@
     },
     {
      "name": "valuevskiy_cirkulyar_1863.pdf",
-     "bytes": 33502,
+     "bytes": 31466,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.pdf",
      "where": "repo"
@@ -1801,7 +1794,7 @@
     },
     {
      "name": "arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf",
-     "bytes": 1671367,
+     "bytes": 1667799,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/152/arhiv_yugo_zapadnoy_rossii_chast_1_tom_v_1872.pdf",
      "where": "repo"
@@ -1831,7 +1824,7 @@
     },
     {
      "name": "emskiy_ukaz_1876.pdf",
-     "bytes": 33159,
+     "bytes": 31771,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/153/emskiy_ukaz_1876.pdf",
      "where": "repo"
@@ -1861,7 +1854,7 @@
     },
     {
      "name": "dnevnik_pisatelya_1877.pdf",
-     "bytes": 42878,
+     "bytes": 42813,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/154/dnevnik_pisatelya_1877.pdf",
      "where": "repo"
@@ -1891,7 +1884,7 @@
     },
     {
      "name": "istoriya_rossii_s_drevneyshih_vremen_1879.pdf",
-     "bytes": 290033,
+     "bytes": 286208,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.pdf",
      "where": "repo"
@@ -1914,7 +1907,7 @@
    "files": [
     {
      "name": "mazepinci_1885.pdf",
-     "bytes": 237537,
+     "bytes": 245792,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.pdf",
      "where": "repo"
@@ -1936,31 +1929,17 @@
    "source": "https://ru.wikisource.org/wiki/ЭСБЕ/Малорусское_наречие",
    "files": [
     {
-     "name": "malorusskoe_narechie_1896_web.pdf",
-     "bytes": 27101,
+     "name": "malorusskoe_narechie_1896.pdf",
+     "bytes": 57672,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896.pdf",
      "where": "repo"
     },
     {
-     "name": "malorusskoe_narechie_1896_web_2.pdf",
-     "bytes": 57754,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_web_2.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt",
-     "bytes": 2722,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt",
-     "where": "repo"
-    },
-    {
-     "name": "malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt",
+     "name": "malorusskoe_narechie_1896.txt",
      "bytes": 23654,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896.txt",
      "where": "repo"
     }
    ],
@@ -1988,7 +1967,7 @@
     },
     {
      "name": "kievskaya_starina_no_10_1905.pdf",
-     "bytes": 562467,
+     "bytes": 562388,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/158/kievskaya_starina_no_10_1905.pdf",
      "where": "repo"
@@ -2018,7 +1997,7 @@
     },
     {
      "name": "ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf",
-     "bytes": 481635,
+     "bytes": 481571,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/159/ob_otmene_stesneniy_malorusskogo_pechatnogo_slova_1905.pdf",
      "where": "repo"
@@ -2063,7 +2042,7 @@
     },
     {
      "name": "istoriya_slobidskoi_ukraini_1918.pdf",
-     "bytes": 1089134,
+     "bytes": 1088957,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/161/istoriya_slobidskoi_ukraini_1918.pdf",
      "where": "repo"
@@ -2114,7 +2093,7 @@
     },
     {
      "name": "sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_web.pdf",
-     "bytes": 54426,
+     "bytes": 56956,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_web.pdf",
      "where": "repo"
@@ -2137,14 +2116,14 @@
    "files": [
     {
      "name": "naris_ukrainskoi_istoriografii_1923.pdf",
-     "bytes": 74557,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.pdf",
-     "where": "repo"
+     "bytes": 195719561,
+     "sha256": "4210ee9a69cc737c6187656a0d89f56d7dd961547061be785bf3e8ec721a7562",
+     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/163__naris_ukrainskoi_istoriografii_1923.pdf",
+     "where": "release"
     },
     {
      "name": "naris_ukrainskoi_istoriografii_1923.txt",
-     "bytes": 54494,
+     "bytes": 560507,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt",
      "where": "repo"
@@ -2167,14 +2146,14 @@
    "files": [
     {
      "name": "patriarshiy_i_sinodalniy_tomos_1924.txt",
-     "bytes": 26139,
+     "bytes": 9358,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.txt",
      "where": "repo"
     },
     {
      "name": "patriarshiy_i_sinodalniy_tomos_1924.pdf",
-     "bytes": 161270,
+     "bytes": 164058,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.pdf",
      "where": "repo"
@@ -2204,7 +2183,7 @@
     },
     {
      "name": "nota_pravitelstva_sssr_poslu_polshi_1939.pdf",
-     "bytes": 30436,
+     "bytes": 28013,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/165/nota_pravitelstva_sssr_poslu_polshi_1939.pdf",
      "where": "repo"
@@ -2227,7 +2206,7 @@
    "files": [
     {
      "name": "sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf",
-     "bytes": 32687,
+     "bytes": 29487,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/166/sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf",
      "where": "repo"
@@ -2264,7 +2243,7 @@
     },
     {
      "name": "direktiva_snk_sssr_i_ck_vkp_b_1941.pdf",
-     "bytes": 32190,
+     "bytes": 32113,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/167/direktiva_snk_sssr_i_ck_vkp_b_1941.pdf",
      "where": "repo"
@@ -2309,7 +2288,7 @@
     },
     {
      "name": "ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf",
-     "bytes": 34074,
+     "bytes": 34007,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/169/ukaz_o_peredache_krymskoy_oblasti_iz_sostava_rsfsr_v_sostav_ussr_1954.pdf",
      "where": "repo"
@@ -2369,7 +2348,7 @@
     },
     {
      "name": "postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf",
-     "bytes": 33348,
+     "bytes": 36574,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf",
      "where": "repo"
@@ -2422,14 +2401,14 @@
    "files": [
     {
      "name": "akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf",
-     "bytes": 73322,
+     "bytes": 31603,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf",
      "where": "repo"
     },
     {
      "name": "akt_progoloshennya_nezalezhnosti_ukraini_1991.txt",
-     "bytes": 2955,
+     "bytes": 2854,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.txt",
      "where": "repo"
@@ -2452,14 +2431,14 @@
    "files": [
     {
      "name": "zayavlenie_gkchp_1991.txt",
-     "bytes": 5843,
+     "bytes": 4294,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.txt",
      "where": "repo"
     },
     {
      "name": "zayavlenie_gkchp_1991.pdf",
-     "bytes": 53011,
+     "bytes": 26500,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/176/zayavlenie_gkchp_1991.pdf",
      "where": "repo"
@@ -2482,14 +2461,14 @@
    "files": [
     {
      "name": "postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf",
-     "bytes": 79294,
+     "bytes": 28572,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.pdf",
      "where": "repo"
     },
     {
      "name": "postanova_vr_ursr_pro_provedennya_referendumu_1991.txt",
-     "bytes": 2762,
+     "bytes": 2662,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/177/postanova_vr_ursr_pro_provedennya_referendumu_1991.txt",
      "where": "repo"
@@ -2519,7 +2498,7 @@
     },
     {
      "name": "postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf",
-     "bytes": 26873,
+     "bytes": 30964,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/178/postanovlenie_vs_sssr_ob_organizacii_referenduma_1991.pdf",
      "where": "repo"
@@ -2541,17 +2520,17 @@
    "source": "https://ru.wikisource.org/wiki/Постановление_ГКЧП_№_2",
    "files": [
     {
+     "name": "postanovlenie_gkchp_o_vypuske_gazet_1991.pdf",
+     "bytes": 24728,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf",
+     "where": "repo"
+    },
+    {
      "name": "postanovlenie_gkchp_o_vypuske_gazet_1991.txt",
      "bytes": 1634,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.txt",
-     "where": "repo"
-    },
-    {
-     "name": "postanovlenie_gkchp_o_vypuske_gazet_1991.pdf",
-     "bytes": 58800,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf",
      "where": "repo"
     }
    ],
@@ -2692,14 +2671,14 @@
    "files": [
     {
      "name": "gorska_alla_oleksandrivna_2005.txt",
-     "bytes": 10318,
+     "bytes": 10438,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.txt",
      "where": "repo"
     },
     {
      "name": "gorska_alla_oleksandrivna_2005.pdf",
-     "bytes": 34249,
+     "bytes": 36729,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.pdf",
      "where": "repo"
@@ -2737,14 +2716,14 @@
    "files": [
     {
      "name": "ukrainskiy_nacionalniy_front_unf_2006.txt",
-     "bytes": 6889,
+     "bytes": 6919,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.txt",
      "where": "repo"
     },
     {
      "name": "ukrainskiy_nacionalniy_front_unf_2006.pdf",
-     "bytes": 29086,
+     "bytes": 33068,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.pdf",
      "where": "repo"
@@ -2872,7 +2851,7 @@
    "files": [
     {
      "name": "pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf",
-     "bytes": 100229,
+     "bytes": 106341,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf",
      "where": "repo"
@@ -2909,7 +2888,7 @@
     },
     {
      "name": "ukraina_v_mizhnarodnih_vidnosinah_2012.pdf",
-     "bytes": 29990,
+     "bytes": 27792,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/199/ukraina_v_mizhnarodnih_vidnosinah_2012.pdf",
      "where": "repo"
@@ -2992,21 +2971,21 @@
    "files": [
     {
      "name": "pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt",
-     "bytes": 333504,
+     "bytes": 333319,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt",
      "where": "repo"
     },
     {
      "name": "pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt",
-     "bytes": 332937,
+     "bytes": 332882,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt",
      "where": "repo"
     },
     {
      "name": "pryamaya_liniya_s_vladimirom_putinym_2014.pdf",
-     "bytes": 287324,
+     "bytes": 295793,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf",
      "where": "repo"
@@ -3029,14 +3008,14 @@
    "files": [
     {
      "name": "federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf",
-     "bytes": 76848,
+     "bytes": 27123,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf",
      "where": "repo"
     },
     {
      "name": "federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt",
-     "bytes": 4733,
+     "bytes": 1590,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt",
      "where": "repo"
@@ -3111,7 +3090,7 @@
     },
     {
      "name": "politicheskiy_nacionalizm_m_n_katkova_2018.pdf",
-     "bytes": 58976,
+     "bytes": 58897,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/208/politicheskiy_nacionalizm_m_n_katkova_2018.pdf",
      "where": "repo"
@@ -3149,7 +3128,7 @@
    "files": [
     {
      "name": "scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf",
-     "bytes": 39108,
+     "bytes": 42866,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/210/scho_zamovchuyut_ekskursovodi_u_kievo_pecherskiy_lavri_2018.pdf",
      "where": "repo"
@@ -3284,7 +3263,7 @@
    "files": [
     {
      "name": "iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf",
-     "bytes": 23463,
+     "bytes": 27897,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf",
      "where": "repo"
@@ -3307,14 +3286,14 @@
    "files": [
     {
      "name": "icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf",
-     "bytes": 42986,
+     "bytes": 43164,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf",
      "where": "repo"
     },
     {
      "name": "icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt",
-     "bytes": 17487,
+     "bytes": 17338,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt",
      "where": "repo"
@@ -3449,7 +3428,7 @@
     },
     {
      "name": "territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf",
-     "bytes": 378140,
+     "bytes": 378356,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf",
      "where": "repo"
@@ -3547,7 +3526,7 @@
    "files": [
     {
      "name": "interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf",
-     "bytes": 504005,
+     "bytes": 515066,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/232/interv_yu_vasilya_ovsienka_muzey_disidentskogo_ruhu_2011.pdf",
      "where": "repo"
@@ -3592,14 +3571,14 @@
    "files": [
     {
      "name": "viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf",
-     "bytes": 39058,
+     "bytes": 43589,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.pdf",
      "where": "repo"
     },
     {
      "name": "viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt",
-     "bytes": 15977,
+     "bytes": 22427,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/234/viktor_yanukovich_i_vladimir_putin_dostigli_kompromissa_v_moskve_2013.txt",
      "where": "repo"
@@ -3629,7 +3608,7 @@
     },
     {
      "name": "direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf",
-     "bytes": 35639,
+     "bytes": 33494,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf",
      "where": "repo"
@@ -3726,7 +3705,7 @@
     },
     {
      "name": "o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf",
-     "bytes": 32188,
+     "bytes": 29480,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf",
      "where": "repo"
@@ -3756,7 +3735,7 @@
     },
     {
      "name": "o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf",
-     "bytes": 46556,
+     "bytes": 45777,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.pdf",
      "where": "repo"
@@ -3824,7 +3803,7 @@
    "files": [
     {
      "name": "statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf",
-     "bytes": 82408,
+     "bytes": 86740,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf",
      "where": "repo"
@@ -3907,28 +3886,28 @@
    "files": [
     {
      "name": "istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt",
-     "bytes": 62750,
+     "bytes": 59989,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_pereyaslav_rad.txt",
      "where": "repo"
     },
     {
      "name": "istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt",
-     "bytes": 36627,
+     "bytes": 33958,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_narady.txt",
      "where": "repo"
     },
     {
      "name": "istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt",
-     "bytes": 51396,
+     "bytes": 48041,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931_hrushevsky_iur9_vilno_posolstv.txt",
      "where": "repo"
     },
     {
      "name": "istoriya_ukraini_rusi_t_ix_1931.pdf",
-     "bytes": 157553,
+     "bytes": 141833,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/249/istoriya_ukraini_rusi_t_ix_1931.pdf",
      "where": "repo"
@@ -4146,7 +4125,7 @@
    "files": [
     {
      "name": "hronika_pervogo_razoruzheniya_chechni_2015.pdf",
-     "bytes": 72425,
+     "bytes": 72349,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/259/hronika_pervogo_razoruzheniya_chechni_2015.pdf",
      "where": "repo"
@@ -4183,7 +4162,7 @@
     },
     {
      "name": "iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf",
-     "bytes": 70398,
+     "bytes": 74164,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf",
      "where": "repo"
@@ -4220,7 +4199,7 @@
     },
     {
      "name": "materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf",
-     "bytes": 52641,
+     "bytes": 51218,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf",
      "where": "repo"
@@ -4243,7 +4222,7 @@
    "files": [
     {
      "name": "o_snyatii_ogranicheniy_po_specposeleniyu_s_chechen_v_i_chlenov_ih_semey_1956.txt",
-     "bytes": 1366,
+     "bytes": 1359,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/262/o_snyatii_ogranicheniy_po_specposeleniyu_s_chechen_v_i_chlenov_ih_semey_1956.txt",
      "where": "repo"
@@ -4318,31 +4297,17 @@
    "source": "https://docs.historyrussia.org/ru/nodes/222845",
    "files": [
     {
-     "name": "postanovlenie_gko_sssr_no_5073ss_1944_web.pdf",
-     "bytes": 35202,
+     "name": "postanovlenie_gko_sssr_no_5073ss_1944.pdf",
+     "bytes": 35118,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.pdf",
      "where": "repo"
     },
     {
-     "name": "postanovlenie_gko_sssr_no_5073ss_1944_document.txt",
+     "name": "postanovlenie_gko_sssr_no_5073ss_1944.txt",
      "bytes": 10975,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_document.txt",
-     "where": "repo"
-    },
-    {
-     "name": "postanovlenie_gko_sssr_no_5073ss_1944_2.txt",
-     "bytes": 3798,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_2.txt",
-     "where": "repo"
-    },
-    {
-     "name": "postanovlenie_gko_sssr_no_5073ss_1944_web_2.pdf",
-     "bytes": 36536,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/271/postanovlenie_gko_sssr_no_5073ss_1944.txt",
      "where": "repo"
     }
    ],
@@ -4415,7 +4380,7 @@
     },
     {
      "name": "general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf",
-     "bytes": 49444,
+     "bytes": 48826,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf",
      "where": "repo"
@@ -4475,7 +4440,7 @@
     },
     {
      "name": "obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf",
-     "bytes": 95214,
+     "bytes": 92752,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.pdf",
      "where": "repo"
@@ -4527,13 +4492,6 @@
    "source": "https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022",
    "files": [
     {
-     "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
-     "bytes": 34061,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
-     "where": "repo"
-    },
-    {
      "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt",
      "bytes": 3397,
      "sha256": "",
@@ -4542,9 +4500,16 @@
     },
     {
      "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md",
-     "bytes": 3397,
+     "bytes": 3400,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md",
+     "where": "repo"
+    },
+    {
+     "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
+     "bytes": 28107,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
      "where": "repo"
     }
    ],
@@ -4775,14 +4740,14 @@
    "files": [
     {
      "name": "dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt",
-     "bytes": 53864,
+     "bytes": 53964,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt",
      "where": "repo"
     },
     {
      "name": "dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf",
-     "bytes": 58151,
+     "bytes": 63775,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf",
      "where": "repo"
@@ -4857,14 +4822,14 @@
    "files": [
     {
      "name": "2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt",
-     "bytes": 5736,
+     "bytes": 5740,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt",
      "where": "repo"
     },
     {
      "name": "2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf",
-     "bytes": 27207,
+     "bytes": 30410,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf",
      "where": "repo"
@@ -4886,31 +4851,17 @@
    "source": "https://docs.historyrussia.org/ru/nodes/222846",
    "files": [
     {
-     "name": "postanovlenie_gko_sssr_no_5074ss_1944_web.pdf",
-     "bytes": 32642,
+     "name": "postanovlenie_gko_sssr_no_5074ss_1944.pdf",
+     "bytes": 32555,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.pdf",
      "where": "repo"
     },
     {
-     "name": "postanovlenie_gko_sssr_no_5074ss_1944_document.txt",
+     "name": "postanovlenie_gko_sssr_no_5074ss_1944.txt",
      "bytes": 7233,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_document.txt",
-     "where": "repo"
-    },
-    {
-     "name": "postanovlenie_gko_sssr_no_5074ss_1944_2.txt",
-     "bytes": 3044,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_2.txt",
-     "where": "repo"
-    },
-    {
-     "name": "postanovlenie_gko_sssr_no_5074ss_1944_web_2.pdf",
-     "bytes": 22744,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.txt",
      "where": "repo"
     }
    ],
@@ -4953,7 +4904,7 @@
     },
     {
      "name": "1876_pidpisano_emskiy_ukaz_2026.pdf",
-     "bytes": 26855,
+     "bytes": 30794,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.pdf",
      "where": "repo"
@@ -5169,7 +5120,7 @@
     },
     {
      "name": "pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf",
-     "bytes": 90063,
+     "bytes": 101826,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf",
      "where": "repo"
@@ -5252,7 +5203,7 @@
    "files": [
     {
      "name": "istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf",
-     "bytes": 66214,
+     "bytes": 66087,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf",
      "where": "repo"
@@ -5327,7 +5278,7 @@
    "files": [
     {
      "name": "manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf",
-     "bytes": 32603,
+     "bytes": 32530,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/396/manifest_ob_uchrezhdenii_v_slobodskih_polkah_grazhdanskogo_ustroystva_1765.pdf",
      "where": "repo"
@@ -5387,7 +5338,7 @@
     },
     {
      "name": "sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf",
-     "bytes": 38276,
+     "bytes": 36804,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf",
      "where": "repo"
@@ -5410,7 +5361,7 @@
    "files": [
     {
      "name": "dekret_vcik_o_prave_otzyva_delegatov_1917.pdf",
-     "bytes": 27549,
+     "bytes": 31568,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.pdf",
      "where": "repo"
@@ -5433,14 +5384,14 @@
    "files": [
     {
      "name": "postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt",
-     "bytes": 1706,
+     "bytes": 18643,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt",
      "where": "repo"
     },
     {
      "name": "postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf",
-     "bytes": 39096,
+     "bytes": 45473,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf",
      "where": "repo"
@@ -5463,14 +5414,14 @@
    "files": [
     {
      "name": "instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt",
-     "bytes": 6828,
+     "bytes": 6811,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.txt",
      "where": "repo"
     },
     {
      "name": "instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf",
-     "bytes": 36889,
+     "bytes": 43351,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/402/instrukciya_nkvd_sssr_o_poryadke_pereseleniya_pols_k_sssr_no_2122_617ss_1939.pdf",
      "where": "repo"
@@ -5500,7 +5451,7 @@
     },
     {
      "name": "postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf",
-     "bytes": 43216,
+     "bytes": 40881,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf",
      "where": "repo"
@@ -5530,7 +5481,7 @@
     },
     {
      "name": "zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf",
-     "bytes": 122635,
+     "bytes": 122078,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/404/zakon_ob_ukreplenii_svyazi_shkoly_s_zhiznyu_i_o_da_obrazovaniya_v_sssr_1958.pdf",
      "where": "repo"
@@ -5635,16 +5586,9 @@
    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0_%D1%87%D0%B5%D1%81%D1%82%D1%8C_300-%D1%80%D1%96%D1%87%D1%87%D1%8F_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8,_%D0%BE%D0%B1%D0%B5%D0%BB%D1%96%D1%81%D0%BA_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D1%96_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8.jpg",
    "files": [
     {
-     "name": "pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt",
-     "bytes": 4745,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt",
-     "where": "repo"
-    },
-    {
      "name": "pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf",
-     "bytes": 115807,
-     "sha256": "",
+     "bytes": 703304,
+     "sha256": "f045d92ebd407e8e8c6d3f38897d47945672d53603b161d98c9d4abf2bbe3d64",
      "url": "https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf",
      "where": "repo"
     }
@@ -5681,7 +5625,7 @@
    "files": [
     {
      "name": "ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf",
-     "bytes": 79798,
+     "bytes": 84432,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/416/ukaz_ob_utverzhdenii_vremennogo_polozheniya_o_voennoy_cenzure_1914.pdf",
      "where": "repo"
@@ -5763,31 +5707,17 @@
    "source": "https://docs.historyrussia.org/ru/nodes/123862",
    "files": [
     {
-     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web.pdf",
-     "bytes": 34110,
+     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf",
+     "bytes": 34026,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf",
      "where": "repo"
     },
     {
-     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web_2.pdf",
-     "bytes": 35077,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web_2.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt",
+     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.txt",
      "bytes": 9214,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt",
-     "where": "repo"
-    },
-    {
-     "name": "o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt",
-     "bytes": 3366,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.txt",
      "where": "repo"
     }
    ],
@@ -5807,31 +5737,17 @@
    "source": "https://docs.historyrussia.org/ru/nodes/123861",
    "files": [
     {
-     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web.pdf",
-     "bytes": 29877,
+     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf",
+     "bytes": 29584,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf",
      "where": "repo"
     },
     {
-     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt",
+     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.txt",
      "bytes": 4027,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt",
-     "where": "repo"
-    },
-    {
-     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt",
-     "bytes": 3245,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt",
-     "where": "repo"
-    },
-    {
-     "name": "o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web_2.pdf",
-     "bytes": 35397,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.txt",
      "where": "repo"
     }
    ],
@@ -5859,7 +5775,7 @@
     },
     {
      "name": "ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf",
-     "bytes": 52399,
+     "bytes": 43428,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf",
      "where": "repo"
@@ -5927,7 +5843,7 @@
    "files": [
     {
      "name": "istoricheskiy_put_u_kievi_1926.pdf",
-     "bytes": 58783,
+     "bytes": 57603,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf",
      "where": "repo"
@@ -5972,7 +5888,7 @@
    "files": [
     {
      "name": "zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf",
-     "bytes": 1088795,
+     "bytes": 1114309,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf",
      "where": "repo"
@@ -6024,7 +5940,7 @@
     },
     {
      "name": "polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt",
-     "bytes": 9962899,
+     "bytes": 9890981,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt",
      "where": "repo"
@@ -6129,7 +6045,7 @@
    "files": [
     {
      "name": "rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf",
-     "bytes": 52144,
+     "bytes": 57281,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf",
      "where": "repo"
@@ -6196,7 +6112,7 @@
     },
     {
      "name": "polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt",
-     "bytes": 5636233,
+     "bytes": 5601594,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/448/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt",
      "where": "repo"
@@ -6226,7 +6142,7 @@
     },
     {
      "name": "polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf",
-     "bytes": 4167679,
+     "bytes": 4167445,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/449/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_xxx_otdelenie_1_1855_1856.pdf",
      "where": "repo"
@@ -6249,14 +6165,14 @@
    "files": [
     {
      "name": "kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt",
-     "bytes": 2706,
+     "bytes": 54987,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt",
      "where": "repo"
     },
     {
      "name": "kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf",
-     "bytes": 67665,
+     "bytes": 71746,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf",
      "where": "repo"
@@ -6361,7 +6277,7 @@
     },
     {
      "name": "vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf",
-     "bytes": 29341,
+     "bytes": 33374,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf",
      "where": "repo"
@@ -6451,14 +6367,14 @@
    "files": [
     {
      "name": "programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt",
-     "bytes": 493384,
+     "bytes": 494360,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.txt",
      "where": "repo"
     },
     {
      "name": "programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf",
-     "bytes": 367535,
+     "bytes": 380055,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/463/programma_kommunisticheskoy_partii_sovetskogo_soyuza_1961.pdf",
      "where": "repo"
@@ -6481,14 +6397,14 @@
    "files": [
     {
      "name": "pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt",
-     "bytes": 19215,
+     "bytes": 12970,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.txt",
      "where": "repo"
     },
     {
      "name": "pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf",
-     "bytes": 45736,
+     "bytes": 37102,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/464/pro_zahodi_po_dalshomu_udoskonalennyu_vivchennya_i_ovi_v_ukrainskiy_rsr_1978.pdf",
      "where": "repo"
@@ -6511,14 +6427,14 @@
    "files": [
     {
      "name": "operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf",
-     "bytes": 32163,
+     "bytes": 36278,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf",
      "where": "repo"
     },
     {
      "name": "operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt",
-     "bytes": 11903,
+     "bytes": 11073,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt",
      "where": "repo"
@@ -6548,7 +6464,7 @@
     },
     {
      "name": "operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf",
-     "bytes": 33817,
+     "bytes": 33718,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/466/operativnyy_prikaz_nkvd_sssr_no_00439_1937.pdf",
      "where": "repo"
@@ -6631,7 +6547,7 @@
    "files": [
     {
      "name": "svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf",
-     "bytes": 37023,
+     "bytes": 35791,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf",
      "where": "repo"
@@ -6668,7 +6584,7 @@
     },
     {
      "name": "konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf",
-     "bytes": 63763,
+     "bytes": 61118,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf",
      "where": "repo"
@@ -6743,7 +6659,7 @@
     },
     {
      "name": "sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf",
-     "bytes": 1303319,
+     "bytes": 1295868,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/476/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_3_1925_god_2002.pdf",
      "where": "repo"
@@ -6824,21 +6740,21 @@
    "files": [
     {
      "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt",
-     "bytes": 117356,
+     "bytes": 116968,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt",
      "where": "repo"
     },
     {
      "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf",
-     "bytes": 121779,
+     "bytes": 415137,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf",
      "where": "repo"
     },
     {
      "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt",
-     "bytes": 166434,
+     "bytes": 166110,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt",
      "where": "repo"
@@ -6883,7 +6799,7 @@
     },
     {
      "name": "iz_arhiva_daho_dzhanhotova_vedomost_priema_peredac_toricheskiy_dokument_2021.pdf",
-     "bytes": 74573,
+     "bytes": 74498,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/481/iz_arhiva_daho_dzhanhotova_vedomost_priema_peredac_toricheskiy_dokument_2021.pdf",
      "where": "repo"
@@ -6943,7 +6859,7 @@
     },
     {
      "name": "kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf",
-     "bytes": 329427,
+     "bytes": 329618,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/484/kak_pogib_nazhmutdin_gocinskiy_1936_ocr.pdf",
      "where": "repo"
@@ -6966,14 +6882,14 @@
    "files": [
     {
      "name": "la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf",
-     "bytes": 58480,
+     "bytes": 56405,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf",
      "where": "repo"
     },
     {
      "name": "la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt",
-     "bytes": 22326,
+     "bytes": 22313,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt",
      "where": "repo"
@@ -6996,14 +6912,14 @@
    "files": [
     {
      "name": "rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt",
-     "bytes": 7511,
+     "bytes": 7461,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt",
      "where": "repo"
     },
     {
      "name": "rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf",
-     "bytes": 34836,
+     "bytes": 33698,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf",
      "where": "repo"
@@ -7062,17 +6978,17 @@
    "source": "https://uk.wikisource.org/wiki/Літопис_революції/1929/4/Уривки_з_спогадів_про_українську_революцію",
    "files": [
     {
-     "name": "urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf",
-     "bytes": 20766,
+     "name": "urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt",
+     "bytes": 147937,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt",
      "where": "repo"
     },
     {
-     "name": "urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt",
-     "bytes": 148583,
+     "name": "urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf",
+     "bytes": 150077,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929_zatonsky_1929_uryvky.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/492/urivki_z_spogadiv_pro_ukrainsku_revolyuciyu_1929.pdf",
      "where": "repo"
     }
    ],
@@ -7228,7 +7144,7 @@
    "files": [
     {
      "name": "do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf",
-     "bytes": 212734,
+     "bytes": 212605,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/501/do_istorii_povstanchogo_reydu_gen_hor_yu_tyutyunni_povstanchogo_shtabu_1930.pdf",
      "where": "repo"
@@ -7258,7 +7174,7 @@
    "files": [
     {
      "name": "ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf",
-     "bytes": 211633,
+     "bytes": 211482,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/502/ostanni_dni_zbroynoi_borotbi_21_xi_1920_21_xi_1930_1930.pdf",
      "where": "repo"
@@ -7302,17 +7218,17 @@
    "source": "https://archive.org/details/litopys",
    "files": [
     {
-     "name": "ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf",
-     "bytes": 207671,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf",
-     "where": "repo"
-    },
-    {
      "name": "ostanniy_vidstup_spomini_m_andrusyaka_1930.txt",
      "bytes": 203864,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf",
+     "bytes": 380372,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/505/ostanniy_vidstup_spomini_m_andrusyaka_1930.pdf",
      "where": "repo"
     }
    ],
@@ -7378,14 +7294,14 @@
    "files": [
     {
      "name": "64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf",
-     "bytes": 47608,
+     "bytes": 25580,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf",
      "where": "repo"
     },
     {
      "name": "64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt",
-     "bytes": 1657,
+     "bytes": 1600,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt",
      "where": "repo"
@@ -7415,7 +7331,7 @@
     },
     {
      "name": "v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf",
-     "bytes": 26274,
+     "bytes": 31746,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf",
      "where": "repo"
@@ -7505,7 +7421,7 @@
     },
     {
      "name": "un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf",
-     "bytes": 31452,
+     "bytes": 35217,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf",
      "where": "repo"
@@ -7565,7 +7481,7 @@
     },
     {
      "name": "ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf",
-     "bytes": 32077,
+     "bytes": 36032,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf",
      "where": "repo"
@@ -7693,7 +7609,7 @@
    "files": [
     {
      "name": "vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf",
-     "bytes": 39359,
+     "bytes": 44418,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf",
      "where": "repo"
@@ -7715,31 +7631,17 @@
    "source": "https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html",
    "files": [
     {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt",
-     "bytes": 2102,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_text_ne_tot_material.txt",
-     "where": "repo"
-    },
-    {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_web.pdf",
-     "bytes": 48022,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_web.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt",
+     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.txt",
      "bytes": 2704,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_1.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.txt",
      "where": "repo"
     },
     {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_web_2.pdf",
-     "bytes": 29474,
+     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf",
+     "bytes": 29412,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf",
      "where": "repo"
     }
    ],
@@ -7782,7 +7684,7 @@
     },
     {
      "name": "2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf",
-     "bytes": 25287,
+     "bytes": 29524,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf",
      "where": "repo"
@@ -7819,24 +7721,10 @@
    "source": "https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities",
    "files": [
     {
-     "name": "un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt",
-     "bytes": 35289,
+     "name": "un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf",
+     "bytes": 45163,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt",
-     "where": "repo"
-    },
-    {
-     "name": "un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web.pdf",
-     "bytes": 54859,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web_2.pdf",
-     "bytes": 42504,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf",
      "where": "repo"
     }
    ],
@@ -7857,7 +7745,7 @@
    "files": [
     {
      "name": "dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf",
-     "bytes": 121554,
+     "bytes": 129969,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf",
      "where": "repo"
@@ -7968,14 +7856,14 @@
    "files": [
     {
      "name": "doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt",
-     "bytes": 30166,
+     "bytes": 30164,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt",
      "where": "repo"
     },
     {
      "name": "doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf",
-     "bytes": 52423,
+     "bytes": 50965,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf",
      "where": "repo"
@@ -7998,14 +7886,14 @@
    "files": [
     {
      "name": "instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md",
-     "bytes": 7231,
+     "bytes": 7215,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md",
      "where": "repo"
     },
     {
      "name": "instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf",
-     "bytes": 31930,
+     "bytes": 30617,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf",
      "where": "repo"
@@ -8057,10 +7945,10 @@
    "source": "https://docs.historyrussia.org/ru/nodes/51878",
    "files": [
     {
-     "name": "politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web.pdf",
-     "bytes": 37567,
+     "name": "politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf",
+     "bytes": 36488,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf",
      "where": "repo"
     },
     {
@@ -8068,13 +7956,6 @@
      "bytes": 7906,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt",
-     "where": "repo"
-    },
-    {
-     "name": "politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web_2.pdf",
-     "bytes": 32529,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web_2.pdf",
      "where": "repo"
     }
    ],
@@ -8102,7 +7983,7 @@
     },
     {
      "name": "postanovlenie_ck_o_prinuditelnom_obobschestvlenii_skota_1932.pdf",
-     "bytes": 25726,
+     "bytes": 25607,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/539/postanovlenie_ck_o_prinuditelnom_obobschestvlenii_skota_1932.pdf",
      "where": "repo"
@@ -8132,7 +8013,7 @@
     },
     {
      "name": "postanovlenie_o_religioznyh_obedineniyah_1929.pdf",
-     "bytes": 64348,
+     "bytes": 64271,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/540/postanovlenie_o_religioznyh_obedineniyah_1929.pdf",
      "where": "repo"
@@ -8155,14 +8036,14 @@
    "files": [
     {
      "name": "rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf",
-     "bytes": 32835,
+     "bytes": 30547,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf",
      "where": "repo"
     },
     {
      "name": "rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt",
-     "bytes": 8308,
+     "bytes": 8289,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt",
      "where": "repo"
@@ -8192,7 +8073,7 @@
     },
     {
      "name": "sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf",
-     "bytes": 194570,
+     "bytes": 192526,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf",
      "where": "repo"
@@ -8214,8 +8095,15 @@
    "source": "https://istmat.org/node/30679",
    "files": [
     {
+     "name": "tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.txt",
+     "bytes": 68053,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.txt",
+     "where": "repo"
+    },
+    {
      "name": "tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf",
-     "bytes": 24532,
+     "bytes": 79383,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/543/tragediya_sovetskoy_derevni_kollektivizaciya_i_ras_abr_1929_dekabr_1930_2000.pdf",
      "where": "repo"
@@ -8253,7 +8141,7 @@
    "files": [
     {
      "name": "prikaz_nkvd_sssr_no_00447_1937.pdf",
-     "bytes": 62199,
+     "bytes": 62113,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/545/prikaz_nkvd_sssr_no_00447_1937.pdf",
      "where": "repo"
@@ -8358,7 +8246,7 @@
    "files": [
     {
      "name": "o_reabilitacii_repressirovannyh_narodov_1991.pdf",
-     "bytes": 32881,
+     "bytes": 32807,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/550/o_reabilitacii_repressirovannyh_narodov_1991.pdf",
      "where": "repo"
@@ -8388,7 +8276,7 @@
    "files": [
     {
      "name": "rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf",
-     "bytes": 75778,
+     "bytes": 70585,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf",
      "where": "repo"
@@ -8410,24 +8298,17 @@
    "source": "https://zakon.rada.gov.ua/laws/show/2672-20",
    "files": [
     {
-     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web.pdf",
-     "bytes": 32089,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web.pdf",
-     "where": "repo"
-    },
-    {
      "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt",
-     "bytes": 7010,
+     "bytes": 7026,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt",
      "where": "repo"
     },
     {
-     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web_2.pdf",
-     "bytes": 31381,
+     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf",
+     "bytes": 31302,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web_2.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf",
      "where": "repo"
     }
    ],
@@ -8485,14 +8366,14 @@
     },
     {
      "name": "istoriya_stalinskogo_gulaga_2004.pdf",
-     "bytes": 54201,
+     "bytes": 53560,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf",
      "where": "repo"
     },
     {
      "name": "istoriya_stalinskogo_gulaga_2004.md",
-     "bytes": 12093,
+     "bytes": 11837,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md",
      "where": "repo"
@@ -8522,7 +8403,7 @@
     },
     {
      "name": "dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf",
-     "bytes": 35698,
+     "bytes": 40440,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf",
      "where": "repo"
@@ -8589,7 +8470,7 @@
     },
     {
      "name": "krasnyy_terror_v_rossii_1924.pdf",
-     "bytes": 777692,
+     "bytes": 773972,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf",
      "where": "repo"
@@ -8619,7 +8500,7 @@
     },
     {
      "name": "postanovlenie_snk_o_krasnom_terrore_1918.pdf",
-     "bytes": 24667,
+     "bytes": 24067,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/563/postanovlenie_snk_o_krasnom_terrore_1918.pdf",
      "where": "repo"
@@ -8679,7 +8560,7 @@
    "files": [
     {
      "name": "operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf",
-     "bytes": 32173,
+     "bytes": 31280,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/565/operativnaya_svodka_kievskogo_okruzhnogo_voenkomat_koy_rechnoy_flotilii_1919.pdf",
      "where": "repo"
@@ -8709,7 +8590,7 @@
    "files": [
     {
      "name": "soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf",
-     "bytes": 37684,
+     "bytes": 36617,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf",
      "where": "repo"
@@ -8746,7 +8627,7 @@
     },
     {
      "name": "dva_goda_borby_na_vnutrennem_fronte_1920.txt",
-     "bytes": 349802,
+     "bytes": 346395,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/567/dva_goda_borby_na_vnutrennem_fronte_1920.txt",
      "where": "repo"
@@ -8769,7 +8650,7 @@
    "files": [
     {
      "name": "doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf",
-     "bytes": 61846,
+     "bytes": 61760,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/568/doklad_h_gofmana_o_pogromah_v_m_fastov_kievskoy_gub_1919.pdf",
      "where": "repo"
@@ -8851,7 +8732,7 @@
    "files": [
     {
      "name": "dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf",
-     "bytes": 30702,
+     "bytes": 30140,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/571/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_1919.pdf",
      "where": "repo"
@@ -8881,7 +8762,7 @@
    "files": [
     {
      "name": "dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf",
-     "bytes": 30478,
+     "bytes": 29512,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/572/dokladnaya_zapiska_v_a_antonova_ovseenko_glavkomu_dlya_yuzhnogo_fronta_1919.pdf",
      "where": "repo"
@@ -8949,7 +8830,7 @@
    "files": [
     {
      "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_web.pdf",
-     "bytes": 28606,
+     "bytes": 26491,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_web.pdf",
      "where": "repo"
@@ -8962,10 +8843,10 @@
      "where": "repo"
     },
     {
-     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf",
-     "bytes": 1708161,
-     "sha256": "f09403e23c962a5db6b9b1305b8c9c51f3c4ee6aac177a48ca5100592327e8f3",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919.pdf",
+     "name": "ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_web_2.pdf",
+     "bytes": 1704610,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/575/ob_organizacii_vseukrainskoy_chrezvychaynoy_komissii_1919_web_2.pdf",
      "where": "repo"
     },
     {
@@ -8993,14 +8874,14 @@
    "files": [
     {
      "name": "petrogradskim_organizaciyam_1919.pdf",
-     "bytes": 81660,
+     "bytes": 28712,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf",
      "where": "repo"
     },
     {
      "name": "petrogradskim_organizaciyam_1919.txt",
-     "bytes": 66351,
+     "bytes": 4659,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt",
      "where": "repo"
@@ -9030,7 +8911,7 @@
     },
     {
      "name": "pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf",
-     "bytes": 33651,
+     "bytes": 38194,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf",
      "where": "repo"
@@ -9053,7 +8934,7 @@
    "files": [
     {
      "name": "postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf",
-     "bytes": 28212,
+     "bytes": 26759,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf",
      "where": "repo"
@@ -9083,7 +8964,7 @@
    "files": [
     {
      "name": "prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf",
-     "bytes": 39208,
+     "bytes": 38150,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf",
      "where": "repo"
@@ -9113,7 +8994,7 @@
    "files": [
     {
      "name": "prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf",
-     "bytes": 31843,
+     "bytes": 30776,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf",
      "where": "repo"
@@ -9158,7 +9039,7 @@
    "files": [
     {
      "name": "prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf",
-     "bytes": 35815,
+     "bytes": 34829,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf",
      "where": "repo"
@@ -9188,14 +9069,14 @@
    "files": [
     {
      "name": "protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf",
-     "bytes": 33701,
+     "bytes": 33445,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.pdf",
      "where": "repo"
     },
     {
      "name": "protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt",
-     "bytes": 9664,
+     "bytes": 9431,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/583/protokol_zasedaniya_predstaviteley_uezdnyh_organov_asti_v_d_tyutkovichi_1919.txt",
      "where": "repo"
@@ -9263,7 +9144,7 @@
    "files": [
     {
      "name": "soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf",
-     "bytes": 38875,
+     "bytes": 38041,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf",
      "where": "repo"
@@ -9293,7 +9174,7 @@
    "files": [
     {
      "name": "soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf",
-     "bytes": 27539,
+     "bytes": 25639,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf",
      "where": "repo"
@@ -9322,10 +9203,10 @@
    "source": "https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/",
    "files": [
     {
-     "name": "soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt",
-     "bytes": 12440,
+     "name": "soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919.txt",
+     "bytes": 10938,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919.txt",
      "where": "repo"
     }
    ],
@@ -9361,7 +9242,7 @@
    "files": [
     {
      "name": "telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf",
-     "bytes": 155907,
+     "bytes": 161713,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/591/telegramma_v_i_lenina_h_g_rakovskomu_i_v_i_mezhlauku_1919.pdf",
      "where": "repo"
@@ -9399,7 +9280,7 @@
    "files": [
     {
      "name": "telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf",
-     "bytes": 31919,
+     "bytes": 30923,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/593/telegramma_n_a_skrypnika_o_likvidacii_band_zelenogo_1919.pdf",
      "where": "repo"
@@ -9429,7 +9310,7 @@
    "files": [
     {
      "name": "telegramma_h_g_rakovskomu_1919.pdf",
-     "bytes": 155907,
+     "bytes": 161713,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/594/telegramma_h_g_rakovskomu_1919.pdf",
      "where": "repo"
@@ -9452,7 +9333,7 @@
    "files": [
     {
      "name": "telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf",
-     "bytes": 155907,
+     "bytes": 161713,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/595/telegramma_h_g_rakovskomu_a_g_shlihteru_n_i_podvoyskomu_1919.pdf",
      "where": "repo"
@@ -9475,7 +9356,7 @@
    "files": [
     {
      "name": "telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt",
-     "bytes": 1555,
+     "bytes": 1029,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt",
      "where": "repo"
@@ -9498,14 +9379,14 @@
    "files": [
     {
      "name": "cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf",
-     "bytes": 198769,
+     "bytes": 197961,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf",
      "where": "repo"
     },
     {
      "name": "cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt",
-     "bytes": 211127,
+     "bytes": 210825,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt",
      "where": "repo"
@@ -9574,7 +9455,7 @@
    "files": [
     {
      "name": "izveschenie_cik_sovetov_ukrainy_1917.txt",
-     "bytes": 11105,
+     "bytes": 10986,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/602/izveschenie_cik_sovetov_ukrainy_1917.txt",
      "where": "repo"
@@ -9604,7 +9485,7 @@
     },
     {
      "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf",
-     "bytes": 31480,
+     "bytes": 34651,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf",
      "where": "repo"

@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.md) | текст | 7 КБ | в этой папке |
-| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf) | PDF | 31 КБ | в этой папке |
+| [instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf](https://github.com/decolonial-ist/archive/blob/main/536/instrukciya_o_prepodavanii_musulmanskogo_veroucheniya_1925.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

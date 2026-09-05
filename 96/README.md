@@ -9,7 +9,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zapiski_a_p_ermolova_1798_1826_gg_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991.pdf) | PDF | 1.2 МБ | в этой папке |
+| [zapiski_a_p_ermolova_1798_1826_gg_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/96/zapiski_a_p_ermolova_1798_1826_gg_1991.pdf) | PDF | 1.4 МБ | в этой папке |
 
 ## Откуда это у нас
 

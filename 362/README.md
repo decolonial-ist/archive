@@ -10,7 +10,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [1876_pidpisano_emskiy_ukaz_2026.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.txt) | текст | 7 КБ | в этой папке |
-| [1876_pidpisano_emskiy_ukaz_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.pdf) | PDF | 26 КБ | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2026.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

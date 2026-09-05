@@ -10,9 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web.pdf](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web.pdf) | PDF | 31 КБ | в этой папке |
 | [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt) | текст | 7 КБ | в этой папке |
-| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_web_2.pdf) | PDF | 31 КБ | в этой папке |
+| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

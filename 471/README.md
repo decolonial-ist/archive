@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf) | PDF | 36 КБ | в этой папке |
+| [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.pdf) | PDF | 35 КБ | в этой папке |
 | [svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt](https://github.com/decolonial-ist/archive/blob/main/471/svodnye_dannye_ob_arestovannyh_i_osuzhdennyh_organ_1_e_iyulya_1938_goda_1938.txt) | текст | 8 КБ | в этой папке |
 
 ## Откуда это у нас

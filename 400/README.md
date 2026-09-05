@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dekret_vcik_o_prave_otzyva_delegatov_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.pdf) | PDF | 27 КБ | в этой папке |
+| [dekret_vcik_o_prave_otzyva_delegatov_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/400/dekret_vcik_o_prave_otzyva_delegatov_1917.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.txt) | текст | 45 КБ | в этой папке |
-| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf) | PDF | 62 КБ | в этой папке |
+| [konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf](https://github.com/decolonial-ist/archive/blob/main/472/konvenciya_o_zakonah_i_obychayah_suhoputnoy_voyny_1907.pdf) | PDF | 60 КБ | в этой папке |
 
 ## Откуда это у нас
 

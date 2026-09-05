@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf) | PDF | 98 КБ | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf) | PDF | 104 КБ | в этой папке |
 | [pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt) | текст | 103 КБ | в этой папке |
 
 ## Откуда это у нас

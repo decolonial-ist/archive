@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.txt) | текст | 29 КБ | в этой папке |
-| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf) | PDF | 51 КБ | в этой папке |
+| [doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf](https://github.com/decolonial-ist/archive/blob/main/535/doklad_evdokimova_o_politicheskom_sostoyanii_nacionalnyh_oblastey_1928.pdf) | PDF | 50 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,10 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web.pdf) | PDF | 29 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_document.txt) | текст | 4 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_2.txt) | текст | 3 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938_web_2.pdf) | PDF | 35 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.pdf) | PDF | 29 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.txt](https://github.com/decolonial-ist/archive/blob/main/422/o_likvidacii_nacionalnyh_rayonov_i_selsovetov_1938.txt) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас
 

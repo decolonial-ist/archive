@@ -12,7 +12,7 @@
 |---|---|---|---|
 | [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.pdf) | PDF | 1.1 МБ | в этой папке |
 | [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt) | текст | 25 КБ | в этой папке |
-| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf) | PDF | 51 КБ | в этой папке |
+| [materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf](https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910_web.pdf) | PDF | 50 КБ | в этой папке |
 
 ## Откуда это у нас
 

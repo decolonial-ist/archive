@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt) | текст | 13 КБ | в этой папке |
-| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf) | PDF | 41 КБ | в этой папке |
+| [manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf](https://github.com/decolonial-ist/archive/blob/main/147/manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.pdf) | PDF | 39 КБ | в этой папке |
 
 ## Откуда это у нас
 

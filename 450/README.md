@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt) | текст | 3 КБ | в этой папке |
-| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf) | PDF | 66 КБ | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.txt) | текст | 54 КБ | в этой папке |
+| [kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf](https://github.com/decolonial-ist/archive/blob/main/450/kirilo_mefodiivske_tovaristvo_u_3_t_1990.pdf) | PDF | 70 КБ | в этой папке |
 
 ## Откуда это у нас
 

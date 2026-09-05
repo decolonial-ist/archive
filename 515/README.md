@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt) | текст | 6 КБ | в этой папке |
-| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf) | PDF | 31 КБ | в этой папке |
+| [un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf](https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf) | PDF | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 

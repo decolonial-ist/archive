@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.txt) | текст | 21 КБ | в этой папке |
-| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf) | PDF | 51 КБ | в этой папке |
+| [ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/423/ob_obyazatelnom_izuchenii_russkogo_yazyka_v_shkola_respublik_i_oblastey_1938.pdf) | PDF | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 

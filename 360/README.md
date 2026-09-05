@@ -9,10 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_gko_sssr_no_5074ss_1944_web.pdf](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_web.pdf) | PDF | 32 КБ | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_document.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_document.txt) | текст | 7 КБ | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_2.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_2.txt) | текст | 3 КБ | в этой папке |
-| [postanovlenie_gko_sssr_no_5074ss_1944_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944_web_2.pdf) | PDF | 22 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944.pdf](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.pdf) | PDF | 32 КБ | в этой папке |
+| [postanovlenie_gko_sssr_no_5074ss_1944.txt](https://github.com/decolonial-ist/archive/blob/main/360/postanovlenie_gko_sssr_no_5074ss_1944.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 

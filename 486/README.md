@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf) | PDF | 57 КБ | в этой папке |
+| [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.pdf) | PDF | 55 КБ | в этой папке |
 | [la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt](https://github.com/decolonial-ist/archive/blob/main/486/la_situation_de_la_religion_dans_la_republique_des_montagnards_1930.txt) | текст | 22 КБ | в этой папке |
 
 ## Откуда это у нас

@@ -9,7 +9,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf) | PDF | 46 КБ | в этой папке |
+| [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf) | PDF | 25 КБ | в этой папке |
 | [64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt](https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас

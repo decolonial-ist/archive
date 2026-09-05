@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [gorska_alla_oleksandrivna_2005.txt](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.txt) | текст | 10 КБ | в этой папке |
-| [gorska_alla_oleksandrivna_2005.pdf](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.pdf) | PDF | 33 КБ | в этой папке |
+| [gorska_alla_oleksandrivna_2005.pdf](https://github.com/decolonial-ist/archive/blob/main/188/gorska_alla_oleksandrivna_2005.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [krasnyy_terror_v_rossii_1924.txt](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.txt) | текст | 921 КБ | в этой папке |
-| [krasnyy_terror_v_rossii_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf) | PDF | 759 КБ | в этой папке |
+| [krasnyy_terror_v_rossii_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/562/krasnyy_terror_v_rossii_1924.pdf) | PDF | 756 КБ | в этой папке |
 
 ## Откуда это у нас
 

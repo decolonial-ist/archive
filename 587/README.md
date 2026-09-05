@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf) | PDF | 38 КБ | в этой папке |
+| [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.pdf) | PDF | 37 КБ | в этой папке |
 | [soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt](https://github.com/decolonial-ist/archive/blob/main/587/soobschenie_g_i_rabinovicha_o_posledstviyah_pogroma_v_m_fastov_1919.txt) | текст | 13 КБ | в этой папке |
 
 ## Откуда это у нас

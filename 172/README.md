@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt) | текст | 8 КБ | в этой папке |
-| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf) | PDF | 33 КБ | в этой папке |
+| [postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf](https://github.com/decolonial-ist/archive/blob/main/172/postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

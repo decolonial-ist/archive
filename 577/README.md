@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.txt) | текст | 6 КБ | в этой папке |
-| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf) | PDF | 33 КБ | в этой папке |
+| [pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/577/pismo_f_e_dzerzhinskogo_m_i_lacisu_o_polozhenii_v_vuchk_1919.pdf) | PDF | 37 КБ | в этой папке |
 
 ## Откуда это у нас
 

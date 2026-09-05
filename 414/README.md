@@ -10,8 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.txt) | текст | 5 КБ | в этой папке |
-| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf) | PDF | 113 КБ | в этой папке |
+| [pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/414/pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf) | PDF | 687 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -20,6 +19,12 @@
 Права на публикацию: свободно (Викимедиа: CC BY-SA 4.0 либо общественное достояние)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| pam_yatniy_znak_na_chest_300_richchya_pereyaslavsk_pereyaslavskoi_radi_2014.pdf | `f045d92ebd407e8e8c6d3f38897d47945672d53603b161d98c9d4abf2bbe3d64` |
 
 ---
 

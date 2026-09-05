@@ -9,8 +9,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf) | PDF | 461 КБ | в этой папке |
-| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md) | текст | 544 КБ | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf) | PDF | 459 КБ | в этой папке |
+| [vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md](https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md) | текст | 543 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt) | текст | 6 КБ | в этой папке |
-| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf) | PDF | 27 КБ | в этой папке |
+| [2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf) | PDF | 30 КБ | в этой папке |
 
 ## Откуда это у нас
 

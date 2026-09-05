@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.txt) | текст | 47 КБ | в этой папке |
-| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf) | PDF | 69 КБ | в этой папке |
+| [iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/260/iz_istorii_nasilstvennogo_vyseleniya_chechencev_i_80_letiyu_deportacii_2024.pdf) | PDF | 72 КБ | в этой папке |
 
 ## Откуда это у нас
 

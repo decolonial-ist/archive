@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf) | PDF | 80 КБ | в этой папке |
+| [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.pdf) | PDF | 85 КБ | в этой папке |
 | [statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt](https://github.com/decolonial-ist/archive/blob/main/245/statya_vladimira_putina_ob_istoricheskom_edinstve_russkih_i_ukraincev_2021.txt) | текст | 71 КБ | в этой папке |
 
 ## Откуда это у нас

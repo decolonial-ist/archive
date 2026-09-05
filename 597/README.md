@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf) | PDF | 194 КБ | в этой папке |
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf) | PDF | 193 КБ | в этой папке |
 | [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt) | текст | 206 КБ | в этой папке |
 
 ## Откуда это у нас

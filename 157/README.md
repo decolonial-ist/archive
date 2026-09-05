@@ -10,10 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [malorusskoe_narechie_1896_web.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_web.pdf) | PDF | 26 КБ | в этой папке |
-| [malorusskoe_narechie_1896_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_web_2.pdf) | PDF | 56 КБ | в этой папке |
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896.txt) | текст | 3 КБ | в этой папке |
-| [malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896_esbe_malorusskoe_narechie_1896_2.txt) | текст | 23 КБ | в этой папке |
+| [malorusskoe_narechie_1896.pdf](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896.pdf) | PDF | 56 КБ | в этой папке |
+| [malorusskoe_narechie_1896.txt](https://github.com/decolonial-ist/archive/blob/main/157/malorusskoe_narechie_1896.txt) | текст | 23 КБ | в этой папке |
 
 ## Откуда это у нас
 

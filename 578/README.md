@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf) | PDF | 28 КБ | в этой папке |
+| [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.pdf) | PDF | 26 КБ | в этой папке |
 | [postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/578/postanovlenie_vucik_o_provedenii_vseobschey_mobilizacii_1919.txt) | текст | 1 КБ | в этой папке |
 
 ## Откуда это у нас

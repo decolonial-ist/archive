@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [naris_ukrainskoi_istoriografii_1923.pdf](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.pdf) | PDF | 73 КБ | в этой папке |
-| [naris_ukrainskoi_istoriografii_1923.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt) | текст | 53 КБ | в этой папке |
+| [naris_ukrainskoi_istoriografii_1923.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/163__naris_ukrainskoi_istoriografii_1923.pdf) | PDF | 186.7 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [naris_ukrainskoi_istoriografii_1923.txt](https://github.com/decolonial-ist/archive/blob/main/163/naris_ukrainskoi_istoriografii_1923.txt) | текст | 547 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -20,6 +20,12 @@
 Права на публикацию: свободно (общественное достояние: издано в 1923 году)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| naris_ukrainskoi_istoriografii_1923.pdf | `4210ee9a69cc737c6187656a0d89f56d7dd961547061be785bf3e8ec721a7562` |
 
 ---
 

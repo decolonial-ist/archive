@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt) | текст | 2 КБ | в этой папке |
-| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf) | PDF | 38 КБ | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.txt) | текст | 18 КБ | в этой папке |
+| [postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf](https://github.com/decolonial-ist/archive/blob/main/401/postanovlenie_snk_soyuza_ssr_s_instrukciey_nkvd_o_1940_g_no_289_127ss_1940.pdf) | PDF | 44 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.txt) | текст | 16 КБ | в этой папке |
-| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf) | PDF | 35 КБ | в этой папке |
+| [dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/559/dekret_vcik_ob_obedinenii_sovetskih_respublik_ross_irovym_imperializmom_1919.pdf) | PDF | 39 КБ | в этой папке |
 
 ## Откуда это у нас
 

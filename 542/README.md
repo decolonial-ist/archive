@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.txt) | текст | 185 КБ | в этой папке |
-| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf) | PDF | 190 КБ | в этой папке |
+| [sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/542/sovershenno_sekretno_lubyanka_stalinu_o_polozhenii_trane_tom_7_1929_god_2004.pdf) | PDF | 188 КБ | в этой папке |
 
 ## Откуда это у нас
 

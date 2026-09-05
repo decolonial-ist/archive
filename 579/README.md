@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf) | PDF | 38 КБ | в этой папке |
+| [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.pdf) | PDF | 37 КБ | в этой папке |
 | [prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt](https://github.com/decolonial-ist/archive/blob/main/579/prikaz_revvoensoveta_respubliki_no_579_o_merah_po_inoy_v_krasnoy_armii_1919.txt) | текст | 14 КБ | в этой папке |
 
 ## Откуда это у нас

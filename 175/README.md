@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf) | PDF | 72 КБ | в этой папке |
+| [akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.pdf) | PDF | 31 КБ | в этой папке |
 | [akt_progoloshennya_nezalezhnosti_ukraini_1991.txt](https://github.com/decolonial-ist/archive/blob/main/175/akt_progoloshennya_nezalezhnosti_ukraini_1991.txt) | текст | 3 КБ | в этой папке |
 
 ## Откуда это у нас

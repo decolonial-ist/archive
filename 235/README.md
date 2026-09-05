@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.txt) | текст | 8 КБ | в этой папке |
-| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf) | PDF | 35 КБ | в этой папке |
+| [direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf](https://github.com/decolonial-ist/archive/blob/main/235/direktiva_ck_vkp_b_i_snk_sssr_no_65_sh_1933.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

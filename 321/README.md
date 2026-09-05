@@ -10,9 +10,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf) | PDF | 33 КБ | в этой папке |
 | [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt) | текст | 3 КБ | в этой папке |
 | [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md) | текст | 3 КБ | в этой папке |
+| [update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf) | PDF | 27 КБ | в этой папке |
 
 ## Откуда это у нас
 

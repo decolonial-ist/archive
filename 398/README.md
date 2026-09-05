@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt) | текст | 8 КБ | в этой папке |
-| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf) | PDF | 37 КБ | в этой папке |
+| [sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf](https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf) | PDF | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

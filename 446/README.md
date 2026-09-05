@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf) | PDF | 51 КБ | в этой папке |
+| [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.pdf) | PDF | 56 КБ | в этой папке |
 | [rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt](https://github.com/decolonial-ist/archive/blob/main/446/rishennya_konstituciynogo_sudu_ukraini_u_spravi_sc_vnoi_movnoi_politiki_2018.txt) | текст | 33 КБ | в этой папке |
 
 ## Откуда это у нас

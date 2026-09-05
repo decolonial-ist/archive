@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt) | текст | 63 КБ | в этой папке |
-| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf) | PDF | 74 КБ | в этой папке |
+| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.txt) | текст | 62 КБ | в этой папке |
+| [kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf](https://github.com/decolonial-ist/archive/blob/main/146/kyuchuk_kaynardzhiyskiy_mirnyy_dogovor_1774.pdf) | PDF | 76 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.txt) | текст | 53 КБ | в этой папке |
-| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf) | PDF | 57 КБ | в этой папке |
+| [dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf](https://github.com/decolonial-ist/archive/blob/main/332/dogovori_i_postanovi_prav_i_svobod_viyskovih_konstituciya_pilipa_orlika_1710.pdf) | PDF | 62 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -1,8 +1,14 @@
 Ukraine informed the International Atomic Energy Agency (IAEA) today that the country’s nuclear power plants were continuing to be operated safely and securely, Director General Rafael Mariano Grossi said, adding that he remained gravely concerned about maintaining their safety and security during the current conflict.
 
-Ukraine’s nuclear power programme – 15 reactors at four sites – usually accounts for roughly half its electricity production.
+Ukraine’s nuclear power programme
 
-On 27 February, Ukraine’s Foreign Ministry informed the IAEA that Russian military forces were advancing close to the largest of the sites – the Zaporizhzhya Nuclear Power Plant (NPP) in eastern Ukraine. Additional information received on 28 February from the operator confirmed that the Russian forces were operational near the site but had not entered it at the time of reporting. In this context, Director General Grossi stressed that any military or other action that could threaten the plant’s safety or security must be avoided.
+– 15 reactors at four sites
+
+– usually accounts for roughly half its electricity production.
+
+On 27 February, Ukraine’s Foreign Ministry informed the IAEA that Russian military forces were advancing close to the largest of the sites
+
+– the Zaporizhzhya Nuclear Power Plant (NPP) in eastern Ukraine. Additional information received on 28 February from the operator confirmed that the Russian forces were operational near the site but had not entered it at the time of reporting. In this context, Director General Grossi stressed that any military or other action that could threaten the plant’s safety or security must be avoided.
 
 The State Nuclear Regulatory Inspectorate of Ukraine (SNRIU) told the IAEA that it was continuing to gather information and in this morning’s update to the IAEA, the SNRIU said there had been no change in the “physical protection regime” of the Zaporizhzhya NPP and that its six units were in safe condition.
 

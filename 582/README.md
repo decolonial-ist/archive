@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf) | PDF | 35 КБ | в этой папке |
+| [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.pdf) | PDF | 34 КБ | в этой папке |
 | [prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt](https://github.com/decolonial-ist/archive/blob/main/582/prikaz_glavnonachalstvuyuschego_ekaterinoslavskoy_may_maevskogo_no_22_1919.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас

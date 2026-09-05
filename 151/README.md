@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [valuevskiy_cirkulyar_1863.txt](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.txt) | текст | 7 КБ | в этой папке |
-| [valuevskiy_cirkulyar_1863.pdf](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.pdf) | PDF | 33 КБ | в этой папке |
+| [valuevskiy_cirkulyar_1863.pdf](https://github.com/decolonial-ist/archive/blob/main/151/valuevskiy_cirkulyar_1863.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

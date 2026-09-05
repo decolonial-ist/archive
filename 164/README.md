@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [patriarshiy_i_sinodalniy_tomos_1924.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.txt) | текст | 26 КБ | в этой папке |
-| [patriarshiy_i_sinodalniy_tomos_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.pdf) | PDF | 157 КБ | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924.txt](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.txt) | текст | 9 КБ | в этой папке |
+| [patriarshiy_i_sinodalniy_tomos_1924.pdf](https://github.com/decolonial-ist/archive/blob/main/164/patriarshiy_i_sinodalniy_tomos_1924.pdf) | PDF | 160 КБ | в этой папке |
 
 ## Откуда это у нас
 

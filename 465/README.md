@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf) | PDF | 31 КБ | в этой папке |
-| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt) | текст | 12 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.pdf) | PDF | 35 КБ | в этой папке |
+| [operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt](https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt) | текст | 11 КБ | в этой папке |
 
 ## Откуда это у нас
 

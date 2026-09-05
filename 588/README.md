@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf) | PDF | 27 КБ | в этой папке |
+| [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.pdf) | PDF | 25 КБ | в этой папке |
 | [soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt](https://github.com/decolonial-ist/archive/blob/main/588/soobschenie_o_vvedenii_denikincami_voennoy_i_guber_a_pechatnye_izdaniya_1919.txt) | текст | 1 КБ | в этой папке |
 
 ## Откуда это у нас

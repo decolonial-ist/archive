@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf) | PDF | 32 КБ | в этой папке |
+| [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.pdf) | PDF | 30 КБ | в этой папке |
 | [rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt](https://github.com/decolonial-ist/archive/blob/main/541/rezolyuciya_kraevogo_komiteta_po_religioznomu_voprosu_1927.txt) | текст | 8 КБ | в этой папке |
 
 ## Откуда это у нас

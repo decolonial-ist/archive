@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 80 КБ | в этой папке |
-| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 65 КБ | в этой папке |
+| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 28 КБ | в этой папке |
+| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас
 

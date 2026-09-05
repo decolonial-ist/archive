@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt](https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt) | текст | 2 КБ | в этой папке |
+| [telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt](https://github.com/decolonial-ist/archive/blob/main/596/telegramma_iz_mogileva_podolskogo_v_byuro_ukrainskoy_pechati_1919.txt) | текст | 1 КБ | в этой папке |
 
 ## Откуда это у нас
 

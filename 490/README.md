@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.txt) | текст | 7 КБ | в этой папке |
-| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf) | PDF | 34 КБ | в этой папке |
+| [rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf](https://github.com/decolonial-ist/archive/blob/main/490/rezolyuciya_i_vseukrainskogo_sezda_sovetov_o_samoopredelenii_ukrainy_1917.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

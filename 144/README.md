@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt) | текст | 3 КБ | в этой папке |
-| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 30 КБ | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [istoriya_stalinskogo_gulaga_2004.txt](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.txt) | текст | 10 КБ | в этой папке |
-| [istoriya_stalinskogo_gulaga_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf) | PDF | 53 КБ | в этой папке |
+| [istoriya_stalinskogo_gulaga_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf) | PDF | 52 КБ | в этой папке |
 | [istoriya_stalinskogo_gulaga_2004.md](https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md) | текст | 12 КБ | в этой папке |
 
 ## Откуда это у нас

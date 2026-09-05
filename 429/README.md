@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoricheskiy_put_u_kievi_1926.pdf](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf) | PDF | 57 КБ | в этой папке |
+| [istoricheskiy_put_u_kievi_1926.pdf](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.pdf) | PDF | 56 КБ | в этой папке |
 | [istoricheskiy_put_u_kievi_1926.txt](https://github.com/decolonial-ist/archive/blob/main/429/istoricheskiy_put_u_kievi_1926.txt) | текст | 34 КБ | в этой папке |
 
 ## Откуда это у нас

@@ -10,9 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web.pdf) | PDF | 37 КБ | в этой папке |
+| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.pdf) | PDF | 36 КБ | в этой папке |
 | [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006.txt) | текст | 8 КБ | в этой папке |
-| [politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/538/politbyuro_i_krestyanstvo_vysylka_specposelenie_1930_1940_gg_kniga_ii_2006_web_2.pdf) | PDF | 32 КБ | в этой папке |
 
 ## Откуда это у нас
 

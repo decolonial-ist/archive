@@ -9,7 +9,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [1858_god_v_chechne_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf) | PDF | 281 КБ | в этой папке |
+| [1858_god_v_chechne_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.pdf) | PDF | 280 КБ | в этой папке |
 | [1858_god_v_chechne_1879.txt](https://github.com/decolonial-ist/archive/blob/main/121/1858_god_v_chechne_1879.txt) | текст | 318 КБ | в этой папке |
 
 ## Откуда это у нас

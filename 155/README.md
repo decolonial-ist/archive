@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [istoriya_rossii_s_drevneyshih_vremen_1879.txt](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.txt) | текст | 334 КБ | в этой папке |
-| [istoriya_rossii_s_drevneyshih_vremen_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.pdf) | PDF | 283 КБ | в этой папке |
+| [istoriya_rossii_s_drevneyshih_vremen_1879.pdf](https://github.com/decolonial-ist/archive/blob/main/155/istoriya_rossii_s_drevneyshih_vremen_1879.pdf) | PDF | 280 КБ | в этой папке |
 
 ## Откуда это у нас
 

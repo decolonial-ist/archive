@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.txt) | текст | 4 КБ | в этой папке |
-| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf) | PDF | 31 КБ | в этой папке |
+| [o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf](https://github.com/decolonial-ist/archive/blob/main/239/o_zanesenii_na_chernuyu_dosku_sel_zlostno_sabotiruyuschih_hlebozagotovki_1932.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

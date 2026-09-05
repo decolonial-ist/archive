@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf) | PDF | 1.0 МБ | в этой папке |
+| [zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf](https://github.com/decolonial-ist/archive/blob/main/432/zapiski_o_poltave_i_ee_pamyatnikah_1902.pdf) | PDF | 1.1 МБ | в этой папке |
 
 ## Откуда это у нас
 

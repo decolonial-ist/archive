@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf) | PDF | 38 КБ | в этой папке |
+| [vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf) | PDF | 43 КБ | в этой папке |
 
 ## Откуда это у нас
 

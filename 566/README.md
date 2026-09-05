@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf) | PDF | 37 КБ | в этой папке |
+| [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.pdf) | PDF | 36 КБ | в этой папке |
 | [soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt](https://github.com/decolonial-ist/archive/blob/main/566/soobschenie_byuro_informacii_pri_sovete_raboche_kr_vata_ego_denikincami_1919.txt) | текст | 10 КБ | в этой папке |
 
 ## Откуда это у нас

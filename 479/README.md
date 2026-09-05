@@ -11,9 +11,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt) | текст | 115 КБ | в этой папке |
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf) | PDF | 119 КБ | в этой папке |
-| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt) | текст | 163 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt) | текст | 114 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022.pdf) | PDF | 405 КБ | в этой папке |
+| [o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt](https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik9_2023_ankety.txt) | текст | 162 КБ | в этой папке |
 
 ## Откуда это у нас
 

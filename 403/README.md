@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.txt) | текст | 18 КБ | в этой папке |
-| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf) | PDF | 42 КБ | в этой папке |
+| [postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf](https://github.com/decolonial-ist/archive/blob/main/403/postanovlenie_prezidiuma_ck_kpss_o_politicheskom_i_astey_ukrainskoy_ssr_1953.pdf) | PDF | 40 КБ | в этой папке |
 
 ## Откуда это у нас
 

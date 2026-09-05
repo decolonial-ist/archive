@@ -9,7 +9,6 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871_layer.txt) | текст | 182 КБ | в этой папке |
 | [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.txt](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.txt) | текст | 182 КБ | в этой папке |
 | [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf) | PDF | 191 КБ | в этой папке |
 | [istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.fb2](https://github.com/decolonial-ist/archive/blob/main/114/istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.fb2) | книга FB2 | 1.3 МБ | в этой папке |
@@ -26,7 +25,6 @@
 
 | файл | sha256 |
 |---|---|
-| istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.pdf | `3e6e915179e074e33376b3ca6ec87108fb1164ad723dbe55ca33c2daa630a060` |
 | istoriya_voyny_i_vladychestva_russkih_na_kavkaze_tom_5_1871.fb2 | `ea8583f8bb1aca4474b86f3896c6886acfec80c74b36d7420cd1b9ec7dd41e73` |
 
 ---

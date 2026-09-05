@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
+| [postanovlenie_gkchp_o_vypuske_gazet_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf) | PDF | 24 КБ | в этой папке |
 | [postanovlenie_gkchp_o_vypuske_gazet_1991.txt](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.txt) | текст | 2 КБ | в этой папке |
-| [postanovlenie_gkchp_o_vypuske_gazet_1991.pdf](https://github.com/decolonial-ist/archive/blob/main/179/postanovlenie_gkchp_o_vypuske_gazet_1991.pdf) | PDF | 57 КБ | в этой папке |
 
 ## Откуда это у нас
 

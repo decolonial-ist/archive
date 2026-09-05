@@ -10,7 +10,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt) | текст | 5 КБ | в этой папке |
-| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf) | PDF | 25 КБ | в этой папке |
+| [2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf) | PDF | 29 КБ | в этой папке |
 
 ## Откуда это у нас
 

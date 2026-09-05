@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [ukrainskiy_nacionalniy_front_unf_2006.txt](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.txt) | текст | 7 КБ | в этой папке |
-| [ukrainskiy_nacionalniy_front_unf_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.pdf) | PDF | 28 КБ | в этой папке |
+| [ukrainskiy_nacionalniy_front_unf_2006.pdf](https://github.com/decolonial-ist/archive/blob/main/190/ukrainskiy_nacionalniy_front_unf_2006.pdf) | PDF | 32 КБ | в этой папке |
 
 ## Откуда это у нас
 

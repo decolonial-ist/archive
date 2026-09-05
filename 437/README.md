@@ -12,7 +12,7 @@
 |---|---|---|---|
 | [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/437__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830.pdf) | PDF | 75.2 МБ | актив релиза (файл тяжелее 10 МБ) |
 | [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_text_str509_1025.txt) | текст | 12 КБ | в этой папке |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt) | текст | 9.5 МБ | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt](https://github.com/decolonial-ist/archive/blob/main/437/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_tom_xxviii_1804_1805_1830_psz_t28_layout.txt) | текст | 9.4 МБ | в этой папке |
 
 ## Откуда это у нас
 

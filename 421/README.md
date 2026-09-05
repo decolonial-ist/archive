@@ -11,10 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web.pdf](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web.pdf) | PDF | 33 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_web_2.pdf) | PDF | 34 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_document.txt) | текст | 9 КБ | в этой папке |
-| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938_opisanie.txt) | текст | 3 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.pdf) | PDF | 33 КБ | в этой папке |
+| [o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.txt](https://github.com/decolonial-ist/archive/blob/main/421/o_likvidacii_nacionalnyh_shkol_i_nacionalnyh_otdeleniy_v_shkolah_1938.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 

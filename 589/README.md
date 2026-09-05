@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919_ocr.txt) | текст | 12 КБ | в этой папке |
+| [soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919.txt](https://github.com/decolonial-ist/archive/blob/main/589/soobschenie_o_polozhenii_v_kieve_pri_denikinskoy_vlasti_1919.txt) | текст | 11 КБ | в этой папке |
 
 ## Откуда это у нас
 

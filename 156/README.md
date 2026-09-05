@@ -9,7 +9,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [mazepinci_1885.pdf](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.pdf) | PDF | 232 КБ | в этой папке |
+| [mazepinci_1885.pdf](https://github.com/decolonial-ist/archive/blob/main/156/mazepinci_1885.pdf) | PDF | 240 КБ | в этой папке |
 
 ## Откуда это у нас
 

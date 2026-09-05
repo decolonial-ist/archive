@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [ukaz_petra_i_o_knigopechatanii_1720.txt](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.txt) | текст | 4 КБ | в этой папке |
-| [ukaz_petra_i_o_knigopechatanii_1720.pdf](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf) | PDF | 28 КБ | в этой папке |
+| [ukaz_petra_i_o_knigopechatanii_1720.pdf](https://github.com/decolonial-ist/archive/blob/main/143/ukaz_petra_i_o_knigopechatanii_1720.pdf) | PDF | 27 КБ | в этой папке |
 
 ## Откуда это у нас
 

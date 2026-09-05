@@ -10,7 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf) | PDF | 31 КБ | в этой папке |
+| [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.pdf) | PDF | 30 КБ | в этой папке |
 | [ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt](https://github.com/decolonial-ist/archive/blob/main/145/ukaz_ob_uchrezhdenii_malorossiyskoy_kollegii_1764.txt) | текст | 6 КБ | в этой папке |
 
 ## Откуда это у нас

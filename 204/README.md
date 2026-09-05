@@ -10,8 +10,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf) | PDF | 75 КБ | в этой папке |
-| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt) | текст | 5 КБ | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.pdf) | PDF | 26 КБ | в этой папке |
+| [federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt](https://github.com/decolonial-ist/archive/blob/main/204/federalnyy_zakon_no_36_fz_o_ratifikacii_dogovora_s_respublikoy_krym_2014.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 

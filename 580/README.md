@@ -11,7 +11,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf) | PDF | 31 КБ | в этой папке |
+| [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.pdf) | PDF | 30 КБ | в этой папке |
 | [prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt](https://github.com/decolonial-ist/archive/blob/main/580/prikaz_armiyam_ukrainskogo_fronta_no_68_o_likvidacii_avantyury_grigoreva_1919.txt) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас

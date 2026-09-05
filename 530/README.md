@@ -10,9 +10,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.txt) | текст | 34 КБ | в этой папке |
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web.pdf](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web.pdf) | PDF | 54 КБ | в этой папке |
-| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web_2.pdf](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026_web_2.pdf) | PDF | 42 КБ | в этой папке |
+| [un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf](https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf) | PDF | 44 КБ | в этой папке |
 
 ## Откуда это у нас
 

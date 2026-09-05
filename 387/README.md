@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.txt) | текст | 123 КБ | в этой папке |
-| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf) | PDF | 88 КБ | в этой папке |
+| [pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf](https://github.com/decolonial-ist/archive/blob/main/387/pro_zatverdzhennya_spisku_pam_yatok_mistectva_isto_logii_ukrainskoi_rsr_1965.pdf) | PDF | 99 КБ | в этой папке |
 
 ## Откуда это у нас
 

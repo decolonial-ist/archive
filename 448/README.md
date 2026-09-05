@@ -11,7 +11,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/448__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.pdf) | PDF | 62.2 МБ | актив релиза (файл тяжелее 10 МБ) |
-| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt](https://github.com/decolonial-ist/archive/blob/main/448/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt) | текст | 5.4 МБ | в этой папке |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt](https://github.com/decolonial-ist/archive/blob/main/448/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_ervoe_tom_xxxiv_1817_1830.txt) | текст | 5.3 МБ | в этой папке |
 
 ## Откуда это у нас
 
