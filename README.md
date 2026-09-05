@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **213**, файлов: **636**, объём: **3.11 ГиБ**. Из 620 материалов базы распространять разрешено 340, из них 69 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
+Выложено материалов: **213**, файлов: **636**, объём: **3.11 ГиБ**. Из 621 материалов базы распространять разрешено 341, из них 70 - только текстом документа, без издания целиком; 278 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -272,7 +272,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 405
+## Свободные, но файла у нас нет - 406
 
 Распространять можно, а файла нет.
 
@@ -503,6 +503,7 @@
 | Лубянка. Органы ВЧК-ОГПУ-НКВД-НКГБ-МГБ-МВД-КГБ. 1917-1991 | 2003 | Несколько | `docs.historyrussia[.]org/ru/nodes/362731-lubyanka-organy-vchk-ogpu-nkvd-nkgb-mgb-mvd-kgb-1917-1991` |
 | Львів, якого не повернеш. Пам'ятник Сталінській Конституції | 2015 | Украина | [https://photo-lviv.in.ua/lviv-yakoho-ne-povernesh-pam-yatnyk-stalinskij-konstytutsiji/](https://photo-lviv.in.ua/lviv-yakoho-ne-povernesh-pam-yatnyk-stalinskij-konstytutsiji/) |
 | Мазепа | 2007 | Украина | [https://books.google.com/books?id=Vp8jAQAAIAAJ](https://books.google.com/books?id=Vp8jAQAAIAAJ) |
+| Манифест к украинскому народу с ультимативными требованиями к Украинской Раде | 1917 | ukraina | [https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде](https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде) |
 | Масове поховання під Ізюмом: неідентифікованими залишаються 122 тіла (Укрінформ) | 2023 | Украина | [https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html](https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html) |
 | Массовые беспорядки в СССР при Хрущеве и Брежневе | 2009 | Несколько | `nkvd.tomsk[.]ru/content/editor/Monografii%20/Kozlov-V-A-Massovye-bksporyadke-pri-Hrucshove.pdf` |
 | Материалы для истории покорения Восточного Кавказа (Кавказский сборник т.32) | 1912 | Несколько | `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Mat_ist_pok_vost_kavk/pred.htm` |
