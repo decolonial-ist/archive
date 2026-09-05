@@ -11029,13 +11029,21 @@
    "year": "1917",
    "author": "Ленин В. И.",
    "people": "ukraina",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1917 года свободен, но напечатан в издании 1974 года — выкладываем только текст документа, не издание",
-   "why_not": "файла на диске нет",
    "card": "https://archive.decolonial.ist/621",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/621",
    "source": "https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде",
-   "files": [],
+   "files": [
+    {
+     "name": "manifest_k_ukrainskomu_narodu_s_ultimativnymi_treb_mi_k_ukrainskoy_rade_1917.txt",
+     "bytes": 7477,
+     "sha256": "36142b0620a4b908c21e09ffcd8f2705951d519856727434c2c40fd06e2cc899",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/621/manifest_k_ukrainskomu_narodu_s_ultimativnymi_treb_mi_k_ukrainskoy_rade_1917.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   }
  ]
