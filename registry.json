@@ -4754,6 +4754,82 @@
    "telegram": {}
   },
   {
+   "id": 262,
+   "title": "О снятии ограничений по спецпоселению с чеченцев, ингушей, карачаевцев и членов их семей",
+   "year": "1956",
+   "author": "Президиум Верховного Совета СССР",
+   "people": "Несколько",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/262",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/262",
+   "source": "https://ru.wikisource.org/wiki/Указ_Президиума_ВС_СССР_от_16.07.1956",
+   "files": [
+    {
+     "name": "o_snyatii_ogranicheniy_po_specposeleniyu_s_chechen_v_i_chlenov_ih_semey_1956.txt",
+     "bytes": 1367,
+     "sha256": "b0815796c2566896f30e7b19ed20283f447a95b57b06731cc3140b3644aac3cf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/262/o_snyatii_ogranicheniy_po_specposeleniyu_s_chechen_v_i_chlenov_ih_semey_1956.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 263,
+   "title": "О восстановлении Чечено-Ингушской АССР в составе РСФСР",
+   "year": "1957",
+   "author": "Президиум Верховного Совета СССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/263",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/263",
+   "source": "https://ru.wikisource.org/wiki/Указ_Президиума_ВС_СССР_от_09.01.1957",
+   "files": [
+    {
+     "name": "o_vosstanovlenii_checheno_ingushskoy_assr_v_sostave_rsfsr_1957.txt",
+     "bytes": 1848,
+     "sha256": "ae3459661a24afccbfa4a039f45a0e65e3b0f70bae1afc742a07dd750f868be6",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/263/o_vosstanovlenii_checheno_ingushskoy_assr_v_sostave_rsfsr_1957.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 265,
+   "title": "Этнополитические процессы в Чечено-Ингушской АССР в 1957-1990 гг.",
+   "year": "2005",
+   "author": "Кузнецова А. Б.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2005 года под авторским правом",
+   "why_not": "права: современная публикация 2005 года под авторским правом",
+   "card": "https://archive.decolonial.ist/265",
+   "source": "http://annyku.narod.ru/disser.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 267,
+   "title": "Массовые беспорядки в СССР при Хрущеве и Брежневе",
+   "year": "2009",
+   "author": "Козлов В. А.",
+   "people": "Несколько",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2009 года под авторским правом",
+   "why_not": "права: современная публикация 2009 года под авторским правом",
+   "card": "https://archive.decolonial.ist/267",
+   "source": "https://nkvd.tomsk.ru/content/editor/Monografii%20/Kozlov-V-A-Massovye-bksporyadke-pri-Hrucshove.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 271,
    "title": "Постановление ГКО СССР № 5073сс",
    "year": "1944",
@@ -10681,6 +10757,51 @@
      "where": "repo"
     }
    ],
+   "telegram": {}
+  },
+  {
+   "id": 606,
+   "title": "Постановление Совета Министров СССР № 1439-649с «О снятии некоторых ограничений в правовом положении спецпоселенцев»",
+   "year": "1954",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/606",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/606",
+   "source": "https://istmat.org/node/57859",
+   "files": [
+    {
+     "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.html",
+     "bytes": 30828,
+     "sha256": "00dc3b07de88e161b570ced66c9046ea050e1e6b7f4fdfd8f06e9ec523f2a714",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.html",
+     "where": "repo"
+    },
+    {
+     "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt",
+     "bytes": 10111,
+     "sha256": "f718c18f8942917f4be7128d83d5da9c235338652b16ef111565c89c9fea2898",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 620,
+   "title": "По решению Правительства Союза ССР",
+   "year": "2003",
+   "author": "Бугай Н. Ф., Гонов А. М.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "сборник документов 1940-х годов под авторским правом составителей (Нальчик, 2003): выкладываем только тексты актов, том целиком — нет",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/620",
+   "source": "https://archive.org/details/po_resheniyu_pravitelstva_soyuza_ssr",
+   "files": [],
    "telegram": {}
   }
  ]
