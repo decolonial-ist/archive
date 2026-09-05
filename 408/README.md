@@ -1,0 +1,19 @@
+# Інститут генерал-губернаторства у Правобережній Україні
+
+**Автор:** Грукач В. О.
+**Год публикации:** 2015
+**Где напечатано:** дисертація кандидат юридический наук; Переяслав-Хмельницький ДПУ імені Г. Сковороди
+
+Страница витрины: https://archive.decolonial.ist/408
+
+## Файлы не выкладываем
+
+## Откуда это у нас
+
+Первоисточник: [https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf](https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf)
+
+Права на публикацию: нельзя (современная публикация 2015 года под авторским правом)
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

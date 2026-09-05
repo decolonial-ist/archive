@@ -1,0 +1,1707 @@
+A/HRC/40/CRP.3
+                                                          21 March 2019
+
+                                                          English only
+
+Human Rights Council
+Fourtieth session
+25 February–22 March 2019
+Agenda item 10
+Technical assistance and capacity-building
+
+             Report on the human rights situation in Ukraine 16
+             November 2018 to 15 February 2019
+
+GE.19-04753(E)
+
+
+A/HRC/40/CRP.3
+
+Contents
+                                                                                                                                                            Page
+    I.      Executive summary ................................................................................................................................ 4
+    II.     OHCHR methodology............................................................................................................................ 6
+    III.    Impact of hostilities ................................................................................................................................ 7
+             A. Conduct of hostilities and civilian casualties ................................................................................ 7
+             B. Civilian casualties in 2018 ............................................................................................................ 8
+             C. Civilian casualties during the entire conflict period ...................................................................... 9
+             D. Economic and social rights of conflict-affected persons ............................................................. 10
+    IV.     Right to physical integrity .................................................................................................................... 14
+             A. Access to detainees and places of detention ................................................................................ 14
+             B. Arbitrary detention, enforced disappearance and abduction, torture and ill-treatment ............... 14
+             C. Situation of pre-conflict prisoners ............................................................................................... 16
+    V.       Accountability and administration of justice....................................................................................... 18
+              A. Administration of justice ............................................................................................................. 18
+              B. Accountability for human rights violations in eastern Ukraine ................................................... 20
+              C. Accountability for cases of violence related to riots and public disturbances ............................. 20
+    VI.     Democratic/civic space and fundamental freedoms ............................................................................. 21
+             A. Freedom of opinion and expression and freedom of the media................................................... 22
+             B. Freedom of peaceful assembly and association........................................................................... 22
+             C. Freedom of religion or belief ...................................................................................................... 23
+             D. Discrimination, hate speech, racially-motivated violence and manifestations of intolerance ..... 24
+    VII.    Human rights in the Autonomous Republic of Crimea and the city of Sevastopol, Ukraine,
+            temporarily occupied by the Russian Federation ................................................................................. 24
+              A. International Humanitarian Law violations ................................................................................. 25
+              B. Administration of justice, intimidation and harassment of human rights defenders ................... 25
+              C. Freedoms of religion, opinion and expression ............................................................................ 26
+              D. Illegal population transfers and freedom of movement ............................................................... 27
+              E. Forced conscription ..................................................................................................................... 28
+    VIII. Technical cooperation and capacity-building....................................................................................... 29
+    IX.     Conclusions and recommendations ...................................................................................................... 29
+
+2
+A/HRC/40/CRP.3
+
+             3
+A/HRC/40/CRP.3
+
+      I. Executive summary
+           1.     This twenty-fifth report on the situation of human rights in Ukraine by the Office of
+           the United Nations High Commissioner for Human Rights (OHCHR) is based on the work
+           of the United Nations Human Rights Monitoring Mission in Ukraine (HRMMU), 1 and
+           covers the period from 16 November 2018 to 15 February 2019.
+           2.     OHCHR documented 315 human rights violations during the reporting period,
+           which affected 202 victims.2 This represents an increase of documented violations
+           compared with those documented during the previous reporting period of 16 August to 15
+           November 2018.3 Of the violations documented in this report, 221 violations occurred
+           during the reporting period.
+           3.     Of the violations documented by OHCHR, the Government of Ukraine was
+           responsible for 126 violations, the self-proclaimed ‘Donetsk people’s republic’ and self-
+           proclaimed ‘Luhansk people’s republic’4 for 154, and the Government of the Russian
+           Federation (as the occupying Power in the Autonomous Republic of Crimea and the city of
+           Sevastopol, Ukraine, temporarily occupied by the Russian Federation5) for 35.
+           4.      Throughout the reporting period, OHCHR operations in territory controlled by
+           ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’ continued to be restricted.
+           Ongoing discussions through regular meetings with representatives of both ‘Donetsk
+           people’s republic’ and ‘Luhansk people’s republic’ have yet to secure the full resumption of
+           OHCHR operations in the territory they control, as well as unimpeded confidential access
+           to detainees in this territory.
+           5.      The armed conflict in eastern Ukraine continued with ongoing hostilities in a
+           number of hotspots along the contact line. Overall, OHCHR noted a trend of decreasing
+           conflict-related civilian casualties, which in 2018 were 53 per cent lower than in 2017, and
+           were at their lowest for the entire conflict period. 6 The total civilian death toll of the
+           conflict reached at least 3,321 as of 15 February 2019. More than 80 per cent of these
+           occurred before mid-February 2015, reflective of the long-term positive impact of the
+           Package of Measures to implement the Minsk Agreements on the decline of hostilities and
+           civilian casualties since the adoption of the latter and United Nations Security Council
+           Resolution 2202 in February 2015.7
+           6.     During the reporting period, OHCHR documented 16 conflict-related civilian
+           casualties: two people were killed and 14 injured, which represents a 68 per cent decrease
+           compared with the previous reporting period from 16 August to 15 November 2018.
+           Shelling and small arms and light weapons (SALW) fire injured ten civilians – one of the
+           lowest figures for the entire conflict period. Of these, nine were recorded in territory
+           controlled by armed groups8 and are attributable to the Government, and one was recorded
+
+          1 HRMMU was deployed on 14 March 2014 to monitor and report on the human rights situation
+
+            throughout Ukraine, and to propose recommendations to the Government and other actors to address
+            human rights concerns. For more details, see paras. 7-8 of the report of the United Nations High
+            Commissioner for Human Rights on the situation of human rights in Ukraine of 19 September 2014
+            (A/HRC/27/75).
+          2 Between 16 August and 15 November 2018, OHCHR documented 242 human rights violations. Of
+
+            those, 207 human rights violations occurred in the course of that reporting period. These numbers
+            include civilian casualties caused by the armed conflict.
+          3 The increase of violations documented is not representative of a deterioration of the overall human
+
+             rights situation; it is in part due to a high number of victims of human rights violations OHCHR was
+            able to interview only after their transfer to government-controlled territory in December 2018 and
+            February 2019.
+          4 Hereinafter ‘Donetsk people’s republic’ and ‘Luhansk people’s republic.’
+          5 Hereinafter Crimea.
+          6 279 conflict-related civilian casualties (55 killed and 224 injured) in 2018 versus 604 (117 killed and
+
+            487 inured) in 2017.
+          7 See United Nations Security Council resolution 2202/2015.
+          8 Eight - in territory controlled by ‘Donetsk people’s republic’ and one - in territory controlled by
+
+            ‘Luhansk people’s republic’.
+
+4
+                                                                                                       A/HRC/40/CRP.3
+
+     in government-controlled territory and is attributable to armed groups of ‘Donetsk people’s
+     republic’. During the reporting period, OHCHR did not record any mine-related civilian
+     casualties.
+     7.      More than five million people,9 including over 1.3 million registered internally
+     displaced persons (IDPs)10 and persons living in isolated communities along the contact line
+     in eastern Ukraine continue to bear the brunt of the armed conflict and its consequences.
+     The hardship they endure is exacerbated by the lack of access to basic services, social
+     support, as well as remedies and reparations for injured persons and relatives of those killed
+     and for destroyed property. A dozen civilians died in the first few weeks of 2019, mainly
+     due to serious health complications, while crossing the contact line. During the winter
+     months, the lack of adequate heating remained one of the main challenges for civilians,
+     especially those living along the contact line. Despite consistent court decisions in favour of
+     individuals who lost access to their pensions, the Government has failed to implement the
+     judgments and continues to link access to pensions to IDP registration. Further, OHCHR
+     noted the continued need for broader protection of conflict-affected civilians, including
+     IDPs, regardless of where they reside in Ukraine, and realization of their economic and
+     social rights to pave the way for restoring peace and stability in eastern Ukraine.
+     8.     In government-controlled territory, OHCHR had access to official places of
+     detention and conducted confidential interviews with detainees in accordance with
+     international standards. In territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk
+     people’s republic’, OHCHR continues to call for confidential access to detainees to be
+     granted to OHCHR and international observers.
+     9.     OHCHR welcomes the transfers of 88 pre-conflict prisoners from territory
+     controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’ to government-
+     controlled territory that took place in December 2018 and February 2019. Of them, seventy-
+     five were transferred from territory controlled by ‘Luhansk people’s republic’ for the first
+     time since the outbreak of the conflict.
+     10.    OHCHR is concerned about the practice of arbitrary arrest, incommunicado
+     detention, torture and ill-treatment of civilians in government-controlled territory. During
+     the reporting period, OHCHR documented two cases of arbitrary detention of civilians
+     allegedly by officers of the Security Service of Ukraine (SBU). Individuals in territory
+     controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’ continued to be
+     subjected to ‘administrative’ arrest and ‘preventive’ arrest, respectively, which may
+     constitute enforced disappearance.
+     11.    In conflict-related cases, due process and fair trial violations persist as a result of the
+     pervasive practice of prolonged pre-trial detention, and the use of force and coercion to
+     obtain confessions or to accept plea bargains. Interference into the work of courts in
+     conflict-related and other high-profile trials continued during the reporting period. Five
+     years after violent clashes between law-enforcement and Maidan protestors, the killings of
+     protestors and law-enforcement officers remain largely unaddressed by the Government.
+     Delays in the investigation and trial proceedings related to the 2 May 2014 violence in
+     Odesa continue.
+     12.    Safeguarding civic space and protecting people’s rights to freedom of opinion and
+     expression, media and peaceful assembly and association is key in ensuring that the
+     upcoming presidential and parliamentary elections in Ukraine are peaceful and inclusive.
+     OHCHR documented 16 violations of the afore-mentioned freedoms, as well as the right to
+     non-discrimination, a decrease in keeping with the seasonal lull occurring every New Year
+
+ 9   See Multi-Year Humanitarian Response Plan (HRP) 2019-2020 available from
+     https://www.humanitarianresponse.info/en/operations/ukraine/document/ukraine-2019-humanitarian-
+     response-plan-hrp.
+10   According to Ukraine’s Ministry of Social Policy, as of 5 February 2019 there were 1,361,912
+     internally displaced persons registered in Ukraine since the beginning of the armed conflict in 2014.
+
+                                                                                                                    5
+A/HRC/40/CRP.3
+
+             period.11 OHCHR remains concerned about the failure of the Government to bring
+             perpetrators of attacks against media professionals, political and civil society activists to
+             account. Space for freedom of expression and freedom of the media remains highly
+             restricted in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s
+             republic.’
+             13.    During the reporting period, OHCHR followed closely the developments around the
+             granting of autocephaly to the newly established Orthodox Church in Ukraine and the
+             introduction of a 30-day martial law in some regions of Ukraine on 26 November 2018,
+             following the naval incident near the Kerch Strait.
+             14.     The Russian Federation, the occupying power in Crimea, has still not granted
+             OHCHR access to the peninsula in line with UN General Assembly resolution on the
+             territorial integrity of Ukraine 68/262 and resolutions 71/205, 72/190 and 73/263. OHCHR
+             monitors the human rights situation on the peninsula from mainland Ukraine. The Russian
+             Federation continues to apply its laws, in violation of international humanitarian law
+             applicable to an occupying power, resulting in grave human rights violations,
+             disproportionately affecting Crimean Tatars. OHCHR also notes that Ukrainian crew
+             members apprehended by Russian authorities in the Kerch Strait on 25 November 2018
+             could be considered as prisoners of war and protected under the Third Geneva Convention.
+
+     II. OHCHR methodology
+             15.     This report is based on 152 in-depth interviews with victims and witnesses. Findings
+             are included in the report where the “reasonable grounds” standard of proof is met. The
+             standard is met when a sufficient and reliable body of information from primary sources
+             collected through interviews (with victims, witnesses, relatives of victims and lawyers), site
+             visits, meetings with Government representatives, civil society and other interlocutors, and
+             trial monitoring is consistent with information from secondary sources assessed as credible
+             and reliable, such as reviews of court documents, officials records, open-source material,
+             and other relevant materials. OHCHR applies the same due diligence and standard of proof
+             when documenting conflict-related civilian casualties.12 Consent is sought from sources on
+             the use of information, ensuring confidentiality as appropriate. Specific attention was paid
+             to the protection of victims and witnesses, assessing the risk of reprisals.
+             16.    During the reporting period, OHCHR continued to be present, albeit with limited
+             operations, in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s
+             republic’, and was able to obtain and verify information through various means.
+             17.   While OHCHR cannot provide an exhaustive account of all human rights violations
+             committed throughout Ukraine, it is able to document patterns of human rights violations
+             and abuses based on individual cases.
+
+        11   During the last reporting period between 16 August and 15 November 2018, OHCHR documented 59
+             violations of the fundamental freedoms of opinion and expression, peaceful assembly and association,
+             religion or belief, as well as the right to non-discrimination and equal protection under the law.
+        12   OHCHR documents civilian casualties by consulting a broad range of sources and types of
+             information that are evaluated based on credibility and reliability. In analyzing each incident,
+             OHCHR exercises due diligence to corroborate information from as wide a range of sources as
+             possible, including OSCE public reports, victim and witness accounts, military actors, community
+             leaders, medical professionals and other interlocutors. In some instances, documentation may take
+             weeks or months before conclusions can be drawn, meaning that numbers on civilian casualties may
+             be revised as more information becomes available. OHCHR attributes a civilian casualty to a
+             particular party based on the geographic location where it occurred, the direction of fire, and the
+             overall context surrounding the incident.
+
+6
+                                                                                                           A/HRC/40/CRP.3
+
+III. Impact of hostilities
+
+             I have already forgotten when I slept in a night robe. We go to bed in sports pants and
+                     sports jumpers so we don’t have to run naked when the shelling starts.
+                         We go to sleep and wonder if we are going to wake up or not.
+                               I wish I could have a good night rest at least once.
+                          - Resident in Kamianka, a village near the contact line.
+
+           18.    During the reporting period, hostilities continued to affect the civilian population in
+           the conflict zone of eastern Ukraine. Against the backdrop of a decreasing number of
+           ceasefire violations as reported by the OSCE Special Monitoring Mission to
+           Ukraine,13 exchanges of fire across the contact line continued to impact residential areas
+           and result in civilian casualties and damage to civilian property and infrastructure,
+           including water facilities and electricity lines. Deteriorating factor was the continued
+           placing of military positions in immediate proximity to residential areas and decreasing
+           distances between the positions of Ukrainian forces and armed groups.
+
+ A.        Conduct of hostilities and civilian casualties
+
+           19.    Between 16 November 2018 and 15 February 2019, OHCHR recorded 16 conflict-
+           related civilian casualties: two killed14 and 14 injured,15 a 68 per cent decrease compared
+           with the previous reporting period of 16 August to 15 November 2018 when 50 civilian
+           casualties (14 killed and 36 injured) were recorded. The number of locations where civilian
+           casualties were recorded decreased from 25 to 11. The reporting period was also marked by
+           the lowest number of civilian casualties compared with same calendar periods (mid-
+           November to mid-February) from 2014 to 2018.
+
+           20. During the same period, shelling and SALW16 fire injured ten civilians (eight men and
+
+      13   72,805 ceasefire violations from 16 November 2018 to 15 February 2019 versus 90,771 ceasefire
+           violations from 16 August to 15 November 2018.
+      14   A man and a woman.
+      15   11 men and three women.
+      16   Small arms and light weapons.
+
+                                                                                                                        7
+A/HRC/40/CRP.3
+
+             two women) and killed none. This is a 44.4 per cent decrease with the previous reporting
+             period (six killed and 12 injured), and one of the lowest figures for the entire conflict
+             period. Of the ten civilian injuries caused by shelling and SALW fire, eight were recorded
+             in territory controlled by ‘Donetsk people’s republic’ and one was recorded in territory
+             controlled by ‘Luhansk people’s republic’ and are attributable to the Government, and one
+             was recorded in government-controlled territory and is attributable to armed groups of
+             ‘Donetsk people’s republic’.
+             21.   For instance, on 5 December 2018, a woman was injured by fire from an automated
+             grenade launcher in the armed group-controlled village of Zaitseve (Donetsk region). On 10
+             January 2019, three male workers of the Voda Donbasa water station received injuries
+             when a vehicle, which they drove to the Vasylivka water pumping station near the armed-
+             group controlled Kruta Balka (Donetsk region) was hit by a rocket or a shell.17 On 16
+             December 2018, a man was injured in the government-controlled village of Chermalyk
+             (Donetsk region). On 23 January 2019, the same man’s house came under heavy
+             machinegun fire. The house is reportedly located near positions of the Ukrainian forces. 18
+             22.    During the reporting period, OHCHR did not record any civilian casualties resulting
+             from mine-related incidents. However, there were six casualties (two killed and four
+             injured) resulting from the handling of explosive remnants of war (ERW), mostly hand
+             grenades.
+
+      B.     Civilian casualties in 2018
+
+             22.     From 1 January to 31 December 2018, OHCHR recorded 279 conflict-related
+             civilian casualties: 55 killed (32 men,
+             15 women, six boys and two girls)             Conflict-related civilian casualties in 2018,
+             and 224 injured (122 men, 70                           per type of weapon/incident
+             women, 16 boys, seven girls and nine
+                                                                           Killed Injured Total Percent
+             adults, whose gender is yet
+             unknown). This is a 53.8 per cent       Shelling/SALW fire        21     135     156      55.9
+             decrease compared with 2017, when       MRI/ERW    handling       34      85     119      42.7
+             604 civilian casualties (117 killed     Drone attacks                      2        2       0.7
+             and 487 injured) were recorded, and     Road incidents                     2        2       0.7
+             the lowest annual civilian casualty
+                                                     Total                     55     224     279     100.0
+             numbers during the entire conflict
+             period.
+
+        17   OHCHR civilian casualty records.
+        18   HRMMU interviews, 28 December 2018 and 28 January 2019.
+
+8
+                                                                                                          A/HRC/40/CRP.3
+
+      23.    From 1 January to 31 December 2018, shelling and SALW fire caused 156 civilian
+      casualties (21 killed and 135 injured), a 54.7 per cent decrease compared with 2017 when
+      344 civilian casualties (49 killed and 295 injured) caused by shelling and SALW fire were
+      recorded.
+      24.     Of the 156 civilian
+      casualties    caused     by
+      shelling and SALW fire in
+      2018: 121 (77.6 per cent)
+      were recorded in territory
+      controlled     by    armed
+      groups        and       are
+      attributable     to     the
+      Government, 28 (17.9 per
+      cent) - in government-
+      controlled territory and
+      are attributable to arme
+      groups, and 7 (4.5
+      percent) - in ‘no man’s
+      land’.19
+      25.     From 1 January to 31 December 2018, OHCHR recorded 119 civilian casualties (34
+      killed and 85 injured) resulting from mine-related incidents20 (MRI) and ERW handling. 21
+      This is a 50 per cent decrease compared with 2017 when 238 civilian casualties (64 killed
+      and 174 injured), resulting from mine-related incidents and ERW handling, were recorded.
+
+C.    Civilian casualties during the entire conflict period22
+      26.     During the entire conflict period, from 14 April 2014 to 15 February 2019, OHCHR
+      recorded 3,023 civilian deaths (1,794 men, 1,046 women, 97 boys, 49 girls and 37 adults
+      whose gender is unknown). With the 298 deaths on board of Malaysian Airlines MH17
+      flight on 17 July 2014, the total death toll of the conflict on civilians has been at least 3,321.
+      The number of injured civilians is estimated to exceed 7,000.
+
+ 19
+      To compare: of the 344 civilian casualties caused by shelling and SALW fire in 2017: 230 (66.9 per
+      cent) were recorded in territory controlled by armed groups, 113 (32.8 per cent) in government-
+      controlled territory, and 1 (0.3 per cent) in ‘no man’s land’.
+ 20   Incidents, in which civilians were killed or injured by mines (antipersonnel or anti-vehicle) or
+      explosive devices triggered in the same way, such as booby traps, or by ERW (explosive remnants of
+      war) that are inadvertently detonated by unsuspecting civilians.
+ 21   Victims of ERW handling manipulated an ERW for a certain period of time and took actions to cause
+      its detonation (for instance, by trying to dismantle it), or were near those, who manipulated an ERW.
+ 22   Though civilians have been the major focus of OHCHR casualty recording in Ukraine, OHCHR also
+      collects reports/data on casualties among combatants to prevent inclusion of combatants into civilian
+      casualty statistics, and to estimate the total death toll of the conflict. OHCHR estimates the total
+      number of conflict-related casualties in Ukraine (from 14 April 2014 to 15 February 2019) at 40,000–
+      43,000: 12,800–13,000 killed (at least 3,321 civilians and est. 9,500 combatants), and 27,500–30,000
+      injured (est. 7,000–9,000 civilians and est. 21,000-24,000 combatants). Previous conservative
+      OHCHR estimate of total conflict-related casualties was as of 15 November 2017: at least 10,303
+      killed, including 2,821 civilians and 7,482 combatants, and at least 24,778 injured, including 7,000 to
+      9,000 civilians (OHCHR report on the human rights situation in Ukraine covering the period from 16
+      August to 15 November 2017, paragraphs 29-30). Between 16 November 2017 and 15 February
+      2019, OHCHR recorded 63 civilian deaths which occurred during that period, and recorded/processed
+      data on 437 civilian deaths that occurred before 16 November 2017, mostly in 2014 and 2015. The
+      increase in the estimate of killed combatants from at least 7,482 as of 15 November 2017 to est. 9,500
+      as of 15 February 2019 is due to combatants’ deaths that occurred from 16 November 2017 to 15
+      February 2019 (est. 450) and to recorded/processed data on combatants’ deaths that occurred before
+      16 November 2017 (est. 1,500), mostly in 2014 and 2015.
+
+                                                                                                                       9
+A/HRC/40/CRP.3
+
+     Conflict-related civilian casualties during the entire conflict period, per year
+                                              Killed                    Injured                     Total
+             2018                                          55                        224                      279
+             2017                                         117                        487                      604
+             2016                                         112                        476                      588
+             2015                                         954                     >2,000                    >3,000
+                                                           23
+             2014                                      2,082                      >4,000                    >6,000
+             Total                                      3,320                     >7,000                >10,000
+                                                                                          27.   The reporting
+                                                                           period was marked by the fourth
+                                                                           anniversary of the Package of
+                                                                           Measures for the implementation of
+                                                                           the Minsk Agreements, which was
+                                                                           signed on 12 February 2015. The
+                                                                           ceasefire     and     disengagement
+                                                                           measures stipulated by the Package,
+                                                                           though never implemented fully,
+                                                                           have over time resulted in a dramatic
+                                                                           decrease in conflict-related civilian
+                                                                           casualties. The first ten months of
+                                                                           the conflict (mid-April 2014 to mid-
+                                                                           February 2015) accounted for 81.9
+                                                                           per cent of all civilian deaths
+                                                                           (2,713), while the four years after
+                                                                           the adoption of the Package
+                                                                           accounted for 18.1 per cent of
+                     civilian deaths (608).
+
+      D.      Economic and social rights of conflict-affected persons
+
+               We appreciate all the assistance, but nothing brings us joy when there is shelling. I will
+                not survive another escalation. If someone tells you they are not afraid, don’t believe
+                                                 them. It is terrifying.
+                     - A retired coal-miner from the government-controlled village of Zhovanka.
+
+              28.    About 5,2 million conflict-affected persons,24 including over 1.3 million registered
+              IDPs and persons living in isolated communities along the contact line continue to suffer
+              due to the lack of access to basic services, such as water and heating, the lack of adequate
+              housing, healthcare, and the absence of mechanisms for remedy and reparations. Displaced
+              persons and those residing in territory controlled by ‘Donetsk people’s republic’ and
+              ‘Luhansk people’s republic’ face difficulties in accessing their pensions and social benefits.
+              In December 2018, as reported by the Pension Fund, only 562,000 pensioners with
+              residence registration in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk
+              people’s republic’ continued to receive pensions. Notably, this is less than a half of the
+              pensioners registered in those territories as of August 2014.25
+              29.    Due to restrictions on freedom of movement, which result, in particular, in long
+              waiting lines at entry-exit checkpoints on the contact line, civilians continue to face
+
+        23    Including 298 on board of MH17 flight on 17 July 2014.
+        24    See Multi-Year Humanitarian Response Plan (HRP) 2019-2020.
+        25    1,278,200 pensioners were registered as of August 2014. UN Briefing Note, Pensions for IDPs and
+              persons living in the areas not controlled by the Government in the east of Ukraine, February 2019.
+
+10
+                                                                                                            A/HRC/40/CRP.3
+
+     difficulties accessing government-controlled territory, to maintain family ties, access their
+     social entitlements or critical services and facilities, such as hospitals. This contributes to
+     the negative impact on the already fragile socio-economic situation and jeopardize
+     prospects for social cohesion and people’s wellbeing.
+
+1. Remedy and reparation for conflict-affected population
+     30.     During the reporting period, OHCHR observed the implementation of the
+     amendments to the law ‘On the status of war veterans and their social protection
+     guarantees’, which expanded the scope of the law to include civilians, who acquired a
+     disability as a result of hostilities.26 The inter-agency commission to establish the nexus
+     between disability and conflict-related injury has considered in total 30 cases as of 15
+     February 2019. OHCHR welcomes this development, but remains concerned that
+     provisions of the Law expressly exclude civilians who were injured in territory not
+     controlled by the Government after 1 December 2014. OHCHR is also concerned by the
+     continued lack of a comprehensive state policy of remedy and reparation for civilian
+     victims of the armed conflict.
+
+                    Court case on reparations for the family member of a person killed
+                                    due to hostilities, Luhansk region
+
+       The Supreme Court is considering a case of a woman seeking reparation for the loss of
+       her daughter, who died during the armed conflict in eastern Ukraine. The Supreme Court
+       did not suspend the execution of an earlier positive ruling by an appeals court. According
+       to the judgment, the Government of Ukraine is obliged to provide monetary reparation for
+       the family.
+       OHCHR notes the positive development, which paves the way to ensure reparation for
+       people who have lost their family members in the armed conflict. The Government has yet
+       to develop, establish and ensure proper implementation of a comprehensive mechanism
+       for remedy and reparation for individuals, who have been injured, and to families of those,
+       who lost their family member due to conflict.
+
+     2. Right to restitution and compensation for use or damage of private property
+     31.    OHCHR notes the long-standing absence of a unified, comprehensive and inclusive
+     mechanism to enable access to compensation for civilian property damaged and/or
+     destroyed due to hostilities. As of 15 February 2019, there are over 50,000 civilian homes
+     on both sides of the contact line damaged during the hostilities and homes of some 40,000
+     families, living on both sides of the contact line, are reportedly in urgent need of repairs to
+     protect inhabitants from low winter temperatures. 27
+     32.     Civilians face multiple obstacles in accessing compensation for the military use of
+     their houses, land and other property in government-controlled territory.28 Persons told
+     OHCHR the military forces did not sign lease agreements with them for the use of their
+     property. Without such documents, civilians are not able to claim compensation for utility
+     bills and any damages to their property caused during its use by the military. OHCHR has
+     yet to observe the initiation of investigations into acts of looting allegedly committed by
+     officers of the Ukrainian Armed Forces or other ground military forces.
+
+26   Law “On amendments to the Law of Ukraine ‘On the status of war veterans and their social
+     protection guarantees’ enhancing the social protection of participants of the anti-terrorist operation, of
+     the Revolution of Dignity and of the family members of such persons,” no. 2203-VIII of 14
+     November 2017. The law entered into force on 24 February 2018.
+27   See Humanitarian Needs Overview 2019, p. 10 and Multi-Year Humanitarian Response Plan 2019-
+     2020, p. 12.
+28   OHCHR does not assess the military necessity of the use of civilian homes, land or property.
+
+                                                                                                                        11
+A/HRC/40/CRP.3
+
+             33.     On a separate note, OHCHR observed that IDPs, among them persons with
+             disabilities, residing in collective centres29 in Odesa, Sviatohirsk and Zhytomyr, experience
+             frequent interruptions of adequate heating.
+
+        3. Right to social security and social protection
+             34.     OHCHR regrets the absence of changes in Government policy that links payment of
+             social benefits, in particular pensions, with the need to register as an IDP, which would
+             result in inability of Ukrainian citizens to access their fundamental social and economic
+             rights on an equal basis, especially as pensions are recognized as a form of property.
+             35.    Despite three Supreme Court decisions, 30 issued over the past six months, ordering
+             the restoration of rights to pensions and social entitlements, the Government continues to
+             link access to pensions with IDP registration.
+             36.     OHCHR positively notes that national courts followed the Supreme Court’s
+             judgment in an “exemplary case,” restoring pension rights of an IDP. 31 Since the judgement
+             entered into force in September 2018, national courts have issued over 450 rulings in favour
+             of IDPs between October and December 2018.32 Despite the general court practice on this
+             issue, OHCHR regrets that the Government has so far failed to execute the court rulings, in
+             violation of Ukrainian law.
+             37.    In accordance with a July 2018 ruling of the Kyiv Appellate Administrative Court33
+             that invalidated certain provisions of the Cabinet of Ministers Resolutions no. 365 and
+             637,34 authorities can no longer carry out home visits for residence verification of IDPs and
+             suspend pension payments on these grounds, when an individual is not found to be in
+             residence. Reports indicate, however, that the practice continues. On 20 December 2018,
+             the Supreme Court upheld the appellate court decision.35 Welcoming this final ruling,
+             OHCHR reiterates that the Government should review its IDP policy more broadly to
+             ensure equal access to pensions regardless of place of residence or IDP registration.
+             38.     In another positive development, the Government adopted a state programme on
+             physical, medical and psychological rehabilitation, and social and professional re-
+             adaptation of veterans of the armed conflict in eastern Ukraine. 36 This followed the
+             establishment of the dedicated Ministry for Veterans Affairs in November.37
+             39.    In accordance with the law “On particular aspects of public policy aimed at
+             safeguarding the sovereignty of Ukraine over the temporarily occupied territory of the
+
+        29   OHCHR monitoring in Odesa, Sviatohirsk and Zhytomyr.
+        30   See OHCHR Report on the human rights situation in Ukraine, 16 August - 15 November 2018, paras.
+             37-39.
+        31   Ibid, para. 37.
+        32   According to NGO Right to Protection (R2P), there were about 60 positive court rulings during each
+             quarter of 2018. This is more than a 65 per cent increase in comparison to each quarter in 2017.
+             Overall, national courts issued about 550 positive decisions regarding applications submitted in 2018.
+        33   The Kyiv Appellate Administrative Court judgment of 4 July 2018, case no. 826/12123/16, available
+             at http://reyestr.court.gov.ua/Review/78808062. See OHCHR Report on the human rights situation in
+             Ukraine, 16 May - 15 August 2018, para. 39.
+        34   The ruling rendered inactive the following provisions of Cabinet of Ministers Resolutions no. 365 and
+             637: the Procedure for exercising control over the payment of social benefits to internally displaced
+             persons at the place of their actual residence/stay and paras. 7-9, 13 of the Procedure for allocation
+             (renewal) of social benefits to internally displaced persons, approved by Cabinet of Ministers
+             Resolution no. 365; as well as para. 1(10) of Cabinet of Ministers Resolution no. 637.
+        35   Administrative Chamber of the Supreme Court, judgment of 20 December 2018 case no.
+             826/12123/16, available at http://reyestr.court.gov.ua/Review/78808062.
+        36   Cabinet of Ministers Resolution no. 1021 of 5 December 2018 ‘On approval of the State Target
+             Programme on physical, medical and psychological rehabilitation and social and professional re-
+             adaptation of participants of the anti-terrorist operation and persons taking part in the measures on
+             ensuring the national security and defence, the containment and deterrence of the armed aggression of
+             the Russian Federation in Donetsk and Luhansk regions, for the period until 2022’.
+        37   Cabinet of Ministers Resolution no. 986 of 28 November 2018 ‘Issues regarding the activity of the
+             Ministry for Veterans Affairs of Ukraine’.
+
+12
+                                                                                                        A/HRC/40/CRP.3
+
+      Donetsk and Luhansk regions of Ukraine,”38 the President of Ukraine signed a decree
+      establishing a list of residential areas, which are not controlled by the Government. 39
+      Meanwhile, Order No.1085 of the Cabinet of Ministers, also indicating these areas, remains
+      in force, which could lead to inconsistent or interrupted payment of pension and social
+      benefits.40
+
+     4. Freedom of movement, isolated communities and access to basic services
+
+                           Crossing the contact line is a humiliating experience.
+                         - A resident in Travneve, the village near the contact line.
+
+      39.    Despite a 2.5-hour reduction in operating hours of the crossing points as of 1
+      December 2018, enforced as part of a shift to the winter operation mode, during the
+      reporting period, there were over one million crossings of the contact line on average each
+      month. OHCHR notes improvements of conditions at the crossing points made by the
+      Government, however, civilians continue to wait in long queues and are regularly exposed
+      to snow, ice and low winter temperatures, and inadequate sanitary and medical facilities, on
+      both sides of the contact line. Since the beginning of 2019, 11 persons died while crossing
+      the contact line in eastern Ukraine, reportedly due to health condition. 41 Four people died at
+      the only crossing point in the Luhansk region open exclusively to pedestrians, near the
+      government-controlled town of Stanytsia Luhanska. Civilians also face other risks when
+      crossing the contact line. For instance, in December 2018 and February 2019, around 90
+      people were temporarily trapped in ‘no man’s land’ coming from territory controlled by
+      ‘Donetsk people’s republic’ due to arriving at the Maiorske crossing point shortly before its
+      closure.42 They were eventually let through by Ukrainian authorities.
+      40.     According to the 2019 Humanitarian Response Plan under a 2019-2020 Strategy,
+      around 3.5 million people in Ukraine need humanitarian aid and protection services. 43
+      Many conflict-affected civilians in villages on both side of the contact line lack access to
+      basic services. During the winter, heating was one of the main challenges for civilians
+      living along the contact line. The cost of coal, which is traditionally used for heating
+      houses, increased drastically during the winter, forcing civilians to collect firewood in
+      nearby forested areas, making them even more vulnerable to landmines or being subject to
+      fines for cutting down trees.
+      41.    OHCHR notes that the Ministry of Defence has not progressed in finalizing the draft
+      Resolution regulating the procedure for movement of persons and transfer of goods across
+      the contact line. As a member of a working group created by the Ministry of Defence to
+      develop the draft Resolution, OHCHR underlines the necessity to harmonize the draft
+      Resolution with existing national norms and international standards, as well as key
+      recommendations of the international community and civil society.
+
+38    The text of the law is available at https://zakon.rada.gov.ua/laws/show/2268-19/
+39    The decree establishing “Boundaries and list of districts, cities, towns and villages, parts of these
+      areas, temporarily occupied in Donetsk and Luhansk regions” is available at
+      https://www.president.gov.ua/
+40    Cabinet of Ministers order No.1085 is available at https://zakon.rada.gov.ua/
+41    According to monitoring by national and international organizations, in total, during the reporting
+      period, 13 civilians died when crossing the contact line in eastern Ukraine.
+42    Social media posts by NGOs Right to Protection and Proliska, Representative of the Ombudsperson’s
+      Office in Donetsk and Luhansk regions, and the Joint Forces Operation of Ukraine, 6 December 2018
+      and 14 February 2019.
+43    See Multi-Year Humanitarian Response Plan (HRP) 2019-2020.
+
+                                                                                                                    13
+A/HRC/40/CRP.3
+
+     IV. Right to physical integrity
+                42.     During the reporting period, OHCHR documented at least 172 human rights
+                violations involving unlawful or arbitrary detention, torture, ill-treatment and/or threats to
+                physical integrity, committed on both sides of the contact line. 44 Out of these violations 18
+                can be attributed to the Government of Ukraine, and at least 154 can be attributed to
+                ‘Donetsk people’s republic’ and ‘Luhansk people’s republic.’ At least 91 violations
+                occurred within the reporting period, which affected 46 victims (40 men and six women).
+
+      A.        Access to detainees and places of detention
+
+                43.    In government-controlled territory, OHCHR continued to enjoy access to official
+                places of detention and conducted confidential interviews with detainees in accordance with
+                international standards. OHCHR interviewed 93 conflict-related detainees (85 men and
+                eight women) in pre-trial detention facilities (SIZO) in Bakhmut, Kharkiv, Kherson, Kyiv,
+                Mariupol, Mykolaiv, Odesa, Starobilsk, Vilniansk and Zaporizhzhia.
+                44.     OHCHR follows the ongoing penitentiary reform and welcomes all efforts to
+                transfer medical personnel from subordination of the State Penitentiary Service of Ukraine
+                to the Centre for Health Protection of the State Penal Service of Ukraine. 45 However, the
+                transition process negatively affects the provision of health care at the detention facilities.46
+                OHCHR continued to receive complaints regarding the lack of access to health care and
+                adequate food, especially for detainees in need of a special diet due to illness.
+                45.     In territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s
+                republic’, OHCHR did not have unimpeded access to places of deprivation of liberty to
+                visit and speak in private with detainees. The lack of such access raised serious concerns
+                about the treatment of detainees and conditions of detention. First-hand information
+                received from pre-conflict prisoners transferred to serve their sentence in government-
+                controlled territory supports OHCHR concerns (see Situation of pre-conflict prisoners).
+
+      B.        Arbitrary detention, enforced disappearance and abduction, torture
+                and ill-treatment
+
+                46.     OHCHR is concerned that the previously identified pattern 47 of arbitrary deprivation
+                of liberty, enforced disappearance, torture and ill-treatment of individuals in government-
+                controlled territory may be re-emerging. In at least two cases, documented during the
+                reporting period, victims were arbitrarily arrested during daytime allegedly by SBU
+                officers.48
+                47.   OHCHR received information that several SBU officers in camouflage uniforms,
+                armed with machine guns entered the house of an Armenian national and asylum seeker in
+                Ukraine, in Svitlodarsk on 13 December 2018. SBU searched his house without a warrant
+                and seized his electronic equipment and documents. They threatened to deport him to
+
+           44   This number encompasses violations in relation to inhuman conditions of detention and treatment in
+                penitentiaries in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic.’
+                The majority of these violations dated back to 2014-2016. In some colonies, OHCHR documented
+                systematic beatings of prisoners by men wearing masks, which allegedly lasted until mid-2018, and
+                the widespread use of forced labour.
+           45   A state institution independent of the management of penal institutions of the State Penal Service of
+                Ukraine.
+           46   The process of transfer of the State Penal Service premises for the needs of medical units, as well as
+                medicine and medical equipment to the structural units of the Centre for Health Protection of the State
+                Penal Service in the regions is ongoing. These structural changes lead to the lack of medicines and
+                staff in penitentiary institutions.
+           47   OHCHR report on the human rights situation in Ukraine, 16 November 2017 - 15 February 2018,
+                para. 29.
+           48   OHCHR interviews, 12 January and 24 January 2019.
+
+14
+                                                                                                       A/HRC/40/CRP.3
+
+     Azerbaijan or Crimea, and his family to ‘no man’s land’.49 He told OHCHR that they then
+     handcuffed him, put a bag over his head and took him to a basement, where they
+     interrogated him, accusing him of espionage for the Russian and Armenian intelligence. He
+     said SBU officers periodically beat him, each time for 20-30 minutes, to force him to
+     confess. The man agreed to confess to the SBU accusations on video camera after being
+     threatened at gun point. Two day later, they took him to Kyiv, held him in an apartment and
+     continued to beat him, inflicting severe pain and leaving numerous bruises on his body. On
+     17 December, SBU officers took him to a hospital for his injuries, registering him under a
+     fake name. He said doctors recommended hospitalization, but SBU officers took him to
+     another apartment and held him there for around two weeks. At one point, he did not
+     receive food for two days. Finally, on 29 December, the SBU released him, telling him to
+     keep silent about his ordeal.50
+     48.     In another case, on 15 November 2018, two men, allegedly SBU officers, wearing
+     camouflage and masks detained a Russian citizen in Kyiv. They handcuffed him and took
+     him to an unknown location. On 23 November, after the man’s wife reported his
+     disappearance, the police opened a criminal investigation, but closed it five days later. 51 On
+     26 December, a prosecutor’s office instructed the police to reopen the investigation. On 30
+     December, the man’s personal information (name, surname, date of birth, and alleged
+     criminal charges) appeared on the Myrotvorets website.52 As of 15 February 2019, his
+     relatives have no information about his whereabouts.
+     49.    Late on 21 November 2018, several SBU officers detained a woman in the
+     Kostiantynivka – Kyiv night train.53 They ordered her to leave the train, seized her passport
+     and mobile phone and drove her from Kostyantynivka to an SBU office in Mariupol. She
+     told OHCHR that the Mariupol SBU interrogated her all night and she learned that the SBU
+     got her name and other identifying personal information from the Myrotvorets website. The
+     woman saw her lawyer a day after her arrest, when she was taken to Kramatorsk to meet a
+     Donetsk Regional Prosecutor in order to receive an act of suspicion. She was charged with
+     creating ‘a terrorist group or organization’.54 On 23 November, the Zhovtnevyi district court
+     of Mariupol ordered her arrest.55
+     50.    OHCHR notes that prompt, timely, effective and transparent investigations of all
+     incidents of arbitrary detention, enforced disappearance, torture and other ill-treatment
+     could help stop the pervasive practice and prevent reoccurrence. In this regard, OHCHR
+     notes that the State Bureau of Investigations (SBI) became operational on 27 November
+     2018.56 This body took over the investigative jurisdiction over the crimes involving senior
+
+49   No man’s land is commonly described as a territory, where no authorities exercise control, even
+     though it is formally controlled by the Government of Ukraine.
+50   OHCHR interview, 24 January 2019.
+51   Pursuant to Article 284 of the Criminal Code of Ukraine, part 1(2).
+52   The website includes personal data and information available on social media about persons,
+     allegedly involved in activities of ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’. It is
+     allegedly maintained by volunteers but has been actively used since 2014 by Ukraine’s law-
+     enforcement and military. As previously noted by OHCHR, the website also publishes information
+     about members of civil society and journalists, who work in territory controlled by ‘Donetsk people’s
+     republic’ and ‘Luhansk people’s republic.’
+53   In November 2014, she received an IDP registration and had been crossing the contact line from
+     territory controlled by ‘Donetsk people’s republic’ to government-controlled territory on a regular
+     basis.
+54   Pursuant to Article 258-3 of the Criminal Code of Ukraine.
+55   OHCHR interview, 28 November 2018.
+56   The State Bureau of Investigations was established on 1 March 2016 by Cabinet of Ministers
+     Resolution no. 127 of 29 February 2016. However, the Bureau began its work only two and a half
+     year later. By the end of 2018, the SBI had around 843 cases under investigation, nearly 80 per cent
+     of which had been transferred to the SBI from other investigative bodies. According to authorities, in
+     order to prevent the backlog, the investigations opened before 27 November 2018 would not be
+     transferred to the SBI and should be finalized by the prosecutors within a year. The statement of the
+     Head of the SBI, Roman Truba, 21 December 2018, available at https://dbr.gov.ua/news/roman-truba-
+     shtat-slidchikh-dbr-bude-zbilsheno.
+
+                                                                                                                   15
+A/HRC/40/CRP.3
+
+                public officials, judges, officers of law enforcement or national anti-corruption bodies, and
+                the crimes related to military service.57
+                51.     During the reporting period, in territory controlled by ‘Donetsk people’s republic’
+                and ‘Luhansk people’s republic’ individuals continued to be subjected to 30-day
+                ‘administrative arrest’ and ‘preventive arrest,’ respectively, which amount to arbitrarily
+                incommunicado detention and may constitute enforced disappearance. In territory
+                controlled by ‘Luhansk people’s republic,’ OHCHR documented cases of ‘preventive
+                arrests’ of civilians, held incommunicado for prolonged periods, before formalizing these
+                ‘arrests.’58
+                52.    On 16 November 2018, representatives of the ‘ministry of state security’ (‘MGB’) of
+                ‘Luhansk people’s republic’ detained a Luhansk resident at the entry-exit checkpoint near
+                Stanytsia Luhanska. The man called his mother and told her he had been detained. His
+                mother sent complaints about his detention to the ‘MGB’, ‘head’ of ‘Luhansk people’s
+                republic’, ‘general prosecutor’s office’, and the ‘ministry of the interior’ (‘MoI’), requesting
+                information about her son’s whereabouts. On 26 November, the ‘MGB’ informed her that
+                her son was being held incommunicado under ‘preventive arrest.’ He was released on 4
+                December 2018.59
+
+      C.        Situation of pre-conflict prisoners
+
+                          Back in 2016 I could complain to the prison administration for forcing us to
+                   work. Now no one would complain for fear of being thrown in the isolation ward and
+                                                           beaten.
+                                - A pre-conflict prisoner transferred from a penal colony
+                                  in territory controlled by ‘Luhansk people’s republic’.
+
+                53.    OHCHR welcomes the transfer of 88 pre-conflict prisoners (83 men and five
+                women) that took place during the reporting period 60 from places of detention in territory
+                controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’ to government-
+                controlled territory in December 2018 and February 2019. 61 There were two transfers from
+                places of detention in territory controlled by ‘Luhansk people’s republic’ since the
+                beginning of the armed conflict. To date, 274 persons (including nine women) have been
+                transferred from places of detention in territory controlled by ‘Donetsk people’s republic’
+                and ‘Luhansk people’s republic.’
+
+           57  Articles 401-435 of the Criminal Code of Ukraine, except for Article 422 ‘disclosing military
+               information constituting a state secret’, which remains under the SBU jurisdiction.
+           58 OHCHR interview, 21 January 2019.
+           59 OHCHR interview, 5 December 2018.
+             60 On 12 December 2018, the transfer of 42 pre-conflict prisoners (39 men and three women) was
+
+             carried out from territory controlled by ‘Luhansk people’s republic’ to government-controlled territory.
+             On 13 December 2018, 13 prisoners (11 men and two women) were transferred from territory
+             controlled by ‘Donetsk people’s republic’. On 7 February 2019, another 33 pre-conflict prisoners (all
+             men) were transferred from territory controlled by ‘Luhansk people’s republic.’ Based on interview
+             with prisoners, OHCHR was able to verify information about conditions of detention between 2014 and
+             2018.
+           61 Among those transferred on 12 December 2018, two individuals were transferred from the Luhansk
+
+               SIZO, where they had been held since 2014. One of them had appealed a first-instance court ruling;
+               another was scheduled for transfer from the pre-trial detention to another city for trial, but due to the
+               outbreak of the armed conflict remained there. Moreover, OHCHR is aware of at least three
+               individuals, who were held in a Donetsk SIZO, before the outbreak of the armed conflict in eastern
+               Ukraine. In October 2015, a court in government-controlled territory ordered the release of one of
+               these three individuals, however, he remains in custody.
+
+16
+                                                                                                 A/HRC/40/CRP.3
+
+     54.      Transferred prisoners told OHCHR that there were more prisoners in territory
+     controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic,’ who wanted to
+     be transferred to government-controlled territory and maintain contacts with relatives living
+     there.62
+
+     55.     Recently transferred individuals from detention facilities in territory controlled by
+     ‘Donetsk people's republic' and 'Luhansk people's republic', including from two female
+     penal colonies, reported a deterioration of detention conditions and prisoner treatment after
+     the outbreak of the armed conflict in 2014. In particular, they mentioned insufficient food
+     supply and the lack of electricity: in 2014-2015 during power outages, lasting from a couple
+     of hours to several months, prisoners had to burn furniture to heat their barracks. They said
+     the situation had improved since 2016, however, ill-treatment by prison staff, the absence of
+     adequate medical treatment, including specialised doctors, such as gynaecologists, and
+     forced labour remain of concern. Prisoners also reported difficulties in maintaining contacts
+     with relatives who live in government-controlled territory.
+     56.    Pre-conflict prisoners were transferred from eight places of detention in territory
+     controlled by 'Luhansk people's republic'. 63 Transferred prisoners said that their detention
+     conditions worsened after the outbreak of the armed conflict. They described inadequate
+     accommodation, such as leaking barrack roofs, low inside temperature during the cold
+     season, and insufficient health care due to the lack of medical staff and medicines
+     (particularly for prisoners living with HIV/AIDS and tuberculosis). In several instances,
+     delays to deliver timely and adequate medical care led to an inmate’s death in custody. In
+     some colonies, prisoners said they had gone “hungry” for several months in 2014 and
+     lacked access to water and electricity.
+     57.    Some of the transferred prisoners complained that in 2014-2015 members of armed
+     groups entered penal colonies, beat prisoners and subjected them to mock executions.
+     Prisoners also reported severe beatings by men in masks and by penal colony staff, who
+     allegedly changed their uniforms and put masks on. The prisoners said it was done to
+     intimidate and ‘discipline’ them, including when the prison administration was
+     understaffed. In some instances, such beatings, allegedly, led to serious injuries requiring
+     medical attention or prisoners’ deaths. Such visits by ‘masked men’ continued till mid-
+     2018, but reportedly stopped since then.
+     58.    OHCHR received allegations of forced labour in most penal colonies in territory
+     controlled by ‘Luhansk people’s republic’. In Sukhodilsk penal colony №36, prisoners said
+     they had to work in two shifts from 6:30am to 9pm, often without days off on weekends
+     and meagre or no compensation.64 Those, who did not want to work or who did not meet
+     the work requirements, were beaten and put in the isolation ward. The ‘head’ of the colony
+     personally beat prisoners in front of others to intimidate and make them work harder.
+     59.    Individuals, transferred from five penal colonies in territory controlled by ‘Donetsk
+     people’s republic,’ confirmed information OHCHR had received from other transferred
+     prisoners about the lack of food, water, electricity, heating, hygiene items and medicine in
+     2014-2015.65 Some reported that the situation had gradually improved in Snizhne female
+     penal colony №127, whereas the situation had remained difficult in male colonies despite
+     minor improvements. Male prisoners alleged that in 2014-2015 a special unit from armed
+     groups of ‘Donetsk people’s republic’ with insignia ‘ROSNAZ’66 entered Yenakiieve penal
+     colony №52 on two occasions and severely beat some prisoners. Since 2016, the treatment
+     of prisoners reportedly improved, however a number of issues remain unresolved, in
+     particular, Michurinska penal colony №57 in Horlivka is still affected by shelling.
+
+62   OHCHR interviews with pre-conflict prisoners, 18-20 December 2018.
+63   Some of the prisoners were also held in other detention facilities for various periods of time.
+64   The prisoners said they received 80-90 RUB a month, whereas a pack of tea cost 180 RUB.
+65   See OHCHR report on the human rights situation in Ukraine, 16 November 2017 - 15 February 2018.
+66   Meaning a “republican special unit”.
+
+                                                                                                             17
+A/HRC/40/CRP.3
+
+     V.      Accountability and administration of justice
+
+      A.     Administration of justice
+
+                        While article 176.5 is in force, a person can be held in SIZO eternally. There is
+                                 no need to prove anything. It’s a very convenient tool.
+                                             - A detainee in the Kyiv SIZO.
+
+             60.     OHCHR notes the persistent practice of prolonged pre-trial detention and the use of
+             pressure to obtain forced confession or plea bargains. OHCHR documented 89 violations of
+             the right to a fair trial in conflict-related criminal cases.67
+             61.    During the reporting period, OHCHR continued to observe a worrying trend of
+             convicting individuals affiliated or linked with armed groups of ‘Donetsk people’s republic’
+             and ‘Luhansk people’s republic’ based on guilty pleas and confessions without material
+             evidence. In 35 out of 60 verdicts in conflict-related criminal cases, defendants pled guilty
+             or admitted guilt. In 2468 out of those 35 cases prosecutors presented no material evidence,
+             giving rise to concerns about substantiality of the charges. In four cases defendants were
+             sentenced to as much time as they had already spent in pre-trial detention69 and were thus
+             immediately released. OHCHR is concerned that defendants could see pleading guilty to a
+             crime as the only way to be released from detention in the context of a protracted trial.
+             62.     The wide application of plea bargains in conflict-related criminal cases is
+             problematic due to the practice of coercing defendants to admit guilt, including through the
+             use of physical violence, as documented by OHCHR. In at least three documented cases,
+             detainees of the Kharkiv SIZO tried on terrorism charges complained of being under
+             pressure.70 In particular, the SIZO administration repeatedly placed defendants in
+             punishment cells71 for minor infractions of the SIZO rules and regulations. 72 By conducting
+             excessively frequent searches and seizures of personal items, the administration allegedly
+             provoked other detainees to be violent towards the defendants. One of them was brought to
+             the court with visible injuries on his face and body and told the court that he had been
+             beaten after complaining to the prosecution about this punitive practice by top SIZO
+             officials. He explained to the court that he feared for his life but refused to describe the
+             beating.
+
+        67   The Criminal Code of Ukraine, articles 109-1141, 258-2585, 260, and 261. These crimes constitute
+             “conflict-related crimes”.
+        68   Data from the Unified Register of Court Decisions.
+        69   According to para.5 Art. 72 of the Criminal Code of Ukraine as of the version amended by Law №
+             838-VIIІ of 26.11.2015 (also known as the ‘Savchenko law’ after Nadiia Savchenko, a member of the
+             Parliament and an author of the law), a pre-trial detention shall be counted as a part of a sentence at a
+             ratio of 1:2 days. See the Great Chamber of the Supreme Court judgement of 29 August 2018 №
+             663/537/1.
+        70   Cumulative data of OHCHR court monitoring, interviews with victims and their relatives, visits to
+             penitentiary facilities, information provided by governmental bodies upon OHCHR’s requests.
+        71   Placing of defendants in punishments cells comes with other restrictions such as prohibition of
+             personal items, receiving packages (on which many detainees depend for food and medications),
+             absence of adequate medical care and poor cell conditions (such as, low temperature).
+        72   The most common disciplinary violations were reportedly possessing or bringing to the SIZO a
+             prohibited item, being awake after 10 p.m., interfering with cell searches and arguing with guards.
+
+18
+                                                                                                        A/HRC/40/CRP.3
+
+                      There is no way to be released other than to sign a plea bargain.
+                                      - A detainee in the Odesa SIZO.
+
+     63.     According to the information73 received by OHCHR, the SIZO administration placed
+     the three defendants in punishment cells at least a dozen times, to force them to admit guilt
+     in court, while the prosecution failed to meaningfully investigate the allegations of ill-
+     treatment. OHCHR emphasizes that the right not to be compelled to testify against oneself
+     or to confess guilt comprises the guarantee of absence of any direct or indirect physical or
+     undue psychological pressure with a view to obtaining a confession of guilt. 74
+     64.    Despite the prohibition of unreasonably lengthy pre-trial detention and the need to
+     reconsider alternatives to pre-trial detention,75 courts continue to put in custody individuals
+     charged with links or affiliation with armed groups and crimes against national security
+     relying solely on provisions of article 176.5 of the Criminal Procedure Code of Ukraine.
+     OHCHR is aware of at least 46 cases, where defendants had been in pre-trial detention for
+     over two years. In 11 of these cases the defendants have been in custody for over four years
+     – equaling to eight years of imprisonment according to the ‘Savchenko law’.76 The situation
+     is exacerbated by appeal courts’ heavy reliance on article 176.5 instead of international
+     human rights law and the case law of the European Court of Human Rights. In some cases,
+     defendants could not appeal due to the delay in obtaining court orders of their restraint
+     measures, which violated their right to appeal.
+     65.    OHCHR is also concerned that protracted trials in conflict-related criminal cases
+     might be caused, inter alia, by the lack of judges. 77 In the majority of conflict-related
+     criminal cases, the courts schedule hearings only once every month or two.
+     66.    OHCHR continued to document cases of interference by members of extreme right-
+     wing groups in criminal proceedings of conflict-related and high profile criminal cases
+     through the intimidation of judges, defendants and their lawyers. In three documented
+     cases78 members of extreme right-wing groups disrupted court hearings by verbally abusing
+     judges and defendants. In one case, they beat a defendant in a conflict-related case outside
+     the courtroom,79 but police did not stop the beating. 80
+     67.     OHCHR is concerned about the lack of progress in the criminal case regarding the
+     killing of journalist Oles Buzyna81 in 2015 and allegations of obstruction of justice. The
+     High Council of Justice is still considering the issue of one of the judge’s removal for
+     failing a qualification test.82 The judge had previously claimed she was made to fail the test
+
+73   OHCHR interviews with the victims and their defense counsel, trial monitoring, government data.
+74   See Human Rights Committee, General Comment No. 32. Article 14, para. 41.
+75   See Human Rights Committee, General Comment No. 35 Article 9, para. 37.
+76   Para. 5 Art. 72 of the Criminal Code of Ukraine. In one such case, tried in the Zhovtnevyi district
+     court of Kharkiv, five out of eight defendants are in custody although the court has not yet conducted
+     the preparatory hearing. The defendants complained to OHCHR that the prosecution threatened them
+     with indefinite custody unless they all accept guilty pleas.
+77   According to the High Qualification Commission of Judges of Ukraine, as of January 2019, Ukraine’s
+     judicial system lacked 32 per cent of the judges needed to staff the country’s courts: 5,503 judges
+     were employed out of 7,991 required. The number of judges, authorized to administer justice was
+     even lower, as the tenure of 702 judges had terminated. As a result, 14 courts had no active judges
+     and did not operate, while 124 courts lacked more than half of their judges. The data was proved on
+     30 January 2019 at OHCHR’s written request.
+78   Court hearings at the Dzerzhynskyi district court of Kharkiv, 12 December 2018, the
+     Ordzhonikidzevskyi district court of Mariupol, 13 December 2018, and the Shevchenkivskyi district
+     court of Zaporizhzhia, 21 January 2018.
+79   OHCHR trial monitoring at the Dzerzhynskyi district court of Kharkiv on 4 January 2019.
+80   Prior to the hearing, members of an extreme right-wing group organized a protest outside the court.
+81   See OHCHR report on the human rights situation in Ukraine, 16 May to 15 August 2018, para. 84.
+82   See High Qualification Commission of Judges decision of 6 August 2018, available at:
+     www.vkksu.gov.ua/
+
+                                                                                                                    19
+A/HRC/40/CRP.3
+
+                 in order to remove her from the case. 83 Although the judge continues to participate in the
+                 trial,84 concerns arise about her bias towards the defendants and a likely re-trial in case of
+                 her eventual removal by the High Council of Justice, 85 which would violate the rights of the
+                 victim’s relatives and the defendants. The judge’s allegation of the interference into her
+                 professional activities merits prompt and effective investigation.
+                 68.    In an unrelated case, the car of Valentyn Rybin, a lawyer known for defending
+                 conflict-related detainees, was set on fire. 86 According to Rybin,87 the police is reluctant to
+                 investigate the attack.
+                 69.    During the reporting period, OHCHR observed violations 88 of the right to a public
+                 hearing when judges held hearings of conflict-related criminal cases in their offices instead
+                 of courtrooms89 without making these changes known to the general public 90 and thus
+                 obstructing public presence.
+
+      B.         Accountability for human rights violations in eastern Ukraine
+
+                 70.      OHCHR continued to document Ukrainian authorities’ inaction in prosecuting
+                 military officials, suspected of crimes against civilians.91 OHCHR notes that prosecutors
+                 fail to enforce defendants’ presence during trials as a general practice. 92
+
+      C.         Accountability for cases of violence related to riots and public
+                 disturbances
+
+                 71.    OHCHR noted limited progress in legal proceedings concerning the 2014 Maidan
+                 protests and the violent events of 2 May 2014 in Odesa.
+
+       1.        Accountability for the killings of protesters during the Maidan protests
+                 72.    Five years after violent clashes between law enforcement and Maidan protestors, the
+                 Special Investigations Department (SID) of the Prosecutor-General’s Office continues its
+                 probe into killings during the protests in early 2014. The SID, however, will lose its
+                 investigative functions on 20 November 2019.93 By then, all investigations conducted into
+                 the Maidan killings must be completed or transferred to the State Bureau of Investigations,
+                 which began its work on 27 November 2018.
+
+            83   During a session at the High Council of Justice on 9 October 2018, the judge alleged that she was
+                 made to fail the test to disqualify her from hearing Buzyna’s case. A video recording of the session is
+                 available at: http://www.vru.gov.ua/video/497.
+            84   Defense lawyers requested the court to remove the judge from the case due to her allegations at the
+                 High Council of Justice on 9 October 2018.
+            85   On 9 October 2018, the High Council of Justice postponed the hearing of the judge’s case.
+            86   A Сar of a Defence Lawyer Rybin, Who Protected Ruban and Yezhov, Was Burned, UNIAN.
+            87   Rybin’s speech on 22 January 2018, available at: https://press.liga.net/press-
+                 conf/releases/konferentsiya-peresliduvannya-ta-napadi-na-advokativ-sogodenni-realii-derjavi.
+            88   OHCHR trial monitoring at the Kramatorsk city court, 5 December 2018.
+            89   Courts must provide for adequate facilities for the attendance of interested members of the public. See
+                 Human Rights Committee, General Comment No. 32. Art. 14, para. 28.
+            90   Courts must make information regarding the time and venue of the oral hearings available to the
+                 public. See Human Rights Committee, General Comment No. 32. Art. 14, para. 28.
+            91   In the case of eight members of Aidar battalion tried at the Zhovtnevyi district court of Kharkiv, four
+                 years later, the court has not yet started to hear the merits of the case.
+            92   In the case of an SBU officer charged with an Avdiivka resident’s killing on 4 March 2017, the
+                 prosecutor failed to enforce the dependent’s participation (via videoconference). In particular, he did
+                 not request the court to order the defendant’s detention or suspension from service. The defendant
+                 continues to serve in the SBU and has access to service firearms.
+            93   Parts 1 and 2 of Chapter XI. Transitional Provisions of the Criminal Procedure Code of Ukraine.
+
+20
+                                                                                                          A/HRC/40/CRP.3
+
+       73.     While the SID continues its work, the investigators have been stripped of labour and
+       social protection guarantees,94 which, according to the SID Head, has had a negative impact
+       on the work of the department.95
+       74.    The Office of the Military Prosecutor completed its investigation into the shooting
+       from the SBU building in Khmelnytskyi on 19 February 2014. The former Head of the
+       Khmelnytskyi SBU, who had allegedly ordered the use of lethal force against the
+       protestors, and the SBU officer, who had allegedly shot and killed one person and injured
+       three protestors, have been indicted on charges of abuse of power, unintentional killing and
+       negligent grave bodily injury. On 18 December 2018, a court ordered house arrest for the
+       SBU officer96 but he was later released.97
+
+       2. Accountability for the 2 May 2014 violence in Odesa
+       75.    Delays in the investigation and trial proceedings related to the 2 May 2014 violence
+       in Odesa continue. As of 15 February 2019, almost five years after the events, which led to
+       the deaths of 48 people, none of the state officials have been held accountable.
+       76.    On 16 January 2019, the court of appeals for Odesa region reversed the decision of
+       the Kyivskyi district court of Odesa to return to the prosecutor’s office the indictment
+       against three State Emergency Service officials accused of negligence and ruled to start the
+       trial.
+       77.     OHCHR notes no progress in the case against the only ‘pro-unity’ activist accused
+       of killing: two hearings were adjourned due to the court’s failure to select a jury panel and
+       disruption of the proceedings by ‘pro-unity’ supporters. On 17 December 2018, around 30-
+       40 supporters of the defendant disrupted the hearing in the Malynovskyi district court of
+       Odesa. When the panel of judges attempted to leave the courtroom, one of the supporters
+       approached the presiding judge obstructing his movement and began arguing with him. The
+       judge was only able to leave the courtroom after the defendant and his lawyer interfered.
+       78.    The Prymorskyi district court of Odesa has not started to hear the case against three
+       high ranking police officials accused of negligence and endangering others. On 11 October
+       2018, the judge ruled to merge the case with another legal proceeding against one of the
+       accused related to the 2 May violence in Odesa. However, on 16 January 2019, the case
+       was returned for retrial due to procedural issues.
+
+VI. Democratic/civic space and fundamental freedoms
+       79.    During the reporting period, OHCHR documented 16 violations of the rights to
+       freedom of opinion and freedom of expression, freedom to peaceful assembly and
+       association, freedom of religion or belief and the right to non-discrimination. While the
+       Ukrainian authorities were responsible for all 16 human rights violations that OHCHR
+       documented during the reporting period, the space for freedom of expression and freedom
+       of the media remains highly restricted in territory controlled by ‘Donetsk people’s republic’
+       and ‘Luhansk people’s republic’.
+       80.     The 30-day martial law period declared in ten regions of Ukraine 98 did not lead to
+       significant human rights limitations. However, certain martial law restrictions had direct
+
+  94   According to p. 5 of Transitional provisions of Law of Ukraine “On the Public Prosecutor's Office”,
+       social and pension guarantees for prosecutors are extended to investigators of the Prosecutor's Office
+       until the State Bureau of Investigations starts operating on 27 November 2018.
+  95   OHCHR meeting, 13 December 2018.
+  96   See the ruling of the Podilskyi district court of Kyiv of 18 December 2018 at
+       http://reyestr.court.gov.ua/Review/78821440.
+  97   See the ruling of the Pecherskyi district court of Kyiv of 3 January 2019 at
+       http://reyestr.court.gov.ua/Review/79001111.
+  98   The martial law was in force between 26 November and 26 December 2018 in ten out of 25
+       administrative regions of Ukraine: Vinnytsia, Luhansk, Mykolaiv, Odesa, Sumy, Kharkiv, Chernihiv,
+       Donetsk, Zaporizhzhia and Kherson and the internal waters of the Azov Sea and the Kerch Strait.
+
+                                                                                                                      21
+A/HRC/40/CRP.3
+
+                 application under national legislation leading to restrictions of electoral rights and the right
+                 to peaceful assembly.99 The prohibition to hold elections resulted in the cancellation of the
+                 elections to territorial “hromadas” in the ten regions under martial law. 100 At the same time,
+                 the prohibition to hold public assemblies was not strictly enforced. OHCHR observed that
+                 public events did take place in the affected regions. Police in Odesa reportedly evoked the
+                 martial law when dissolving a public event in order to unblock a traffic jam. 101
+
+      A.         Freedom of opinion and expression and freedom of the media
+
+                 81.     Despite the decrease in the number of violations of freedom of expression and
+                 freedom of the media during the reporting period, OHCHR continues to document cases of
+                 interference in the work of media professionals and physical attacks and acts of
+                 intimidation against them. Seven incidents took place during the period under review,
+                 which led to nine human rights violations, including the persistent lack of investigations
+                 into attacks against journalists and civic activists.
+                 82.     On 18 November 2018, members of extreme right-wing groups used pepper spray
+                 against a Canadian journalist covering a transgender rights public event in Kyiv and
+                 punched him in the face. Police opened an investigation into the attack, classifying the
+                 assault as ‘hooliganism’.
+                 83.    OHCHR remains concerned about the failure of the Government to bring
+                 perpetrators of attacks on civil society activists to account. OHCHR notes the creation of a
+                 special parliamentary commission to investigate a lethal attack on a senior staff of the
+                 Kherson city council and attacks on other activists.102 Concerns remain, however, about the
+                 lack of effective investigations by law enforcement into these attacks so far.
+                 84.     OHCHR documented two attacks against members of political parties during the
+                 reporting period. On 28 November 2018, around 30 masked men attacked three political
+                 activists in Odesa.103 On 12 December, a group of approximately 15 perpetrators, with
+                 alleged links to extreme right-wing groups, stormed offices of a political party in Kyiv.
+                 They beat at least two political activists and searched the offices. The police arrived after
+                 the attack when the perpetrators had already left. 104
+                 85.     Space for freedom of expression and freedom of the media remains highly restricted
+                 in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’.
+                 OHCHR is concerned that expression of any critical opinion or alternative view could lead
+                 to arbitrary detention or other punishment of critics.
+
+      B.         Freedom of peaceful assembly and association
+
+                 86.    OHCHR continued to document attacks by extreme right-wing groups on peaceful
+                 assemblies organized by groups, with whose views they disagree. On 18 November 2018,
+                 members of extreme right-wing groups attacked the transgender rights public event in Kyiv.
+                 Despite the presence of the police on site, the members of extreme right-wing groups from
+                 a counter-rally followed several event participants and attacked them by using pepper
+
+           99  Article 19 of Law of Ukraine ‘On the legal regime of martial law’ no. 389-VIII of 12 May 2015.
+           100 On 29 November 2018, the Central Electoral Commission of Ukraine cancelled the elections in
+               several territorial “hromadas” (united territorial communities), scheduled for 23 December 2018 in all
+               ten regions under martial law (in total 52 elections).
+           101 On 28 November 2018, a group of Odesa residents blocked a public road protesting against an
+
+               unlawful construction. Police dispersed the protest and apprehended one of the protestors for
+               disobedience. After a few hours in a police station, the protestor was released.
+           102 Established on 6 November 2018, the commission conducted numerous meetings with victims of
+
+               attacks, law enforcement, state and local officials, including in Odesa, Kharkiv and Kherson; OHCHR
+               interview, 18 January 2019.
+           103 OHCHR interview, 1 February 2019.
+           104 OHCHR interview, 7 February 2019. The police initiated a criminal investigation on charges of
+
+               hooliganism. However, the victims’ lawyer noted the absence of investigative activities.
+
+22
+                                                                                                              A/HRC/40/CRP.3
+
+           spray. Two participants and one journalist received injuries. Instead of isolating
+           perpetrators police asked organizers to stop the event and forced the participants into a
+           nearby subway station. Authorities did not launch an investigation into the disruption of the
+           peaceful event and attacks against the participants. 105 OHCHR notes that such attacks could
+           amount to a form of gender-based discrimination against LGBTQI people.
+           87.     In territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s
+           republic’, OHCHR did not observe any developments with regard to peaceful assembly. In
+           territory controlled by ‘Luhansk people’s republic’, a ‘decree’ remains ‘in force’, according
+           to which organizers of peaceful assemblies are required to seek prior approval of the
+           ‘ministry of state security’ or the ‘ministry of the interior’. 106
+
+C.         Freedom of religion or belief
+
+           88.    OHCHR continued to monitor developments related to granting autocephaly to the
+           newly established church – the Orthodox Church in Ukraine. On 15 December 2018,
+           members of the Unification Council of the Orthodox Churches of Ukraine formally agreed
+           to create the new church and chose its leader. OHCHR documented incidents that could be
+           perceived as acts of intimidation against members of the Ukrainian Orthodox Church of the
+           Moscow Patriarchate.
+           89.    During the reporting period, the SBU in several regions of Ukraine initiated four
+           criminal investigations into incitement to religious enmity and hatred; one of these cases
+           has an additional charge of high treason, without issuing notices of suspicion. 107 The SBU
+           conducted searches in the premises of the Ukrainian Orthodox Church of the Moscow
+           Patriarchate and places of residence of clergymen, questioning some of them. 108
+           90.     On 20 December 2018, the Parliament of Ukraine launched a process of mandatory
+           renaming of religious organizations that are affiliated with religious centers in the Russian
+           Federation. OHCHR is concerned that this process is primarily targeting Ukrainian
+           Orthodox Church communities and may be discriminatory. 109 OHCHR is also concerned
+           that the Parliament warranted restrictions on access of the clergymen of such organizations
+           to the premises of the Ukrainian Armed Forces on the basis of national security
+           considerations, which contravenes article 18(3) of the ICCPR. 110
+           91.    Following the establishment of the new church, a number of religious communities
+           decided to join. OHCHR received reports that in a few cases the transfers were not
+           voluntary and were initiated by state or local authorities or even representatives of extreme
+           right-wing groups, who were not members of those religious communities. 111 Furthermore,
+
+     105 OHCHR interviews, 15 January 2019.
+     106 See OHCHR report on human rights situation in Ukraine, 16 May - 15 August 2018, para. 100.
+     107 OHCHR interview, 17 January 2019. The police launched criminal investigations in Zaporizhzhia,
+
+         Kyiv, Zhytomyr and Rivne regions.
+     108 OHCHR interview, 17 January 2019.
+     109 According to law no. 2662-VIII of 20 December 2018, a religious organization that is affiliated with a
+
+         foreign religious organization, the governing centre of which is located in a country, recognized as an
+         “aggressor state”, should include this affiliation in its name, or risk ceasing its operations. On 18
+         January 2018, the Verkhovna Rada adopted the law “On the peculiarities of the state policy to ensure
+         the state sovereignty of Ukraine in temporarily occupied territories in Donetsk and Luhansk regions,”
+         which recognizes the Russian Federation as an aggressor state. President Poroshenko signed the law
+         on 20 February 2018.
+     110 Human Rights Committee in para. 8 of its general comment No. 22 (1993) emphasized that Article
+
+         18(3) of the ICCPR permits restrictions on the freedom to manifest religion or belief only if
+         limitations are prescribed by law and are necessary to protect public safety, order, health or morals, or
+         the fundamental rights and freedoms of others. This paragraph is to be strictly interpreted: restrictions
+         are not allowed on grounds not specified there, even if they would be allowed as restrictions to other
+         rights protected in the ICCPR, such as national security.
+     111 OHCHR interview, 25 February 2019.
+
+                                                                                                                          23
+A/HRC/40/CRP.3
+
+                  on 17 January 2019, the Parliament adopted amendments setting out a procedure for
+                  voluntary change of denomination by religious communities. 112
+
+       D.         Discrimination, hate speech, racially-motivated violence and
+                  manifestations of intolerance
+
+                  92.     OHCHR continued documenting violations related to discrimination, hate speech
+                  and/or violence, targeting members of minority groups or those holding alternative or
+                  minority opinions. Among two incidents documented that occurred during the reporting
+                  period, one involved threats and another direct violence by members of extreme right-wing
+                  groups. The failure of the law enforcement to prevent violence, to properly classify these
+                  violations as hate crimes, and to effectively investigate and prosecute these crimes violates
+                  the right to non-discrimination and creates an environment of impunity. It also denies
+                  victims of these attacks equal access to justice.
+                  93.    Investigations and prosecution of several attacks against Roma people still lack
+                  progress.113 Positively, on 28 December 2018, prosecutors of the Lviv Regional
+                  Prosecutor’s Office charged a man responsible for the killing of a young Roma man outside
+                  Lviv in June 2018.114 In contrast, the Holosiivsky district court of Kyiv cancelled on
+                  procedural grounds the note of suspicion against an alleged perpetrator in another violent
+                  attack against a Roma settlement in Kyiv in April 2018.115
+                  94.     OHCHR documented the case of a prisoner with pro-Ukrainian views, who served
+                  his sentence in a penal colony in territory controlled by ‘Luhansk people’s republic’
+                  between 2014 and 2018. The prisoner had conflicts with the colony administration for his
+                  political views and speaking Ukrainian. The colony administration staff reportedly forced
+                  the prisoner “to drop his nationalistic views”, threatened and beat him. In 2016, the colony
+                  guards allegedly beat him with batons as ordered by the colony head. After this incident,
+                  the prisoner was held in the isolation cell for a year. He said that as a result of his long-
+                  lasting intimidation and ill-treatment, he tried to commit suicide in December 2017.116
+
+     VII. Human rights in the Autonomous Republic of Crimea and
+          the city of Sevastopol, Ukraine, temporarily occupied by the
+          Russian Federation
+                  95.     The overall human rights situation in Crimea continued to be marked by restrictions
+                  in the exercise of fundamental freedoms and the lack of effective remedies to seek justice.
+                  In addition, the continuing failure of the Russian Federation to acknowledge its status as an
+                  occupying power in Crimea has resulted in further violations of international humanitarian
+                  law committed by its State actors during the reporting period, failing to recognize and
+                  ensure obligations related to applicable occupation law.
+                  96.    OHCHR continued to record human rights violations, including restrictions on
+                  freedoms of opinion, expression, and religion or belief, and violations of international
+                  humanitarian law in Crimea. In total, OHCHR documented 38 violations during the
+                  reporting period, and of this number 25 violations occurred within the reporting period;
+
+            112 According to the law, a decision to change subordination is made by two thirds of the community’s
+                quorum. The amendments reaffirm the principle of religious communities’ independent determination
+                of their membership and establish a moratorium on sale or other transfer of the religious community’s
+                property until the registration process is completed.
+            113 See OHCHR Report on the human rights situation in Ukraine, 16 May to 15 August 2018, para. 91.
+            114 See OHCHR Report on the human rights situation in Ukraine, 16 August to 15 November 2018, para
+
+                82.
+            115 On 25 February, the Kyiv court of appeal will hear the prosecutors’ appeal of the Holosiivsky district
+
+                court decision to cancel the notice of suspicion to the alleged perpetrator.
+            116 OHCHR interviews, 18 December 2018.
+
+24
+                                                                                                           A/HRC/40/CRP.3
+
+           with the Government of the Russian Federation responsible for 35 and the Government of
+           Ukraine for three.117
+
+A.         International Humanitarian Law violations
+
+           97.     On 25 November 2018, Ukrainian authorities reported an assault of the Russian
+           Federation naval forces on three Ukrainian naval vessels near the Kerch Strait. The
+           Ukrainian vessels were on their way to the Azov Sea through the Kerch Strait, which is the
+           only passage between the Black Sea and the Azov Sea and lies between the Russian
+           Federation and Russian Federation-occupied Crimea. The Ukrainian Government stressed
+           that the Ukrainian ships were attacked in international waters, while the Russian Federation
+           insisted that the ships entered its territorial waters and received repeated warnings to leave
+           the area. The Russian Federation naval forces opened fire on the Ukrainian vessels, seized
+           them, and captured 24 crew members (22 naval officers and two SBU officers).
+           98.     OHCHR notes that by virtue of the continued occupation of Crimea by the Russian
+           Federation, an international armed conflict continues to exist between the two States in
+           Crimea and international humanitarian law continues to apply there. As such, a single
+           hostile encounter between the armed forces or assimilated armed units of two sovereign
+           states, as the 25 November 2018 incident, suffices to trigger the application of international
+           humanitarian law, irrespective of the pre-existence of an armed conflict. Consequently, the
+           rules of international humanitarian law that are applicable to international armed conflict
+           continue to apply.
+           99.    All 24 crew members, including those who had reportedly sustained injuries during
+           the incident, have been charged with illegal crossing of the Russian border, a criminal
+           offence punishable by up to six years of imprisonment, and remanded in custody. 118
+           Between 29 and 30 November 2018, the Russian Federation authorities reportedly
+           transferred all 24 crew members from Simferopol to Moscow, where they placed them in
+           SIZOs.
+           100. The Ukrainian Government considers the apprehended crew members to be
+           prisoners of war. Similar statements were made by the crew members and their lawyers,
+           including during court hearings on the measure of restraint. Nevertheless, as of 15 February
+           2019, the Russian Federation authorities refuse to apply international humanitarian law
+           provisions to the incident and deny the detained crew members the status of prisoners of
+           war.
+           101. OHCHR notes that based on the provisions of international humanitarian law, 119 the
+           24 detained crew members could be considered as prisoners of war and protected by the
+           Third Geneva Convention. In any case, they shall enjoy the status of a prisoner of war until
+           a competent tribunal determines otherwise. 120 OHCHR recalls that prisoners of war must
+           inter alia be humanely treated, protected against violence or intimidation, and provided
+           with the medical assistance if needed.
+
+B.         Administration of justice, intimidation and harassment of human rights
+           defenders
+
+           102. On 7 December 2018, a district court in Simferopol sentenced Crimean Tatar lawyer
+           Emil Kurbedinov, known for defending critics of Crimea’s occupation and alleged
+           members of organizations, banned in the Russian Federation, to five days of administrative
+
+     117 The violations attributable to the Government of Ukraine did not necessarily occur in Crimea itself,
+         but concern events in mainland Ukraine connected to the situation in Crimea. They are related to
+         freedom of movement, access to public services, and the right to property.
+     118 OHCHR interviews, 27 – 29 November 2018.
+     119 Article 4 (A) (1) and 4 (A) (4) of the Third Geneva Convention and Articles 43 and 44 of Additional
+
+         Protocol I.
+     120 Article 5 of the Third Geneva Convention.
+
+                                                                                                                       25
+A/HRC/40/CRP.3
+
+                 detention for disseminating extremist symbols through a social network. 121 During a court
+                 hearing, the judge ignored the fact that the impugned content was posted five years ago –
+                 prior to the de facto implementation of the Russian legislation in Crimea 122 – and denied
+                 over 40 motions of his defense team, including the motion to ensure the presence of a
+                 prosecutor, to question an expert witness and recuse a presiding judge. 123 Kurbedinov was
+                 released on 11 December after serving his sentence in full.
+                 103. OHCHR notes that Kurbedinov’s conviction follows a series of earlier incidents that
+                 indicate a pattern of deliberate intimidation, hindrance, harassment or interference by the
+                 Russian authorities in Crimea with his professional activities. In 2017, he was also
+                 prosecuted for social media posts.124 On 6 November 2018, police raided his office in
+                 Simferopol to serve him with a “formal warning” against engagement in extremism.
+                 OHCHR is concerned that this time, the extremism charges may be used to formally
+                 deprive Kurbedinov of his right to practice law in Crimea. On 18 December, the Ministry of
+                 Justice of Crimea requested a bar association in Simferopol to renounce Kurbedinov’s
+                 membership, which may lead to his disbarment.
+                 104. Emil Kurbedinov’s case reflects the overall hostile attitude of Russian Federation
+                 authorities towards human rights defenders and civic activists. Lawyers, who take up
+                 defense in sensitive cases against individuals accused of extremism or terrorism in Crimea,
+                 risk facing similar charges themselves. OHCHR reiterates its findings on the pressure faced
+                 by members of Crimean Solidarity, a non-registered civic group cooperating closely with
+                 defense lawyers on the peninsula. 125 The law enforcement have disrupted the group’s
+                 meetings and issued formal warnings to Crimean Solidarity members not to engage in
+                 illegal activities, including unauthorized public gatherings and extremist acts.126
+
+      C.         Freedoms of religion, opinion and expression
+
+                 105. Consistent with previous OHCHR findings, the pattern of criminalization of
+                 affiliation to or sympathy towards religious Muslim groups, banned in the Russian
+                 Federation, continued to disproportionately affect Crimean Tatars.
+                 106. On 24 December 2018, a military court in the Russian city of Rostov-on-Don found
+                 four Ukrainian citizens, all Crimean Tatar men previously transferred to the Russian
+                 Federation from Crimea, guilty of membership in a terrorist organization and preparation to
+                 commit a forcible seizure of power. One man received a 17-year prison sentence, while
+                 three others – 9 years of imprisonment each. The accusations were based on the defendants’
+                 alleged membership in Hizb ut-Tahrir, an Islamic movement, which is legal in Ukraine but
+                 banned as a terrorist group in the Russian Federation. According to a court ruling, 127 the
+                 defendants were prosecuted for four meetings, during which they had discussed Islamic
+                 dogmas, Hizb ut-Tahrir ideology and sharia law. In a separate case, on 22 January 2019, the
+                 Supreme Court of Crimea found four Crimean residents guilty of membership in Tablighi
+                 Jamaat, another Islamic group banned in the Russian Federation. Three defendants received
+                 conditional sentences, while the fourth man was sentenced to four years of imprisonment. 128
+                 In both cases, the defendants were found guilty based on their alleged membership in the
+
+           121 Judgment of the Kyivskyi district court of Simferopol, 7 December 2018, Case No. 5-1148/2018.
+           122 This may be viewed as a violation of Article 70, Geneva Convention IV.
+           123 OHCHR interview, 7 December 2018.
+           124 Earlier, on 26 January 2017, Emil Kurbedinov was sentenced to ten days of administrative detention
+
+               on similar charges, see OHCHR report on the human rights situation in Ukraine, 16 November 2016 -
+               15 February 2017, para. 128.
+           125 OHCHR second thematic report “On the situation of human rights in the temporary occupied
+
+               Autonomous Republic of Crimea and the city of Sevastopol, Ukraine”, 13 September 2017 - 30 June
+               2018, para. 53.
+           126 The police disrupted meetings of Crimean Solidarity on 27 January 2018 in Sudak and on 27 October
+
+               2018 in Simferopol.
+           127 Judgment of the Severo-Kavkazskiy circuit military court of the Russian Federation, 24 December
+
+               2018, Case No. 1-42/2018.
+           128 Judgment of the Supreme court of Crimea, 22 January 2019, Case No. 1-1/2019.
+
+26
+                                                                                                       A/HRC/40/CRP.3
+
+           banned Muslim groups, as well as the fact that they had possessed, read and discussed
+           books deemed to be ‘extremist’ under the Russian law despite the absence of any evidence
+           indicating that they had called for or planned to engage in any form of violence or violation
+           of public order.
+           107. OHCHR notes with concern that in September 2016, four other Crimean Tatar men
+           received long prison sentences for their alleged membership in the same organization, 129
+           while at least 11 other Crimean residents are currently on trial on similar charges. 130
+           OHCHR reiterates that freedom to manifest one’s religion or belief may only be limited on
+           the grounds prescribed by law, which are necessary to protect public safety, order, health,
+           morals or the fundamental rights and freedoms of others. 131
+           108. During the reporting period, at least five criminal cases against Crimean residents
+           charged for their alleged anti-Russian statements in social media were closed following the
+           de-criminalization of a single act of “incitement of hatred or violence” under Russian
+           law,132 which is de facto applied in Crimea. Previously, OHCHR reported extensively about
+           the systematic use by the Russian Federation authorities of the anti-extremism legislation in
+           Crimea against critics of the peninsula’s occupation and vocal pro-Ukrainian activists.133
+           OHCHR welcomes this positive step by the Russian Federation, although the extent to
+           which such de-criminalization will be implemented remains to be seen.
+
+D.         Illegal population transfers and freedom of movement
+
+           109. According to the Russian Federation judicial registry, in 2018, courts in Crimea
+           ordered deportation from the peninsula of at least 435 individuals considered foreigners
+           under Russian Federation laws, including 231 Ukrainian nationals. Of the total number in
+           2018, at least 50 individuals were “forcibly removed”, a procedure that prescribes
+           placement in temporary detention before deportation. Many of the deported were Ukrainian
+           citizens, whose residence rights in Crimea were not recognized by authorities. In one case,
+           a man, who had relocated to Crimea from Kyiv to undergo medical rehabilitation, was
+           deported after having been compelled to cooperate with law enforcement, or risk
+           detention.134
+           110. Deportations of protected persons from Crimea occur against the backdrop of
+           restrictions imposed on free movement between mainland Ukraine and the peninsula.
+           During the reporting period, the Federal Security Service of the Russian Federation denied
+           entry to a Ukrainian journalist and banned her from Crimea for 10 years. 135 Russian border
+           officials informed the journalist of the ban at one of the crossing points of the
+           Administrative Boundary Line without any explanation of the specific grounds for such
+           decision. Russian authorities issue similar bans to other journalists, civic activists, or other
+           public figures, who are perceived as critics of Crimea’s occupation.136
+           111. Individual or mass forcible transfers, as well as deportations of protected persons
+           from occupied territory to the territory of the occupying Power, or to that of any other
+           country, occupied or not, are prohibited under international humanitarian law, regardless of
+
+     129 See OHCHR report on the human rights situation in Ukraine, 16 August - 15 November 2016, para.
+         164.
+     130 See OHCHR report on the human rights situation in Ukraine, 16 May - 15 August 2018, para. 111-
+
+         112.
+     131 ICCPR, art. 18 (3).
+     132 Law of the Russian Federation No 519-FZ, 27 December 2018.
+     133 See inter alia OHCHR second thematic report “On the situation of human rights in the temporary
+
+         occupied Autonomous Republic of Crimea and the city of Sevastopol, Ukraine”, 13 September 2017 -
+         30 June 2018, para. 46.
+     134 OHCHR interview, 21 November 2018.
+     135 OHCHR interview, 29 November 2018.
+     136 See OHCHR first thematic report “On the situation of human rights in the temporary occupied
+
+         Autonomous Republic of Crimea and the city of Sevastopol, Ukraine”, 22 February 2014 - 12
+         September 2017, para. 128.
+
+                                                                                                                   27
+A/HRC/40/CRP.3
+
+              their motive.137 International human rights law guarantees to everyone the right to liberty of
+              movement and freedom to choose their own residence within their own country. 138
+
+      E.      Forced conscription
+
+              112. The reporting period was marked by the eighth conscription campaign of Crimean
+              residents into the Russian Federation Armed Forces since the beginning of the occupation.
+              During the latest campaign, which ended in December 2018, approximately 2,800 men
+              from Crimea were enlisted, bringing the overall number of Crimean conscripts to at least
+              14,800 men.139 The number of the enlisted Crimeans has significantly increased from 500
+              conscripts during the first military draft in 2015.
+
+              113. Draft evasion is punishable under Russian criminal law by up to two years
+              imprisonment. OHCHR notes that criminal prosecution of Crimean residents for evading
+              Russian military drafts has intensified during 2018, with at least 21 guilty verdicts. 140 One
+              defendant was sentenced to a suspended prison term, while others were fined. Forced
+              enlistment adversely affects the enjoyment of human rights of potential conscripts,
+              restricting their free movement and access to education and employment. In one case, a
+              resident of Crimea was forced at his local military draft commission to leave Crimea or face
+              conscription in the future. Registering at the military draft commission was also a
+              prerequisite for receiving his university diploma in Simferopol. 141
+              114. As an occupying power, the Russian Federation must comply with international
+              humanitarian law prohibiting compulsion of Crimean residents into its armed or auxiliary
+              forces.142 No pressure or propaganda aimed at securing voluntary enlistment is permitted.
+
+        137 Article 49 of the Fourth Geneva Convention.
+        138 ICCPR, Article 12.
+        139 All figures are approximate and primarily based on reports of the Ministry of Defense of the Russian
+
+            Federation.
+        140 These are the verdicts verifiable through the Russian Federation court registry. OHCHR has been able
+
+            to verify three such verdicts in 2017.
+        141 OHCHR interview, 15 January 2019.
+        142 Article 51 of the Fourth Geneva Convention.
+
+28
+                                                                                                   A/HRC/40/CRP.3
+
+VIII. Technical cooperation and capacity-building
+      115. OHCHR engages in technical cooperation and capacity-building activities to assist
+      the Government of Ukraine and civil society to protect and promote human rights.
+      116. OHCHR carried out 334 specific follow-up activities to facilitate the protection of
+      human rights connected with the cases documented, including trial monitoring, detention
+      visits, referrals to State institutions, humanitarian organizations and non-governmental
+      organizations (NGOs), and cooperation with United Nations human rights mechanisms.
+      OHCHR referred 34 allegations of human rights violations to specific duty-bearers; to the
+      Government of Ukraine, 19 allegations were raised with two fully and seven partially
+      addressed; to the ‘ombudsperson’ of ‘Donetsk people’s republic’ seven allegations were
+      raised with one fully and one partially addressed; and to ‘Luhansk people’s republic’ seven
+      allegations were raised with three partially addressed.
+      117. On 30 November, OHCHR, the Geneva Academy of International Humanitarian
+      Law and Human Rights and the Age and Disability Technical Working Group organized a
+      joint capacity-building training session on the Protection of the Rights of Persons with
+      Disabilities (PwD) in the armed conflict in Ukraine. Participants included Government
+      officials and local authorities, staff of international and national organizations, civil society
+      activists and persons with disabilities. The main purpose of the training was to strengthen
+      the protection of persons with disabilities affected by the conflict in Ukraine through raising
+      awareness of international standards, identifying challenges and needs related to protection
+      of PwD and establishing stronger cooperation between key stakeholders.
+
+ IX. Conclusions and recommendations
+      118. OHCHR welcomes the significant decrease in civilian casualties, however, the
+      armed conflict in eastern Ukraine continues, affecting lives and livelihoods not only of
+      more than five million civilians on both sides of the contact line, but the entire country. All
+      parties to the conflict need to fully implement the ceasefire and disengagement provisions
+      of the Minsk agreements to protect civilians, civilian property and infrastructure, and lessen
+      their daily hardships. The Government of Ukraine needs to step up efforts for protection of
+      conflict-affected civilians, including IDPs, regardless of where they reside in Ukraine, as
+      well as for the realization of their economic and social rights to pave the way for a durable
+      reconciliation between communities and restoring peace and stability in eastern Ukraine.
+      119. The Government must act to protect space for civic expression ahead of Ukraine’s
+      presidential, parliamentary and local elections in 2019 and 2020. Impunity for attacks on
+      media professionals, civil society activists, lawyers and political opponents weakens
+      Ukraine’s democratic institutions and fuels further intolerance, discrimination and violence,
+      and could compromise the integrity of the upcoming elections.
+      120. As in the previous reporting periods, OHCHR regrets the absence of the meaningful
+      progress in investigations and prosecutions of those responsible for the killings during the
+      Maidan protests and the violence that took place on 2 May 2014 in Odesa.
+      121. The human rights situation in Crimea continues to deteriorate as a direct result of the
+      Russian Federation authorities applying its laws against residents of Crimea in violation of
+      their obligations as an occupying power under the Fourth Geneva Convention, and other
+      violations of international humanitarian law affecting the protected population. The Russian
+      Federation must address pervasive human rights violations such as restrictions on freedoms
+      of religion, opinion and expression and association, as well as the intimidation and
+      harassment of human rights defenders, disproportionately affecting Crimean Tatars.
+      122. Most recommendations made in the previous OHCHR reports on the human rights
+      situation in Ukraine have not yet been implemented and remain valid. OHCHR further
+      recommends the following, based on the issues identified from 16 November 2018 to 15
+      February 2019.
+
+                                                                                                               29
+A/HRC/40/CRP.3
+
+           1.     To the Ukrainian authorities:
+           Parliament of Ukraine
+                   (a)   adopt and harmonize the legislation to serve as a base for developing a
+           comprehensive mechanism for restitution and compensation for property, damaged
+           and destroyed during the armed conflict in eastern Ukraine, as well as property,
+           currently in military use;
+                   (b)   revise the Law on War Veterans so that all civilians who acquired a
+           disability as a result of hostilities in eastern Ukraine in 2014-2019 can be eligible for
+           receiving status of war veterans and appropriate social protection.
+           Cabinet of Ministers:
+                   (c)   develop and adopt a national policy framework that establishes clear
+           institutional authorities and responsibilities for the protection of civilians and civilian
+           objects in hostilities, as recommended in the 2018 United Nations Secretary General’s
+           report on protection of civilians in armed conflict (S/2018/462);
+                   (d)   develop a comprehensive mechanism, including an administrative
+           procedure, for restitution of property and compensation for any damages and
+           destruction of civilian property in the armed conflict in eastern Ukraine;
+                   (e)   develop a non-discriminatory and accessible mechanism for restitution
+           and compensation for property, which is in military use, including keeping records of
+           civilian property and infrastructure in military use;
+                   (f)   allocate financial support to local authorities in order to provide safe and
+           adequate housing to the conflict-affected population and IDPs;
+                   (g)   ensure swift and full implementation of the law ‘On the legal status of
+           missing persons’, in particular by providing sufficient resources for effective
+           realization of mandate of the Commission on Missing Persons;
+                   (h)   ensure that the right to freedom to manifest religion or belief is protected
+           including at premises of the Ukrainian Armed Forces, in accordance with Article
+           18(3) of the ICCPR.
+           Ministry of Social Policy:
+                   (i)   adopt a non-discriminatory policy to provide equal access for all citizens
+           of Ukraine to pensions and social benefits, regardless of their place of residence or
+           IDP registration.
+           Ministry of Defence:
+                   (j)   finalize the draft Resolution regulating movement of individuals and
+           transfer of goods through the EECPs in line with international standards and in
+           consultation with the international community and civil society.
+           JFO Command:
+                   (k)   build up the capacity of the Working Group for Collection and
+           Consolidation of Information on Injuries and Deaths of Civilian Population;
+                   (l)   facilitate documentation of damages and destruction of civilian property
+           caused by hostilities in eastern Ukraine;
+                   (m) facilitate documentation (i.e. signing of lease agreements) and ensure
+           compensation for the military use of civilian homes and other property, including
+           when such use caused damage to property.
+           Military-Civil Administrations of Donetsk and Luhansk regions and local authorities:
+                   (n)   develop, in cooperation with the JFO Command, a response mechanism
+           guaranteeing affected population adequate alternative housing and compensation for
+           damages caused by hostilities or due to the military use of housing, land and property.
+           Ministry of Justice:
+                   (o)   establish an electronic registry of detained persons, including those who
+           were held in detention facilities in territory controlled by the self-proclaimed ‘Donetsk
+           people’s republic’ and self-proclaimed ‘Luhansk people’s republic’, before the
+           outbreak of the armed conflict in eastern Ukraine.
+           Judges and court administration:
+
+30
+                                                                                        A/HRC/40/CRP.3
+
+        (p)     conduct rigorous review of all plea bargains and refuse to accept them,
+when there are reasonable grounds to believe that pleas bargains were obtained by
+coercion or under psychological pressure due to prolonged pre-trial detention and
+when no evidence of guilt is presented;
+        (q)     ensure that there is sufficient number of judges in local courts to
+administer justice promptly and effectively.
+Office of the Prosecutor General and law enforcement agencies:
+        (r)     ensure prompt, impartial and effective investigation of all alleged
+incidents of arbitrary detention, torture, ill-treatment and enforced disappearance,
+including those allegedly committed by State actors or individuals acting with State
+authorization, support or acquiescence, in line with international standards, including
+Istanbul Protocol;
+        (s)     act to stop and effectively prosecute any acts of interference into
+activities of legal professionals, attacks on defence lawyers, and attempts to exert
+pressure on judges;
+        (t)     facilitate prompt trial proceedings in conflict-related criminal cases
+through, inter alia, requesting courts to ensure the presence of all parties and
+witnesses during trials;
+        (u)     condemn all acts of violence and promptly, impartially and efficiently
+investigate all violent attacks against media professionals, civic and political activists,
+human rights defenders, political parties, and defence lawyers. Motives of
+perpetrators and other aggravating circumstances should be considered during initial
+criminal classification and investigations into these attacks;
+        (v)     ensure adequate and effective security for all peaceful public assemblies,
+prevent and stop all acts of violence, while facilitating the exercise of freedom of
+peaceful assembly without discrimination;
+2.      To all parties involved in the hostilities in Donetsk and Luhansk regions,
+including the Ukrainian Armed Forces, and armed groups of the self-proclaimed
+‘Donetsk people’s republic’ and self-proclaimed ‘Luhansk people’s republic’:
+        (a)     strictly adhere to the ceasefire and disengagement provisions of the
+Minsk agreements;
+        (b)     ensure full compliance with international humanitarian law rules of
+distinction, proportionality and precaution, including by immediately ceasing the use
+of weapons with indiscriminate effect in populated areas, particularly weapons with
+wide impact area;
+        (c)     take all possible measures to minimize harm to the civilian population,
+including by positioning military objects outside of densely populated areas, and
+refraining from deliberately targeting civilians or civilian infrastructure, such as
+water facilities and power lines;
+        (d)     create conditions for safe and quick crossing of the contact line by
+        civilians, including an improved access to the first medical aid at EECPs and
+near them.
+3.      To the self-proclaimed ‘Donetsk people’s republic’ and self-proclaimed
+‘Luhansk people’s republic’:
+        (a)     ensure unimpeded and confidential access by OHCHR and other
+international organisations to all places of deprivation of liberty and allow private,
+confidential interviews with detainees in accordance with international standards;
+        (b)     refrain from practice of ‘preventive arrest’ and ‘administrative arrest’,
+which may amount to incommunicado detention and provide information on
+detainees’ whereabouts to their families;
+        (c)             treat all persons in detention humanely in all circumstances and
+ensure conditions of detention are in accordance with international standards;
+        (d)     continue transfers of prisoners to the government-controlled territory
+and in doing so prioritize the transfer of those individuals, who had been held in pre-
+trial custody at the time when the armed conflict broke out.
+
+                                                                                                    31
+A/HRC/40/CRP.3
+
+           4.      In the context of the Autonomous Republic of Crimea and the city of
+           Sevastopol, Ukraine, temporarily occupied by the Russian Federation, to the
+           Government of the Russian Federation:
+                   (a)    implement General Assembly Resolution 73/263 of 22 December 2018,
+           including by ensuring proper and unimpeded access of international human rights
+           monitoring missions and human rights non-governmental organizations to Crimea;
+                   (b)    respect the laws in place in Crimea in 2014 before the beginning of the
+           occupation, in particular by refraining from enforcing Russian Federation legislation
+           in Crimea;
+                   (c)    ensure unimpeded freedom of movement between Crimea and mainland
+           Ukraine; end the practice of apprehension of protected persons at the ABL and in the
+           territorial waters adjacent to Crimea;
+                   (d)    ensure humane treatment, appropriate medical care, unrestricted access
+           of Ukrainian consular officers and defence counsels to 24 Ukrainian crew members
+           detained by the Russian Federation following the naval incident near the Kerch strait
+           on 25 November 2018;
+                   (e)    take all necessary steps to ensure that freedoms of expression, peaceful
+           assembly, association, thought, conscience and religion or belief can be exercised by
+           all in Crimea, without discrimination on any grounds;
+                   (f)    enable a safe environment for independent and pluralistic media outlets
+           and civil society organizations; ensure unimpeded access of Ukrainian and foreign
+           journalists, human rights defenders and other civil society actors to Crimea;
+                   (g)    end the practice of applying legislation on extremism, terrorism and
+           separatism to criminalize free speech and peaceful conduct; stop prosecuting Crimean
+           residents for possession of publications or sharing of social media content that does
+           not constitute calls for discrimination or violence;
+                   (h)    take all necessary measures to ensure the independence of the legal
+           profession and to enable lawyers and human rights defenders in Crimea, including
+           Emil Kurbedinov, to perform their professional functions freely and without any
+           intimidation, threat, harassment or interference;
+                   (i)    refrain from compelling residents of Crimea to serve in the armed forces
+           of the Russian Federation;
+                   (j)    end the practice of deportations and forcible transfers of protected
+           persons, including detainees, outside the occupied territory.
+           5.      In the context of the Autonomous Republic of Crimea and the city of
+           Sevastopol, Ukraine, temporarily occupied by the Russian Federation, to the
+           Government of Ukraine:
+                   (a)    respect human rights obligations in relation to Crimean residents; use all
+           legal and diplomatic means available to this end.
+                   6.     To the international community:
+                 (a)     continue using all diplomatic means to press all parties to immediately
+           end hostilities and implement all obligations foreseen in the Minsk agreements,
+           emphasizing how the active armed conflict causes suffering of civilians and hampers
+           prospects for stability, peace and reconciliation;
+                 (b)    use all influence possible to ensure unimpeded access and operation of
+           OHCHR in territory controlled by ‘Donetsk people’s republic’ and ‘Luhansk people’s
+           republic’, and in Crimea;
+                 (c)   urge the Russian Federation to comply with its obligations as an
+           occupying power under international human rights and humanitarian law;
+                  (d)    continue advocacy for the respect of human rights, including by
+           condemning human rights violations committed by State agents of the Russian
+           Federation in Crimea at bilateral and multilateral forums; conduct, within practical
+           limits, trial monitoring in the Russian Federation in cases involving Ukrainian
+           detainees transferred from Crimea.
