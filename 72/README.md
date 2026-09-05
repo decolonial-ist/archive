@@ -3,6 +3,8 @@
 **Автор:** Yaşar M.
 **Год публикации:** 2022
 **Где напечатано:** Edinburgh: Edinburgh University Press, 2022. ISBN 978-1-4744-9869-2
+**Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/72
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Издание: [https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ](https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

@@ -3,6 +3,8 @@
 **Автор:** Ульяненко В.
 **Год публикации:** 2024
 **Где напечатано:** Главком
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2024 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/513
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html](https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html)
-
-Права на публикацию: нельзя (современная публикация 2024 года под авторским правом)
 
 ---
 

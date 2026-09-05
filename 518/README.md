@@ -3,6 +3,8 @@
 **Автор:** ТСН
 **Год публикации:** 2022
 **Где напечатано:** ТСН
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/518
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html](https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

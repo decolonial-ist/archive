@@ -2,6 +2,8 @@
 
 **Автор:** Human Rights Watch
 **Год публикации:** 2022
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой)
 
 Страница витрины: https://archive.decolonial.ist/517
 
@@ -15,8 +17,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods](https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods)
-
-Права на публикацию: свободно (Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

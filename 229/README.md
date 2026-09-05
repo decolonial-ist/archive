@@ -3,6 +3,8 @@
 **Автор:** Stern J., Pirani S., Yafimava K.
 **Год публикации:** 2009
 **Где напечатано:** Oxford Institute for Energy Studies
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 
 Страница витрины: https://archive.decolonial.ist/229
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 
 ---
 

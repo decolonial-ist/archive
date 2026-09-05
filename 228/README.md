@@ -3,6 +3,8 @@
 **Автор:** Stern J.
 **Год публикации:** 2006
 **Где напечатано:** Oxford Institute for Energy Studies
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 
 Страница витрины: https://archive.decolonial.ist/228
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
 
 ---
 

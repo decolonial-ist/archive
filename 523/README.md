@@ -3,6 +3,8 @@
 **Автор:** Укрінформ
 **Год публикации:** 2022
 **Где напечатано:** Укрінформ
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (ukrinform.ua))
 
 Страница витрины: https://archive.decolonial.ist/523
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html](https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (ukrinform.ua))
 
 ---
 

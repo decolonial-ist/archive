@@ -3,6 +3,8 @@
 **Автор:** Переяслав.City
 **Год публикации:** 2022
 **Где напечатано:** Переяслав.City
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/364
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

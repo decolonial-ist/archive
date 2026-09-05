@@ -2,6 +2,8 @@
 
 **Автор:** Медійна ініціатива за права людини
 **Год публикации:** 2022
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/522
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/](https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

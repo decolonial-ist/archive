@@ -2,6 +2,8 @@
 
 **Автор:** Кушева Е. Н.
 **Год публикации:** 1957
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** свободно: документ (сборник документов XVI-XVIII веков, тексты в общественном достоянии)
 
 Страница витрины: https://archive.decolonial.ist/92
 
@@ -12,8 +14,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/)
-
-Права на публикацию: свободно: документ (сборник документов XVI-XVIII веков, тексты в общественном достоянии)
 
 ---
 

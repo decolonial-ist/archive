@@ -3,6 +3,8 @@
 **Автор:** Інформатор Переяслав, 25.04.2022
 **Год публикации:** 2022
 **Где напечатано:** Інформатор Переяслав, 25.04.2022
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/469
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/](https://ps.informator.ua/2022/04/25/u-stolyczi-demontuyut-skulpturu-symvol-vozzyednannya-ukrayiny-z-rosiyeyu-a-shho-v-pereyaslavi/)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

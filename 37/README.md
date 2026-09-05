@@ -2,6 +2,8 @@
 
 **Автор:** MITRE ATT&CK®
 **Год публикации:** 2023
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE)
 
 Страница витрины: https://archive.decolonial.ist/37
 
@@ -9,14 +11,12 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 2 КБ | в этой папке |
 | [campaign_c0026_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf) | PDF | 27 КБ | в этой папке |
+| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://attack.mitre.org/campaigns/C0026/](https://attack.mitre.org/campaigns/C0026/)
-
-Права на публикацию: свободно (MITRE ATT&CK Terms of Use: перепубликация разрешена при сохранении копирайта MITRE)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

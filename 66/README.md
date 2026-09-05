@@ -2,6 +2,8 @@
 
 **Автор:** Ахмадов Ш. Б.
 **Год публикации:** 2002
+**Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
+**Права на публикацию:** нельзя (современная монография под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/66
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf](https://dzurdzuki.com/wp-content/uploads/download-manager-files/Ahmadov-SH.-B.-CHechnya-i-Ingushetiya-V-HUSH-nachale-XIX-veka-2002-god..pdf)
-
-Права на публикацию: нельзя (современная монография под авторским правом)
 
 ---
 

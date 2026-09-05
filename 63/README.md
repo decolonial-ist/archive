@@ -2,6 +2,8 @@
 
 **Автор:** Laruelle M.
 **Год публикации:** 2015
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** нельзя (современная научная статья под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/63
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May)
-
-Права на публикацию: нельзя (современная научная статья под авторским правом)
 
 ---
 

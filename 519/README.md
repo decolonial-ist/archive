@@ -3,6 +3,8 @@
 **Автор:** Порощук Н.
 **Год публикации:** 2025
 **Где напечатано:** Главком
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2025 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/519
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html](https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html)
-
-Права на публикацию: нельзя (современная публикация 2025 года под авторским правом)
 
 ---
 

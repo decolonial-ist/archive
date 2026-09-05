@@ -3,6 +3,8 @@
 **Автор:** Дендиев К. Г., Осмаев А. Д.
 **Год публикации:** 2022
 **Где напечатано:** Архивный вестник. Вып. 8. Грозный, страницы 22-35
+**Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
+**Права на публикацию:** нельзя (современная научная статья под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/482
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
-
-Права на публикацию: нельзя (современная научная статья под авторским правом)
 
 ---
 

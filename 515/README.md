@@ -3,6 +3,8 @@
 **Автор:** Independent International Commission of Inquiry on Ukraine
 **Год публикации:** 2025
 **Где напечатано:** Office of the United Nations High Commissioner for Human Rights
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Страница витрины: https://archive.decolonial.ist/515
 
@@ -16,8 +18,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians](https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians)
-
-Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

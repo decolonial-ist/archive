@@ -3,6 +3,8 @@
 **Автор:** Ігнатенко О., Товкайло М.
 **Год публикации:** 2020
 **Где напечатано:** Переяслав.City
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2020 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/365
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti](https://pereiaslav.city/blogs/70141/get-vid-moskvi-chi-naviki-razom-scho-robiti-z-pamyatnikami-yaki-vikonuyut-rol-ideologichnoi-otruti)
-
-Права на публикацию: нельзя (современная публикация 2020 года под авторским правом)
 
 ---
 

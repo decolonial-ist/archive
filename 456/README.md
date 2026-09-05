@@ -3,6 +3,8 @@
 **Автор:** 0629.com.ua, 5 травня 2022
 **Год публикации:** 2022
 **Где напечатано:** 0629.com.ua, 5 травня 2022
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/456
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto](https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

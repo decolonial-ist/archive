@@ -3,6 +3,8 @@
 **Автор:** Суспільне Крим, 27.01.2026
 **Год публикации:** 2026
 **Где напечатано:** Суспільне Крим, 27.01.2026
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 
 Страница витрины: https://archive.decolonial.ist/330
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/](https://suspilne.media/crimea/1223854-podarunku-ne-bulo-ak-krim-u-54-mu-perejsov-do-skladu-ukraini-i-akou-bula-rol-hrusova/)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 
 ---
 

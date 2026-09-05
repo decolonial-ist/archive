@@ -2,6 +2,8 @@
 
 **Автор:** Кушева Е. Н.
 **Год публикации:** 1997
+**Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
+**Права на публикацию:** нельзя (современное издание под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/82
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/](https://dzurdzuki.com/download/kusheva-e-n-russko-chechenskie-otnosheniya-vtoraya-pol-xvi-xvii-v-sost-1997-g/)
-
-Права на публикацию: нельзя (современное издание под авторским правом)
 
 ---
 

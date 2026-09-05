@@ -2,6 +2,8 @@
 
 **Автор:** Humanitarian Research Lab, Yale School of Public Health
 **Год публикации:** 2022
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (hub.conflictobservatory[.]org))
 
 Страница витрины: https://archive.decolonial.ist/224
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: `hub.conflictobservatory[.]org/portal/apps/sites/#/home/pages/filtration-1`
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (hub.conflictobservatory[.]org))
 
 ---
 

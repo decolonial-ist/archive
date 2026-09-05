@@ -317,17 +317,17 @@
    "source": "https://attack.mitre.org/campaigns/C0026/",
    "files": [
     {
-     "name": "campaign_c0026_mitre_att_ck_2023.txt",
-     "bytes": 2311,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt",
-     "where": "repo"
-    },
-    {
      "name": "campaign_c0026_mitre_att_ck_2023.pdf",
      "bytes": 27739,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "campaign_c0026_mitre_att_ck_2023.txt",
+     "bytes": 2311,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt",
      "where": "repo"
     }
    ],

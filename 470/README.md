@@ -3,6 +3,8 @@
 **Автор:** Фокус (focus.ua), 11.11.2022, 14:05; відео з телеграм-каналу «Николаевский Ванек»
 **Год публикации:** 2022
 **Где напечатано:** Фокус (focus.ua), 11.11.2022, 14:05; відео з телеграм-каналу «Николаевский Ванек»
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2022 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/470
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video](https://focus.ua/voennye-novosti/536675-v-deokkupirovannoy-chasti-hersonskoy-oblasti-sryvayut-plakaty-rossiya-zdes-navsegda-video)
-
-Права на публикацию: нельзя (современная публикация 2022 года под авторским правом)
 
 ---
 

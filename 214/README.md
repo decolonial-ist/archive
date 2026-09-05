@@ -2,6 +2,8 @@
 
 **Автор:** Національний музей Голодомору-геноциду
 **Год публикации:** 2024
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (holodomormuseum.org.ua))
 
 Страница витрины: https://archive.decolonial.ist/214
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (holodomormuseum.org.ua))
 
 ---
 

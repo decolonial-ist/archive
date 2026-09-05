@@ -3,6 +3,8 @@
 **Автор:** Академія наук УРСР
 **Год публикации:** 1971
 **Где напечатано:** редакційна колегія: Тронько П. Т. (голова) та інші
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (издание 1971 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/363
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya](https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya)
-
-Права на публикацию: нельзя (издание 1971 года под авторским правом)
 
 ---
 

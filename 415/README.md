@@ -2,6 +2,8 @@
 
 **Автор:** Огієнко І. (митрополит Іларіон)
 **Год публикации:** 1993
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 1993 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/415
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/)
-
-Права на публикацию: нельзя (современная публикация 1993 года под авторским правом)
 
 ---
 

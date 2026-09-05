@@ -3,6 +3,8 @@
 **Автор:** Office of the United Nations High Commissioner for Human Rights
 **Год публикации:** 2026
 **Где напечатано:** Human Rights Monitoring Mission in Ukraine
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Страница витрины: https://archive.decolonial.ist/530
 
@@ -15,8 +17,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities](https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities)
-
-Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

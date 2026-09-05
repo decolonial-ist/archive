@@ -3,6 +3,8 @@
 **Автор:** Укрінформ
 **Год публикации:** 2023
 **Где напечатано:** Укрінформ
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (ukrinform.ua))
 
 Страница витрины: https://archive.decolonial.ist/524
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html](https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (ukrinform.ua))
 
 ---
 

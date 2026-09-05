@@ -2,6 +2,8 @@
 
 **Автор:** Гриневич В. А., Гриневич Л. В.
 **Год публикации:** 2001
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современное издание под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/496
 
@@ -10,8 +12,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf](https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf)
-
-Права на публикацию: нельзя (современное издание под авторским правом)
 
 ---
 

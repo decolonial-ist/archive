@@ -3,6 +3,8 @@
 **Автор:** International Atomic Energy Agency
 **Год публикации:** 2022
 **Где напечатано:** 28 February 2022; via ReliefWeb
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Страница витрины: https://archive.decolonial.ist/321
 
@@ -17,8 +19,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022](https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022)
-
-Права на публикацию: свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

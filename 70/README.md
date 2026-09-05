@@ -3,6 +3,8 @@
 **Автор:** Khodarkovsky M.
 **Год публикации:** 2002
 **Где напечатано:** Bloomington: Indiana University Press, 2002. ISBN 978-0-253-21770-7
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** нельзя (современная публикация 2002 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/70
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Издание: [https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC](https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC)
-
-Права на публикацию: нельзя (современная публикация 2002 года под авторским правом)
 
 ---
 

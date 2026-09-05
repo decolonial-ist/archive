@@ -3,6 +3,8 @@
 **Автор:** Russia Matters (Belfer Center, Harvard Kennedy School)
 **Год публикации:** 2026
 **Где напечатано:** данные Institute for the Study of War по состоянию на 12.05.2026
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2026 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/473
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
-
-Права на публикацию: нельзя (современная публикация 2026 года под авторским правом)
 
 ---
 

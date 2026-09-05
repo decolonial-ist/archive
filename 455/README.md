@@ -3,6 +3,8 @@
 **Автор:** Суспільне Харків
 **Год публикации:** 2023
 **Где напечатано:** Суспільне Харків
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 
 Страница витрины: https://archive.decolonial.ist/455
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/](https://suspilne.media/kharkiv/409254-boritesa-poborete-istoria-plakata-z-radkami-sevcenka-akogo-rosiani-zakleili-pid-cas-okupacii-balaklii/)
-
-Права на публикацию: нельзя (материал организации или СМИ под авторским правом (suspilne.media))
 
 ---
 

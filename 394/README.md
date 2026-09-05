@@ -3,6 +3,8 @@
 **Автор:** Пётр I
 **Год публикации:** 1948
 **Где напечатано:** редактор Андреев И. Н.; М.-Ленинград: Изд-во АН СССР
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно: документ (бумаги Петра I, тексты в общественном достоянии)
 
 Страница витрины: https://archive.decolonial.ist/394
 
@@ -13,8 +15,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0)
-
-Права на публикацию: свободно: документ (бумаги Петра I, тексты в общественном достоянии)
 
 ---
 

@@ -3,6 +3,8 @@
 **Автор:** StopFake
 **Год публикации:** 2015
 **Где напечатано:** по репортажу BBC Наталии Антелавы
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2015 года под авторским правом)
 
 Страница витрины: https://archive.decolonial.ist/323
 
@@ -11,8 +13,6 @@
 ## Откуда это у нас
 
 Первоисточник: [https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/](https://www.stopfake.org/ru/bi-bi-si-razoblachili-lozh-rossijskih-smi-o-yakoby-pogibshej-10-letnej-devochke/)
-
-Права на публикацию: нельзя (современная публикация 2015 года под авторским правом)
 
 ---
 
