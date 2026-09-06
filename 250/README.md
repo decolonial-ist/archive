@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/250
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [ilyustrovana_istoriya_ukraini_1921.txt](https://github.com/decolonial-ist/archive/blob/main/250/ilyustrovana_istoriya_ukraini_1921.txt) | текст | 2.0 МБ | в этой папке |
+| [ilyustrovana_istoriya_ukraini_1921.pdf](https://github.com/decolonial-ist/archive/blob/main/250/ilyustrovana_istoriya_ukraini_1921.pdf) | PDF | 1.6 МБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/](https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

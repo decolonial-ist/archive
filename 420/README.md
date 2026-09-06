@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/420
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [nimci_v_ukraini_20_30_ti_rr_xx_st_1994.pdf](https://github.com/decolonial-ist/archive/blob/main/420/nimci_v_ukraini_20_30_ti_rr_xx_st_1994.pdf) | PDF | 30 КБ | в этой папке |
+| [nimci_v_ukraini_20_30_ti_rr_xx_st_1994.txt](https://github.com/decolonial-ist/archive/blob/main/420/nimci_v_ukraini_20_30_ti_rr_xx_st_1994.txt) | текст | 6 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

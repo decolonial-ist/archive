@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/581
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.txt](https://github.com/decolonial-ist/archive/blob/main/581/prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.txt) | текст | 1 КБ | в этой папке |
+| [prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/581/prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.pdf) | PDF | 27 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

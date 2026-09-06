@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **222**, файлов: **453**, объём: **3.41 ГиБ**. Из 699 материалов базы распространять разрешено 389, из них 72 - только текстом документа, без издания целиком; 305 остаются ссылкой на первоисточник.
+Выложено материалов: **233**, файлов: **477**, объём: **3.42 ГиБ**. Из 699 материалов базы распространять разрешено 389, из них 72 - только текстом документа, без издания целиком; 305 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,8 +18,8 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 134 | нет: срок охраны истёк |
-| не охраняется авторским правом | 49 | нет: закон выводит официальные документы из-под авторского права |
+| общественное достояние | 143 | нет: срок охраны истёк |
+| не охраняется авторским правом | 51 | нет: закон выводит официальные документы из-под авторского права |
 | CC BY 4.0 | 16 | ссылка на источник |
 | CC BY-SA 4.0 | 7 | ссылка на источник и та же лицензия у производного |
 | Музей ХПГ: передрук со ссылкой | 5 | ссылка на источник |
@@ -50,7 +50,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 222 материалов, 453 файлов
+## Что выложено - 233 материалов, 477 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -61,6 +61,7 @@
 | [33](https://archive.decolonial.ist/33) | 2016 Ukraine Electric Power Attack / MITRE ATT&CK® | MITRE ATT&CK® | 2023 | MITRE ATT&CK Terms of Use | 2 | 0.1 МиБ | [https://attack.mitre.org/campaigns/C0025/](https://attack.mitre.org/campaigns/C0025/) |
 | [36](https://archive.decolonial.ist/36) | APT28 Nearest Neighbor Campaign / MITRE ATT&CK® | MITRE ATT&CK® | 2025 | MITRE ATT&CK Terms of Use | 2 | 0.0 МиБ | [https://attack.mitre.org/campaigns/C0051/](https://attack.mitre.org/campaigns/C0051/) |
 | [37](https://archive.decolonial.ist/37) | Campaign C0026 / MITRE ATT&CK® | MITRE ATT&CK® | 2023 | MITRE ATT&CK Terms of Use | 2 | 0.0 МиБ | [https://attack.mitre.org/campaigns/C0026/](https://attack.mitre.org/campaigns/C0026/) |
+| [92](https://archive.decolonial.ist/92) | Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы. Том I | Кушева Е. Н. | 1957 | общественное достояние | 2 | 0.1 МиБ | [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/) |
 | [96](https://archive.decolonial.ist/96) | Записки А.П. Ермолова. 1798-1826 гг. | Ермолов А. П. | 1991 | общественное достояние | 1 | 1.4 МиБ | `militera.lib[.]ru/memo/russian/ermolov_ap/index.html` |
 | [99](https://archive.decolonial.ist/99) | Акты собранные Кавказскою археографическою комиссиею. Том III (1806-1809) | Кавказская археографическая комиссия | 1869 | общественное достояние | 2 (в релизе 1) | 106.1 МиБ | `apsnyteka[.]org/381-akak_i_xii.html` |
 | [100](https://archive.decolonial.ist/100) | Акты собранные Кавказскою археографическою комиссиею. Том IV (1809-1811) | Кавказская археографическая комиссия | 1870 | общественное достояние | 2 (в релизе 1) | 166.7 МиБ | `apsnyteka[.]org/381-akak_i_xii.html` |
@@ -78,6 +79,7 @@
 | [121](https://archive.decolonial.ist/121) | 1858 год в Чечне | Волконский Н. А. | 1879 | общественное достояние | 2 | 0.6 МиБ | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
 | [122](https://archive.decolonial.ist/122) | Воспоминания | Полторацкий В. А. | 1895 | общественное достояние | 2 | 1.9 МиБ | `www.vostlit[.]info/Texts/Dokumenty/M.Asien/XIX/1860-1880/Poltorackij/text1.htm` |
 | [123](https://archive.decolonial.ist/123) | Сказание очевидца о Шамиле | Гаджи-Али | 1873 | общественное достояние | 2 | 0.4 МиБ | `kp.rusneb[.]ru/item/material/skazanie-ochevidca-o-shamile` |
+| [126](https://archive.decolonial.ist/126) | Движение горцев северо-восточного Кавказа в 20-50 гг. XIX века: сборник документов | Гаджиев В. Г., Рамазанов X. X. | 1959 | общественное достояние | 2 | 0.9 МиБ | [https://books.google.com.ua/books/about/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D1%81%D0%B5%D0%B2%D0%B5%D1%80.html?id=c4xizwEACAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D1%81%D0%B5%D0%B2%D0%B5%D1%80.html?id=c4xizwEACAAJ&redir_esc=y) |
 | [129](https://archive.decolonial.ist/129) | Кавказские войны и имамат Шамиля | Покровский Н. И. | 2009 | общественное достояние | 3 (в релизе 1) | 181.2 МиБ | [https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_%D0%B8_%D0%B8%D0%BC.html?id=OR8qAQAAMAAJ&redir_esc=y) |
 | [131](https://archive.decolonial.ist/131) | Моя боевая жизнь. Записки Войска Донскаго генерал-лейтенанта Якова Петрова Бакланова, написанные собственною его рукою | Бакланов Я. П. | 1871 | общественное достояние | 2 | 0.2 МиБ | `readli[.]net/moya-boevaya-zhizn-yazyik-doreformennyiy/` |
 | [133](https://archive.decolonial.ist/133) | Три года на Кавказе (1837-1839) | Юров А. | 1884 | общественное достояние | 2 | 2.1 МиБ | `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Tri_goda_Kavkaz/text1.htm` |
@@ -140,6 +142,7 @@
 | [245](https://archive.decolonial.ist/245) | Статья Владимира Путина «Об историческом единстве русских и украинцев» | Путин В. В. | 2021 | CC BY 4.0 | 2 | 0.2 МиБ | `kremlin[.]ru/events/president/news/66181` |
 | [248](https://archive.decolonial.ist/248) | К населению Малороссии | Деникин А. И. | 1919 | общественное достояние | 1 | 0.0 МиБ | `design-for[.]net/page/obrashhenie-denikina-k-naseleniju-malorossii` |
 | [249](https://archive.decolonial.ist/249) | Історія України-Руси: Т. IX | Грушевський М. С. | 1931 | общественное достояние | 4 | 0.3 МиБ | [http://litopys.org.ua/hrushrus/iur9.htm](http://litopys.org.ua/hrushrus/iur9.htm) |
+| [250](https://archive.decolonial.ist/250) | Ілюстрована історія України | Грушевський М. С. | 1921 | общественное достояние | 2 | 3.6 МиБ | [https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/](https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/) |
 | [253](https://archive.decolonial.ist/253) | К вопросу о ходе и основных этапах восстания в Чечне в 1877 году | Исмаилова А. И. | 2007 | CC BY 4.0 | 2 | 0.2 МиБ | `cyberleninka[.]ru/article/n/k-voprosu-o-hode-i-osnovnyh-etapah-vosstaniya-v-chechne-v-1877-godu` |
 | [254](https://archive.decolonial.ist/254) | Становление и развитие нефтяной промышленности в Терской области | Гайтамирова С. А. | 2018 | CC BY 4.0 | 2 | 3.5 МиБ | `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-neftyanoy-promyshlennosti-v-terskoy-oblasti-v-kontse-xix-nachale-xx-v` |
 | [255](https://archive.decolonial.ist/255) | Политика царизма по переселению горцев Северо-Восточного Кавказа в Турцию | Болохина Н. И. | 2010 | CC BY 4.0 | 2 | 0.3 МиБ | `cyberleninka[.]ru/article/n/politika-tsarizma-po-pereseleniyu-gortsev-severo-vostochnogo-kavkaza-v-turtsiyu-vtoraya-polovina-hih-nachalo-hh-veka` |
@@ -166,10 +169,12 @@
 | [366](https://archive.decolonial.ist/366) | Наказ Міністерства культури та інформаційної політики України № 223 | Міністерство культури та інформаційної політики України | 2022 | не охраняется авторским правом | 3 | 0.1 МиБ | [https://mincult.gov.ua/files/pdf/223_%D0%B2%D1%96%D0%B4_28.06.22_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2.pdf](https://mincult.gov.ua/files/pdf/223_%D0%B2%D1%96%D0%B4_28.06.22_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2.pdf) |
 | [367](https://archive.decolonial.ist/367) | Наказ Міністерства культури і туризму України № 58/0/16-10 | Міністерство культури і туризму України | 2010 | не охраняется авторским правом | 3 | 1.3 МиБ | [https://wlm.org.ua/docs/mku/2010/58-0-16-10.pdf](https://wlm.org.ua/docs/mku/2010/58-0-16-10.pdf) |
 | [368](https://archive.decolonial.ist/368) | Очерк начала революционного движения в Чечне | Ошаев Х. Д. | 1928 | общественное достояние | 3 (в релизе 1) | 18.7 МиБ | `litmir[.]club/bd/?b=947954` |
+| [386](https://archive.decolonial.ist/386) | Українська ідентичність і мовне питання в Російській імперії | Інститут історії України НАН України | 2013 | общественное достояние | 2 | 0.1 МиБ | [https://archive.org/details/ukrainska2013](https://archive.org/details/ukrainska2013) |
 | [387](https://archive.decolonial.ist/387) | Про затвердження списку пам'яток мистецтва, історії та археології Української РСР | Рада Міністрів УРСР | 1965 | не охраняется авторским правом | 2 | 0.2 МиБ | [https://zakon.rada.gov.ua/laws/show/711-65-%D0%BF](https://zakon.rada.gov.ua/laws/show/711-65-%D0%BF) |
 | [390](https://archive.decolonial.ist/390) | Полное собрание законов Российской империи. Собрание первое. Том XX (1775-1780) | Екатерина II | 1830 | общественное достояние | 2 (в релизе 1) | 62.9 МиБ | `psz.ri.org[.]ru/I/XX.pdf` |
 | [391](https://archive.decolonial.ist/391) | Полное собрание законов Российской империи. Собрание первое. Том XXI (1781-1783) | Екатерина II | 1830 | общественное достояние | 2 (в релизе 1) | 64.4 МиБ | `psz.ri.org[.]ru/I/XXI.pdf` |
 | [393](https://archive.decolonial.ist/393) | Источники Малороссийской истории, собранные Д.Н.Бантышем-Каменским и изданные О.Бодянским. Часть 2 (1691-1722) | Бантыш-Каменский Д. Н. | 1859 | общественное достояние | 2 | 0.1 МиБ | [https://archive.org/details/istochniki_malorossiyskoy_istorii_chast_23_1691_1722](https://archive.org/details/istochniki_malorossiyskoy_istorii_chast_23_1691_1722) |
+| [394](https://archive.decolonial.ist/394) | Письма и бумаги императора Петра Великого. Т. VIII, вып. 1 (июль-декабрь 1708 г.) | Пётр I | 1948 | общественное достояние | 2 | 0.0 МиБ | [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0) |
 | [395](https://archive.decolonial.ist/395) | Высочайше утвержденный доклад князя Шаховского, генерал-аншефа Панина об учреждении Слободской губернии | Екатерина II | 1764 | общественное достояние | 2 (в релизе 1) | 68.1 МиБ | `psz.ri.org[.]ru/I/XVI.pdf` |
 | [396](https://archive.decolonial.ist/396) | Манифест об учреждении в Слободских полках гражданского устройства | Екатерина II | 1765 | общественное достояние | 2 | 0.0 МиБ | `psz.ri.org[.]ru/I/XVII.pdf` |
 | [397](https://archive.decolonial.ist/397) | Именный указ, данный Сенату, об учреждении Киевского наместничества | Екатерина II | 1781 | общественное достояние | 1 (в релизе 1) | 58.1 МиБ | `psz.ri.org[.]ru/I/XXI.pdf` |
@@ -182,6 +187,7 @@
 | [407](https://archive.decolonial.ist/407) | Памятник царю-освободителю императору Александру II | - | 2026 | общественное достояние | 1 | 0.0 МиБ | `www.prlib[.]ru/item/436361` |
 | [414](https://archive.decolonial.ist/414) | Пам'ятний знак на честь 300-річчя Переяславської Ради, обеліск на площі Переяславської Ради | Волтарс | 2014 | CC BY-SA 4.0 | 1 | 0.7 МиБ | [https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0_%D1%87%D0%B5%D1%81%D1%82%D1%8C_300-%D1%80%D1%96%D1%87%D1%87%D1%8F_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8,_%D0%BE%D0%B1%D0%B5%D0%BB%D1%96%D1%81%D0%BA_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D1%96_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8.jpg](https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0_%D1%87%D0%B5%D1%81%D1%82%D1%8C_300-%D1%80%D1%96%D1%87%D1%87%D1%8F_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8,_%D0%BE%D0%B1%D0%B5%D0%BB%D1%96%D1%81%D0%BA_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D1%96_%D0%9F%D0%B5%D1%80%D0%B5%D1%8F%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%B0%D0%B4%D0%B8.jpg) |
 | [416](https://archive.decolonial.ist/416) | Указ об утверждении временного Положения о военной цензуре | Николай II | 1914 | не охраняется авторским правом | 1 | 0.1 МиБ | `museumreforms[.]ru/node/13702` |
+| [420](https://archive.decolonial.ist/420) | Німці в Україні. 20—30-ті рр. XX ст. | Інститут національних відносин і політології НАН України, Інститут історії України НАН України | 1994 | общественное достояние | 2 | 0.0 МиБ | [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB) |
 | [421](https://archive.decolonial.ist/421) | О ликвидации национальных школ и национальных отделений в школах | Организационное бюро Центрального комитета ВКП(б) | 1938 | не охраняется авторским правом | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/123862` |
 | [422](https://archive.decolonial.ist/422) | О ликвидации национальных районов и сельсоветов | Организационное бюро Центрального комитета ВКП(б) | 1938 | не охраняется авторским правом | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/123861` |
 | [423](https://archive.decolonial.ist/423) | Об обязательном изучении русского языка в школах национальных республик и областей | Центральный комитет ВКП(б) и Совет народных комиссаров СССР | 1938 | не охраняется авторским правом | 2 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/123876` |
@@ -211,9 +217,12 @@
 | [490](https://archive.decolonial.ist/490) | Резолюция I Всеукраинского съезда Советов о самоопределении Украины | I Всеукраинский съезд Советов | 1917 | общественное достояние | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/342188` |
 | [491](https://archive.decolonial.ist/491) | Общий свод по Империи результатов разработки данных Первой всеобщей переписи населения, произведенной 28 января 1897 года. Т. 2 | Центральный статистический комитет Министерства внутренних дел | 1905 | общественное достояние | 3 (в релизе 1) | 37.3 МиБ | [https://archive.org/details/obschijsvodpoimperiirezultatovrazrabotk19](https://archive.org/details/obschijsvodpoimperiirezultatovrazrabotk19) |
 | [492](https://archive.decolonial.ist/492) | Уривки з спогадів про українську революцію | Затонський В. П. | 1929 | общественное достояние | 2 | 0.3 МиБ | [https://uk.wikisource.org/wiki/Літопис_революції/1929/4/Уривки_з_спогадів_про_українську_революцію](https://uk.wikisource.org/wiki/Літопис_революції/1929/4/Уривки_з_спогадів_про_українську_революцію) |
+| [495](https://archive.decolonial.ist/495) | Денник Начальної Команди Української Галицької Армії | Начальна Команда Української Галицької Армії | 1974 | общественное достояние | 4 | 1.9 МиБ | [https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/](https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/) |
 | [497](https://archive.decolonial.ist/497) | Бій під Крутами в національній пам'яті: Збірник документів і матеріалів | Український інститут національної пам'яті | 2013 | CC BY 4.0 | 2 (в релизе 1) | 17.9 МиБ | [http://resource.history.org.ua/item/0013134](http://resource.history.org.ua/item/0013134) |
+| [499](https://archive.decolonial.ist/499) | Директивы командования фронтов Красной армии (1917–1922). Т. 3 | - | 1974 | не охраняется авторским правом | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [501](https://archive.decolonial.ist/501) | До історії повстанчого рейду ген. хор. Ю. Тютюнника в листопаді 1921 р. (Доклад начальника Польового Повстанчого Штабу) | Отмарштейн Ю. В. | 1930 | общественное достояние | 2 | 0.4 МиБ | [https://archive.org/details/litopys](https://archive.org/details/litopys) |
 | [502](https://archive.decolonial.ist/502) | Останні дні збройної боротьби (21.XI.1920 — 21.XI.1930) | Середа М. Т. | 1930 | общественное достояние | 2 | 0.4 МиБ | [https://archive.org/details/litopys](https://archive.org/details/litopys) |
+| [504](https://archive.decolonial.ist/504) | Директивы командования фронтов Красной армии (1917–1922). Т. 2 | - | 1972 | не охраняется авторским правом | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [505](https://archive.decolonial.ist/505) | Останній відступ (Спомини М. Андрусяка) | Андрусяк М. | 1930 | общественное достояние | 2 | 0.6 МиБ | [https://archive.org/details/litopys](https://archive.org/details/litopys) |
 | [509](https://archive.decolonial.ist/509) | 64 отдельной мотострелковой бригаде присвоено почётное наименование гвардейской (kremlin.ru) | Администрация президента РФ | 2022 | CC BY 4.0 | 2 | 0.0 МиБ | `kremlin[.]ru/events/president/news/68235` |
 | [510](https://archive.decolonial.ist/510) | В Ірпені від обстрілу військ РФ 6 березня загинули щонайменше вісім цивільних жителів - мер (Радіо Свобода) | - | 2022 | RFE/RL: текст со ссылкой и копирайтом | 2 | 0.0 МиБ | [https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html](https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html) |
@@ -251,6 +260,7 @@
 | [567](https://archive.decolonial.ist/567) | Два года борьбы на внутреннем фронте | Лацис (Судрабс) М. Я. | 1920 | общественное достояние | 2 (в релизе 1) | 12.3 МиБ | `rev-lib[.]com/dva-goda-borby-na-vnutrennem-fronte/` |
 | [568](https://archive.decolonial.ist/568) | Доклад Х. Гофмана о погромах в м. Фастов Киевской губ. | - | 1919 | общественное достояние | 2 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/1983-doklad-sotrudnika-redaktsionnoy-kollegii-h-gofmana-o-pogromah-v-m-fastov-kievskoy-gub-v-avguste-locale-nil-sentyabre-1919-g-30-sentyabrya-1919-g` |
 | [569](https://archive.decolonial.ist/569) | Доклад ЦК РОКК о деятельности Чрезвычайной комиссии в Киеве | - | 1920 | общественное достояние | 3 (в релизе 1) | 29.3 МиБ | `rev-lib[.]com/arhiv-russkoj-revoljucii-t-6/` |
+| [570](https://archive.decolonial.ist/570) | Доклад Я. Б. Лившица о погроме в г. Житомире | - | 1919 | общественное достояние | 2 | 0.1 МиБ | `docs.historyrussia[.]org/ru/nodes/1915-doklad-upolnomochennogo-tsk-pomoschi-postradavshim-ot-pogromov-ya-b-livshitsa-o-pogrome-v-g-zhitomire-volynskoy-gub-22-locale-nil-26-marta-1919-g-pozdnee-26-marta-1919-g` |
 | [571](https://archive.decolonial.ist/571) | Докладная записка В. А. Антонова-Овсеенко главкому | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [572](https://archive.decolonial.ist/572) | Докладная записка В. А. Антонова-Овсеенко главкому о невозможности выделить части для Южного фронта | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [574](https://archive.decolonial.ist/574) | Красный террор в годы гражданской войны | - | 2004 | общественное достояние | 1 | 0.0 МиБ | [https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf](https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf) |
@@ -260,6 +270,7 @@
 | [578](https://archive.decolonial.ist/578) | Постановление ВУЦИК о проведении всеобщей мобилизации | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [579](https://archive.decolonial.ist/579) | Приказ Реввоенсовета Республики № 579 о мерах по борьбе с партизанщиной в Красной Армии | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [580](https://archive.decolonial.ist/580) | Приказ армиям Украинского фронта № 68 о ликвидации авантюры Григорьева | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
+| [581](https://archive.decolonial.ist/581) | Приказ военной комендатуры ВСЮР в м. Фастов Киевской губ. № 2 | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g` |
 | [582](https://archive.decolonial.ist/582) | Приказ главноначальствующего Екатеринославской, Харьковской, Курской и Полтавской губерний генерала Май-Маевского № 22 | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [583](https://archive.decolonial.ist/583) | Протокол заседания представителей уездных органов Советской власти в д. Тютьковичи | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/1957-protokol-zasedaniya-predstaviteley-uezdnyh-organov-sovetskoy-vlasti-i-uezdnyh-naselennyh-punktov-v-d-tyutkovichi-rovenskogo-uezda-volynskoy-gub-6-iyulya-1919-g` |
 | [587](https://archive.decolonial.ist/587) | Сообщение Г. И. Рабиновича о последствиях погрома в м. Фастов | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g` |
@@ -281,7 +292,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 475
+## Свободные, но файла у нас нет - 464
 
 Распространять можно, а файла нет.
 
@@ -392,7 +403,6 @@
 | «Чорна піхота» як історичне явище | 2019 | Украина | `doi[.]org/10.33099/2707-1383-2019-31-1-156-174` |
 | Ідентифіковано росіян, причетних до загибелі родини Базилевичів у Львові 4 вересня 2024 року (Главком) | 2025 | Украина | [https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html](https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html) |
 | Ідеологія в бронзі: навіщо Росія «засіває» окуповану Херсонщину своїми монументами | 2026 | Украина | `nsirogozy[.]city/blogs/461303/ideologiya-v-bronzi-navischo-rosiya-zasivaye-okupovanu-hersonschinu-svoimi-monumentami` |
-| Ілюстрована історія України | 1921 | Украина | [https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/](https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/) |
 | Інститут генерал-губернаторства у Правобережній Україні | 2015 | Украина | [https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf](https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf) |
 | Історія міст і сіл Української РСР. Київська область | 1971 | Украина | [https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya](https://ukrssr.com.ua/kiyivska/perhmelnitskiy/pereyaslav-hmelnitskiy-pereyaslav-hmelnitskiy-rayon-kiyivska-oblast-prodovzhennya) |
 | АРКТИЧЕСКИЕ ЗЕРКАЛА Россия и малые народы Севера | 2008 | Чукотка |  |
@@ -449,20 +459,15 @@
 | Гражданская война на Украине. 1918–1920. Т. 2: Борьба против деникинщины и петлюровщины на Украине. Май 1919 г. — февраль 1920 г. | 1967 | Украина | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | Два роки тому ЗСУ звільнили Херсон — як це було (NV) | 2024 | Украина | [https://nv.ua/ukr/ukraine/events/richnicya-zvilnennya-hersona-yak-zsu-vizvolili-herson-vid-rosiyan-v-2022-roci-novini-ukrajini-50367411.html](https://nv.ua/ukr/ukraine/events/richnicya-zvilnennya-hersona-yak-zsu-vizvolili-herson-vid-rosiyan-v-2022-roci-novini-ukrajini-50367411.html) |
 | Двадцать миллионов долларов за его смерть | 2020 | Чечня | `www.currenttime[.]tv/a/30710477.html` |
-| Движение горцев северо-восточного Кавказа в 20-50 гг. XIX века: сборник документов | 1959 | Несколько | [https://books.google.com.ua/books/about/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D1%81%D0%B5%D0%B2%D0%B5%D1%80.html?id=c4xizwEACAAJ&redir_esc=y](https://books.google.com.ua/books/about/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D1%81%D0%B5%D0%B2%D0%B5%D1%80.html?id=c4xizwEACAAJ&redir_esc=y) |
 | Двойное преступление СССР: как советы скрывали Чернобыльскую катастрофу | 2026 | Украина | `www.obozrevatel[.]com/novosti-obschestvo/dvojnoe-prestuplenie-sssr-kak-sovetyi-skryivali-chernobyilskuyu-katastrofu.htm` |
 | Декрет о памятниках Республики | 1918 | Несколько | `www.hist.msu[.]ru/ER/Etext/DEKRET/18-04-12.htm` |
 | Дело Заремы Мусаевой | 2022 | Чечня | [https://www.kavkaz-uzel.eu/articles/384445](https://www.kavkaz-uzel.eu/articles/384445) |
 | Демонтаж пам'ятника Переяславській раді | 2025 | Украина | [https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html](https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html) |
-| Денник Начальної Команди Української Галицької Армії | 1974 | Украина | [https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/](https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/) |
 | Депортація (Енциклопедія Сучасної України) | 2007 | Украина | [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038) |
 | Десять дней которые отменили мир | 2021 | Чечня | `versia[.]ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza` |
-| Директивы командования фронтов Красной армии (1917–1922). Т. 2 | 1972 | Украина | `militera.lib[.]ru/docs/da/dir1/index.html` |
-| Директивы командования фронтов Красной армии (1917–1922). Т. 3 | 1974 | Украина | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | До історії демонтажу пам'ятника Катерині ІІ («Засновникам Одеси») з Катерининської площі Одеси (висновок професора Т. Г. Гончарука) // Вісник ОІКМ №20 | 2023 | Украина | [https://history.odessa.ua/publication20/20.pdf](https://history.odessa.ua/publication20/20.pdf) |
 | Договор о мире и принципах взаимоотношений между Российской Федерацией и Чеченской Республикой Ичкерия от 12 мая 1997 года | 1997 | Чечня | [https://ru.wikisource.org/wiki/Договор_о_мире_и_принципах_взаимоотношений_между_РФ_и_ЧРИ_(1997)](https://ru.wikisource.org/wiki/Договор_о_мире_и_принципах_взаимоотношений_между_РФ_и_ЧРИ_(1997)) |
 | Договор о сотрудничестве в использовании Азовского моря и Керченского пролива | 2003 | Украина | [https://zakon.rada.gov.ua/laws/show/643_205](https://zakon.rada.gov.ua/laws/show/643_205) |
-| Доклад Я. Б. Лившица о погроме в г. Житомире | 1919 | Украина | `docs.historyrussia[.]org/ru/nodes/1915-doklad-upolnomochennogo-tsk-pomoschi-postradavshim-ot-pogromov-ya-b-livshitsa-o-pogrome-v-g-zhitomire-volynskoy-gub-22-locale-nil-26-marta-1919-g-pozdnee-26-marta-1919-g` |
 | Древнія и современныя подземныя жилища племень сьверо-восточной Азіи и стверо-западной Америки | 1908 | Чукотка |  |
 | ЕСПЧ установил ответственность властей за похищение Салмана Тепсуркаева | 2021 | Чечня | `pytkam[.]net/espch-ustanovil-chto-rossijskie-vlasti-nesut-otvetstvennost-za-pohishhenie-i-zhestokoe-obrashhenie-s-moderatorom-chata-telegram-kanala-salmanom-tepsurkaevym/` |
 | Екатерининская площадь (история памятника, авторская реконструкция 2007 г.) | 2026 | Украина | `odesskiy[.]com/ulitsi-v-istorii-odessi/ekaterinenskaya-ploschad.html` |
@@ -507,7 +512,6 @@
 | История войны и владычества русских на Кавказе. Том 6 | 1871 | Несколько | `apsnyteka[.]org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html` |
 | История сталинского Гулага. Конец 1920-х — первая половина 1950-х годов. Том 5. Спецпереселенцы в СССР | 2004 | Несколько | `imwerden[.]de/pdf/istoriya_stalinskikh_repressy_v_sssr_tom5_2004__ocr.pdf` |
 | К вопросу о разоружении Чечни в 1920-1925 годах | 1998 | Чечня | `scepsis[.]net/library/id_1063.html` |
-| Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы. Том I | 1957 | Несколько | [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/) |
 | Кавалерідзе Іван Петрович (ЕІУ) | 2007 | Украина | [https://www.history.org.ua/?termin=Kavaleridze_I](https://www.history.org.ua/?termin=Kavaleridze_I) |
 | Кавалерідзе Іван Петрович (ЕСУ) | 2011 | Украина | [https://esu.com.ua/article-11988](https://esu.com.ua/article-11988) |
 | Кавказская война. В 5 томах. Том 1. От древнейших времен до Ермолова | 2006 | Чечня | [https://books.google.com/books/about/Кавказская_война_Том_1.html?id=Un4NTvA9oUcC](https://books.google.com/books/about/Кавказская_война_Том_1.html?id=Un4NTvA9oUcC) |
@@ -568,7 +572,6 @@
 | Наша пісня гарна й нова? | 2013 | Украина | `mik-kiev.livejournal[.]com/94448.html` |
 | Новый летописец, составленный в царствование Михаила Феодоровича | 1853 | Несколько | `www.prlib[.]ru/item/1090884` |
 | Норильский завет | 2013 | Украина | [https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/](https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/) |
-| Німці в Україні. 20—30-ті рр. XX ст. | 1994 | Украина | [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB) |
 | О положении этнических чеченцев в Москве | 2003 | Чечня | [https://www.hrw.org/legacy/russian/reports/russia/2003/chech-moscow.html](https://www.hrw.org/legacy/russian/reports/russia/2003/chech-moscow.html) |
 | ОЧЕРКИ ИСТОРИИ ЭТНОГРАФИ И ЧУКЧЕЙ | 1965 | Чукотка |  |
 | Об уголовной ответственности за побеги из мест обязательного и постоянного поселения | 1948 | Несколько | `docs.historyrussia[.]org/ru/nodes/49491` |
@@ -593,7 +596,6 @@
 | Памятники и памятные знаки жертвам политических репрессий - мемориал в Грозном | 2014 | Чечня | `www.sakharov-center[.]ru/asfcd/pam/?t=pam&id=135` |
 | Паспорт пам'ятки. Монумент Слави [1990 р.] | 1990 | Украина | `www.pslava[.]info/Poltava_KruglaPloscha_1990PasportnaInformacija,127299.html` |
 | Перелік об'єктів культурної спадщини Полтавської міської територіальної громади (категорія «Національного значення») | 2025 | Украина | [https://www.rada-poltava.gov.ua/ua/cultural-heritage](https://www.rada-poltava.gov.ua/ua/cultural-heritage) |
-| Письма и бумаги императора Петра Великого. Т. VIII, вып. 1 (июль-декабрь 1708 г.) | 1948 | Украина | [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0) |
 | Письмо Халида Ошаева Хаджи-Мурату Мугуеву | 1961 | Чечня | `thechechenpress[.]com/history/5350-2013-12-30-16-35-39.html` |
 | Письмо в ЦК КПСС О судьбе ингушского народа | 1972 | Чечня | `ghalghay[.]com/2010/01/16/o-sudbe-ingushskogo-naroda/` |
 | Письмо наиба Ташев-Хаджи к Шамилю | 1977 | Несколько | `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Tasev_Hadzi/text1.htm` |
@@ -633,7 +635,6 @@
 | Приговор Октябрьского районного народного суда г. Грозного по делу об изготовлении религиозной литературы на арабском языке | 1979 | Чечня | `islamperspectives[.]org/rpi/items/show/20966` |
 | Приказ М. А. Муравьева о задачах армии по обороне Киева после его освобождения | 1918 | Украина | `docs.historyrussia[.]org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g` |
 | Приказ ФМС России от 15 мая 1997 г. № 36 «Об организации выплаты компенсаций за утраченное жилье и/или имущество гражданам, пострадавшим в результате разрешения кризиса в Чеченской Республике и покинувшим ее безвозвратно» | 1997 | Чечня | `base.garant[.]ru/11900577/` |
-| Приказ военной комендатуры ВСЮР в м. Фастов Киевской губ. № 2 | 1919 | Украина | `docs.historyrussia[.]org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g` |
 | Приказное постановление ITLOS по делу № 26 Украина против России | 2019 | Украина | `www.itlos[.]org/fileadmin/itlos/documents/cases/26/published/C26_Order_20190525.pdf` |
 | Приєднання церкви української до московської в 1686 році | 1948 | Украина | [https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu](https://diasporiana.org.ua/wp-content/uploads/books/18989/file.djvu) |
 | Приєднання чи возз'єднання? | 1972 | Украина | [https://archive.org/details/brajchevskyj](https://archive.org/details/brajchevskyj) |
@@ -732,7 +733,6 @@
 | Україна: хроніка ХХ століття. 1946-1960 | 2005 | Украина | [https://history.org.ua/en/chronology/18487](https://history.org.ua/en/chronology/18487) |
 | Українська мова в першій половині двадцятого століття (1900-1941). Стан і статус | 1987 | Украина | `zbruc[.]eu/node/68984` |
 | Українська церква: Нариси з історії української православної церкви (гл. XIII. Як цариця Катерина обмосковлювала Церкву Українську) | 1993 | Украина | [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/) |
-| Українська ідентичність і мовне питання в Російській імперії | 2013 | Украина | [https://archive.org/details/ukrainska2013](https://archive.org/details/ukrainska2013) |
 | Українська ідентичність і мовне питання в Російській імперії: спроба державного регулювання (1847–1914). Збірник документів і матеріалів | 2013 | Украина | [https://archive.org/details/ukrainska2013](https://archive.org/details/ukrainska2013) |
 | Український вопрос в Российской империи | 2013 | Украина | [http://resource.history.org.ua/item/0013230](http://resource.history.org.ua/item/0013230) |
 | Український дім: Ленін, Фрипулья, Роден, Майдан | 2021 | Украина | `platfor[.]ma/magazine/text-sq/re-invent/ukrdim-vs-lenin/` |

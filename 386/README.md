@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/386
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.pdf](https://github.com/decolonial-ist/archive/blob/main/386/ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.pdf) | PDF | 43 КБ | в этой папке |
+| [ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.txt](https://github.com/decolonial-ist/archive/blob/main/386/ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.txt) | текст | 22 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://archive.org/details/ukrainska2013](https://archive.org/details/ukrainska2013)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

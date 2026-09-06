@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/499
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.txt](https://github.com/decolonial-ist/archive/blob/main/499/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.txt) | текст | 10 КБ | в этой папке |
+| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.pdf](https://github.com/decolonial-ist/archive/blob/main/499/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.pdf) | PDF | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `militera.lib[.]ru/docs/da/dir1/index.html`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

@@ -13,7 +13,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/497__biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.pdf) | PDF | 17.7 МБ | актив релиза (файл тяжелее 10 МБ) |
-| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt](https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt) | текст | 178 КБ | в этой папке |
+| [biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt](https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt) | текст | 177 КБ | в этой папке |
 
 ## Откуда это у нас
 

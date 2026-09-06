@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/394
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.pdf](https://github.com/decolonial-ist/archive/blob/main/394/pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.pdf) | PDF | 28 КБ | в этой папке |
+| [pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.txt](https://github.com/decolonial-ist/archive/blob/main/394/pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.txt) | текст | 1 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0](https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

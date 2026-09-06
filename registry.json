@@ -624,13 +624,28 @@
    "year": "1957",
    "author": "Кушева Е. Н.",
    "people": "Несколько",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник документов XVI-XVIII веков, тексты в общественном достоянии",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/92",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/92",
    "source": "https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/",
-   "files": [],
+   "files": [
+    {
+     "name": "kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.txt",
+     "bytes": 70830,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.txt",
+     "where": "repo"
+    },
+    {
+     "name": "kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.pdf",
+     "bytes": 80721,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -1194,13 +1209,28 @@
    "year": "1959",
    "author": "Гаджиев В. Г., Рамазанов X. X.",
    "people": "Несколько",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник документов XIX века, тексты в общественном достоянии",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/126",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/126",
    "source": "https://books.google.com.ua/books/about/%D0%94%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%86%D0%B5%D0%B2_%D1%81%D0%B5%D0%B2%D0%B5%D1%80.html?id=c4xizwEACAAJ&redir_esc=y",
-   "files": [],
+   "files": [
+    {
+     "name": "dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt",
+     "bytes": 480747,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt",
+     "where": "repo"
+    },
+    {
+     "name": "dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf",
+     "bytes": 425621,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -3921,13 +3951,28 @@
    "year": "1921",
    "author": "Грушевський М. С.",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1921 года свободен, но напечатан в издании 1967 года — выкладываем только текст документа, не издание",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/250",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/250",
    "source": "https://diasporiana.org.ua/istoriya/2650-grushevskiy-m-ilyustrovana-istoriya-ukrayini-rusi/",
-   "files": [],
+   "files": [
+    {
+     "name": "ilyustrovana_istoriya_ukraini_1921.txt",
+     "bytes": 2129734,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/250/ilyustrovana_istoriya_ukraini_1921.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ilyustrovana_istoriya_ukraini_1921.pdf",
+     "bytes": 1682584,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/250/ilyustrovana_istoriya_ukraini_1921.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -5089,13 +5134,28 @@
    "year": "2013",
    "author": "Інститут історії України НАН України",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник имперских актов, документы в общественном достоянии",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/386",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/386",
    "source": "https://archive.org/details/ukrainska2013",
-   "files": [],
+   "files": [
+    {
+     "name": "ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.pdf",
+     "bytes": 44202,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/386/ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.txt",
+     "bytes": 22337,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/386/ukrainska_identichnist_i_movne_pitannya_v_rosiyskiy_imperii_2013.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -5224,13 +5284,28 @@
    "year": "1948",
    "author": "Пётр I",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "бумаги Петра I, тексты в общественном достоянии",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/394",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/394",
    "source": "https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&P21DBN=ELIB&Image_file_name=book/0014325.pdf&IMAGE_FILE_DOWNLOAD=0",
-   "files": [],
+   "files": [
+    {
+     "name": "pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.pdf",
+     "bytes": 28478,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/394/pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.txt",
+     "bytes": 1295,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/394/pisma_i_bumagi_imperatora_petra_velikogo_t_viii_vyp_1_iyul_dekabr_1708_g_1948.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -5684,13 +5759,28 @@
    "year": "1994",
    "author": "Інститут національних відносин і політології НАН України, Інститут історії України НАН України",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник документов 1920-30-х, тексты актов свободны",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/420",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/420",
    "source": "https://resource.history.org.ua/cgi-bin/eiu/history.exe?C21COM=2&I21DBN=ELIB&IMAGE_FILE_DOWNLOAD=0&Image_file_name=book%2F0001247.pdf&P21DBN=ELIB",
-   "files": [],
+   "files": [
+    {
+     "name": "nimci_v_ukraini_20_30_ti_rr_xx_st_1994.pdf",
+     "bytes": 30784,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/420/nimci_v_ukraini_20_30_ti_rr_xx_st_1994.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "nimci_v_ukraini_20_30_ti_rr_xx_st_1994.txt",
+     "bytes": 5869,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/420/nimci_v_ukraini_20_30_ti_rr_xx_st_1994.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -7030,13 +7120,42 @@
    "year": "1974",
    "author": "Начальна Команда Української Галицької Армії",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "дневник Начальной Команды УГА 1919 года, документ",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/495",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/495",
    "source": "https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/",
-   "files": [],
+   "files": [
+    {
+     "name": "dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.txt",
+     "bytes": 838112,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.txt",
+     "where": "repo"
+    },
+    {
+     "name": "dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.txt",
+     "bytes": 245752,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.txt",
+     "where": "repo"
+    },
+    {
+     "name": "dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.pdf",
+     "bytes": 223379,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.pdf",
+     "bytes": 674438,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -7076,7 +7195,7 @@
     },
     {
      "name": "biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt",
-     "bytes": 182330,
+     "bytes": 181539,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/497/biy_pid_krutami_v_nacionalniy_pam_yati_zbirnik_dokumentiv_i_materialiv_2013.txt",
      "where": "repo"
@@ -7105,13 +7224,28 @@
    "year": "1974",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "директивы командования фронтов, официальные документы",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/499",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/499",
    "source": "http://militera.lib.ru/docs/da/dir1/index.html",
-   "files": [],
+   "files": [
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.txt",
+     "bytes": 10749,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/499/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.txt",
+     "where": "repo"
+    },
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.pdf",
+     "bytes": 34975,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/499/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_3_1974.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -7195,13 +7329,28 @@
    "year": "1972",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "директивы командования фронтов, официальные документы",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/504",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/504",
    "source": "http://militera.lib.ru/docs/da/dir1/index.html",
-   "files": [],
+   "files": [
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_2_1972.pdf",
+     "bytes": 33163,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/504/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_2_1972.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_2_1972.txt",
+     "bytes": 8119,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/504/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_2_1972.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -8708,13 +8857,28 @@
    "year": "1919",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1919 года свободен, но напечатан в издании 2007 года — выкладываем только текст документа, не издание",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/570",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/570",
    "source": "https://docs.historyrussia.org/ru/nodes/1915-doklad-upolnomochennogo-tsk-pomoschi-postradavshim-ot-pogromov-ya-b-livshitsa-o-pogrome-v-g-zhitomire-volynskoy-gub-22-locale-nil-26-marta-1919-g-pozdnee-26-marta-1919-g",
-   "files": [],
+   "files": [
+    {
+     "name": "doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.pdf",
+     "bytes": 51417,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/570/doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.txt",
+     "bytes": 31846,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/570/doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -9015,13 +9179,28 @@
    "year": "1919",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1919 года свободен, но напечатан в издании 2007 года — выкладываем только текст документа, не издание",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/581",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/581",
    "source": "https://docs.historyrussia.org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g",
-   "files": [],
+   "files": [
+    {
+     "name": "prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.txt",
+     "bytes": 1336,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/581/prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.txt",
+     "where": "repo"
+    },
+    {
+     "name": "prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.pdf",
+     "bytes": 27706,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/581/prikaz_voennoy_komendatury_vsyur_v_m_fastov_kievskoy_gub_no_2_1919.pdf",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {

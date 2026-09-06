@@ -8,13 +8,20 @@
 
 Страница витрины: https://archive.decolonial.ist/495
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.txt](https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.txt) | текст | 818 КБ | в этой папке |
+| [dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.txt](https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.txt) | текст | 240 КБ | в этой папке |
+| [dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.pdf](https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_proces_generala_tarnavskoho_19.pdf) | PDF | 218 КБ | в этой папке |
+| [dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.pdf](https://github.com/decolonial-ist/archive/blob/main/495/dennik_nachalnoi_komandi_ukrainskoi_galickoi_armii_1974_dennik_nk_uga_1919_1920_tekst.pdf) | PDF | 659 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/](https://diasporiana.org.ua/istoriya/145-dennik-nachalnoi-komandi-ukrainskoi-galitskoi-aarmiyi/)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

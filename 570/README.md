@@ -8,13 +8,18 @@
 
 Страница витрины: https://archive.decolonial.ist/570
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/570/doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.pdf) | PDF | 50 КБ | в этой папке |
+| [doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.txt](https://github.com/decolonial-ist/archive/blob/main/570/doklad_ya_b_livshica_o_pogrome_v_g_zhitomire_1919.txt) | текст | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/1915-doklad-upolnomochennogo-tsk-pomoschi-postradavshim-ot-pogromov-ya-b-livshitsa-o-pogrome-v-g-zhitomire-volynskoy-gub-22-locale-nil-26-marta-1919-g-pozdnee-26-marta-1919-g`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 
