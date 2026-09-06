@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt](https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt) | текст | 469 КБ | в этой папке |
-| [dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf](https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf) | PDF | 416 КБ | в этой папке |
+| [dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt](https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.txt) | текст | 525 КБ | в этой папке |
+| [dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf](https://github.com/decolonial-ist/archive/blob/main/126/dvizhenie_gorcev_severo_vostochnogo_kavkaza_v_20_5_a_sbornik_dokumentov_1959.pdf) | PDF | 458 КБ | в этой папке |
 
 ## Откуда это у нас
 

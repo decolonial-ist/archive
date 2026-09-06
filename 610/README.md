@@ -4,7 +4,7 @@
 **Год публикации:** 1971
 **Где напечатано:** Сб. документ в 4 т. Том I. Ноябрь 1917 года — март 1919 года — Москва: Воениздат, 1971
 **Описывает российскую колонизацию народов:** Украинцы
-**Права на публикацию:** свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
+**Права на публикацию:** свободно: документ (директивы командования фронтов, официальные документы)
 
 Страница витрины: https://archive.decolonial.ist/610
 
@@ -12,20 +12,14 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt](https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt) | текст | 2.6 МБ | в этой папке |
-| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.doc](https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.doc) | документ Word | 4.6 МБ | в этой папке |
+| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.pdf](https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.pdf) | PDF | 33 КБ | в этой папке |
+| [direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt](https://github.com/decolonial-ist/archive/blob/main/610/direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `militera.lib[.]ru/docs/da/dir1/index.html`
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
-
-## Цифровые отпечатки файлов
-
-| файл | sha256 |
-|---|---|
-| direktivy_komandovaniya_frontov_krasnoy_armii_1917_1922_t_1_1971.doc | `5f33f00698d8871c2fc48aeea10aa9e1fbe21aafab3e2b3696d97c6228cd5b2c` |
 
 ---
 
