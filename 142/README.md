@@ -12,8 +12,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt) | текст | 36 КБ | в этой папке |
-| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf) | PDF | 54 КБ | в этой папке |
+| [zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt](https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt) | текст | 31 КБ | в этой папке |
 
 ## Откуда это у нас
 

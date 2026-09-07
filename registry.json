@@ -1524,16 +1524,9 @@
    "files": [
     {
      "name": "zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt",
-     "bytes": 36620,
+     "bytes": 31308,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt",
-     "where": "repo"
-    },
-    {
-     "name": "zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf",
-     "bytes": 54969,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/142/zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.pdf",
      "where": "repo"
     }
    ],
@@ -4356,6 +4349,67 @@
      "where": "repo"
     }
    ],
+   "telegram": {}
+  },
+  {
+   "id": 274,
+   "title": "Указ Президента РСФСР № 178 О введении чрезвычайного положения в Чечено-Ингушской Республике",
+   "year": "1991",
+   "author": "Ельцин Б. Н.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/274",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/274",
+   "source": "https://ru.wikisource.org/wiki/Указ_Президента_РСФСР_от_07.11.1991_№_178",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rsfsr_no_178_o_vvedenii_chrezvycha_ngushskoy_respublike_1991.txt",
+     "bytes": 9260,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/274/ukaz_prezidenta_rsfsr_no_178_o_vvedenii_chrezvycha_ngushskoy_respublike_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 275,
+   "title": "Постановление ВС РСФСР № 1855-I",
+   "year": "1991",
+   "author": "Верховный Совет РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/275",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/275",
+   "source": "https://ru.wikisource.org/wiki/Постановление_ВС_РСФСР_от_11.11.1991_№_1855-I",
+   "files": [
+    {
+     "name": "postanovlenie_vs_rsfsr_no_1855_i_1991.txt",
+     "bytes": 2978,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/275/postanovlenie_vs_rsfsr_no_1855_i_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 276,
+   "title": "Десять дней которые отменили мир",
+   "year": "2021",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2021 года под авторским правом",
+   "why_not": "права: современная публикация 2021 года под авторским правом",
+   "card": "https://archive.decolonial.ist/276",
+   "source": "https://versia.ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza",
+   "files": [],
    "telegram": {}
   },
   {
@@ -9858,6 +9912,730 @@
      "where": "repo"
     }
    ],
+   "telegram": {}
+  },
+  {
+   "id": 622,
+   "title": "Постановление СНД РСФСР № 1847-I О признании незаконными выборов, проведенных 27 октября 1991 года в Чечено-Ингушской Республике",
+   "year": "1991",
+   "author": "Съезд народных депутатов РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/622",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/622",
+   "source": "https://ru.wikisource.org/wiki/Постановление_СНД_РСФСР_от_02.11.1991_№_1847-I",
+   "files": [
+    {
+     "name": "postanovlenie_snd_rsfsr_no_1847_i_o_priznanii_neza_ngushskoy_respublike_1991.txt",
+     "bytes": 1276,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/622/postanovlenie_snd_rsfsr_no_1847_i_o_priznanii_neza_ngushskoy_respublike_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 623,
+   "title": "Постановление Президиума ВС РСФСР от 09.11.1991 Об Указе Президента РСФСР от 7 ноября 1991 г. О введении чрезвычайного положения в Чечено-Ингушской Республике",
+   "year": "1991",
+   "author": "Президиум Верховного Совета РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/623",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/623",
+   "source": "https://ru.wikisource.org/wiki/Постановление_Президиума_ВС_РСФСР_от_09.11.1991",
+   "files": [
+    {
+     "name": "postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt",
+     "bytes": 2643,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/623/postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 624,
+   "title": "Постановление Президиума ВС РСФСР № 1723-I О политической ситуации в Чечено-Ингушской Республике",
+   "year": "1991",
+   "author": "Президиум Верховного Совета РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/624",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/624",
+   "source": "https://ru.wikisource.org/wiki/Постановление_Президиума_ВС_РСФСР_от_08.10.1991_№_1723-I",
+   "files": [
+    {
+     "name": "postanovlenie_prezidiuma_vs_rsfsr_no_1723_i_o_poli_ngushskoy_respublike_1991.txt",
+     "bytes": 4360,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/624/postanovlenie_prezidiuma_vs_rsfsr_no_1723_i_o_poli_ngushskoy_respublike_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 625,
+   "title": "Постановление ВС РСФСР № 1804-I О проведении выборов в высшие органы государственной власти Чечено-Ингушской Республики",
+   "year": "1991",
+   "author": "Верховный Совет РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/625",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/625",
+   "source": "https://ru.wikisource.org/wiki/Постановление_ВС_РСФСР_от_24.10.1991_№_1804-I",
+   "files": [
+    {
+     "name": "postanovlenie_vs_rsfsr_no_1804_i_o_provedenii_vybo_ngushskoy_respubliki_1991.txt",
+     "bytes": 3518,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/625/postanovlenie_vs_rsfsr_no_1804_i_o_provedenii_vybo_ngushskoy_respubliki_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 626,
+   "title": "Обращение Президента РСФСР к лидерам исполкома Общенационального конгресса чеченского народа",
+   "year": "1991",
+   "author": "Президент РСФСР Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/626",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/626",
+   "source": "https://ru.wikisource.org/wiki/Обращение_Президента_РСФСР_к_лидерам_исполкома_Общенационального_конгресса_чеченского_народа_от_19.10.1991",
+   "files": [
+    {
+     "name": "obraschenie_prezidenta_rsfsr_k_lideram_ispolkoma_o_chechenskogo_naroda_1991.txt",
+     "bytes": 3048,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/626/obraschenie_prezidenta_rsfsr_k_lideram_ispolkoma_o_chechenskogo_naroda_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 627,
+   "title": "Постановление Парламента Чеченской Республики № 25 О незаконности Указа Президента РСФСР о введении чрезвычайного положения на территории Чеченской Республики",
+   "year": "1991",
+   "author": "Парламент Чеченской Республики",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/627",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/627",
+   "source": "https://ru.wikisource.org/wiki/Постановление_парламента_Чечни_от_08.11.1991_№_25",
+   "files": [
+    {
+     "name": "postanovlenie_parlamenta_chechenskoy_respubliki_no_echenskoy_respubliki_1991.txt",
+     "bytes": 2779,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/627/postanovlenie_parlamenta_chechenskoy_respubliki_no_echenskoy_respubliki_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 629,
+   "title": "Обращение Временного Высшего Совета Чечено-Ингушской Республики к народам, партиям, движениям, трудовым коллективам",
+   "year": "1991",
+   "author": "Временный Высший Совет Чечено-Ингушской Республики",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Викимедиа: CC BY-SA 4.0 либо общественное достояние",
+   "card": "https://archive.decolonial.ist/629",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/629",
+   "source": "https://ru.wikisource.org/wiki/Обращение_Временного_Высшего_Совета_Чечено-Ингушской_Республики_к_народам,_партиям,_движениям,_трудовым_коллективам",
+   "files": [
+    {
+     "name": "obraschenie_vremennogo_vysshego_soveta_checheno_in_trudovym_kollektivam_1991.txt",
+     "bytes": 2054,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/629/obraschenie_vremennogo_vysshego_soveta_checheno_in_trudovym_kollektivam_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 630,
+   "title": "Указ Президента Чеченской Республики О государственном суверенитете Чеченской Республики",
+   "year": "1991",
+   "author": "Президент Чеченской Республики Д. Дудаев",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/630",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/630",
+   "source": "https://web.archive.org/web/20161224083527/https://chechenlaw.ru/?p=447",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt",
+     "bytes": 6120,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/630/ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 631,
+   "title": "Битва за Чечню. «Война историографий», или информационная война",
+   "year": "2015",
+   "author": "Абдурахманов Д. Б., Ахмадов Я. З.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2015 года под авторским правом",
+   "why_not": "права: современная публикация 2015 года под авторским правом",
+   "card": "https://archive.decolonial.ist/631",
+   "source": "https://books.google.com/books?id=kQb5jgEACAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 632,
+   "title": "Национально-языковая политика в стране и Чеченской Республике",
+   "year": "2012",
+   "author": "Овхадов М. Р.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2012 года под авторским правом",
+   "why_not": "права: современная публикация 2012 года под авторским правом",
+   "card": "https://archive.decolonial.ist/632",
+   "source": "http://checheninfo.ru/12952-nacionalno-yazykovaya-politika-v-strane-i-chechenskoy-respublike.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 633,
+   "title": "Борьба за язык (Проблемы становления и развития чеченского языка)",
+   "year": "1999",
+   "author": "Хамидова З.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "проверить",
+   "basis": "перепубликация (web.archive.org), в листе указан 1999 год",
+   "why_not": "права: перепубликация (web.archive.org), в листе указан 1999 год",
+   "card": "https://archive.decolonial.ist/633",
+   "source": "https://web.archive.org/web/20140718053359id_/http://old.sakharov-center.ru/chr/chrus07_1.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 634,
+   "title": "Становление и развитие системы образования в Чеченской Республике",
+   "year": "2012",
+   "author": "Мусханова И. В.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "проверить",
+   "basis": "научная публикация (cyberleninka.ru), 2012 год",
+   "why_not": "права: научная публикация (cyberleninka.ru), 2012 год",
+   "card": "https://archive.decolonial.ist/634",
+   "source": "https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 635,
+   "title": "Чеченский язык в 90-е годы XX века: функции и структура",
+   "year": "2007",
+   "author": "Яхъяева А. А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2007 года под авторским правом",
+   "why_not": "права: современная публикация 2007 года под авторским правом",
+   "card": "https://archive.decolonial.ist/635",
+   "source": "https://cheloveknauka.com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 636,
+   "title": "Всесоюзная перепись населения 1989 года. Национальный состав населения по республикам СССР (Демоскоп Weekly)",
+   "year": "1989",
+   "author": "Госкомстат СССР",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1989 года под авторским правом",
+   "why_not": "права: современная публикация 1989 года под авторским правом",
+   "card": "https://archive.decolonial.ist/636",
+   "source": "https://www.demoscope.ru/weekly/ssp/sng_nac_89.php",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 638,
+   "title": "Общегражданский митинг ингушей 1973 года (публикация архивных документов Чечено-Ингушского обкома КПСС)",
+   "year": "2008",
+   "author": "Яндиева М. Д.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "официальный документ партийного органа, фактически осуществлявшего государственную власть (постановление Конституционного суда РФ от 30.11.1992 № 9-П); авторским правом не охраняется",
+   "card": "https://archive.decolonial.ist/638",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/638",
+   "source": "https://ghalghay.com/2010/04/02/obshegrazhdanskiy-miting-ingushey-1973-goda-3/",
+   "files": [
+    {
+     "name": "obschegrazhdanskiy_miting_ingushey_1973_goda_publi_ushskogo_obkoma_kpss_2008.pdf",
+     "bytes": 84692,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/638/obschegrazhdanskiy_miting_ingushey_1973_goda_publi_ushskogo_obkoma_kpss_2008.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "obschegrazhdanskiy_miting_ingushey_1973_goda_publi_ushskogo_obkoma_kpss_2008.txt",
+     "bytes": 72558,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/638/obschegrazhdanskiy_miting_ingushey_1973_goda_publi_ushskogo_obkoma_kpss_2008.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 639,
+   "title": "Записка председателя КГБ СССР Ю. В. Андропова в ЦК КПСС № 3217-А о положении в Чечено-Ингушской АССР после событий января 1973 года",
+   "year": "1973",
+   "author": "Андропов Ю. В., председатель КГБ СССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/639",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/639",
+   "source": "https://ghalghay.com/2012/08/06/arhivniy-dokument-kgb/",
+   "files": [
+    {
+     "name": "zapiska_predsedatelya_kgb_sssr_yu_v_andropova_v_ck_y_yanvarya_1973_goda_1973.txt",
+     "bytes": 6082,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/639/zapiska_predsedatelya_kgb_sssr_yu_v_andropova_v_ck_y_yanvarya_1973_goda_1973.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 640,
+   "title": "Постановление Совета Министров Чечено-Ингушской АССР № 592 О мерах по усилению контроля за соблюдением законодательства о религиозных культах",
+   "year": "1969",
+   "author": "Совет Министров ЧИАССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/640",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/640",
+   "source": "https://islamperspectives.org/rpi/items/show/20864",
+   "files": [
+    {
+     "name": "postanovlenie_soveta_ministrov_checheno_ingushskoy_o_religioznyh_kultah_1969.txt",
+     "bytes": 3063,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/640/postanovlenie_soveta_ministrov_checheno_ingushskoy_o_religioznyh_kultah_1969.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 642,
+   "title": "Приговор Октябрьского районного народного суда г. Грозного по делу об изготовлении религиозной литературы на арабском языке",
+   "year": "1979",
+   "author": "Октябрьский районный народный суд г. Грозного",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/642",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/642",
+   "source": "https://islamperspectives.org/rpi/items/show/20966",
+   "files": [
+    {
+     "name": "prigovor_oktyabrskogo_rayonnogo_narodnogo_suda_g_g_y_na_arabskom_yazyke_1979.txt",
+     "bytes": 11402,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/642/prigovor_oktyabrskogo_rayonnogo_narodnogo_suda_g_g_y_na_arabskom_yazyke_1979.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 643,
+   "title": "Отчёт заместителя уполномоченного Совета по делам религий по Чечено-Ингушской АССР Б. А. Музарова о выполнении постановления ЦК КПСС от 5 апреля 1983 г. О мерах по идеологической изоляции реакционной части мусульманского духовенства",
+   "year": "1983",
+   "author": "Музаров Б. А., заместитель уполномоченного Совета по делам религий при Совмине СССР по ЧИАССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/643",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/643",
+   "source": "https://islamperspectives.org/rpi/items/show/21032",
+   "files": [
+    {
+     "name": "otchet_zamestitelya_upolnomochennogo_soveta_po_del_manskogo_duhovenstva_1983.txt",
+     "bytes": 9158,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/643/otchet_zamestitelya_upolnomochennogo_soveta_po_del_manskogo_duhovenstva_1983.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 644,
+   "title": "Справка уполномоченного Совета по делам религий по Чечено-Ингушской АССР Д. П. Бобова председателю Совета Министров ЧИАССР о состоянии религиозного движения",
+   "year": "1977",
+   "author": "Бобов Д. П., уполномоченный Совета по делам религий при Совмине СССР по ЧИАССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/644",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/644",
+   "source": "https://islamperspectives.org/rpi/items/show/20925",
+   "files": [
+    {
+     "name": "spravka_upolnomochennogo_soveta_po_delam_religiy_p_igioznogo_dvizheniya_1977.txt",
+     "bytes": 5096,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/644/spravka_upolnomochennogo_soveta_po_delam_religiy_p_igioznogo_dvizheniya_1977.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 645,
+   "title": "Сведения уполномоченного Совета по делам религий по Чечено-Ингушской АССР Д. П. Бобова о мечетях и их использовании",
+   "year": "1980",
+   "author": "Бобов Д. П., уполномоченный Совета по делам религий при Совмине СССР по ЧИАССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/645",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/645",
+   "source": "https://islamperspectives.org/rpi/items/show/20967",
+   "files": [
+    {
+     "name": "svedeniya_upolnomochennogo_soveta_po_delam_religiy_ah_i_ih_ispolzovanii_1980.txt",
+     "bytes": 2706,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/645/svedeniya_upolnomochennogo_soveta_po_delam_religiy_ah_i_ih_ispolzovanii_1980.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 646,
+   "title": "Информация уполномоченного Совета по делам религий по Чечено-Ингушской АССР А. И. Асаулка о религиозном движении",
+   "year": "1967",
+   "author": "Асаулка А. И., уполномоченный Совета по делам религий при Совмине СССР по ЧИАССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/646",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/646",
+   "source": "https://islamperspectives.org/rpi/items/show/20847",
+   "files": [
+    {
+     "name": "informaciya_upolnomochennogo_soveta_po_delam_relig_eligioznom_dvizhenii_1967.txt",
+     "bytes": 2776,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/646/informaciya_upolnomochennogo_soveta_po_delam_relig_eligioznom_dvizhenii_1967.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 647,
+   "title": "Информационный отчёт Совета по делам религий при Совете Министров СССР о состоянии ислама в СССР за 1973 год",
+   "year": "1974",
+   "author": "Совет по делам религий при Совете Министров СССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/647",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/647",
+   "source": "https://islamperspectives.org/rpi/items/show/16871",
+   "files": [
+    {
+     "name": "informacionnyy_otchet_soveta_po_delam_religiy_pri_a_v_sssr_za_1973_god_1974.txt",
+     "bytes": 379080,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/647/informacionnyy_otchet_soveta_po_delam_religiy_pri_a_v_sssr_za_1973_god_1974.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 648,
+   "title": "Материалы о мюридизме на Северном Кавказе, представленные Советом по делам религий при Совете Министров РСФСР",
+   "year": "1989",
+   "author": "Совет по делам религий при Совете Министров РСФСР, председатель Л. Ф. Колесников",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ государственного органа: служебные материалы административного характера авторским правом не охраняются (ст. 1259 ГК РФ)",
+   "card": "https://archive.decolonial.ist/648",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/648",
+   "source": "https://islamperspectives.org/rpi/items/show/16893",
+   "files": [
+    {
+     "name": "materialy_o_myuridizme_na_severnom_kavkaze_predsta_vete_ministrov_rsfsr_1989.txt",
+     "bytes": 63496,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/648/materialy_o_myuridizme_na_severnom_kavkaze_predsta_vete_ministrov_rsfsr_1989.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 649,
+   "title": "Циркулярное письмо Совета по делам религиозных культов при Совете Министров СССР № 14-83с О мерах по прекращению паломничества к так называемым святым местам",
+   "year": "1958",
+   "author": "Совет по делам религиозных культов при Совете Министров СССР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/649",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/649",
+   "source": "https://islamperspectives.org/rpi/items/show/21741",
+   "files": [
+    {
+     "name": "cirkulyarnoe_pismo_soveta_po_delam_religioznyh_kul_aemym_svyatym_mestam_1958.txt",
+     "bytes": 8655,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/649/cirkulyarnoe_pismo_soveta_po_delam_religioznyh_kul_aemym_svyatym_mestam_1958.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 663,
+   "title": "Быть аланами: интеллектуалы и политика на Северном Кавказе в XX веке",
+   "year": "2006",
+   "author": "Шнирельман В. А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2006 года под авторским правом",
+   "why_not": "права: современная публикация 2006 года под авторским правом",
+   "card": "https://archive.decolonial.ist/663",
+   "source": "https://books.google.com/books?id=d5VpAAAAMAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 700,
+   "title": "Закон РСФСР от 16 апреля 1959 г. Об укреплении связи школы с жизнью и о дальнейшем развитии системы народного образования в РСФСР",
+   "year": "1959",
+   "author": "Верховный Совет РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/700",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/700",
+   "source": "https://base.garant.ru/71031164/36bfb7176e3e8bfebe718035887e4efc/",
+   "files": [
+    {
+     "name": "zakon_rsfsr_ot_16_aprelya_1959_g_ob_ukreplenii_svy_obrazovaniya_v_rsfsr_1959.txt",
+     "bytes": 1216,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/700/zakon_rsfsr_ot_16_aprelya_1959_g_ob_ukreplenii_svy_obrazovaniya_v_rsfsr_1959.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 701,
+   "title": "Затерянная записка (записка Л. И. Лаврова о «200-летии вхождения Чечено-Ингушетии», февраль 1979)",
+   "year": "1990",
+   "author": "Крикунов В. П.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "публикация 1990 года: записка Л. И. Лаврова (умер в 1982 году) и статья В. П. Крикунова под авторским правом",
+   "why_not": "права: публикация 1990 года: записка Л. И. Лаврова (умер в 1982 году) и статья В. П. Крикунова под авторским правом",
+   "card": "https://archive.decolonial.ist/701",
+   "source": "https://archive.org/details/Voprosy_istorii_1990",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 704,
+   "title": "Распоряжение Президента РСФСР № 38-рп О направлении делегации РСФСР в Чечено-Ингушскую Республику",
+   "year": "1991",
+   "author": "Президент РСФСР Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/704",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/704",
+   "source": "https://ru.wikisource.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0_%D0%BE%D1%82_10.09.1991_%E2%84%96_38-%D1%80%D0%BF",
+   "files": [
+    {
+     "name": "rasporyazhenie_prezidenta_rsfsr_no_38_rp_o_napravl_gushskuyu_respubliku_1991.txt",
+     "bytes": 1993,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/704/rasporyazhenie_prezidenta_rsfsr_no_38_rp_o_napravl_gushskuyu_respubliku_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 705,
+   "title": "Постановление ВС РСФСР № 1733-I О положении в Чечено-Ингушской Республике",
+   "year": "1991",
+   "author": "Верховный Совет РСФСР",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/705",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/705",
+   "source": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%A1_%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0_%D0%BE%D1%82_10.10.1991_%E2%84%96_1733-I",
+   "files": [
+    {
+     "name": "postanovlenie_vs_rsfsr_no_1733_i_o_polozhenii_v_ch_ngushskoy_respublike_1991.txt",
+     "bytes": 1361,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/705/postanovlenie_vs_rsfsr_no_1733_i_o_polozhenii_v_ch_ngushskoy_respublike_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 706,
+   "title": "Постановление Президиума Исполкома ОКЧН от 09.10.1991",
+   "year": "1991",
+   "author": "Президиум Исполкома Общенационального конгресса чеченского народа",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/706",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/706",
+   "source": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%D0%B0_%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%D0%B0_%D0%9E%D0%9A%D0%A7%D0%9D_%D0%BE%D1%82_09.10.1991",
+   "files": [
+    {
+     "name": "postanovlenie_prezidiuma_ispolkoma_okchn_ot_09_10_1991_1991.txt",
+     "bytes": 9231,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/706/postanovlenie_prezidiuma_ispolkoma_okchn_ot_09_10_1991_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 707,
+   "title": "Чечня 1990-1991: хроника и документы (библиотека фонда «Наследие»)",
+   "year": "2007",
+   "author": "ИНИОН РАН (хрестоматия «Политические отношения и политический процесс в современной России»)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2007 года под авторским правом",
+   "why_not": "права: современная публикация 2007 года под авторским правом",
+   "card": "https://archive.decolonial.ist/707",
+   "source": "http://old.nasledie.ru/bibliot/kniga10/chech1.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 708,
+   "title": "Постановление Временного Совета Чеченской Республики О прекращении деятельности Комитета Государственной безопасности Чечено-Ингушской Республики",
+   "year": "1991",
+   "author": "Временный Совет Чеченской Республики (председатель Х. С. Ахмадов)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/708",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/708",
+   "source": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8_%D0%BE%D1%82_04.10.1991_%D0%BE_%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%93%D0%91_%D0%A7%D0%B5%D1%87%D0%B5%D0%BD%D0%BE-%D0%98%D0%BD%D0%B3%D1%83%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D0%A1%D0%A1%D0%A0",
+   "files": [
+    {
+     "name": "postanovlenie_vremennogo_soveta_chechenskoy_respub_ngushskoy_respubliki_1991.txt",
+     "bytes": 1190,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/708/postanovlenie_vremennogo_soveta_chechenskoy_respub_ngushskoy_respubliki_1991.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 709,
+   "title": "Совершенно несекретно",
+   "year": "1999",
+   "author": "Филатов С. А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "публикация 1999 года: воспоминания С. А. Филатова под авторским правом",
+   "why_not": "права: публикация 1999 года: воспоминания С. А. Филатова под авторским правом",
+   "card": "https://archive.decolonial.ist/709",
+   "source": "http://web.archive.org/web/20190511105909/http://magazines.russ.ru:80/druzhba/1999/12/filatov.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 710,
+   "title": "Russia Confronts Chechnya: Roots of a Separatist Conflict",
+   "year": "1998",
+   "author": "Dunlop J. B.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1998 года под авторским правом",
+   "why_not": "права: современная публикация 1998 года под авторским правом",
+   "card": "https://archive.decolonial.ist/710",
+   "source": "https://books.google.com/books?id=P7SUvzGU67IC",
+   "files": [],
    "telegram": {}
   }
  ]
