@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf) | PDF | 1.3 МБ | в этой папке |
-| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt) | текст | 133 КБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt) | текст | 87 КБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf](https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf) | PDF | 2.0 МБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,7 +25,7 @@
 
 | файл | sha256 |
 |---|---|
-| report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf | `c78d5ca79a549b27c4f88b4a2f7adc97f580b1be800c72ddbad797c58064cad9` |
+| report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf | `7fa0781517f41087010b2c18798e7bf3354417abba6625b7b19c7b34eb26a572` |
 
 ---
 

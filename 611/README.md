@@ -8,13 +8,24 @@
 
 Страница витрины: https://archive.decolonial.ist/611
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: у материала нет файла, который можно выложить (издание целиком не наше)
+| файл | что это | объём | где |
+|---|---|---|---|
+| [zapiski_o_grazhdanskoy_voyne_t_1_1924.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/611__zapiski_o_grazhdanskoy_voyne_t_1_1924.pdf) | PDF | 16.1 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [zapiski_o_grazhdanskoy_voyne_t_1_1924.txt](https://github.com/decolonial-ist/archive/blob/main/611/zapiski_o_grazhdanskoy_voyne_t_1_1924.txt) | текст | 1022 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: [https://archive.org/details/zapiskiograzhdanskojvojnet125](https://archive.org/details/zapiskiograzhdanskojvojnet125)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| zapiski_o_grazhdanskoy_voyne_t_1_1924.pdf | `21926e5a35e22d522eb1913a20f4a09729212519968aabd586ec1fdb49fbc04b` |
 
 ---
 

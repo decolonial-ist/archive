@@ -8,13 +8,17 @@
 
 Страница витрины: https://archive.decolonial.ist/478
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: файла на диске нет
+| файл | что это | объём | где |
+|---|---|---|---|
+| [ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt](https://github.com/decolonial-ist/archive/blob/main/478/ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt) | текст | 7 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/34436-tsk-rkp-b-vkp-b-i-natsionalnyy-vopros-kn-1-1918-1933-gg`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ---
 

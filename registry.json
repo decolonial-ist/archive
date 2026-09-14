@@ -3384,14 +3384,14 @@
    "files": [
     {
      "name": "report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf",
-     "bytes": 1410622,
-     "sha256": "c78d5ca79a549b27c4f88b4a2f7adc97f580b1be800c72ddbad797c58064cad9",
+     "bytes": 2760022,
+     "sha256": "12ec4333c5418839bedec315ea8273f7a0ab3d687f1acb8d7d97da1f900f5b6d",
      "url": "https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf",
      "where": "repo"
     },
     {
      "name": "report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt",
-     "bytes": 135912,
+     "bytes": 150819,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.txt",
      "where": "repo"
@@ -4688,17 +4688,17 @@
    "source": "https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc",
    "files": [
     {
-     "name": "report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt",
-     "bytes": 198533,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt",
+     "name": "report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.doc",
+     "bytes": 211968,
+     "sha256": "874357192acd8384fbaa784d0bdcb0de2170707fcb9a9aa13207dfcf2d887f13",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.doc",
      "where": "repo"
     },
     {
-     "name": "report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.pdf",
-     "bytes": 601390,
-     "sha256": "5a28d10513b2293f4011e0104d71981ab1993baf2ec4c54bd0d013984f9520b9",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.pdf",
+     "name": "report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt",
+     "bytes": 92371,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt",
      "where": "repo"
     }
    ],
@@ -6860,13 +6860,21 @@
    "year": "2005",
    "author": "",
    "people": "Несколько",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "сборник документов (docs.historyrussia.org)",
-   "why_not": "файла на диске нет",
    "card": "https://archive.decolonial.ist/478",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/478",
    "source": "https://docs.historyrussia.org/ru/nodes/34436-tsk-rkp-b-vkp-b-i-natsionalnyy-vopros-kn-1-1918-1933-gg",
-   "files": [],
+   "files": [
+    {
+     "name": "ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt",
+     "bytes": 7642,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/478/ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -7646,17 +7654,17 @@
    "source": "https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf",
    "files": [
     {
-     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
-     "bytes": 1410622,
-     "sha256": "c78d5ca79a549b27c4f88b4a2f7adc97f580b1be800c72ddbad797c58064cad9",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
+     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
+     "bytes": 88938,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
      "where": "repo"
     },
     {
-     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
-     "bytes": 135912,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
+     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
+     "bytes": 2123411,
+     "sha256": "7fa0781517f41087010b2c18798e7bf3354417abba6625b7b19c7b34eb26a572",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
      "where": "repo"
     }
    ],
@@ -9341,7 +9349,7 @@
    "published": false,
    "rights": "свободно",
    "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
-   "why_not": "файла на диске нет",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/585",
    "source": "https://archive.mk.ua/publications/white-terror-in-the-mykolaiv-region-august-1919-february-1920/",
    "files": [],
@@ -9356,7 +9364,7 @@
    "published": false,
    "rights": "свободно",
    "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
-   "why_not": "файла на диске нет",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/586",
    "source": "https://archive.mk.ua/publications/white-terror-in-the-mykolaiv-region-august-1919-february-1920/",
    "files": [],
@@ -9489,13 +9497,21 @@
    "year": "1919",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1919 года свободен, но напечатан в издании 2013 года — выкладываем только текст документа, не издание",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/592",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/592",
    "source": "https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf",
-   "files": [],
+   "files": [
+    {
+     "name": "telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
+     "bytes": 1816,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/592/telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -9762,13 +9778,28 @@
    "year": "1924",
    "author": "Антонов-Овсеенко В. А.",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно",
    "basis": "общественное достояние: издано в 1924 году",
-   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
    "card": "https://archive.decolonial.ist/611",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/611",
    "source": "https://archive.org/details/zapiskiograzhdanskojvojnet125",
-   "files": [],
+   "files": [
+    {
+     "name": "zapiski_o_grazhdanskoy_voyne_t_1_1924.pdf",
+     "bytes": 16845946,
+     "sha256": "21926e5a35e22d522eb1913a20f4a09729212519968aabd586ec1fdb49fbc04b",
+     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/611__zapiski_o_grazhdanskoy_voyne_t_1_1924.pdf",
+     "where": "release"
+    },
+    {
+     "name": "zapiski_o_grazhdanskoy_voyne_t_1_1924.txt",
+     "bytes": 1046210,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/611/zapiski_o_grazhdanskoy_voyne_t_1_1924.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {

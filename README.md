@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **259**, файлов: **503**, объём: **3.42 ГиБ**. Из 710 материалов базы распространять разрешено 402, из них 73 - только текстом документа, без издания целиком; 303 остаются ссылкой на первоисточник.
+Выложено материалов: **262**, файлов: **507**, объём: **3.43 ГиБ**. Из 710 материалов базы распространять разрешено 402, из них 73 - только текстом документа, без издания целиком; 303 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,7 +18,7 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 142 | нет: срок охраны истёк |
+| общественное достояние | 145 | нет: срок охраны истёк |
 | не охраняется авторским правом | 80 | нет: закон выводит официальные документы из-под авторского права |
 | CC BY 4.0 | 16 | ссылка на источник |
 | Музей ХПГ: передрук со ссылкой | 5 | ссылка на источник |
@@ -50,7 +50,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 259 материалов, 503 файлов
+## Что выложено - 262 материалов, 507 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -131,7 +131,7 @@
 | [218](https://archive.decolonial.ist/218) | IAEA Director General Statement on Situation in Ukraine, Update 9 | Grossi R. M. | 2022 | общественное достояние | 1 | 0.0 МиБ | [https://reliefweb.int/report/ukraine/update-9-iaea-director-general-statement-situation-ukraine-3-march-2022-enru](https://reliefweb.int/report/ukraine/update-9-iaea-director-general-statement-situation-ukraine-3-march-2022-enru) |
 | [219](https://archive.decolonial.ist/219) | ICC judges issue arrest warrants against Vladimir Putin and Maria Lvova-Belova | Міжнародний кримінальний суд | 2023 | общественное достояние | 2 | 0.1 МиБ | [https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and) |
 | [221](https://archive.decolonial.ist/221) | Report of the Independent International Commission of Inquiry on Ukraine (A/HRC/52/62) | Незалежна міжнародна комісія ООН з розслідування подій в Україні | 2023 | общественное достояние | 2 | 0.4 МиБ | [https://documents.un.org/api/symbol/access?s=A/HRC/52/62&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=A/HRC/52/62&l=en&t=pdf) |
-| [222](https://archive.decolonial.ist/222) | Report on the human rights situation in Ukraine, 1 February to 31 July 2023 (OHCHR) | Управління Верховного комісара ООН з прав людини | 2023 | общественное достояние | 2 | 1.5 МиБ | [https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf](https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf) |
+| [222](https://archive.decolonial.ist/222) | Report on the human rights situation in Ukraine, 1 February to 31 July 2023 (OHCHR) | Управління Верховного комісара ООН з прав людини | 2023 | общественное достояние | 2 | 2.8 МиБ | [https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf](https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf) |
 | [226](https://archive.decolonial.ist/226) | Territorial integrity of Ukraine: defending the principles of the Charter of the United Nations (A/RES/ES-11/4) | Генеральна Асамблея ООН | 2022 | не охраняется авторским правом | 2 | 0.4 МиБ | [https://documents.un.org/api/symbol/access?s=A/RES/ES-11/4&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=A/RES/ES-11/4&l=en&t=pdf) |
 | [232](https://archive.decolonial.ist/232) | Інтерв'ю Василя Овсієнка (Музей дисидентського руху) | Овсієнко В. В. | 2011 | Музей ХПГ: передрук со ссылкой | 2 | 1.0 МиБ | [https://museum.khpg.org/1321393033](https://museum.khpg.org/1321393033) |
 | [234](https://archive.decolonial.ist/234) | Виктор Янукович и Владимир Путин достигли компромисса в Москве | - | 2013 | RFE/RL: текст со ссылкой и копирайтом | 2 | 0.1 МиБ | [https://www.svoboda.org/a/25203188.html](https://www.svoboda.org/a/25203188.html) |
@@ -160,7 +160,7 @@
 | [317](https://archive.decolonial.ist/317) | Обращение Президента Российской Федерации 21 февраля 2022 года | Путин В. В. | 2022 | CC BY 4.0 | 2 | 0.2 МиБ | `kremlin[.]ru/events/president/news/67828` |
 | [321](https://archive.decolonial.ist/321) | Update 4 – IAEA Director General Statement on Situation in Ukraine | International Atomic Energy Agency | 2022 | общественное достояние | 3 | 0.0 МиБ | [https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022](https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022) |
 | [322](https://archive.decolonial.ist/322) | Report on the human rights situation in Ukraine, 15 June 2014 (OHCHR) | Управление Верховного комиссара ООН по правам человека | 2014 | общественное достояние | 2 | 0.8 МиБ | [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/HRMMUReport15June2014.pdf) |
-| [325](https://archive.decolonial.ist/325) | Report on the human rights situation in Ukraine, 15 April 2014 (OHCHR) | Управление Верховного комиссара ООН по правам человека | 2014 | общественное достояние | 2 | 0.8 МиБ | [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc) |
+| [325](https://archive.decolonial.ist/325) | Report on the human rights situation in Ukraine, 15 April 2014 (OHCHR) | Управление Верховного комиссара ООН по правам человека | 2014 | общественное достояние | 2 | 0.3 МиБ | [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Ukraine_Report_15April2014.doc) |
 | [326](https://archive.decolonial.ist/326) | Situation of human rights in the temporarily occupied Autonomous Republic of Crimea and the city of Sevastopol (OHCHR) | Управление Верховного комиссара ООН по правам человека | 2017 | общественное достояние | 2 | 0.8 МиБ | [https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Crimea2014_2017_EN.pdf](https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Crimea2014_2017_EN.pdf) |
 | [327](https://archive.decolonial.ist/327) | Report on Violations of International Humanitarian and Human Rights Law, War Crimes and Crimes against Humanity Committed in Ukraine (OSCE Moscow Mechanism) | Організація з безпеки і співробітництва в Європі, Бюро демократичних інститутів і прав людини | 2022 | общественное достояние | 2 | 3.2 МиБ | `www.osce[.]org/files/f/documents/f/a/515868.pdf` |
 | [332](https://archive.decolonial.ist/332) | Договори і постанови прав і свобод військових (Конституція Пилипа Орлика) | Орлик П. С. | 1710 | общественное достояние | 2 | 0.1 МиБ | [https://zakon.rada.gov.ua/laws/show/001_003](https://zakon.rada.gov.ua/laws/show/001_003) |
@@ -212,6 +212,7 @@
 | [471](https://archive.decolonial.ist/471) | Сводные данные об арестованных и осужденных органами НКВД УССР за время с 1 октября 1936 года по 1-е июля 1938 года | Назаренко | 1938 | не охраняется авторским правом | 2 | 0.0 МиБ | `przystanekhistoria[.]pl/download/166/146938/T8WielkiTerrorcz2-komplet.pdf` |
 | [472](https://archive.decolonial.ist/472) | Конвенция о законах и обычаях сухопутной войны | Гаагская мирная конференция | 1907 | общественное достояние | 2 | 0.1 МиБ | [https://ru.wikisource.org/wiki/Конвенция_о_законах_и_обычаях_сухопутной_войны_(1907)](https://ru.wikisource.org/wiki/Конвенция_о_законах_и_обычаях_сухопутной_войны_(1907)) |
 | [476](https://archive.decolonial.ist/476) | Совершенно секретно: Лубянка - Сталину о положении в стране. Том 3, 1925 год | Информационный отдел ОГПУ | 2002 | общественное достояние | 6 | 2.8 МиБ | `istmat[.]org/node/22548` |
+| [478](https://archive.decolonial.ist/478) | ЦК РКП(б)-ВКП(б) и национальный вопрос. Кн. 1. 1918-1933 гг. | - | 2005 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/34436-tsk-rkp-b-vkp-b-i-natsionalnyy-vopros-kn-1-1918-1933-gg` |
 | [479](https://archive.decolonial.ist/479) | О подготовке к операции по разоружению и борьбе с бандитизмом в Чечне | - | 2022 | общественное достояние | 3 | 0.7 МиБ | [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8) |
 | [481](https://archive.decolonial.ist/481) | Из архива Дахо Джанхотова: ведомость приема-передачи уголовных дел как исторический документ | Дахо А. А. | 2021 | CC BY 4.0 | 2 | 0.1 МиБ | `cyberleninka[.]ru/article/n/iz-arhiva-daho-dzhanhotova-vedomost-priema-peredachi-ugolovnyh-del-kak-istoricheskiy-dokument` |
 | [484](https://archive.decolonial.ist/484) | Как погиб Нажмутдин Гоцинский | Дж. Х-и | 1936 | общественное достояние | 2 | 0.6 МиБ | [https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611](https://archive.org/details/jbc.bj.uj.edu.pl.NDIGCZAS023449_72125611) |
@@ -229,7 +230,7 @@
 | [509](https://archive.decolonial.ist/509) | 64 отдельной мотострелковой бригаде присвоено почётное наименование гвардейской (kremlin.ru) | Администрация президента РФ | 2022 | CC BY 4.0 | 2 | 0.0 МиБ | `kremlin[.]ru/events/president/news/68235` |
 | [510](https://archive.decolonial.ist/510) | В Ірпені від обстрілу військ РФ 6 березня загинули щонайменше вісім цивільних жителів - мер (Радіо Свобода) | - | 2022 | RFE/RL: текст со ссылкой и копирайтом | 2 | 0.0 МиБ | [https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html](https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html) |
 | [515](https://archive.decolonial.ist/515) | UN Commission concludes that Russian armed forces' drone attacks against civilians in Kherson Province amount to crimes against humanity of murder (OHCHR) | Independent International Commission of Inquiry on Ukraine | 2025 | общественное достояние | 2 | 0.0 МиБ | [https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians](https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians) |
-| [516](https://archive.decolonial.ist/516) | Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR) | Office of the United Nations High Commissioner for Human Rights | 2024 | общественное достояние | 2 | 1.5 МиБ | [https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf](https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf) |
+| [516](https://archive.decolonial.ist/516) | Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR) | Office of the United Nations High Commissioner for Human Rights | 2024 | общественное достояние | 2 | 2.1 МиБ | [https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf](https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf) |
 | [517](https://archive.decolonial.ist/517) | Ukraine: Cluster Munitions Launched Into Kharkiv Neighborhoods (Human Rights Watch) | Human Rights Watch | 2022 | CC BY-NC-ND 3.0 | 2 | 0.0 МиБ | [https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods](https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods) |
 | [525](https://archive.decolonial.ist/525) | «Вивезли золото, зброю, нагороди Вермахту». У музеях Херсону розповіли, як російські окупанти їх спустошили (Радіо Свобода) | Антипенко І. | 2022 | RFE/RL: текст со ссылкой и копирайтом | 1 | 0.0 МиБ | [https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html](https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html) |
 | [526](https://archive.decolonial.ist/526) | Мер Мелітополя Іван Федоров розповів про своє викрадення росіянами (NV) | - | 2022 | NV.ua: текст со ссылкой | 2 | 0.0 МиБ | [https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html](https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html) |
@@ -279,6 +280,7 @@
 | [588](https://archive.decolonial.ist/588) | Сообщение о введении деникинцами военной и губернаторской цензуры на печатные издания | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [589](https://archive.decolonial.ist/589) | Сообщение о положении в Киеве при деникинской власти | - | 1919 | общественное достояние | 1 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [591](https://archive.decolonial.ist/591) | Телеграмма В. И. Ленина Х. Г. Раковскому и В. И. Межлауку | Ленин В. И. | 1919 | общественное достояние | 1 | 0.2 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#43` |
+| [592](https://archive.decolonial.ist/592) | Телеграмма В. И. Межлаука В. И. Ленину | - | 1919 | общественное достояние | 1 | 0.0 МиБ | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
 | [593](https://archive.decolonial.ist/593) | Телеграмма Н. А. Скрыпника о ликвидации банд Зеленого | - | 1919 | общественное достояние | 2 | 0.0 МиБ | `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/` |
 | [594](https://archive.decolonial.ist/594) | Телеграмма Х. Г. Раковскому | Ленин В. И. | 1919 | общественное достояние | 1 | 0.2 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#99` |
 | [595](https://archive.decolonial.ist/595) | Телеграмма Х. Г. Раковскому, А. Г. Шлихтеру, Н. И. Подвойскому | Ленин В. И. | 1919 | общественное достояние | 1 | 0.2 МиБ | `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#87` |
@@ -289,6 +291,7 @@
 | [602](https://archive.decolonial.ist/602) | Извещение ЦИК Советов Украины | - | 1917 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/343067` |
 | [606](https://archive.decolonial.ist/606) | Постановление Совета Министров СССР № 1439-649с «О снятии некоторых ограничений в правовом положении спецпоселенцев» | - | 1954 | не охраняется авторским правом | 2 | 0.0 МиБ | `istmat[.]org/node/57859` |
 | [610](https://archive.decolonial.ist/610) | Директивы командования фронтов Красной армии (1917–1922). Т. 1 | Институт военной истории Министерства обороны СССР | 1971 | не охраняется авторским правом | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
+| [611](https://archive.decolonial.ist/611) | Записки о гражданской войне. Т. 1 | Антонов-Овсеенко В. А. | 1924 | общественное достояние | 2 (в релизе 1) | 17.1 МиБ | [https://archive.org/details/zapiskiograzhdanskojvojnet125](https://archive.org/details/zapiskiograzhdanskojvojnet125) |
 | [617](https://archive.decolonial.ist/617) | Заседание Совета Р. и С. Д. 28 января | - | 1918 | общественное достояние | 2 (в релизе 1) | 149.1 МиБ | `rev-lib[.]com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/` |
 | [621](https://archive.decolonial.ist/621) | Манифест к украинскому народу с ультимативными требованиями к Украинской Раде | Ленин В. И. | 1917 | общественное достояние | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде](https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде) |
 | [622](https://archive.decolonial.ist/622) | Постановление СНД РСФСР № 1847-I О признании незаконными выборов, проведенных 27 октября 1991 года в Чечено-Ингушской Республике | Съезд народных депутатов РСФСР | 1991 | не охраняется авторским правом | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Постановление_СНД_РСФСР_от_02.11.1991_№_1847-I](https://ru.wikisource.org/wiki/Постановление_СНД_РСФСР_от_02.11.1991_№_1847-I) |
@@ -318,7 +321,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 449
+## Свободные, но файла у нас нет - 446
 
 Распространять можно, а файла нет.
 
@@ -518,7 +521,6 @@
 | Закон Української РСР «Про зміцнення зв'язку школи з життям і про дальший розвиток системи народної освіти в Українській РСР» | 1959 | Украина | `studfile[.]net/preview/8209452/page:23/` |
 | Записка В. И. Ленина в Киев о подчинении Укрнаркомпрода | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
 | Записки о воссоединении греко-униатского духовенства и народа в Белоруссии и на Волыни с православною церковью | 1881 | Украина | [https://archive.org/details/1881_20260529](https://archive.org/details/1881_20260529) |
-| Записки о гражданской войне. Т. 1 | 1924 | Украина | [https://archive.org/details/zapiskiograzhdanskojvojnet125](https://archive.org/details/zapiskiograzhdanskojvojnet125) |
 | Записки об аварской экспедиции на Кавказе 1837 года | 1851 | Несколько | `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Kosteneckij_Ja_I/text1.htm` |
 | Затерянная записка (записка Л. И. Лаврова о «200-летии вхождения Чечено-Ингушетии», февраль 1979) | 1990 | Чечня | [https://archive.org/details/Voprosy_istorii_1990](https://archive.org/details/Voprosy_istorii_1990) |
 | Заявление Председателя Совета Безопасности ООН S/26118 | 1993 | Украина | [https://digitallibrary.un.org/record/197230](https://digitallibrary.un.org/record/197230) |
@@ -716,7 +718,6 @@
 | Так это было: национальные репрессии в СССР | 1993 | Несколько | [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491) |
 | Ташу-Хаджи Саясанский и его деятельность в Чечне в 30-е годы XIX века | 2019 | Несколько | `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/` |
 | Телеграмма А. Шишкова в ЦК РКП(б) | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
-| Телеграмма В. И. Межлаука В. И. Ленину | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
 | Телеграмма тов. Орджоникидзе Совнаркому о восстании рабочих и солдат Киева против Центральной рады и о приближении советских войск к городу | 1918 | Украина | `docs.historyrussia[.]org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g` |
 | Телефонограмма борзенского уездного комиссара Центральной рады волостным Советам крестьянских депутатов о посылке в Киев представителей кулачества для срыва Всеукраинского съезда Советов | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/503632` |
 | Тернистий шлях українства (у складі «Походження українців, росіян, білорусів та їхніх мов») | 2001 | Украина | [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm) |
@@ -755,7 +756,6 @@
 | Хроника Тузлинского кризиса в синхронной прессе | 2003 | Украина | `politika-crimea[.]ru/` |
 | Хроника первой российской войны в Чечне | 2026 | Чечня | `beda[.]media/ru/articles/war-in-chechnya-chronicle-part1-ru` |
 | Хронология истории Чечено-Ингушетии | 1991 | Несколько | `www.prlib[.]ru/item/1968825` |
-| ЦК РКП(б)-ВКП(б) и национальный вопрос. Кн. 1. 1918-1933 гг. | 2005 | Несколько | `docs.historyrussia[.]org/ru/nodes/34436-tsk-rkp-b-vkp-b-i-natsionalnyy-vopros-kn-1-1918-1933-gg` |
 | Царское прошлое чеченцев. Власть и общество | 2009 | Чечня | `rusneb[.]ru/catalog/000199_000009_004409385/` |
 | Чечено-русские отношения в XVIII веке. Исследования и материалы. Том I | 2019 | Чечня | `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf` |
 | Чеченский язык в 90-е годы XX века: функции и структура | 2007 | Чечня | `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura` |
