@@ -139,21 +139,6 @@
    "telegram": {}
   },
   {
-   "id": 26,
-   "title": "Хроника первой российской войны в Чечне",
-   "year": "2026",
-   "author": "",
-   "people": "Чечня",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2026 года под авторским правом",
-   "why_not": "права: современная публикация 2026 года под авторским правом",
-   "card": "https://archive.decolonial.ist/26",
-   "source": "https://beda.media/ru/articles/war-in-chechnya-chronicle-part1-ru",
-   "files": [],
-   "telegram": {}
-  },
-  {
    "id": 27,
    "title": "Россия - Чечня - цепь ошибок и преступлений. 1994—1996",
    "year": "2010",
@@ -345,21 +330,6 @@
    "why_not": "права: современная публикация 2026 года под авторским правом",
    "card": "https://archive.decolonial.ist/38",
    "source": "https://www.obozrevatel.com/novosti-obschestvo/dvojnoe-prestuplenie-sssr-kak-sovetyi-skryivali-chernobyilskuyu-katastrofu.htm",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 51,
-   "title": "Расширение военно-казачьей колонизации на Кавказской линии в 90-е г. XVIII - 60-е г. XIX в.",
-   "year": "2007",
-   "author": "Бурыкина Л. В.",
-   "people": "Несколько",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2007 года под авторским правом",
-   "why_not": "права: современная публикация 2007 года под авторским правом",
-   "card": "https://archive.decolonial.ist/51",
-   "source": "https://aheku.net/articles/russian/istoriya-adyigov/alias9341",
    "files": [],
    "telegram": {}
   },
@@ -600,21 +570,6 @@
    "why_not": "права: современная публикация 2017 года под авторским правом",
    "card": "https://archive.decolonial.ist/85",
    "source": "http://www.kbigi.ru/fmedia/%D0%A2%D1%85%D0%B0%D0%BC%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0-%D0%98.%D0%A5.-17.01.2018-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 86,
-   "title": "История Чечни с древнейших времён до наших дней",
-   "year": "2008",
-   "author": "Ибрагимов М. М.",
-   "people": "Чечня",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная монография под авторским правом",
-   "why_not": "права: современная монография под авторским правом",
-   "card": "https://archive.decolonial.ist/86",
-   "source": "https://books.google.com.ua/books/about/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A7%D0%B5%D1%87%D0%BD%D0%B8_%D1%81_%D0%B4%D1%80%D0%B5%D0%B2%D0%BD.html?id=KEQMAQAAMAAJ&redir_esc=y",
    "files": [],
    "telegram": {}
   },
@@ -3280,59 +3235,6 @@
    "telegram": {}
   },
   {
-   "id": 218,
-   "title": "IAEA Director General Statement on Situation in Ukraine, Update 9",
-   "year": "2022",
-   "author": "Grossi R. M.",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/218",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/218",
-   "source": "https://reliefweb.int/report/ukraine/update-9-iaea-director-general-statement-situation-ukraine-3-march-2022-enru",
-   "files": [
-    {
-     "name": "iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf",
-     "bytes": 27897,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/218/iaea_director_general_statement_on_situation_in_ukraine_update_9_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 219,
-   "title": "ICC judges issue arrest warrants against Vladimir Putin and Maria Lvova-Belova",
-   "year": "2023",
-   "author": "Міжнародний кримінальний суд",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/219",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/219",
-   "source": "https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and",
-   "files": [
-    {
-     "name": "icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf",
-     "bytes": 43164,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt",
-     "bytes": 17338,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/219/icc_judges_issue_arrest_warrants_against_vladimir_d_maria_lvova_belova_2023.txt",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
    "id": 220,
    "title": "Memorandum of Conversation: Meeting with President of Russia (Sochi)",
    "year": "2008",
@@ -3408,21 +3310,6 @@
    "telegram": {}
   },
   {
-   "id": 224,
-   "title": "System of Filtration: Mapping Russia's Detention Operations in Donetsk Oblast (Yale HRL)",
-   "year": "2022",
-   "author": "Humanitarian Research Lab, Yale School of Public Health",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (hub.conflictobservatory.org)",
-   "why_not": "права: материал организации или СМИ под авторским правом (hub.conflictobservatory.org)",
-   "card": "https://archive.decolonial.ist/224",
-   "source": "https://hub.conflictobservatory.org/portal/apps/sites/#/home/pages/filtration-1",
-   "files": [],
-   "telegram": {}
-  },
-  {
    "id": 225,
    "title": "TCDD poisoning in Victor Yushchenko (The Lancet)",
    "year": "2009",
@@ -3435,36 +3322,6 @@
    "card": "https://archive.decolonial.ist/225",
    "source": "https://pubmed.ncbi.nlm.nih.gov/19660807/",
    "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 226,
-   "title": "Territorial integrity of Ukraine: defending the principles of the Charter of the United Nations (A/RES/ES-11/4)",
-   "year": "2022",
-   "author": "Генеральна Асамблея ООН",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
-   "card": "https://archive.decolonial.ist/226",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/226",
-   "source": "https://documents.un.org/api/symbol/access?s=A/RES/ES-11/4&l=en&t=pdf",
-   "files": [
-    {
-     "name": "territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt",
-     "bytes": 8170,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf",
-     "bytes": 378356,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/226/territorial_integrity_of_ukraine_defending_the_pri_ations_a_res_es_11_4_2022.pdf",
-     "where": "repo"
-    }
-   ],
    "telegram": {}
   },
   {
@@ -3509,21 +3366,6 @@
    "why_not": "права: материал организации или СМИ под авторским правом (oxfordenergy.org)",
    "card": "https://archive.decolonial.ist/229",
    "source": "https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 230,
-   "title": "Ukraine's Stolen Art: Cultural plunder in the shadow of war",
-   "year": "2025",
-   "author": "Tulaganova S.",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (justiceinfo.net)",
-   "why_not": "права: материал организации или СМИ под авторским правом (justiceinfo.net)",
-   "card": "https://archive.decolonial.ist/230",
-   "source": "https://www.justiceinfo.net/en/148452-art-of-war-ukraine.html",
    "files": [],
    "telegram": {}
   },
@@ -3759,7 +3601,7 @@
    "files": [
     {
      "name": "o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt",
-     "bytes": 26463,
+     "bytes": 26230,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/240/o_meropriyatiyah_po_likvidacii_kulackih_hozyaystv_hnoy_kollektivizacii_1930.txt",
      "where": "repo"
@@ -4571,58 +4413,6 @@
    "telegram": {}
   },
   {
-   "id": 320,
-   "title": "Викрадаючи український метал, Росія скоює міжнародний воєнний злочин – \"Метінвест\" (Gordon)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/320",
-   "source": "https://gordonua.com/ukr/news/war/-vikradajuchi-ukrajinskij-metal-rosija-zdijsnjuje-mizhnarodnij-vojennij-zlochin-metinvest-1614470.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 321,
-   "title": "Update 4 – IAEA Director General Statement on Situation in Ukraine",
-   "year": "2022",
-   "author": "International Atomic Energy Agency",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/321",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/321",
-   "source": "https://reliefweb.int/report/ukraine/update-4-iaea-director-general-statement-situation-ukraine-28-february-2022",
-   "files": [
-    {
-     "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt",
-     "bytes": 3397,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md",
-     "bytes": 3400,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.md",
-     "where": "repo"
-    },
-    {
-     "name": "update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
-     "bytes": 28107,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/321/update_4_iaea_director_general_statement_on_situation_in_ukraine_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
    "id": 322,
    "title": "Report on the human rights situation in Ukraine, 15 June 2014 (OHCHR)",
    "year": "2014",
@@ -4912,36 +4702,6 @@
    "card": "https://archive.decolonial.ist/334",
    "source": "https://archive.org/details/e0h0u",
    "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 358,
-   "title": "2025 deadliest year for civilians in Ukraine since 2022, UN human rights monitors find (OHCHR)",
-   "year": "2026",
-   "author": "Управление Верховного комиссара ООН по правам человека",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/358",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/358",
-   "source": "https://ukraine.ohchr.org/en/2025-deadliest-year-for-civilians-in-Ukraine-since-2022-UN-human-rights-monitors-find",
-   "files": [
-    {
-     "name": "2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt",
-     "bytes": 5740,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.txt",
-     "where": "repo"
-    },
-    {
-     "name": "2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf",
-     "bytes": 30410,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/358/2025_deadliest_year_for_civilians_in_ukraine_since_monitors_find_ohchr_2026.pdf",
-     "where": "repo"
-    }
-   ],
    "telegram": {}
   },
   {
@@ -6586,7 +6346,7 @@
     },
     {
      "name": "operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt",
-     "bytes": 11073,
+     "bytes": 11075,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/465/operativnyy_prikaz_nkvd_sssr_no_00485_1937.txt",
      "where": "repo"
@@ -7451,547 +7211,6 @@
      "where": "repo"
     }
    ],
-   "telegram": {}
-  },
-  {
-   "id": 506,
-   "title": "31 березня - четверта річниця звільнення Бучі від російських окупантів (Бучанська міська рада)",
-   "year": "2026",
-   "author": "Бучанська міська рада",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2026 года под авторским правом",
-   "why_not": "права: современная публикация 2026 года под авторским правом",
-   "card": "https://archive.decolonial.ist/506",
-   "source": "https://bucha.com.ua/index.php?newsid=1151081071",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 507,
-   "title": "Командири «бучанських катів»: хто з російських офіцерів відповідальний за геноцид на Київщині (Слідство.Інфо)",
-   "year": "2022",
-   "author": "Реплянчук Д.",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/507",
-   "source": "https://www.slidstvo.info/warnews/komandyry-buchanskyh-kativ-hto-z-rosijskyh-ofitseriv-vidpovidalnyj-za-genotsyd-na-kyyivshhyni/",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 508,
-   "title": "Bucha: nine Russian soldiers sentenced and more trials to come (JusticeInfo)",
-   "year": "2023",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (justiceinfo.net)",
-   "why_not": "права: материал организации или СМИ под авторским правом (justiceinfo.net)",
-   "card": "https://archive.decolonial.ist/508",
-   "source": "https://www.justiceinfo.net/en/121743-bucha-nine-russian-soldiers-sentenced-and-more-trials-to-come.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 509,
-   "title": "64 отдельной мотострелковой бригаде присвоено почётное наименование гвардейской (kremlin.ru)",
-   "year": "2022",
-   "author": "Администрация президента РФ",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "kremlin.ru: CC BY 4.0",
-   "card": "https://archive.decolonial.ist/509",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/509",
-   "source": "http://kremlin.ru/events/president/news/68235",
-   "files": [
-    {
-     "name": "64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf",
-     "bytes": 25580,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt",
-     "bytes": 1600,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/509/64_otdelnoy_motostrelkovoy_brigade_prisvoeno_poche_ardeyskoy_kremlin_ru_2022.txt",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 510,
-   "title": "В Ірпені від обстрілу військ РФ 6 березня загинули щонайменше вісім цивільних жителів - мер (Радіо Свобода)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
-   "card": "https://archive.decolonial.ist/510",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/510",
-   "source": "https://www.radiosvoboda.org/a/news-irpin-zahybli/31739109.html",
-   "files": [
-    {
-     "name": "v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.txt",
-     "bytes": 3871,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf",
-     "bytes": 31746,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/510/v_irpeni_vid_obstrilu_viysk_rf_6_bereznya_zaginuli_iv_mer_radio_svoboda_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 511,
-   "title": "Сім'я загинула від обстрілу під час евакуації з Ірпеня - Сергій Перебийніс розповів про трагедію (Українська правда)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/511",
-   "source": "https://life.pravda.com.ua/society/2022/03/10/247756/",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 512,
-   "title": "В Ірпені загинуло 200-300 цивільних та 50 військових, - мер міста Маркушин (Еспресо)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/512",
-   "source": "https://espreso.tv/v-irpeni-zaginulo-200-300-tsivilnikh-ta-50-viyskovikh-mer-mista-markushin",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 513,
-   "title": "«Підвал смерті» в Ягідному. Суд виніс вирок російським військовим (Главком)",
-   "year": "2024",
-   "author": "Ульяненко В.",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2024 года под авторским правом",
-   "why_not": "права: современная публикация 2024 года под авторским правом",
-   "card": "https://archive.decolonial.ist/513",
-   "source": "https://glavcom.ua/country/incidents/pidval-smerti-v-jahidnomu-sud-vinis-virok-rosijskim-vijskovim-990202.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 514,
-   "title": "Бранці «підвалу смерті» в селі Ягідне проти 15 військових із Росії (Новинарня)",
-   "year": "2023",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2023 года под авторским правом",
-   "why_not": "права: современная публикация 2023 года под авторским правом",
-   "card": "https://archive.decolonial.ist/514",
-   "source": "https://novynarnia.com/2023/09/25/branczi-pidvalu-v-yagidnomu/",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 515,
-   "title": "UN Commission concludes that Russian armed forces' drone attacks against civilians in Kherson Province amount to crimes against humanity of murder (OHCHR)",
-   "year": "2025",
-   "author": "Independent International Commission of Inquiry on Ukraine",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/515",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/515",
-   "source": "https://www.ohchr.org/en/press-releases/2025/05/un-commission-concludes-russian-armed-forces-drone-attacks-against-civilians",
-   "files": [
-    {
-     "name": "un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt",
-     "bytes": 6279,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.txt",
-     "where": "repo"
-    },
-    {
-     "name": "un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf",
-     "bytes": 35217,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/515/un_commission_concludes_that_russian_armed_forces_nity_of_murder_ohchr_2025.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 516,
-   "title": "Report on the human rights situation in Ukraine, 1 December 2023 to 29 February 2024 (OHCHR)",
-   "year": "2024",
-   "author": "Office of the United Nations High Commissioner for Human Rights",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/516",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/516",
-   "source": "https://ukraine.un.org/sites/default/files/2024-03/2024-03-26%20OHCHR%2038th%20Periodic%20Report.pdf",
-   "files": [
-    {
-     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
-     "bytes": 88938,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.txt",
-     "where": "repo"
-    },
-    {
-     "name": "report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
-     "bytes": 2123411,
-     "sha256": "7fa0781517f41087010b2c18798e7bf3354417abba6625b7b19c7b34eb26a572",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/516/report_on_the_human_rights_situation_in_ukraine_1_february_2024_ohchr_2024.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 517,
-   "title": "Ukraine: Cluster Munitions Launched Into Kharkiv Neighborhoods (Human Rights Watch)",
-   "year": "2022",
-   "author": "Human Rights Watch",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
-   "card": "https://archive.decolonial.ist/517",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/517",
-   "source": "https://www.hrw.org/news/2022/03/04/ukraine-cluster-munitions-launched-kharkiv-neighborhoods",
-   "files": [
-    {
-     "name": "ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt",
-     "bytes": 8581,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf",
-     "bytes": 36032,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/517/ukraine_cluster_munitions_launched_into_kharkiv_ne_s_human_rights_watch_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 518,
-   "title": "Ракетні удари по Львову: Козицький повідомив подробиці про загиблих і стан постраждалих (ТСН)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/518",
-   "source": "https://tsn.ua/ato/raketni-udari-po-lvovu-stali-vidomi-podrobici-pro-zagiblih-i-stan-postrazhdalih-2040202.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 519,
-   "title": "Ідентифіковано росіян, причетних до загибелі родини Базилевичів у Львові 4 вересня 2024 року (Главком)",
-   "year": "2025",
-   "author": "Порощук Н.",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2025 года под авторским правом",
-   "why_not": "права: современная публикация 2025 года под авторским правом",
-   "card": "https://archive.decolonial.ist/519",
-   "source": "https://glavcom.ua/country/criminal/identifikovano-rosijan-prichetnikh-do-zahibeli-rodini-bazilevichiv-u-lvovi-4-veresnja-2024-roku-1086915.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 520,
-   "title": "Russian missile strike kills 23 people in Vinnytsia (Militarnyi)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/520",
-   "source": "https://militarnyi.com/en/news/russian-missile-strike-kills-23-people-in-vinnytsia/",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 521,
-   "title": "Russia defends submarine missile attack that killed 23 civilians (Al Jazeera)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/521",
-   "source": "https://www.aljazeera.com/news/2022/7/15/russia-justifies-deadly-attack-on-ukrainian-city-of-vinnytsia",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 522,
-   "title": "Балаклія під окупантами: десятки закатованих, зниклих безвісти і три місяці тортур (МІПЛ)",
-   "year": "2022",
-   "author": "Медійна ініціатива за права людини",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2022 года под авторским правом",
-   "why_not": "права: современная публикация 2022 года под авторским правом",
-   "card": "https://archive.decolonial.ist/522",
-   "source": "https://web.archive.org/web/20230205181420/https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 523,
-   "title": "Під час окупації Балаклії загарбники задушили у катівні юриста агропідприємства (Укрінформ)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (ukrinform.ua)",
-   "why_not": "права: материал организации или СМИ под авторским правом (ukrinform.ua)",
-   "card": "https://archive.decolonial.ist/523",
-   "source": "https://www.ukrinform.ua/rubric-regions/3575070-pid-cas-okupacii-balaklii-zagarbniki-zadusili-u-kativni-urista-agropidpriemstva.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 524,
-   "title": "Масове поховання під Ізюмом: неідентифікованими залишаються 122 тіла (Укрінформ)",
-   "year": "2023",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (ukrinform.ua)",
-   "why_not": "права: материал организации или СМИ под авторским правом (ukrinform.ua)",
-   "card": "https://archive.decolonial.ist/524",
-   "source": "https://www.ukrinform.ua/rubric-ato/3676515-masove-pohovanna-pid-izumom-neidentifikovanimi-zalisautsa-122-tila.html",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 525,
-   "title": "«Вивезли золото, зброю, нагороди Вермахту». У музеях Херсону розповіли, як російські окупанти їх спустошили (Радіо Свобода)",
-   "year": "2022",
-   "author": "Антипенко І.",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
-   "card": "https://archive.decolonial.ist/525",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/525",
-   "source": "https://www.radiosvoboda.org/a/novyny-pryazovya-muzeyi-khersona-pohrabuvannya-okupantamy/32182204.html",
-   "files": [
-    {
-     "name": "vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf",
-     "bytes": 44418,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/525/vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 526,
-   "title": "Мер Мелітополя Іван Федоров розповів про своє викрадення росіянами (NV)",
-   "year": "2022",
-   "author": "",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "NV.ua: текст можно использовать без письменного разрешения при гиперссылке на источник",
-   "card": "https://archive.decolonial.ist/526",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/526",
-   "source": "https://nv.ua/ukr/ukraine/events/mer-melitopolya-ivan-fedorov-rozpoviv-pro-svoye-vikradennya-rosiyanami-50226118.html",
-   "files": [
-    {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.txt",
-     "bytes": 2704,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf",
-     "bytes": 29412,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/526/mer_melitopolya_ivan_fedorov_rozpoviv_pro_svoe_vikradennya_rosiyanami_nv_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 527,
-   "title": "Russia's Systematic Program for the Re-education and Adoption of Ukraine's Children (Yale HRL)",
-   "year": "2023",
-   "author": "Humanitarian Research Lab, Yale School of Public Health",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "материал организации или СМИ под авторским правом (hub.conflictobservatory.org)",
-   "why_not": "права: материал организации или СМИ под авторским правом (hub.conflictobservatory.org)",
-   "card": "https://archive.decolonial.ist/527",
-   "source": "https://hub.conflictobservatory.org/portal/apps/sites/#/home/pages/children-camps-1",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 528,
-   "title": "2022 - теракт у Оленівці (Український інститут національної пам'яті)",
-   "year": "2022",
-   "author": "Український інститут національної пам'яті",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "Український інститут національної пам'яті: CC BY 4.0",
-   "card": "https://archive.decolonial.ist/528",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/528",
-   "source": "https://uinp.gov.ua/istorychnyy-kalendar/lypen/28/2022-terakt-u-olenivci",
-   "files": [
-    {
-     "name": "2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt",
-     "bytes": 4619,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.txt",
-     "where": "repo"
-    },
-    {
-     "name": "2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf",
-     "bytes": 29524,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/528/2022_terakt_u_olenivci_ukrainskiy_institut_nacionalnoi_pam_yati_2022.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 529,
-   "title": "росія вивезла майже 15 млн тонн українського зерна з окупованих територій (AgroReview)",
-   "year": "2026",
-   "author": "",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2026 года под авторским правом",
-   "why_not": "права: современная публикация 2026 года под авторским правом",
-   "card": "https://archive.decolonial.ist/529",
-   "source": "https://agroreview.com/news/rosiya-vyvezla-majzhe-15-mln-tonn-ukrayinskoho-zerna-z-okupovanyh-terytorij",
-   "files": [],
-   "telegram": {}
-  },
-  {
-   "id": 530,
-   "title": "UN report details increase in civilian deaths amid systematic strikes on energy facilities (OHCHR)",
-   "year": "2026",
-   "author": "Office of the United Nations High Commissioner for Human Rights",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно",
-   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
-   "card": "https://archive.decolonial.ist/530",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/530",
-   "source": "https://ukraine.ohchr.org/en/UN-report-details-increase-in-civilian-deaths-amid-systematic-strikes-on-energy-facilities",
-   "files": [
-    {
-     "name": "un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf",
-     "bytes": 45163,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/530/un_report_details_increase_in_civilian_deaths_amid_rgy_facilities_ohchr_2026.pdf",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 531,
-   "title": "Документи про заборону української мови",
-   "year": "2008",
-   "author": "Вірченко Н. О.",
-   "people": "Украина",
-   "published": true,
-   "rights": "свободно: документ",
-   "basis": "подборка имперских актов о запрете украинского языка",
-   "card": "https://archive.decolonial.ist/531",
-   "github": "https://github.com/decolonial-ist/archive/tree/main/531",
-   "source": "https://web.archive.org/web/20090214183744/http://anvsu.org.ua/index.files/Articles/Virchenko1.htm",
-   "files": [
-    {
-     "name": "dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf",
-     "bytes": 129969,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt",
-     "bytes": 74420,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/531/dokumenti_pro_zaboronu_ukrainskoi_movi_2008.txt",
-     "where": "repo"
-    }
-   ],
-   "telegram": {}
-  },
-  {
-   "id": 532,
-   "title": "Civilian-combatant ratio among war dead: Israel in Gaza and other select conflicts (AOAV)",
-   "year": "2026",
-   "author": "Action on Armed Violence",
-   "people": "Украина",
-   "published": false,
-   "rights": "нельзя",
-   "basis": "современная публикация 2026 года под авторским правом",
-   "why_not": "права: современная публикация 2026 года под авторским правом",
-   "card": "https://archive.decolonial.ist/532",
-   "source": "https://aoav.org.uk/wp-content/uploads/2026/01/KJ8ga-civilian-combatant-ratio-among-war-dead-israel-in-gaza-and-other-select-conflicts--1-700x741.jpg",
-   "files": [],
    "telegram": {}
   },
   {
@@ -9968,7 +9187,7 @@
    "files": [
     {
      "name": "postanovlenie_snd_rsfsr_no_1847_i_o_priznanii_neza_ngushskoy_respublike_1991.txt",
-     "bytes": 1276,
+     "bytes": 1266,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/622/postanovlenie_snd_rsfsr_no_1847_i_o_priznanii_neza_ngushskoy_respublike_1991.txt",
      "where": "repo"
@@ -9991,7 +9210,7 @@
    "files": [
     {
      "name": "postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt",
-     "bytes": 2643,
+     "bytes": 2340,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/623/postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt",
      "where": "repo"
@@ -10014,7 +9233,7 @@
    "files": [
     {
      "name": "postanovlenie_prezidiuma_vs_rsfsr_no_1723_i_o_poli_ngushskoy_respublike_1991.txt",
-     "bytes": 4360,
+     "bytes": 4046,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/624/postanovlenie_prezidiuma_vs_rsfsr_no_1723_i_o_poli_ngushskoy_respublike_1991.txt",
      "where": "repo"
@@ -10037,7 +9256,7 @@
    "files": [
     {
      "name": "postanovlenie_vs_rsfsr_no_1804_i_o_provedenii_vybo_ngushskoy_respubliki_1991.txt",
-     "bytes": 3518,
+     "bytes": 3464,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/625/postanovlenie_vs_rsfsr_no_1804_i_o_provedenii_vybo_ngushskoy_respubliki_1991.txt",
      "where": "repo"
@@ -10578,7 +9797,7 @@
    "files": [
     {
      "name": "postanovlenie_vs_rsfsr_no_1733_i_o_polozhenii_v_ch_ngushskoy_respublike_1991.txt",
-     "bytes": 1361,
+     "bytes": 1308,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/705/postanovlenie_vs_rsfsr_no_1733_i_o_polozhenii_v_ch_ngushskoy_respublike_1991.txt",
      "where": "repo"

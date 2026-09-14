@@ -12,7 +12,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt](https://github.com/decolonial-ist/archive/blob/main/623/postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt) | текст | 3 КБ | в этой папке |
+| [postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt](https://github.com/decolonial-ist/archive/blob/main/623/postanovlenie_prezidiuma_vs_rsfsr_ot_09_11_1991_ob_ngushskoy_respublike_1991.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 
