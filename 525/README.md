@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html](https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html)
+Первоисточник: [https://www.radiosvoboda.org/a/novyny-pryazovya-muzeyi-khersona-pohrabuvannya-okupantamy/32182204.html](https://www.radiosvoboda.org/a/novyny-pryazovya-muzeyi-khersona-pohrabuvannya-okupantamy/32182204.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

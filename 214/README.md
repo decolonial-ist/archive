@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
+Первоисточник: [https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
 
 ---
 

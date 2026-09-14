@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/](https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/)
+Первоисточник: [https://web.archive.org/web/20230205181420/https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/](https://web.archive.org/web/20230205181420/https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/)
 
 ---
 

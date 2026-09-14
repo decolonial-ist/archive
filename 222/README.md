@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf](https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf)
+Первоисточник: [https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/23-10-04-OHCHR-36th-periodic-report-ukraine-en.pdf](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/23-10-04-OHCHR-36th-periodic-report-ukraine-en.pdf)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

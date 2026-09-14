@@ -119,7 +119,7 @@
    "basis": "энциклопедия под авторским правом Института истории",
    "why_not": "права: энциклопедия под авторским правом Института истории",
    "card": "https://archive.decolonial.ist/24",
-   "source": "http://www.history.org.ua/?termin=Natsionalni_rajony",
+   "source": "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=EIU&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Natsionalni_rajony",
    "files": [],
    "telegram": {}
   },
@@ -1663,7 +1663,7 @@
    "basis": "общественное достояние: издано в 1775 году",
    "card": "https://archive.decolonial.ist/147",
    "github": "https://github.com/decolonial-ist/archive/tree/main/147",
-   "source": "https://ru.wikisource.org/wiki/Манифест_об_уничтожении_Запорожской_Сечи",
+   "source": "https://ru.wikisource.org/wiki/Манифестъ_Государыни_Императрицы_Екатерины_II:_Объ_истребленіи_Запорожской_Сѣчи",
    "files": [
     {
      "name": "manifest_ob_unichtozhenii_zaporozhskoy_sechi_1775.txt",
@@ -2034,13 +2034,21 @@
    "year": "1910",
    "author": "Столыпин П. А.",
    "people": "Украина",
-   "published": false,
-   "rights": "свободно",
-   "basis": "общественное достояние: издано в 1910 году",
-   "why_not": "статья энциклопедии, не первоисточник — в архив не берём",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ 1910 года свободен, но напечатан в издании 2013 года — выкладываем только текст документа, не издание",
    "card": "https://archive.decolonial.ist/160",
-   "source": "https://ru.wikipedia.org/wiki/Столыпинский_циркуляр",
-   "files": [],
+   "github": "https://github.com/decolonial-ist/archive/tree/main/160",
+   "source": "https://archive.org/details/ukrainska2013",
+   "files": [
+    {
+     "name": "stolypinskiy_cirkulyar_1910.txt",
+     "bytes": 5204,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/160/stolypinskiy_cirkulyar_1910.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -2225,7 +2233,7 @@
    "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
    "card": "https://archive.decolonial.ist/166",
    "github": "https://github.com/decolonial-ist/archive/tree/main/166",
-   "source": "https://ru.wikisource.org/wiki/Секретный_дополнительный_протокол_к_Договору_о_ненападении_между_Германией_и_Советским_Союзом",
+   "source": "https://ru.wikisource.org/wiki/Секретный_дополнительный_протокол_к_Договору_о_ненападении_между_Германией_и_СССР",
    "files": [
     {
      "name": "sekretnyy_dopolnitelnyy_protokol_k_dogovoru_o_nena_hdu_germaniey_i_sssr_1939.pdf",
@@ -3222,7 +3230,7 @@
    "basis": "материал организации или СМИ под авторским правом (holodomormuseum.org.ua)",
    "why_not": "права: материал организации или СМИ под авторским правом (holodomormuseum.org.ua)",
    "card": "https://archive.decolonial.ist/214",
-   "source": "https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/",
+   "source": "https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/",
    "files": [],
    "telegram": {}
   },
@@ -3267,7 +3275,7 @@
    "basis": "современная публикация 2014 года под авторским правом",
    "why_not": "права: современная публикация 2014 года под авторским правом",
    "card": "https://archive.decolonial.ist/217",
-   "source": "https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/",
+   "source": "https://www.stopfake.org/en/lies-crucifixion-on-channel-one/",
    "files": [],
    "telegram": {}
   },
@@ -3380,7 +3388,7 @@
    "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
    "card": "https://archive.decolonial.ist/222",
    "github": "https://github.com/decolonial-ist/archive/tree/main/222",
-   "source": "https://www.ohchr.org/sites/default/files/documents/countries/ua/2023/23-10-04-Ukraine-33rd-periodic-report-ENG.pdf",
+   "source": "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/23-10-04-OHCHR-36th-periodic-report-ukraine-en.pdf",
    "files": [
     {
      "name": "report_on_the_human_rights_situation_in_ukraine_1_o_31_july_2023_ohchr_2023.pdf",
@@ -5953,7 +5961,7 @@
    "basis": "энциклопедическая статья под авторским правом",
    "why_not": "права: энциклопедическая статья под авторским правом",
    "card": "https://archive.decolonial.ist/425",
-   "source": "https://www.history.org.ua/?termin=Kyivsky_viddil_Voenno_ist_tov_tva",
+   "source": "https://resource.history.org.ua/cgi-bin/eiu/history.exe?I21DBN=DOP&P21DBN=EIU&S21STN=1&S21REF=10&S21FMT=eiu_all&C21COM=S&S21CNR=20&S21P01=0&S21P02=0&S21P03=TRN%3D&S21COLORTERMS=0&S21STR=Kyivsky_viddil_Voenno_ist_tov_tva",
    "files": [],
    "telegram": {}
   },
@@ -7771,7 +7779,7 @@
    "basis": "современная публикация 2022 года под авторским правом",
    "why_not": "права: современная публикация 2022 года под авторским правом",
    "card": "https://archive.decolonial.ist/522",
-   "source": "https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/",
+   "source": "https://web.archive.org/web/20230205181420/https://mipl.org.ua/balakliya-pid-okupantamy-desyatky-zakatovanyh-znyklyh-bezvisty-i-try-misyaczi-tortur/",
    "files": [],
    "telegram": {}
   },
@@ -7816,7 +7824,7 @@
    "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
    "card": "https://archive.decolonial.ist/525",
    "github": "https://github.com/decolonial-ist/archive/tree/main/525",
-   "source": "https://www.radiosvoboda.org/a/muzey-kherson-okupatsiya-vyvezly-eksponaty/32131424.html",
+   "source": "https://www.radiosvoboda.org/a/novyny-pryazovya-muzeyi-khersona-pohrabuvannya-okupantamy/32182204.html",
    "files": [
     {
      "name": "vivezli_zoloto_zbroyu_nagorodi_vermahtu_u_muzeyah_oshili_radio_svoboda_2022.pdf",
@@ -9506,7 +9514,7 @@
    "files": [
     {
      "name": "telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
-     "bytes": 1816,
+     "bytes": 1847,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/592/telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
      "where": "repo"
@@ -9933,7 +9941,7 @@
    "basis": "документ 1917 года свободен, но напечатан в издании 1974 года — выкладываем только текст документа, не издание",
    "card": "https://archive.decolonial.ist/621",
    "github": "https://github.com/decolonial-ist/archive/tree/main/621",
-   "source": "https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде",
+   "source": "https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде_(Ленин)",
    "files": [
     {
      "name": "manifest_k_ukrainskomu_narodu_s_ultimativnymi_treb_mi_k_ukrainskoy_rade_1917.txt",
@@ -10094,7 +10102,7 @@
    "basis": "Викимедиа: CC BY-SA 4.0 либо общественное достояние",
    "card": "https://archive.decolonial.ist/629",
    "github": "https://github.com/decolonial-ist/archive/tree/main/629",
-   "source": "https://ru.wikisource.org/wiki/Обращение_Временного_Высшего_Совета_Чечено-Ингушской_Республики_к_народам,_партиям,_движениям,_трудовым_коллективам",
+   "source": "https://ru.wikisource.org/wiki/Обращение_Временного_Высшего_Совета_Чечено-Ингушской_Республики_к_народам,_партиям,_движениям,_трудовым_коллективам..._(1991)",
    "files": [
     {
      "name": "obraschenie_vremennogo_vysshego_soveta_checheno_in_trudovym_kollektivam_1991.txt",
@@ -10166,9 +10174,9 @@
    "author": "Хамидова З.",
    "people": "Чечня",
    "published": false,
-   "rights": "проверить",
-   "basis": "перепубликация (web.archive.org), в листе указан 1999 год",
-   "why_not": "права: перепубликация (web.archive.org), в листе указан 1999 год",
+   "rights": "нельзя",
+   "basis": "современная публикация 1999 года под авторским правом",
+   "why_not": "права: современная публикация 1999 года под авторским правом",
    "card": "https://archive.decolonial.ist/633",
    "source": "https://web.archive.org/web/20140718053359id_/http://old.sakharov-center.ru/chr/chrus07_1.htm",
    "files": [],

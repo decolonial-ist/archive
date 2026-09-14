@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: [https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/](https://www.stopfake.org/en/fake-crucifixion-in-slovyansk/)
+Первоисточник: [https://www.stopfake.org/en/lies-crucifixion-on-channel-one/](https://www.stopfake.org/en/lies-crucifixion-on-channel-one/)
 
 ---
 
