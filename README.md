@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **263**, файлов: **508**, объём: **3.43 ГиБ**. Из 917 материалов базы распространять разрешено 503, из них 74 - только текстом документа, без издания целиком; 405 остаются ссылкой на первоисточник.
+Выложено материалов: **263**, файлов: **508**, объём: **3.43 ГиБ**. Из 918 материалов базы распространять разрешено 504, из них 74 - только текстом документа, без издания целиком; 405 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -322,7 +322,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 653
+## Свободные, но файла у нас нет - 654
 
 Распространять можно, а файла нет.
 
@@ -428,6 +428,7 @@
 | Musayev and Others v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-81908](https://hudoc.echr.coe.int/eng?i=001-81908) |
 | Musayeva and Others v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-81932](https://hudoc.echr.coe.int/eng?i=001-81932) |
 | OGH 13Os113/21y, Beschluss vom 14. Dezember 2021 | 2021 | Чечня | `www.ris.bka.gv[.]at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20211214_OGH0002_0130OS00113_21Y0000_000` |
+| OSCE Chairman regrets end of OSCE mandate in Chechnya (press release, The Hague, 3 January 2003) | 2003 | Чечня | `www.osce[.]org/cio/54958` |
 | OSCE Rapporteur’s Report under the Moscow Mechanism on alleged Human Rights Violations and Impunity in the Chechen Republic of the Russian Federation | 2018 | Чечня | `cdn.osce[.]org/sites/default/files/f/documents/b/7/407402.pdf` |
 | Of Christianity, Enlightenment, and Colonialism: Russia in the North Caucasus, 1550–1800 | 1999 | Чечня | `www.journals.uchicago[.]edu/doi/pdfplus/10.1086/235251` |
 | Orientalism reversed: Russian literature in the times of empires - ResearchGate | 2007 | Чечня | [https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires](https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires) |
