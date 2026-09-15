@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 918 материалов базы распространять разрешено 504, из них 74 - только текстом документа, без издания целиком; 405 остаются ссылкой на первоисточник.
+Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 922 материалов базы распространять разрешено 504, из них 74 - только текстом документа, без издания целиком; 409 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -306,7 +306,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 631
+## Свободные, но файла у нас нет - 635
 
 Распространять можно, а файла нет.
 
@@ -355,6 +355,7 @@
 | Conclusions and recommendations of the Committee against Torture: Russian Federation (CAT/C/RUS/CO/4) | 2007 | Чечня | [https://docs.un.org/en/CAT/C/RUS/CO/4](https://docs.un.org/en/CAT/C/RUS/CO/4) |
 | Cultural Identity of the North Caucasus in Contemporary Russian Literature | 2025 | Чечня | `repozytorium.uni.wroc[.]pl/dlibra/publication/151956/edition/142247/cultural-identity-of-the-north-caucasus-in-contemporary-russian-literature-a-study-of-alisa-ganieva-s-novels-kula-joanna-orcid-0000-0002-1950-3498` |
 | Danger Close: Fancy Bear Tracking of Ukrainian Field Artillery Units | 2016 | Украина | `www.crowdstrike[.]com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/` |
+| Death in Chechnya | 1995 | Чечня | `www.nybooks[.]com/articles/1995/06/08/death-in-chechnya/` |
 | Decision No. 35: Establishment and Mandate of the OSCE Assistance Group to Chechnya (PC.DEC/35) | 1995 | Чечня | `www.osce[.]org/sites/default/files/f/documents/7/0/20251.pdf` |
 | Dom i Gävle för mordförsök | 2021 | Чечня | `via.tt[.]se/pressmeddelande/dom-i-gavle-for-mordforsok?publisherId=3235540&releaseId=3290835` |
 | Ensure safety of two Chechen men arbitrarily detained and forcibly transferred to Chechnya | 2021 | Чечня | [https://www.hrw.org/news/2021/02/09/ensure-safety-two-chechen-men-arbitrarily-detained-and-forcibly-transferred](https://www.hrw.org/news/2021/02/09/ensure-safety-two-chechen-men-arbitrarily-detained-and-forcibly-transferred) |
@@ -408,6 +409,7 @@
 | Moscow's New Chechnya Policy | 1997 | Чечня | `jamestown[.]org/moscows-new-chechnya-policy/` |
 | Musayev and Others v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-81908](https://hudoc.echr.coe.int/eng?i=001-81908) |
 | Musayeva and Others v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-81932](https://hudoc.echr.coe.int/eng?i=001-81932) |
+| Nearly 25,000 civilians died in Grozny, Russian human rights panel reports | 1995 | Чечня | `www.baltimoresun[.]com/1995/02/22/nearly-25000-civilians-died-in-grozny-russian-human-rights-panel-reports/` |
 | OGH 13Os113/21y, Beschluss vom 14. Dezember 2021 | 2021 | Чечня | `www.ris.bka.gv[.]at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20211214_OGH0002_0130OS00113_21Y0000_000` |
 | OSCE Chairman regrets end of OSCE mandate in Chechnya (press release, The Hague, 3 January 2003) | 2003 | Чечня | `www.osce[.]org/cio/54958` |
 | OSCE Rapporteur’s Report under the Moscow Mechanism on alleged Human Rights Violations and Impunity in the Chechen Republic of the Russian Federation | 2018 | Чечня | `cdn.osce[.]org/sites/default/files/f/documents/b/7/407402.pdf` |
@@ -596,6 +598,7 @@
 | Еще один разстрел | 1930 | Дагестан | `apsnyteka[.]org/file/gortsy_kavkaza_16_1930.pdf` |
 | Журналистка и правозащитный адвокат жестоко избиты в Чечне | 2023 | Чечня | [https://www.hrw.org/ru/news/2023/07/05/journalist-and-human-rights-lawyer-viciously-attacked-chechnya](https://www.hrw.org/ru/news/2023/07/05/journalist-and-human-rights-lawyer-viciously-attacked-chechnya) |
 | За полтора часа до свету пришли на город Терек неприятельские люди | 2016 | Чечня | `history.milportal[.]ru/za-poltora-chasa-do-svetu-prishli-na-gorod-terek-nepriyatelskie-lyudi` |
+| За спинами мирных жителей. Захват заложников и использование гражданского населения в качестве «живого щита» федеральными войсками России в ходе вооруженного конфликта в Чечне | 1996 | Чечня | [https://web.archive.org/web/20170707001947/http://old.memo.ru/hr/hotpoints/chechen/szczyt/index.htm](https://web.archive.org/web/20170707001947/http://old.memo.ru/hr/hotpoints/chechen/szczyt/index.htm) |
 | Закон РФ № 2927-I Об образовании Ингушской Республики в составе Российской Федерации | 1992 | Чечня | `www.consultant[.]ru/document/cons_doc_LAW_15526/` |
 | Закон Української РСР «Про зміцнення зв'язку школи з життям і про дальший розвиток системи народної освіти в Українській РСР» | 1959 | Украина | `studfile[.]net/preview/8209452/page:23/` |
 | Записка В. И. Ленина в Киев о подчинении Укрнаркомпрода | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
@@ -906,6 +909,7 @@
 | Українська ідентичність і мовне питання в Російській імперії: спроба державного регулювання (1847–1914). Збірник документів і матеріалів | 2013 | Украина | [https://archive.org/details/ukrainska2013](https://archive.org/details/ukrainska2013) |
 | Український вопрос в Российской империи | 2013 | Украина | [http://resource.history.org.ua/item/0013230](http://resource.history.org.ua/item/0013230) |
 | Український дім: Ленін, Фрипулья, Роден, Майдан | 2021 | Украина | `platfor[.]ma/magazine/text-sq/re-invent/ukrdim-vs-lenin/` |
+| Условия содержания задержанных в зоне вооруженного конфликта в Чеченской Республике. Обращение с задержанными | 1995 | Чечня | [https://web.archive.org/web/20240513064941/http://old.memo.ru/hr/hotpoints/chechen/filter/filtrru_toc.htm](https://web.archive.org/web/20240513064941/http://old.memo.ru/hr/hotpoints/chechen/filter/filtrru_toc.htm) |
 | Утраченные иллюзии: советизация Чечни по-сталински (1917-1925 гг.) | 2022 | Чечня | [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8) |
 | Участь генерального осавула Івана Мазепи у виборах митрополита 1685 р. | 2019 | Украина | [http://dspace.nbuv.gov.ua/handle/123456789/162853](http://dspace.nbuv.gov.ua/handle/123456789/162853) |
 | Федеральный закон от 22 февраля 1999 г. № 36-ФЗ «О федеральном бюджете на 1999 год» | 1999 | Чечня | `kremlin[.]ru/acts/bank/13484` |
@@ -944,7 +948,7 @@
 | Ясак, подданство и договорной дарообмен: чукотский вариант (XVII–XIX вв.) - Уральский исторический вестник, (2 (23)), 84-92 | 2009 | Сибирь | `pure.nsu[.]ru/portal/en/publications/----(8d62d902-1378-4fea-afbe-0e364f5446d4)/export.html` |
 | “No Happiness Remains”: Civilian Killings, Pillage, and Rape in Alkhan-Yurt, Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya2/](https://www.hrw.org/legacy/reports/2000/russia_chechnya2/) |
 
-## Только ссылка, выложить нельзя - 381
+## Только ссылка, выложить нельзя - 385
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -964,6 +968,7 @@
 | Chechnya: Shelling (AP, 31 January 1995) | AP Television News | 1995 | современная публикация 1995 года под авторским правом | `www.youtube[.]com/watch?v=nNRuv3ofHRw` |
 | Cultural Identity of the North Caucasus in Contemporary Russian Literature | Kula J. | 2025 | современная публикация 2025 года под авторским правом | `repozytorium.uni.wroc[.]pl/dlibra/publication/151956/edition/142247/cultural-identity-of-the-north-caucasus-in-contemporary-russian-literature-a-study-of-alisa-ganieva-s-novels-kula-joanna-orcid-0000-0002-1950-3498` |
 | Danger Close: Fancy Bear Tracking of Ukrainian Field Artillery Units | Meyers A. | 2016 | современная публикация 2016 года под авторским правом | `www.crowdstrike[.]com/blog/danger-close-fancy-bear-tracking-ukrainian-field-artillery-units/` |
+| Death in Chechnya | Kovalev S. (Сергей Ковалёв) | 1995 | современная публикация 1995 года под авторским правом | `www.nybooks[.]com/articles/1995/06/08/death-in-chechnya/` |
 | Ethno-territorial conflict and coexistence in the Caucasus, Central Asia and Fereydan | Rezvani B. | 2013 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan](https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan) |
 | FEATURES OF THE DEVELOPMENT OF THE RUSSIAN FRONTIER IN THE NORTH CAUCASUS | Магарамов Ш. А. | 2023 | современная публикация 2023 года под авторским правом | `doi[.]org/10.32653/CH194934-945` |
 | Fake: Crucifixion in Slovyansk | StopFake | 2014 | современная публикация 2014 года под авторским правом | [https://www.stopfake.org/en/lies-crucifixion-on-channel-one/](https://www.stopfake.org/en/lies-crucifixion-on-channel-one/) |
@@ -982,6 +987,7 @@
 | Mord in Gerasdorf: „Lebenslang“ bestätigt | wien.ORF.at | 2022 | современная публикация 2022 года под авторским правом | `wien.orf[.]at/stories/3141568/` |
 | More than eight million internally displaced by war in Ukraine, says UN (The National) |  | 2022 | современная публикация 2022 года под авторским правом | `www.thenationalnews[.]com/world/europe/2022/05/10/more-than-8-million-internally-displaced-by-war-in-ukraine-says-un/` |
 | Moscow's New Chechnya Policy | Jamestown Foundation (Monitor) | 1997 | современная публикация 1997 года под авторским правом | `jamestown[.]org/moscows-new-chechnya-policy/` |
+| Nearly 25,000 civilians died in Grozny, Russian human rights panel reports | Lally K. | 1995 | современная публикация 1995 года под авторским правом | `www.baltimoresun[.]com/1995/02/22/nearly-25000-civilians-died-in-grozny-russian-human-rights-panel-reports/` |
 | Of Christianity, Enlightenment, and Colonialism: Russia in the North Caucasus, 1550–1800 | Khodarkovsky M. | 1999 | современная публикация 1999 года под авторским правом | `www.journals.uchicago[.]edu/doi/pdfplus/10.1086/235251` |
 | Orientalism reversed: Russian literature in the times of empires - ResearchGate | Etkind A. | 2007 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires](https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires) |
 | Post-Soviet Borders: A Kaleidoscope of Shifting Lives and Lands |  | 2023 | современная публикация 2023 года под авторским правом | `www.routledge[.]com/Post-Soviet-Borders-A-Kaleidoscope-of-Shifting-Lives-and-Lands/vonLowis-Eschment/p/book/9780367770105` |
@@ -1116,6 +1122,7 @@
 | Етнічні меншини в суспільно-політичному та культурному житті УСРР | Якубова Л. Д. | 2006 | современная монография под авторским правом | [https://openlibrary.org/books/OL22664826M](https://openlibrary.org/books/OL22664826M) |
 | Етнічні меншості УСРР у першій половині 20-х рр. ХХ | Якубова Л. Д. | 2002 | современная научная статья под авторским правом | [https://resource.history.org.ua/item/0001654](https://resource.history.org.ua/item/0001654) |
 | За полтора часа до свету пришли на город Терек неприятельские люди | Торопицын И. В. | 2016 | современная публикация 2016 года под авторским правом | `history.milportal[.]ru/za-poltora-chasa-do-svetu-prishli-na-gorod-terek-nepriyatelskie-lyudi` |
+| За спинами мирных жителей. Захват заложников и использование гражданского населения в качестве «живого щита» федеральными войсками России в ходе вооруженного конфликта в Чечне | Правозащитный центр «Мемориал» | 1996 | современная публикация 1996 года под авторским правом | [https://web.archive.org/web/20170707001947/http://old.memo.ru/hr/hotpoints/chechen/szczyt/index.htm](https://web.archive.org/web/20170707001947/http://old.memo.ru/hr/hotpoints/chechen/szczyt/index.htm) |
 | Закон Української РСР «Про зміцнення зв'язку школи з життям і про дальший розвиток системи народної освіти в Українській РСР» | Верховна Рада УРСР | 1959 | современная книга под авторским правом, источник studfile.net | `studfile[.]net/preview/8209452/page:23/` |
 | Зарему Мусаеву приговорили еще к 3 годам и 11 месяцам колонии-поселения | ОВД-Инфо | 2025 | современная публикация 2025 года под авторским правом | `ovd[.]info/express-news/2025/08/06/zaremu-musaevu-prigovorili-esche-k-3-godam-i-11-mesyacam-kolonii-poseleniya` |
 | Затерянная записка (записка Л. И. Лаврова о «200-летии вхождения Чечено-Ингушетии», февраль 1979) | Крикунов В. П. | 1990 | публикация 1990 года: записка Л. И. Лаврова (умер в 1982 году) и статья В. П. Крикунова под авторским правом | [https://archive.org/details/Voprosy_istorii_1990](https://archive.org/details/Voprosy_istorii_1990) |
@@ -1302,6 +1309,7 @@
 | Українська церква: Нариси з історії української православної церкви (гл. XIII. Як цариця Катерина обмосковлювала Церкву Українську) | Огієнко І. (митрополит Іларіон) | 1993 | современная публикация 1993 года под авторским правом | [https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/](https://parafia.org.ua/biblioteka/istoriya-mova/mytropolyt-ilarion-ivan-ohijenko-ukrajinska-tserkva/xiii-yak-tsarytsya-kateryna-obmoskovlyuvala-tserkvu-ukrajinsku/) |
 | Український вопрос в Российской империи | Міллер О. І. | 2013 | современная монография под авторским правом | [http://resource.history.org.ua/item/0013230](http://resource.history.org.ua/item/0013230) |
 | Український дім: Ленін, Фрипулья, Роден, Майдан |  | 2021 | современная публикация 2021 года под авторским правом | `platfor[.]ma/magazine/text-sq/re-invent/ukrdim-vs-lenin/` |
+| Условия содержания задержанных в зоне вооруженного конфликта в Чеченской Республике. Обращение с задержанными | Наблюдательная миссия правозащитных общественных организаций в зоне вооруженного конфликта в Чечне | 1995 | современная публикация 1995 года под авторским правом | [https://web.archive.org/web/20240513064941/http://old.memo.ru/hr/hotpoints/chechen/filter/filtrru_toc.htm](https://web.archive.org/web/20240513064941/http://old.memo.ru/hr/hotpoints/chechen/filter/filtrru_toc.htm) |
 | Утраченные иллюзии: советизация Чечни по-сталински (1917-1925 гг.) | Дендиев К. Г., Осмаев А. Д. | 2022 | современная научная статья под авторским правом | [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8) |
 | Участь генерального осавула Івана Мазепи у виборах митрополита 1685 р. | Павленко С. О. | 2019 | научная статья современного историка в репозитории библиотеки Вернадского, открытой лицензии нет | [http://dspace.nbuv.gov.ua/handle/123456789/162853](http://dspace.nbuv.gov.ua/handle/123456789/162853) |
 | Характерные черты социально-экономической ситуации в Чеченской Республике | Косиков И. Г., Косикова Л. С. | 2001 | материал организации или СМИ под авторским правом (kavkaz-uzel.eu) | [https://www.kavkaz-uzel.eu/articles/11511](https://www.kavkaz-uzel.eu/articles/11511) |
