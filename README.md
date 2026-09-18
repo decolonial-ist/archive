@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 1124 материалов базы распространять разрешено 549, из них 76 - только текстом документа, без издания целиком; 560 остаются ссылкой на первоисточник.
+Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 1125 материалов базы распространять разрешено 549, из них 76 - только текстом документа, без издания целиком; 561 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -306,7 +306,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 837
+## Свободные, но файла у нас нет - 838
 
 Распространять можно, а файла нет.
 
@@ -777,6 +777,7 @@
 | Красный террор глазами очевидцев | 2009 | Украина | `coollib[.]com/b/181411/read` |
 | Куди подінуть пам'ятник «возз'єднання» у Переяславі | 2022 | Украина | [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi) |
 | Кумыки. Историко-этнографическое исследование | 2026 | Дагестан | `api.xn--80aaaa1bcaqfbqcckfp8c4cxgsc[.]xn--p1ai/uploads/Gadzhieva_S_Sh_Kumyki_Istoriko_etnograficheskoe_issledovanie_68b2519da9.pdf` |
+| Лев Рохлин: Жизнь и смерть генерала | 1998 | Чечня | [https://books.google.com/books?id=_G7iAAAAMAAJ](https://books.google.com/books?id=_G7iAAAAMAAJ) |
 | Лезгинская экспедиция (1857) | 1876 | Несколько | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
 | Ленин В.И. Полное собрание сочинений. Т. 50 (письма октябрь 1917 — июнь 1919) | 1965 | Украина | `leninism[.]su/works/89-tom-50.html` |
 | Ленінська система влади і власності в окупованій Україні. 1917—1923 | 2024 | Украина | [https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf](https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf) |
@@ -1150,7 +1151,7 @@
 | “No Happiness Remains”: Civilian Killings, Pillage, and Rape in Alkhan-Yurt, Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya2/](https://www.hrw.org/legacy/reports/2000/russia_chechnya2/) |
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 
-## Только ссылка, выложить нельзя - 536
+## Только ссылка, выложить нельзя - 537
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -1450,6 +1451,7 @@
 | Красный террор глазами очевидцев |  | 2009 | современная публикация 2009 года под авторским правом | `coollib[.]com/b/181411/read` |
 | Куди подінуть пам'ятник «возз'єднання» у Переяславі |  | 2022 | современная публикация 2022 года под авторским правом | [https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi](https://pereiaslav.city/articles/223408/kudi-podinut-pamyatnik-vozzednannya-u-pereyaslavi) |
 | Кумыки. Историко-этнографическое исследование | Гаджиева С. Ш. | 2026 | современная публикация 2026 года под авторским правом | `api.xn--80aaaa1bcaqfbqcckfp8c4cxgsc[.]xn--p1ai/uploads/Gadzhieva_S_Sh_Kumyki_Istoriko_etnograficheskoe_issledovanie_68b2519da9.pdf` |
+| Лев Рохлин: Жизнь и смерть генерала | Антипов А. В. | 1998 | современная публикация 1998 года под авторским правом | [https://books.google.com/books?id=_G7iAAAAMAAJ](https://books.google.com/books?id=_G7iAAAAMAAJ) |
 | Ленин В.И. Полное собрание сочинений. Т. 50 (письма октябрь 1917 — июнь 1919) |  | 1965 | современная публикация 1965 года под авторским правом | `leninism[.]su/works/89-tom-50.html` |
 | Ленінська система влади і власності в окупованій Україні. 1917—1923 | Кульчицький С. В. | 2024 | современная публикация 2024 года под авторским правом | [https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf](https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf) |
 | Ликвидировать ввиду нетранспортабельности |  | 2009 | материал организации или СМИ под авторским правом (novayagazeta.ru) | `novayagazeta[.]ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti` |
