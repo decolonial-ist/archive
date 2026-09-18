@@ -200,7 +200,7 @@
   },
   {
    "id": 32,
-   "title": "2015 Ukraine Electric Power Attack | MITRE ATT&CK®",
+   "title": "2015 Ukraine Electric Power Attack",
    "year": "2023",
    "author": "MITRE ATT&CK®",
    "people": "Украина",
@@ -212,17 +212,17 @@
    "source": "https://attack.mitre.org/campaigns/C0028/",
    "files": [
     {
-     "name": "2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt",
+     "name": "2015_ukraine_electric_power_attack_2023.txt",
      "bytes": 10412,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_2023.txt",
      "where": "repo"
     },
     {
-     "name": "2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
+     "name": "2015_ukraine_electric_power_attack_2023.pdf",
      "bytes": 56388,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/32/2015_ukraine_electric_power_attack_2023.pdf",
      "where": "repo"
     }
    ],
@@ -230,7 +230,7 @@
   },
   {
    "id": 33,
-   "title": "2016 Ukraine Electric Power Attack | MITRE ATT&CK®",
+   "title": "2016 Ukraine Electric Power Attack",
    "year": "2023",
    "author": "MITRE ATT&CK®",
    "people": "Украина",
@@ -242,17 +242,17 @@
    "source": "https://attack.mitre.org/campaigns/C0025/",
    "files": [
     {
-     "name": "2016_ukraine_electric_power_attack_mitre_att_ck_2023.txt",
+     "name": "2016_ukraine_electric_power_attack_2023.txt",
      "bytes": 7096,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/33/2016_ukraine_electric_power_attack_mitre_att_ck_2023.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/33/2016_ukraine_electric_power_attack_2023.txt",
      "where": "repo"
     },
     {
-     "name": "2016_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
+     "name": "2016_ukraine_electric_power_attack_2023.pdf",
      "bytes": 48659,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/33/2016_ukraine_electric_power_attack_mitre_att_ck_2023.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/33/2016_ukraine_electric_power_attack_2023.pdf",
      "where": "repo"
     }
    ],
@@ -260,7 +260,7 @@
   },
   {
    "id": 36,
-   "title": "APT28 Nearest Neighbor Campaign | MITRE ATT&CK®",
+   "title": "APT28 Nearest Neighbor Campaign",
    "year": "2025",
    "author": "MITRE ATT&CK®",
    "people": "Украина",
@@ -272,17 +272,17 @@
    "source": "https://attack.mitre.org/campaigns/C0051/",
    "files": [
     {
-     "name": "apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf",
+     "name": "apt28_nearest_neighbor_campaign_2025.pdf",
      "bytes": 43114,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_2025.pdf",
      "where": "repo"
     },
     {
-     "name": "apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt",
+     "name": "apt28_nearest_neighbor_campaign_2025.txt",
      "bytes": 5154,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_mitre_att_ck_2025.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/36/apt28_nearest_neighbor_campaign_2025.txt",
      "where": "repo"
     }
    ],
@@ -290,7 +290,7 @@
   },
   {
    "id": 37,
-   "title": "Campaign C0026 | MITRE ATT&CK®",
+   "title": "Campaign C0026",
    "year": "2023",
    "author": "MITRE ATT&CK®",
    "people": "Украина",
@@ -302,17 +302,17 @@
    "source": "https://attack.mitre.org/campaigns/C0026/",
    "files": [
     {
-     "name": "campaign_c0026_mitre_att_ck_2023.pdf",
+     "name": "campaign_c0026_2023.pdf",
      "bytes": 27739,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_2023.pdf",
      "where": "repo"
     },
     {
-     "name": "campaign_c0026_mitre_att_ck_2023.txt",
+     "name": "campaign_c0026_2023.txt",
      "bytes": 2311,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_2023.txt",
      "where": "repo"
     }
    ],
@@ -365,7 +365,7 @@
   },
   {
    "id": 62,
-   "title": "Russia's Policy Toward Compatriots in the Former Soviet Union - Russia in Global Affairs",
+   "title": "Russia's Policy Toward Compatriots in the Former Soviet Union",
    "year": "2008",
    "author": "Zevelev I. A.",
    "people": "Несколько",
@@ -4399,7 +4399,7 @@
   },
   {
    "id": 318,
-   "title": "Блок НАТО разошелся на блокпакеты (Коммерсантъ)",
+   "title": "Блок НАТО разошелся на блокпакеты",
    "year": "2008",
    "author": "",
    "people": "Украина",
@@ -4564,7 +4564,7 @@
   },
   {
    "id": 328,
-   "title": "«Короче, разведка — россияне». Как искали, судили и защищали капитана Ерофеева и сержанта Александрова (Медиазона)",
+   "title": "«Короче, разведка — россияне». Как искали, судили и защищали капитана Ерофеева и сержанта Александрова",
    "year": "2016",
    "author": "",
    "people": "Украина",

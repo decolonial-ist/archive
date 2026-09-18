@@ -1,4 +1,4 @@
-# Campaign C0026 | MITRE ATT&CK®
+# Campaign C0026
 
 **Автор:** MITRE ATT&CK®
 **Год публикации:** 2023
@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [campaign_c0026_mitre_att_ck_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.pdf) | PDF | 27 КБ | в этой папке |
-| [campaign_c0026_mitre_att_ck_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_mitre_att_ck_2023.txt) | текст | 2 КБ | в этой папке |
+| [campaign_c0026_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_2023.pdf) | PDF | 27 КБ | в этой папке |
+| [campaign_c0026_2023.txt](https://github.com/decolonial-ist/archive/blob/main/37/campaign_c0026_2023.txt) | текст | 2 КБ | в этой папке |
 
 ## Откуда это у нас
 

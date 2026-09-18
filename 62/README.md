@@ -1,4 +1,4 @@
-# Russia's Policy Toward Compatriots in the Former Soviet Union - Russia in Global Affairs
+# Russia's Policy Toward Compatriots in the Former Soviet Union
 
 **Автор:** Zevelev I. A.
 **Год публикации:** 2008
