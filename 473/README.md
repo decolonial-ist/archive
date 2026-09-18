@@ -14,6 +14,16 @@
 
 Первоисточник: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Кампании
+
+- **[Полномасштабное вторжение (с 24 февраля 2022)](https://decolonial.ist/campaigns/C0103/)**
+  > К маю 2026 года под оккупацией остаётся около 20% территории Украины
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -28,6 +28,16 @@
 |---|---|
 | nakaz_ministerstva_kulturi_ta_informaciynoi_politiki_ukraini_no_223_2022.pdf | `b36a49e46fbec4ddac745680495d3ac3c6a211d24a021d62c4c7e9e7db8aeae9` |
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Создание единого «советского народа» (1958–1970)](https://decolonial.ist/campaigns/C0053/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+  > а монумент демонтировали 7 июля 2022-го - по приказу Министерства культуры, исключившему памятник, охранный № 5894-Ко, из реестра «в связи с утратой предмета охраны»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

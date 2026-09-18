@@ -14,6 +14,16 @@
 
 Первоисточник: `aif[.]ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Продолжение российско-украинской войны: Вооруженная агрессия на Донбассе (2014–2015)](https://decolonial.ist/campaigns/C0101/#procedures) — техника [Прокси-война](https://decolonial.ist/techniques/T0018/)**
+  > Руководство «республики» с самого начала было московским: «Александр Бородай - первый премьер-министр ДНР, в 2014 году передавший полномочия Александру Захарченко», москвич, выросший «в интеллигентной московской семье»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

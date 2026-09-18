@@ -14,6 +14,16 @@
 
 Первоисточник: `hromadske[.]radio/news/2018/09/17/rosiyska-anafema-mazepy-ye-nekanonichnoyu-predstavnyk-vselenskogo-patriarhatu`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Переход Мазепы на сторону Швеции и Батуринская резня (1708)](https://decolonial.ist/campaigns/C0012/#procedures) — техника [Оправдание через религию](https://decolonial.ist/techniques/T0024/)**
+  > Вселенский патриархат анафему никогда не признавал: «анафема была наложена на Ивана Мазепу по политическим причинам и не имела богословского или канонического обоснования»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

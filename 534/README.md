@@ -33,6 +33,16 @@
 | gorcy_pod_igom_kommunistov_1927_volnye_gorcy_1927_no5.pdf | `9de6f4acee767a685cc6c2b35f5530623ba8edb93dead95d2e4ceb48d5757188` |
 | gorcy_pod_igom_kommunistov_1927_gorcy_pod_igom_kommunistov_s17_2.pdf | `ee01af2776e76ca3c8effdfc0b6cebe6af8d9c03aa8ac2162a3deb403e3a0e27` |
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Коллективизация Чечни (1927-1936)](https://decolonial.ist/campaigns/C1178/#procedures) — техника [Нейтрализация оппозиции](https://decolonial.ist/techniques/T0021/)**
+  > …позу спасителей нашей национальной свободы, на самом деле мало по малу убивают в стране все живые силы, вырывая из наших рядов наиболее способных — наши интеллигентные силы»; «Такой взрыв нового террора имел у нас место после англо-советского разрыва. Многочисленные аресты интеллигенции, духовенства и даже целых семейств имели место почти во всех местах на территории горцев. ГПУ работает во всю»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -15,6 +15,16 @@
 
 Первоисточник: [https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348](https://avd.archives.gov.ua/files/kino-doc.php?od_obl=2348)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Создание единого «советского народа» (1958–1970)](https://decolonial.ist/campaigns/C0053/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+  > Открывала знак сама власть: по киножурналу «Радянська Україна» № 49, на митинге открытия выступали первый секретарь Киевского обкома КПУ Пётр Шелест и секретарь Московского обкома партии Панкратов - метрополия говорила на открытии собственным голосом
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

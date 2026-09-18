@@ -14,6 +14,16 @@
 
 Первоисточник: `www.lib[.]ru/PROZA/SOLZHENICYN/s_kak_1990.txt`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Переяславская рада (1654)](https://decolonial.ist/campaigns/C0001/#procedures) — техника [Оправдание через религию](https://decolonial.ist/techniques/T0024/)**
+  > Этот миф пережил века: еще в 1990 году Солженицын воспроизводил его дословно – «Возврат этих земель в Россию был всеми тогда осознаваем как ВОССОЕДИНЕНИЕ»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

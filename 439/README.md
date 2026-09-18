@@ -14,6 +14,16 @@
 
 Первоисточник: `poltava[.]to/project/8967/`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Создание Малороссийского генерал-губернаторства (1801–1811)](https://decolonial.ist/campaigns/C0038/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+  > Украинский институт национальной памяти письмом от 29 июля 2024 года рекомендовал его демонтировать
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

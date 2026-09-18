@@ -14,6 +14,16 @@
 
 Первоисточник: `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **«Только помилованы»: чужая власть и подавление национальной жизни чеченцев и ингушей (1965-1989) — техника [Перевод школ на язык метрополии](https://decolonial.ist/techniques/T0114/003/)**
+  > телевидение республики в 1980-е годы вещало на чеченском 20-25 минут в сутки
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

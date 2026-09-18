@@ -17,6 +17,16 @@
 
 Первоисточник: [https://archive.mk.ua/publications/white-terror-in-the-mykolaiv-region-august-1919-february-1920/](https://archive.mk.ua/publications/white-terror-in-the-mykolaiv-region-august-1919-february-1920/)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Советско-Украинская война: второе вторжение и ресурсное истощение (1919)](https://decolonial.ist/campaigns/C0074/#procedures) — техника [Цензура](https://decolonial.ist/techniques/T0101/)**
+  > 18 ноября 1919 года городская администрация белых в Николаеве распорядилась о предварительной цензуре печатных изданий
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

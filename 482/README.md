@@ -14,6 +14,16 @@
 
 Первоисточник: [http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8](http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Разоружение Чечни: войсковая операция с артобстрелами и бомбардировками аулов (1925)](https://decolonial.ist/campaigns/C1177/#procedures) — техника [Принудительная выдача беглых и повстанцев](https://decolonial.ist/techniques/T0156/)**
+  > 8 сентября 1925 года советская авиация сбросила на Ножай-Юрт восемь пудовых - по 16 килограммов, как мина современного 120-мм миномёта - бомб, чтобы принудить село выдать бывшего начальника окружной милиции Гибертиева
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

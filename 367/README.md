@@ -28,6 +28,15 @@
 |---|---|
 | nakaz_ministerstva_kulturi_i_turizmu_ukraini_no_58_0_16_10_2010.pdf | `a235f5ab86954e9a763e5bb40c5d7b57cf354be98576ebd9023aca52050a26ae` |
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Создание единого «советского народа» (1958–1970)](https://decolonial.ist/campaigns/C0053/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

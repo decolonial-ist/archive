@@ -13,6 +13,17 @@
 
 Первоисточник: `faculty.history.umd[.]edu/BCooperman/NewCity/Pogrom1905.html`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Черносотенный террор и погромы (1905–1907)](https://decolonial.ist/campaigns/C0068/#procedures) — техника [Массовые убийства гражданских](https://decolonial.ist/techniques/T0104/)**
+  > В Одессе «полицейские нижних чинов и солдаты не мешали погромщикам, а во многих случаях сами участвовали в грабежах и убийствах»
+  > а командующий войсками округа заявил полицейским: «все мы в душе сочувствуем погрому»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

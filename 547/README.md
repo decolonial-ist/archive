@@ -14,6 +14,16 @@
 
 Первоисточник: `www.science.vsu[.]ru/dissertations/11290/`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Большой террор в Чечено-Ингушетии (1937-1940)](https://decolonial.ist/campaigns/C1179/#procedures) — техника [Террор](https://decolonial.ist/techniques/T0022/)**
+  > «Грозненский рабочий» 11 марта напечатал открытое письмо пионеров грозненской школы № 3 с требованием «физического уничтожения озверелых врагов народа»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

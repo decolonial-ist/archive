@@ -26,6 +26,16 @@
 |---|---|
 | stanovlenie_i_razvitie_neftyanoy_promyshlennosti_v_terskoy_oblasti_2018.pdf | `e8865e9519c900d60b490759e347e872dfec6eed94cfe24da6cbb3f578b44845` |
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Колониальная нефть: изъятие грозненских недр и рента казачьего войска (1845-1917)](https://decolonial.ist/campaigns/C1173/#procedures) — техника [Ресурсная эксплуатация](https://decolonial.ist/techniques/T0102/)**
+  > Масштаб задал сам промысел: 27 августа 1895 года скважина №7 Ахвердова дала «фонтан невероятной силы, дававший до 1 млн пудов в сутки... Гул и запах нефти были слышны за 15 верст от месторождения»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -13,6 +13,15 @@
 
 Первоисточник: [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Техники
+
+- **[Культивирование имперской диаспоры](https://decolonial.ist/techniques/T0143/)**
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

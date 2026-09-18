@@ -14,6 +14,22 @@
 
 Первоисточник: [https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/](https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+### Кампании
+
+- **[Вмешательство в выборы и противодействие «Оранжевой революции» (2004)](https://decolonial.ist/campaigns/C0096/)**
+  > Лужков
+
+### Процедуры
+
+- **[Вмешательство в выборы и противодействие «Оранжевой революции» (2004)](https://decolonial.ist/campaigns/C0096/#procedures) — техника [Поддержка сепаратизма](https://decolonial.ist/techniques/T0012/)**
+  > Богатырева дала прямое обещание сепаратистского референдума - «мы на него с вами не пойдем, мы будем проводить референдум о создании Юго-Восточного государства (овации, аплодисменты)»
+  > Лужков с трибуны напомнил, что «наш Президент России Владимир Владимирович Путин первым поздравил Виктора Федоровича Януковича с победой»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 1122 материалов базы распространять разрешено 546, из них 76 - только текстом документа, без издания целиком; 559 остаются ссылкой на первоисточник.
+Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 1124 материалов базы распространять разрешено 549, из них 76 - только текстом документа, без издания целиком; 560 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -306,7 +306,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 835
+## Свободные, но файла у нас нет - 837
 
 Распространять можно, а файла нет.
 
@@ -666,7 +666,7 @@
 | Депортацин бакъдерг къайлахьойла дац (видеозапись конференции о депортации чеченского народа, Грозный, 18 февраля 2014 г.) | 2014 | Чечня | `www.radiomarsho[.]com/a/25269706.html` |
 | Депортація (Енциклопедія Сучасної України) | 2007 | Украина | [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038) |
 | Депутат Госдумы Селимханов: «Место геев в двух метрах под землей» | 2017 | Чечня | [https://web.archive.org/web/20260217222708/https://www.mk.ru/politics/2017/04/14/deputat-gosdumy-selimkhanov-mesto-geev-v-dvukh-metrakh-pod-zemley.html](https://web.archive.org/web/20260217222708/https://www.mk.ru/politics/2017/04/14/deputat-gosdumy-selimkhanov-mesto-geev-v-dvukh-metrakh-pod-zemley.html) |
-| Депутаты постарались урегулировать конфликт с Чечней | 1994 | Чечня | `www.kommersant[.]ru/doc/74509` |
+| Депутаты постарались урегулировать конфликт с Чечней | 1994 | Чечня | [https://web.archive.org/web/20260914215912/https://www.kommersant.ru/doc/74509](https://web.archive.org/web/20260914215912/https://www.kommersant.ru/doc/74509) |
 | Десять дней которые отменили мир | 2021 | Чечня | `versia[.]ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza` |
 | Джохар Дудаев ввел военное положение | 1994 | Чечня | [https://web.archive.org/web/20241005153422/https://www.kommersant.ru/doc/86576](https://web.archive.org/web/20241005153422/https://www.kommersant.ru/doc/86576) |
 | Джохар Дудаев ответил ударом на удар | 1994 | Чечня | [https://web.archive.org/web/20241119191637/https://www.kommersant.ru/doc/92956](https://web.archive.org/web/20241119191637/https://www.kommersant.ru/doc/92956) |
@@ -721,7 +721,7 @@
 | Заявление от 3 октября 1996 года, подписанное руководителями делегаций на переговорах в Москве | 1996 | Чечня | `www.youtube[.]com/watch?v=1PcCJ-5O3Vk` |
 | Знесення пам'ятника в Переяславі на честь «возз'єднання» України й Росії. В чому історичне значення? | 2025 | Украина | [https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html](https://www.radiosvoboda.org/a/pereyaslav-demontazh-pamyatnyka-pereyaslavskoyi-rady-znachennya/33439140.html) |
 | Иван Мазепа и Российская империя. История «предательства» | 2011 | Украина | [https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ](https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ) |
-| Из заявления правительства России | 1994 | Чечня | `www.kommersant[.]ru/doc/85527` |
+| Из заявления правительства России | 1994 | Чечня | [https://web.archive.org/web/20260914215922/https://www.kommersant.ru/doc/85527](https://web.archive.org/web/20260914215922/https://www.kommersant.ru/doc/85527) |
 | Измена Родины возмутила самых лояльных депутатов | 1994 | Чечня | [https://web.archive.org/web/20260306183735/https://www.kommersant.ru/doc/97000](https://web.archive.org/web/20260306183735/https://www.kommersant.ru/doc/97000) |
 | Интервью Александра Литвиненко, 11 ноября 2006 года | 2006 | Чечня | [https://www.svoboda.org/a/26827408.html](https://www.svoboda.org/a/26827408.html) |
 | Информация об убийстве Мадины Умаевой | 2020 | Чечня | `www.youtube[.]com/watch?v=aMh3yIsZlm8` |
@@ -948,6 +948,7 @@
 | Про організатора (історія Меморіального комплексу) | 2026 | Украина | [https://warmuseum.kyiv.ua/_ua/museum/about_us/](https://warmuseum.kyiv.ua/_ua/museum/about_us/) |
 | Программа «Новости» от 2 сентября 1994 года: бой у посёлка Долинское | 1994 | Чечня | `www.youtube[.]com/watch?v=7u4DDko99LY` |
 | Просп. Свободи - пам'ятник Володимиру Леніну (Інтерактивний Львів) | 2026 | Украина | [https://lia.lvivcenter.org/uk/objects/monument-f-lenin/](https://lia.lvivcenter.org/uk/objects/monument-f-lenin/) |
+| Протокол заседания Комиссий по переговорам о прекращении огня, военных действий и мерах по урегулированию вооруженного конфликта на территории Чеченской Республики | 1996 | Чечня | `studfile[.]net/preview/21451656/page:22/` |
 | Протоколы политбюро ЦК РКП(б) | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
 | Прощавай, Катерино! Історія скандального пам'ятника в Одесі | 2026 | Украина | [https://localhistory.org.ua/rubrics/building/proshchavai-katerino-istoriia-skandalnogo-pamiatnika-v-odesi/](https://localhistory.org.ua/rubrics/building/proshchavai-katerino-istoriia-skandalnogo-pamiatnika-v-odesi/) |
 | Прямая линия с жителями Украины | 2004 | Украина | `from-ua[.]org/news/3805-stenogramma-intervyu-prezidenta-rossiiskoi-federacii-v-v-putina-ukrainskim-telekanalam-ut-1-inter-i-1-1.html` |
@@ -1035,7 +1036,7 @@
 | Становление и развитие системы образования в Чеченской Республике | 2012 | Чечня | `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike` |
 | Стенограмма Северодонецкого съезда | 2004 | Украина | [https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/](https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/) |
 | Стенограмма пленарного заседания Государственной Думы 13 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250402113603/http://api.duma.gov.ru/api/transcriptFull/1994-12-13](https://web.archive.org/web/20250402113603/http://api.duma.gov.ru/api/transcriptFull/1994-12-13) |
-| Стенограмма пленарного заседания Государственной Думы 14 декабря 1994 года | 1994 | Чечня | `api.duma.gov[.]ru/api/transcriptFull/1994-12-14` |
+| Стенограмма пленарного заседания Государственной Думы 14 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250624140844/http://api.duma.gov.ru/api/transcriptFull/1994-12-14](https://web.archive.org/web/20250624140844/http://api.duma.gov.ru/api/transcriptFull/1994-12-14) |
 | Стенограмма пленарного заседания Государственной Думы 23 декабря 1994 года | 1994 | Чечня | `api.duma.gov[.]ru/api/transcriptFull/1994-12-23` |
 | Стенограмма пленарного заседания Государственной Думы 25 марта 1994 года | 1994 | Чечня | [https://web.archive.org/web/20241207100611/http://api.duma.gov.ru/api/transcriptFull/1994-03-25](https://web.archive.org/web/20241207100611/http://api.duma.gov.ru/api/transcriptFull/1994-03-25) |
 | Стенограмма пленарного заседания Государственной Думы 7 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20251017132146/http://api.duma.gov.ru/api/transcriptFull/1994-12-07](https://web.archive.org/web/20251017132146/http://api.duma.gov.ru/api/transcriptFull/1994-12-07) |
@@ -1082,6 +1083,7 @@
 | Указ Президента Российской Федерации от 22 января 2001 г. № 61 «О мерах по борьбе с терроризмом на территории Северо-Кавказского региона Российской Федерации» | 2001 | Чечня | `base.garant[.]ru/12121690/` |
 | Указ Президента Российской Федерации от 23 сентября 1999 г. № 1255с «О мерах по повышению эффективности контртеррористических операций на территории Северо-Кавказского региона Российской Федерации» (рассекреченная выписка) | 1999 | Чечня | `base.garant[.]ru/184295/` |
 | Указ Президента Российской Федерации от 25 июня 1996 г. № 985 о выводе сил и средств, входящих в состав Временных объединенных сил, с территории Чеченской Республики | 1996 | Чечня | [https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_25.06.1996_№_985](https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_25.06.1996_№_985) |
+| Указ Президента Российской Федерации от 3 июля 1995 г. № 663 «О дислокации органов военного управления, соединений, воинских частей, учреждений и организаций Вооруженных Сил Российской Федерации на территории Чеченской Республики» | 1995 | Чечня | `www.szrf[.]ru/api/issues/document?nd=18&volid=1001995028000` |
 | Указ Президента Российской Федерации от 5 сентября 1995 г. № 898 «О дополнительных компенсационных выплатах лицам, пострадавшим в результате разрешения кризиса в Чеченской Республике» | 1995 | Чечня | `www.kremlin[.]ru/acts/bank/8282` |
 | Указ Президента Российской Федерации от 8 июня 2000 г. № 1071 Об организации временной системы органов исполнительной власти в Чеченской Республике | 2000 | Чечня | `kremlin[.]ru/acts/bank/15678` |
 | Указ Президента Российской Федерации № 2166 О мерах по пресечению деятельности незаконных вооруженных формирований на территории Чеченской Республики и в зоне осетино-ингушского конфликта | 1994 | Чечня | [https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_09.12.1994_№_2166](https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_09.12.1994_№_2166) |
@@ -1148,7 +1150,7 @@
 | “No Happiness Remains”: Civilian Killings, Pillage, and Rape in Alkhan-Yurt, Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya2/](https://www.hrw.org/legacy/reports/2000/russia_chechnya2/) |
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 
-## Только ссылка, выложить нельзя - 535
+## Только ссылка, выложить нельзя - 536
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -1368,7 +1370,7 @@
 | Депортацин бакъдерг къайлахьойла дац (видеозапись конференции о депортации чеченского народа, Грозный, 18 февраля 2014 г.) | Радио Маршо (чеченская служба Радио Свободная Европа / Радио Свобода) | 2014 | современная публикация 2014 года под авторским правом | `www.radiomarsho[.]com/a/25269706.html` |
 | Депортація (Енциклопедія Сучасної України) | Бажан О. Г., Стасюк О. Й. | 2007 | энциклопедическая статья под авторским правом | [https://esu.com.ua/article-26038](https://esu.com.ua/article-26038) |
 | Депутат Госдумы Селимханов: «Место геев в двух метрах под землей» | «Московский комсомолец» | 2017 | современная публикация 2017 года под авторским правом | [https://web.archive.org/web/20260217222708/https://www.mk.ru/politics/2017/04/14/deputat-gosdumy-selimkhanov-mesto-geev-v-dvukh-metrakh-pod-zemley.html](https://web.archive.org/web/20260217222708/https://www.mk.ru/politics/2017/04/14/deputat-gosdumy-selimkhanov-mesto-geev-v-dvukh-metrakh-pod-zemley.html) |
-| Депутаты постарались урегулировать конфликт с Чечней | Гарбузова О., Камышев Д. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | `www.kommersant[.]ru/doc/74509` |
+| Депутаты постарались урегулировать конфликт с Чечней | Гарбузова О., Камышев Д. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260914215912/https://www.kommersant.ru/doc/74509](https://web.archive.org/web/20260914215912/https://www.kommersant.ru/doc/74509) |
 | Десять дней которые отменили мир |  | 2021 | современная публикация 2021 года под авторским правом | `versia[.]ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza` |
 | Джохар Дудаев ввел военное положение | Шпак В. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20241005153422/https://www.kommersant.ru/doc/86576](https://web.archive.org/web/20241005153422/https://www.kommersant.ru/doc/86576) |
 | Джохар Дудаев ответил ударом на удар | Камышев Д. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20241119191637/https://www.kommersant.ru/doc/92956](https://web.archive.org/web/20241119191637/https://www.kommersant.ru/doc/92956) |
@@ -1409,7 +1411,7 @@
 | Захват заложников в Ставрополье | Отдел оперативной информации | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260914215832/https://www.kommersant.ru/doc/85410](https://web.archive.org/web/20260914215832/https://www.kommersant.ru/doc/85410) |
 | Заявление от 3 октября 1996 года, подписанное руководителями делегаций на переговорах в Москве | В. Черномырдин, А. Лебедь, З. Яндарбиев, А. Закаев | 1996 | современная публикация 1996 года под авторским правом | `www.youtube[.]com/watch?v=1PcCJ-5O3Vk` |
 | Иван Мазепа и Российская империя. История «предательства» | Таирова-Яковлева Т. Г. | 2011 | современная публикация 2011 года под авторским правом | [https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ](https://books.google.com/books/about/Иван_Мазепа_и_Российска.html?id=kyW-ZwEACAAJ) |
-| Из заявления правительства России |  | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | `www.kommersant[.]ru/doc/85527` |
+| Из заявления правительства России |  | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260914215922/https://www.kommersant.ru/doc/85527](https://web.archive.org/web/20260914215922/https://www.kommersant.ru/doc/85527) |
 | Измена Родины возмутила самых лояльных депутатов | Беннигсен Л. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260306183735/https://www.kommersant.ru/doc/97000](https://web.archive.org/web/20260306183735/https://www.kommersant.ru/doc/97000) |
 | Информация об убийстве Мадины Умаевой | Телеканал «Грозный» (Grozny.tv) | 2020 | современная публикация 2020 года под авторским правом | `www.youtube[.]com/watch?v=aMh3yIsZlm8` |
 | История Чечни в XIX-XX веках | Ахмадов Я. З., Хасмагомадов Э. Х. | 2005 | современная публикация 2005 года под авторским правом | `na5ballov[.]pro/lib/kray/7650-ahmadov-yaz-hasmagomadov-ex-istoriya-chechni-v-xix-xx-vekah.html` |
@@ -1560,6 +1562,7 @@
 | Про організатора (історія Меморіального комплексу) | Національний музей історії України у Другій світовій війні | 2026 | современная публикация 2026 года под авторским правом | [https://warmuseum.kyiv.ua/_ua/museum/about_us/](https://warmuseum.kyiv.ua/_ua/museum/about_us/) |
 | Программа «Новости» от 2 сентября 1994 года: бой у посёлка Долинское | РГТРК «Останкино», программа «Новости» | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=7u4DDko99LY` |
 | Просп. Свободи - пам'ятник Володимиру Леніну (Інтерактивний Львів) | Центр міської історії Центрально-Східної Європи | 2026 | современная публикация 2026 года под авторским правом | [https://lia.lvivcenter.org/uk/objects/monument-f-lenin/](https://lia.lvivcenter.org/uk/objects/monument-f-lenin/) |
+| Протокол заседания Комиссий по переговорам о прекращении огня, военных действий и мерах по урегулированию вооруженного конфликта на территории Чеченской Республики | Комиссии по переговорам Правительства Российской Федерации и Кабинета министров Чеченской Республики Ичкерия | 1996 | современная книга под авторским правом, источник studfile.net | `studfile[.]net/preview/21451656/page:22/` |
 | Прощавай, Катерино! Історія скандального пам'ятника в Одесі |  | 2026 | современная публикация 2026 года под авторским правом | [https://localhistory.org.ua/rubrics/building/proshchavai-katerino-istoriia-skandalnogo-pamiatnika-v-odesi/](https://localhistory.org.ua/rubrics/building/proshchavai-katerino-istoriia-skandalnogo-pamiatnika-v-odesi/) |
 | Прямая линия с жителями Украины | Путин В. В. | 2004 | современная публикация 2004 года под авторским правом | `from-ua[.]org/news/3805-stenogramma-intervyu-prezidenta-rossiiskoi-federacii-v-v-putina-ukrainskim-telekanalam-ut-1-inter-i-1-1.html` |
 | Путин назвал удары по энергообъектам Украины ответом на действия Киева |  | 2022 | современная публикация 2022 года под авторским правом | `www.rbc[.]ru/politics/14/10/2022/6349349c9a79475f2f1b0d10` |

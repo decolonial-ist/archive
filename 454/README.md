@@ -14,6 +14,16 @@
 
 Первоисточник: [https://map.lviv.ua/statti/luckij2.html](https://map.lviv.ua/statti/luckij2.html)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Аннексия и советизация Западной Украины (1939–1941)](https://decolonial.ist/campaigns/C0081/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+  > Знак нового порядка ставится в первые же недели: советские войска заняли Львов 22 сентября 1939 года
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

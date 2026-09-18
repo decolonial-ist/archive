@@ -14,6 +14,21 @@
 
 Издание: [https://books.google.com/books?id=aLT_ewEACAAJ](https://books.google.com/books?id=aLT_ewEACAAJ)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+### Кампании
+
+- **[Национальные операции НКВД и институциональная русификация (1937–1939)](https://decolonial.ist/campaigns/C0080/)**
+
+### Процедуры
+
+- **[Национальные операции НКВД и институциональная русификация (1937–1939)](https://decolonial.ist/campaigns/C0080/#procedures) — техника [Истребление по признаку идентичности](https://decolonial.ist/techniques/T0120/)**
+  > Проведение секретных массовых «национальных операций» НКВД для физического уничтожения представителей этнических меньшинств
+  > по их лекалам прошли греческая, болгарская и другие операции
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

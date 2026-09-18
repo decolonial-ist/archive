@@ -13,6 +13,23 @@
 
 Первоисточник: [https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+### Кампании
+
+- **[Подавление восстаний в ГУЛАГе (1953–1954)](https://decolonial.ist/campaigns/C0086/)**
+  > В Кенгир власти ввели армию: «в зону двинулись 1600 солдат, 3 пожарные машины, 5 танков. Это было единственное в советской истории подавление лагерных восстаний с танками»
+
+### Процедуры
+
+- **[Подавление восстаний в ГУЛАГе (1953–1954)](https://decolonial.ist/campaigns/C0086/#procedures) — техника [Карательные экспедиции](https://decolonial.ist/techniques/T0077/)**
+  > В Кенгире танки давили безоружных: «Около 200 украинских женщин взялись за руки и двинулись против танков. Но танки не остановились и один за другим переехали живую фалангу. А эмвэдэшники бросились к баракам, расстреливая каждого встречного…»
+- **[Подавление восстаний в ГУЛАГе (1953–1954)](https://decolonial.ist/campaigns/C0086/#procedures) — техника [Массовые убийства гражданских](https://decolonial.ist/techniques/T0104/)**
+  > в Кенгире «Во время подавления восстания погибло и было ранено около 700 заключённых»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -17,6 +17,16 @@
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Советско-Украинская война: первое вторжение и марионеточное правительство (декабрь 1917 - апрель 1918)](https://decolonial.ist/campaigns/C0072/#procedures) — техника [Организация переворота](https://decolonial.ist/techniques/T0020/)**
+  > В ней сказано: «Господа из Генерального секретариата подготовляют здесь, в сердце Украины, разгон Советов рабочих и солдатских депутатов и думают, что найдутся здесь солдаты, которые совершат это черное дело. Нет, этому не бывать!»
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

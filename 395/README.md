@@ -27,6 +27,16 @@
 |---|---|
 | vysochayshe_utverzhdennyy_doklad_knyazya_shahovsko_slobodskoy_gubernii_1764.pdf | `302f4fea075c93c2ef49599e8b5c9d867cd07c7e5e1e75d81b21ca792348aed5` |
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Процедуры
+
+- **[Отмена казацкого устройства в Слободской Украине (1765)](https://decolonial.ist/campaigns/C0031/#procedures) — техника [Административно-территориальное деление](https://decolonial.ist/techniques/T0030/)**
+  > Ликвидация казацких административных единиц и внедрение имперского деления: утверждённый императрицей доклад комиссии Шаховского и Панина от 16 декабря 1764 года и манифест Екатерины II от 28 июля 1765 года
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

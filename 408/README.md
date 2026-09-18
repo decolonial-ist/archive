@@ -14,6 +14,21 @@
 
 Первоисточник: [https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf](https://elar.naiau.kiev.ua/jspui/bitstream/123456789/1267/1/grukach_dis.pdf)
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+### Кампании
+
+- **[Памятник Александру II в Киеве (1911)](https://decolonial.ist/campaigns/C0110/)**
+
+### Процедуры
+
+- **[Памятник Александру II в Киеве (1911)](https://decolonial.ist/campaigns/C0110/#procedures) — техника [Маркировка территории имперскими символами](https://decolonial.ist/techniques/T0158/)**
+  > Благодарность на пьедестале высказывала не Украина и не Киев, а «Юго-Западный край» - так империя официально называла украинские земли к западу от Днепра
+  > Край составляли Киевская, Волынская и Подольская губернии
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

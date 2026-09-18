@@ -14,6 +14,19 @@
 
 Первоисточник: `language-policy[.]info/2018/07/shkola-i-mova-pro-doplaty-vchytelyam-movy-yazyka-nyni-i-v-mynulomu/`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+### Кампании
+
+- **[Финансовая русификация школ (1978–1983)](https://decolonial.ist/campaigns/C0054/)**
+
+### Процедуры
+
+- **[Финансовая русификация школ (1978–1983)](https://decolonial.ist/campaigns/C0054/#procedures) — техника [Финансовая дискриминация педагогов](https://decolonial.ist/techniques/T0114/002/)**
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

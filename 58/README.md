@@ -13,6 +13,16 @@
 
 Первоисточник: `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/`
 
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+### Техники
+
+- **[Административно-территориальное деление](https://decolonial.ist/techniques/T0030/)**
+  > Так, например, многие границы в Африке являются результатом борьбы колониальных держав между собой
+
+
 ---
 
 без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).
