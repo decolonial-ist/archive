@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `psz.ri.org[.]ru/I/XXVIII.pdf`
+Первоисточник: [https://web.archive.org/web/20251102070058/https://psz.ri.org.ru/I/XXVIII.pdf](https://web.archive.org/web/20251102070058/https://psz.ri.org.ru/I/XXVIII.pdf)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/1957-protokol-zasedaniya-predstaviteley-uezdnyh-organov-sovetskoy-vlasti-i-uezdnyh-naselennyh-punktov-v-d-tyutkovichi-rovenskogo-uezda-volynskoy-gub-6-iyulya-1919-g`
+Первоисточник: [https://web.archive.org/web/20230715185148/http://docs.historyrussia.org/ru/nodes/1957-protokol-zasedaniya-predstaviteley-uezdnyh-organov-sovetskoy-vlasti-i-uezdnyh-naselennyh-punktov-v-d-tyutkovichi-rovenskogo-uezda-volynskoy-gub-6-iyulya-1919-g](https://web.archive.org/web/20230715185148/http://docs.historyrussia.org/ru/nodes/1957-protokol-zasedaniya-predstaviteley-uezdnyh-organov-sovetskoy-vlasti-i-uezdnyh-naselennyh-punktov-v-d-tyutkovichi-rovenskogo-uezda-volynskoy-gub-6-iyulya-1919-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

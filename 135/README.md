@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Mat_ist_pok_vost_kavk/241-260/241.htm`
+Первоисточник: [https://web.archive.org/web/20250720163056/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Mat_ist_pok_vost_kavk/241-260/241.htm](https://web.archive.org/web/20250720163056/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Mat_ist_pok_vost_kavk/241-260/241.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

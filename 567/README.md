@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rev-lib[.]com/dva-goda-borby-na-vnutrennem-fronte/`
+Первоисточник: [https://web.archive.org/web/20260607083231/https://rev-lib.com/dva-goda-borby-na-vnutrennem-fronte/](https://web.archive.org/web/20260607083231/https://rev-lib.com/dva-goda-borby-na-vnutrennem-fronte/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

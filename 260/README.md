@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/iz-istorii-nasilstvennogo-vyseleniya-chechentsev-i-ingushey-k-80-letiyu-deportatsii-1944-2024-gg`
+Первоисточник: [https://web.archive.org/web/20260104172123/https://cyberleninka.ru/article/n/iz-istorii-nasilstvennogo-vyseleniya-chechentsev-i-ingushey-k-80-letiyu-deportatsii-1944-2024-gg](https://web.archive.org/web/20260104172123/https://cyberleninka.ru/article/n/iz-istorii-nasilstvennogo-vyseleniya-chechentsev-i-ingushey-k-80-letiyu-deportatsii-1944-2024-gg)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

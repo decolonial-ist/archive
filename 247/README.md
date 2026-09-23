@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `novayagazeta[.]ru/articles/2014/11/20/108018-strelkov-spuskovoy-kryuchok-voyny-nazhal-ya`
+Первоисточник: [https://web.archive.org/web/20260419140830/https://novayagazeta.ru/articles/2014/11/20/108018-strelkov-spuskovoy-kryuchok-voyny-nazhal-ya](https://web.archive.org/web/20260419140830/https://novayagazeta.ru/articles/2014/11/20/108018-strelkov-spuskovoy-kryuchok-voyny-nazhal-ya)
 
 ## Где упоминается в базе знаний
 

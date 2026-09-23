@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/`
+Первоисточник: [https://web.archive.org/web/20241208025129/https://anchr.ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/](https://web.archive.org/web/20241208025129/https://anchr.ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/)
 
 ## Где упоминается в базе знаний
 

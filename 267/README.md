@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `nkvd.tomsk[.]ru/content/editor/Monografii%20/Kozlov-V-A-Massovye-bksporyadke-pri-Hrucshove.pdf`
+Издание: [https://books.google.com/books?id=ihIsAQAAIAAJ](https://books.google.com/books?id=ihIsAQAAIAAJ)
 
 ## Где упоминается в базе знаний
 

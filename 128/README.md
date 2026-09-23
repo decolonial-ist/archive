@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/Arabojaz_ist/Karachi_I/text1.htm`
+Первоисточник: [https://web.archive.org/web/20220522112116/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/Arabojaz_ist/Karachi_I/text1.htm](https://web.archive.org/web/20220522112116/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/Arabojaz_ist/Karachi_I/text1.htm)
 
 ## Где упоминается в базе знаний
 

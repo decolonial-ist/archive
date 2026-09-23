@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `eng.globalaffairs[.]ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/`
+Первоисточник: [https://web.archive.org/web/20260814081632/https://eng.globalaffairs.ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/](https://web.archive.org/web/20260814081632/https://eng.globalaffairs.ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/)
 
 ## Где упоминается в базе знаний
 

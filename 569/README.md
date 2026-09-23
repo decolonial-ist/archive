@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rev-lib[.]com/arhiv-russkoj-revoljucii-t-6/`
+Первоисточник: [https://web.archive.org/web/20260613150400/https://rev-lib.com/arhiv-russkoj-revoljucii-t-6/](https://web.archive.org/web/20260613150400/https://rev-lib.com/arhiv-russkoj-revoljucii-t-6/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

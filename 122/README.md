@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/M.Asien/XIX/1860-1880/Poltorackij/text1.htm`
+Первоисточник: [https://web.archive.org/web/20250814151639/https://www.vostlit.info/Texts/Dokumenty/M.Asien/XIX/1860-1880/Poltorackij/text1.htm](https://web.archive.org/web/20250814151639/https://www.vostlit.info/Texts/Dokumenty/M.Asien/XIX/1860-1880/Poltorackij/text1.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `constitution.garant[.]ru/history/act1600-1918/5311/`
+Первоисточник: [https://web.archive.org/web/20241114121030/https://constitution.garant.ru/history/act1600-1918/5311/](https://web.archive.org/web/20241114121030/https://constitution.garant.ru/history/act1600-1918/5311/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

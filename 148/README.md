@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `sevkrimrus.narod[.]ru/ZAKON/manifest.htm`
+Первоисточник: [https://web.archive.org/web/20260520193744/https://sevkrimrus.narod.ru/ZAKON/manifest.htm](https://web.archive.org/web/20260520193744/https://sevkrimrus.narod.ru/ZAKON/manifest.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

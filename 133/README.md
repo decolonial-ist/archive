@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Tri_goda_Kavkaz/text1.htm`
+Первоисточник: [https://web.archive.org/web/20250912170519/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Tri_goda_Kavkaz/text1.htm](https://web.archive.org/web/20250912170519/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1820-1840/Tri_goda_Kavkaz/text1.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

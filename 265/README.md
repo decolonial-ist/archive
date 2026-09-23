@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `annyku.narod[.]ru/disser.htm`
+Первоисточник: [https://web.archive.org/web/20260912051226/https://annyku.narod.ru/disser.htm](https://web.archive.org/web/20260912051226/https://annyku.narod.ru/disser.htm)
 
 ## Где упоминается в базе знаний
 

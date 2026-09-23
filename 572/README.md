@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `militera.lib[.]ru/docs/da/dir1/index.html`
+Первоисточник: [https://web.archive.org/web/20260309162911/http://militera.lib.ru/docs/da/dir1/index.html](https://web.archive.org/web/20260309162911/http://militera.lib.ru/docs/da/dir1/index.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

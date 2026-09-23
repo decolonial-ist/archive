@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.katyn-books[.]ru/archive/1940_2000/doc/36doc.html`
+Первоисточник: [https://web.archive.org/web/20260308045644/https://katyn-books.ru/archive/1940_2000/doc/36doc.html](https://web.archive.org/web/20260308045644/https://katyn-books.ru/archive/1940_2000/doc/36doc.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

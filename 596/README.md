@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-i-kn-1-osvoboditelnaya-vojna-ukrainskogo-naroda-protiv-nemecko-avstrijskih-okkupantov-razgrom-burzhuazno-nacionalisticheskoj-direktorii/`
+Первоисточник: [https://web.archive.org/web/20260613152553/https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-i-kn-1-osvoboditelnaya-vojna-ukrainskogo-naroda-protiv-nemecko-avstrijskih-okkupantov-razgrom-burzhuazno-nacionalisticheskoj-direktorii/](https://web.archive.org/web/20260613152553/https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-i-kn-1-osvoboditelnaya-vojna-ukrainskogo-naroda-protiv-nemecko-avstrijskih-okkupantov-razgrom-burzhuazno-nacionalisticheskoj-direktorii/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

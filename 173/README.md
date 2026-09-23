@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.lib[.]ru/PROZA/SOLZHENICYN/s_kak_1990.txt`
+Первоисточник: [https://web.archive.org/web/20260918171847/http://www.lib.ru/PROZA/SOLZHENICYN/s_kak_1990.txt](https://web.archive.org/web/20260918171847/http://www.lib.ru/PROZA/SOLZHENICYN/s_kak_1990.txt)
 
 ## Где упоминается в базе знаний
 

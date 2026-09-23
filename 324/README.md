@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `aif[.]ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev`
+Первоисточник: [https://web.archive.org/web/20251115034518/https://aif.ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev](https://web.archive.org/web/20251115034518/https://aif.ru/politics/world/aleksandr_boroday_ya_mogu_vernutsya_no_ne_na_donbass_a_uzhe_v_kiev)
 
 ## Где упоминается в базе знаний
 

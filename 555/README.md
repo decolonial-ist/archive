@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/49441-spravka-otdela-spetsposeleniy-nkvd-sssr-ob-okonchanii-rabot-po-pereseleniyu-chechentsev-ingushey-i-balkartsev-s-severnogo-kavkaza-v-kirgizskuyu-ssr-7-aprelya-1944-g`
+Первоисточник: [https://web.archive.org/web/20230719122815/http://docs.historyrussia.org/ru/nodes/49441-spravka-otdela-spetsposeleniy-nkvd-sssr-ob-okonchanii-rabot-po-pereseleniyu-chechentsev-ingushey-i-balkartsev-s-severnogo-kavkaza-v-kirgizskuyu-ssr-7-aprelya-1944-g](https://web.archive.org/web/20230719122815/http://docs.historyrussia.org/ru/nodes/49441-spravka-otdela-spetsposeleniy-nkvd-sssr-ob-okonchanii-rabot-po-pereseleniyu-chechentsev-ingushey-i-balkartsev-s-severnogo-kavkaza-v-kirgizskuyu-ssr-7-aprelya-1944-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

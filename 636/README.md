@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.demoscope[.]ru/weekly/ssp/sng_nac_89.php`
+Первоисточник: [https://web.archive.org/web/20260824164750/https://www.demoscope.ru/weekly/ssp/sng_nac_89.php](https://web.archive.org/web/20260824164750/https://www.demoscope.ru/weekly/ssp/sng_nac_89.php)
 
 ## Где упоминается в базе знаний
 

@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `apsnyteka[.]org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html`
+Первоисточник: [https://web.archive.org/web/20250120190247/http://apsnyteka.org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html](https://web.archive.org/web/20250120190247/http://apsnyteka.org/1456-dubrovin_n_istoria_vojny_i_vladychestva_russkikh_na_kavkaze.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

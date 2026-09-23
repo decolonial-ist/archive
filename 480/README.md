@@ -13,7 +13,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `ridero[.]ru/books/chechnya_politicheskaya_i_obshestvennaya_obstanovka/freeText/`
+Издание: [https://books.google.com/books?id=XtgXEAAAQBAJ](https://books.google.com/books?id=XtgXEAAAQBAJ)
 
 ## Где упоминается в базе знаний
 

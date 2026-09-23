@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rusneb[.]ru/catalog/000199_000009_004409385/`
+Издание: [https://books.google.com/books?id=L3MwQwAACAAJ](https://books.google.com/books?id=L3MwQwAACAAJ)
 
 ## Где упоминается в базе знаний
 

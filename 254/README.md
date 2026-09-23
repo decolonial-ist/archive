@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-neftyanoy-promyshlennosti-v-terskoy-oblasti-v-kontse-xix-nachale-xx-v`
+Первоисточник: [https://web.archive.org/web/20250916201250/https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-neftyanoy-promyshlennosti-v-terskoy-oblasti-v-kontse-xix-nachale-xx-v](https://web.archive.org/web/20250916201250/https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-neftyanoy-promyshlennosti-v-terskoy-oblasti-v-kontse-xix-nachale-xx-v)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

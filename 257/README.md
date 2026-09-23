@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `scepsis[.]net/library/id_1063.html`
+Первоисточник: [https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html](https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html)
 
 ## Где упоминается в базе знаний
 

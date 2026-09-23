@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `apsnyteka[.]org/381-akak_i_xii.html`
+Первоисточник: [https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html](https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

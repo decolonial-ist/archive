@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `kremlin[.]ru/events/president/news/66181`
+Первоисточник: [https://web.archive.org/web/20260915214934/http://kremlin.ru/events/president/news/66181](https://web.archive.org/web/20260915214934/http://kremlin.ru/events/president/news/66181)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

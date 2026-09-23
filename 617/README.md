@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rev-lib[.]com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/`
+Первоисточник: [https://web.archive.org/web/20260606072922/https://rev-lib.com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/](https://web.archive.org/web/20260606072922/https://rev-lib.com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

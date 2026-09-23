@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.kremlin[.]ru/events/president/transcripts/20796/work`
+Первоисточник: [https://web.archive.org/web/20260418074925/http://www.kremlin.ru/events/president/transcripts/20796/work](https://web.archive.org/web/20260418074925/http://www.kremlin.ru/events/president/transcripts/20796/work)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

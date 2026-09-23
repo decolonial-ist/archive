@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `militera.lib[.]ru/memo/russian/milyutin_da02/index.html`
+Первоисточник: [https://web.archive.org/web/20251109184144/http://militera.lib.ru/memo/russian/milyutin_da02/index.html](https://web.archive.org/web/20251109184144/http://militera.lib.ru/memo/russian/milyutin_da02/index.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

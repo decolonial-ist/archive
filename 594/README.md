@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `leninism[.]su/works/89-tom-50/325-pisma-may-iyn-1919.html#99`
+Первоисточник: [https://web.archive.org/web/20260312105853/https://leninism.su/works/89-tom-50/325-pisma-may-iyn-1919.html](https://web.archive.org/web/20260312105853/https://leninism.su/works/89-tom-50/325-pisma-may-iyn-1919.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

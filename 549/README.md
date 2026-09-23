@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `journals.rudn[.]ru/russian-history/article/view/19831`
+Первоисточник: [https://web.archive.org/web/20251204231912/https://journals.rudn.ru/russian-history/article/view/19831](https://web.archive.org/web/20251204231912/https://journals.rudn.ru/russian-history/article/view/19831)
 
 ## Где упоминается в базе знаний
 

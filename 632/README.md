@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `checheninfo[.]ru/12952-nacionalno-yazykovaya-politika-v-strane-i-chechenskoy-respublike.html`
+Первоисточник: [https://web.archive.org/web/20200218190322/http://www.checheninfo.ru:80/12952-nacionalno-yazykovaya-politika-v-strane-i-chechenskoy-respublike.html](https://web.archive.org/web/20200218190322/http://www.checheninfo.ru:80/12952-nacionalno-yazykovaya-politika-v-strane-i-chechenskoy-respublike.html)
 
 ## Где упоминается в базе знаний
 

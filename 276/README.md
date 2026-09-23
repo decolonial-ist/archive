@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `versia[.]ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza`
+Первоисточник: [https://web.archive.org/web/20251129235547/https://versia.ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza](https://web.archive.org/web/20251129235547/https://versia.ru/v-1991-godu-usmirit-chechnyu-mozhno-bylo-silami-specnaza)
 
 ## Где упоминается в базе знаний
 

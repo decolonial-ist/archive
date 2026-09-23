@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `runivers[.]ru/bookreader/book482339/`
+Первоисточник: [https://web.archive.org/web/20250101065950/https://runivers.ru/bookreader/book482339/](https://web.archive.org/web/20250101065950/https://runivers.ru/bookreader/book482339/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

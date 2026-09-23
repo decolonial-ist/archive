@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.libussr[.]ru/doc_ussr/usr_5337.htm`
+Первоисточник: [https://web.archive.org/web/20220323153802/http://www.libussr.ru/doc_ussr/usr_5337.htm](https://web.archive.org/web/20220323153802/http://www.libussr.ru/doc_ussr/usr_5337.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

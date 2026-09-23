@@ -12,12 +12,11 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 28 КБ | в этой папке |
-| [petrogradskim_organizaciyam_1919.txt](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.txt) | текст | 5 КБ | в этой папке |
+| [petrogradskim_organizaciyam_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/576/petrogradskim_organizaciyam_1919.pdf) | PDF | 96 КБ | в этой папке |
 
 ## Откуда это у нас
 
-Первоисточник: `leninism[.]su/works/89-tom-50/324-pisma-mart-aprel-1919.html`
+Первоисточник: [https://web.archive.org/web/20260310212714/https://leninism.su/works/89-tom-50/324-pisma-mart-aprel-1919.html](https://web.archive.org/web/20260310212714/https://leninism.su/works/89-tom-50/324-pisma-mart-aprel-1919.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

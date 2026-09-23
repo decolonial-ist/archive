@@ -19,7 +19,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/banditizm-na-severnom-kavkaze-v-gody-velikoy-otechestvennoy-voyny`
+Первоисточник: [https://web.archive.org/web/20200619140531/https://cyberleninka.ru/article/n/banditizm-na-severnom-kavkaze-v-gody-velikoy-otechestvennoy-voyny](https://web.archive.org/web/20200619140531/https://cyberleninka.ru/article/n/banditizm-na-severnom-kavkaze-v-gody-velikoy-otechestvennoy-voyny)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

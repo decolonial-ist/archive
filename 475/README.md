@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.booksite[.]ru/fulltext/1/001/008/010/394.htm`
+Первоисточник: [https://web.archive.org/web/20221224095851/https://www.booksite.ru/fulltext/1/001/008/010/394.htm](https://web.archive.org/web/20221224095851/https://www.booksite.ru/fulltext/1/001/008/010/394.htm)
 
 ## Где упоминается в базе знаний
 

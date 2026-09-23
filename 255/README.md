@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/politika-tsarizma-po-pereseleniyu-gortsev-severo-vostochnogo-kavkaza-v-turtsiyu-vtoraya-polovina-hih-nachalo-hh-veka`
+Первоисточник: [https://web.archive.org/web/20220522153000/https://cyberleninka.ru/article/n/politika-tsarizma-po-pereseleniyu-gortsev-severo-vostochnogo-kavkaza-v-turtsiyu-vtoraya-polovina-hih-nachalo-hh-veka](https://web.archive.org/web/20220522153000/https://cyberleninka.ru/article/n/politika-tsarizma-po-pereseleniyu-gortsev-severo-vostochnogo-kavkaza-v-turtsiyu-vtoraya-polovina-hih-nachalo-hh-veka)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

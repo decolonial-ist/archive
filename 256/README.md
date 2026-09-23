@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.ainros[.]ru/ainst/t1/jupikova.pdf`
+Первоисточник: [https://web.archive.org/web/20240619165802/http://www.ainros.ru/ainst/t1/jupikova.pdf](https://web.archive.org/web/20240619165802/http://www.ainros.ru/ainst/t1/jupikova.pdf)
 
 ## Где упоминается в базе знаний
 

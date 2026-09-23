@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.vostlit[.]info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/1840_1841_1842_gody/text1.htm`
+Первоисточник: [https://web.archive.org/web/20241215212436/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/1840_1841_1842_gody/text1.htm](https://web.archive.org/web/20241215212436/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XIX/1840-1860/1840_1841_1842_gody/text1.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

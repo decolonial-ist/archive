@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `novayagazeta[.]ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti`
+Первоисточник: [https://web.archive.org/web/20230111141231/https://novayagazeta.ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti](https://web.archive.org/web/20230111141231/https://novayagazeta.ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti)
 
 ## Где упоминается в базе знаний
 

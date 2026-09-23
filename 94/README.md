@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf`
+Издание: [https://books.google.com/books?id=Jj9ezgEACAAJ](https://books.google.com/books?id=Jj9ezgEACAAJ)
 
 ## Где упоминается в базе знаний
 

@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.kommersant[.]ru/doc/5028300`
+Первоисточник: [https://web.archive.org/web/20260917033051/https://www.kommersant.ru/doc/5028300](https://web.archive.org/web/20260917033051/https://www.kommersant.ru/doc/5028300)
 
 ## Где упоминается в базе знаний
 

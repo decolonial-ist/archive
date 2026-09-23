@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/1983-doklad-sotrudnika-redaktsionnoy-kollegii-h-gofmana-o-pogromah-v-m-fastov-kievskoy-gub-v-avguste-locale-nil-sentyabre-1919-g-30-sentyabrya-1919-g`
+Первоисточник: [https://web.archive.org/web/20250514040420/https://docs.historyrussia.org/ru/nodes/1983-doklad-sotrudnika-redaktsionnoy-kollegii-h-gofmana-o-pogromah-v-m-fastov-kievskoy-gub-v-avguste-locale-nil-sentyabre-1919-g-30-sentyabrya-1919-g](https://web.archive.org/web/20250514040420/https://docs.historyrussia.org/ru/nodes/1983-doklad-sotrudnika-redaktsionnoy-kollegii-h-gofmana-o-pogromah-v-m-fastov-kievskoy-gub-v-avguste-locale-nil-sentyabre-1919-g-30-sentyabrya-1919-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `nvo.ng[.]ru/history/2000-04-21/5_sp_ops.html`
+Первоисточник: [https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html](https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html)
 
 ## Где упоминается в базе знаний
 

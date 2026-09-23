@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g`
+Первоисточник: [https://web.archive.org/web/20230715185002/http://docs.historyrussia.org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g](https://web.archive.org/web/20230715185002/http://docs.historyrussia.org/ru/nodes/1986-soobschenie-predstavitelya-otdela-pomoschi-pogromlennym-pri-rokk-na-ukraine-g-i-rabinovicha-redaktsionnoy-kollegii-o-posledstviyah-pogroma-v-m-fastov-kievskoy-gub-v-sentyabre-1919-g-ne-ranee-noyabrya-1919-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `old.nasledie[.]ru/bibliot/kniga10/chech1.htm`
+Первоисточник: [https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm](https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm)
 
 ## Где упоминается в базе знаний
 

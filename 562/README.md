@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `azbyka[.]ru/otechnik/Sergej_Melgunov/krasnyj-terror-v-rossii-1918-1923/`
+Первоисточник: [https://web.archive.org/web/20251030133208/https://azbyka.ru/otechnik/Sergej_Melgunov/krasnyj-terror-v-rossii-1918-1923/](https://web.archive.org/web/20251030133208/https://azbyka.ru/otechnik/Sergej_Melgunov/krasnyj-terror-v-rossii-1918-1923/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

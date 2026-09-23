@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rev-lib[.]com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/`
+Первоисточник: [https://web.archive.org/web/20260306233857/https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/](https://web.archive.org/web/20260306233857/https://rev-lib.com/grazhdanskaya-vojna-na-ukraine-1918-1920-t-ii-borba-protiv-denikinshhiny-i-petljurovshhiny-na-ukraine-maj-1919-g-fevral-1920-g/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

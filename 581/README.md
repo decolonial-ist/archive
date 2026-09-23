@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g`
+Первоисточник: [https://web.archive.org/web/20230715185241/http://docs.historyrussia.org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g](https://web.archive.org/web/20230715185241/http://docs.historyrussia.org/ru/nodes/1985-prikaz-voennoy-komendatury-vsyur-v-m-fastov-kievskoy-gub-locale-nil-2-o-podderzhanii-poryadka-posle-pogromov-23-sentyabrya-1919-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

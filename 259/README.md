@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/hronika-pervogo-razoruzheniya-chechni-20-e-gg-xx-v`
+Первоисточник: [https://web.archive.org/web/20220508165557/https://cyberleninka.ru/article/n/hronika-pervogo-razoruzheniya-chechni-20-e-gg-xx-v](https://web.archive.org/web/20220508165557/https://cyberleninka.ru/article/n/hronika-pervogo-razoruzheniya-chechni-20-e-gg-xx-v)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

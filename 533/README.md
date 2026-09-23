@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `rosspen[.]su/vajnahi-i-imperskaya-vlast/`
+Издание: [https://books.google.com/books?id=Arg4zgEACAAJ](https://books.google.com/books?id=Arg4zgEACAAJ)
 
 ## Где упоминается в базе знаний
 

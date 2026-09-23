@@ -11,7 +11,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `na5ballov[.]pro/lib/kray/7650-ahmadov-yaz-hasmagomadov-ex-istoriya-chechni-v-xix-xx-vekah.html`
+Издание: [https://search.worldcat.org/isbn/5934860461](https://search.worldcat.org/isbn/5934860461)
 
 ## Где упоминается в базе знаний
 

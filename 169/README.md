@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `sevkrimrus.narod[.]ru/ZAKON/1954.htm`
+Первоисточник: [https://web.archive.org/web/20260516181320/https://www.sevkrimrus.narod.ru/ZAKON/1954.htm](https://web.archive.org/web/20260516181320/https://www.sevkrimrus.narod.ru/ZAKON/1954.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

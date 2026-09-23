@@ -12,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/362731-lubyanka-organy-vchk-ogpu-nkvd-nkgb-mgb-mvd-kgb-1917-1991`
+Издание: [https://books.google.com/books?id=MzM0AAAAMAAJ](https://books.google.com/books?id=MzM0AAAAMAAJ)
 
 ## Где упоминается в базе знаний
 

@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php`
+Первоисточник: [https://web.archive.org/web/20260913215708/https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php](https://web.archive.org/web/20260913215708/https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

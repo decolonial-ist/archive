@@ -15,7 +15,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `militera.lib[.]ru/memo/russian/ermolov_ap/index.html`
+Первоисточник: [https://web.archive.org/web/20260617105700/http://militera.lib.ru/memo/russian/ermolov_ap/index.html](https://web.archive.org/web/20260617105700/http://militera.lib.ru/memo/russian/ermolov_ap/index.html)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
