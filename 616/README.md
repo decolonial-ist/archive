@@ -9,13 +9,17 @@
 
 Страница витрины: https://archive.decolonial.ist/616
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: файла на диске нет
+| файл | что это | объём | где |
+|---|---|---|---|
+| [telegramma_tov_ordzhonikidze_sovnarkomu_o_vosstani_tskih_voysk_k_gorodu_1918.txt](https://github.com/decolonial-ist/archive/blob/main/616/telegramma_tov_ordzhonikidze_sovnarkomu_o_vosstani_tskih_voysk_k_gorodu_1918.txt) | текст | 1 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ## Где упоминается в базе знаний
 

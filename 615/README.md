@@ -9,13 +9,17 @@
 
 Страница витрины: https://archive.decolonial.ist/615
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: файла на диске нет
+| файл | что это | объём | где |
+|---|---|---|---|
+| [obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt](https://github.com/decolonial-ist/archive/blob/main/615/obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt) | текст | 9 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ## Где упоминается в базе знаний
 

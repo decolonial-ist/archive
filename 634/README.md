@@ -4,15 +4,28 @@
 **Год публикации:** 2012
 **Где напечатано:** Сибирский педагогический журнал, 2012, № 1, страницы 119-127
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
-**Права на публикацию:** проверить (научная публикация (cyberleninka[.]ru), 2012 год)
+**Права на публикацию:** свободно (CyberLeninka: CC BY (лицензия проверена на странице статьи 24.09.2026))
 
 Страница витрины: https://archive.decolonial.ist/634
 
-## Файлы не выкладываем
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/634/stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.pdf) | PDF | 261 КБ | в этой папке |
+| [stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.txt](https://github.com/decolonial-ist/archive/blob/main/634/stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.txt) | текст | 44 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.pdf | `38aea5d019c402b784330e1970237a97bafe0bab51bcace94abd27e84366ed00` |
 
 ## Где упоминается в базе знаний
 

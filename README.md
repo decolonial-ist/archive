@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **248**, файлов: **480**, объём: **3.43 ГиБ**. Из 1125 материалов базы распространять разрешено 550, из них 77 - только текстом документа, без издания целиком; 560 остаются ссылкой на первоисточник.
+Выложено материалов: **252**, файлов: **485**, объём: **3.43 ГиБ**. Из 1130 материалов базы распространять разрешено 552, из них 77 - только текстом документа, без издания целиком; 564 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,9 +18,9 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 138 | нет: срок охраны истёк |
+| общественное достояние | 141 | нет: срок охраны истёк |
 | не охраняется авторским правом | 79 | нет: закон выводит официальные документы из-под авторского права |
-| CC BY 4.0 | 14 | ссылка на источник |
+| CC BY 4.0 | 15 | ссылка на источник |
 | Музей ХПГ: передрук со ссылкой | 5 | ссылка на источник |
 | CC BY-SA 4.0 | 5 | ссылка на источник и та же лицензия у производного |
 | MITRE ATT&CK Terms of Use | 4 | сохранить копирайт MITRE |
@@ -49,7 +49,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 248 материалов, 480 файлов
+## Что выложено - 252 материалов, 485 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -277,6 +277,9 @@
 | [606](https://archive.decolonial.ist/606) | Постановление Совета Министров СССР № 1439-649с «О снятии некоторых ограничений в правовом положении спецпоселенцев» | - | 1954 | не охраняется авторским правом | 2 | 0.0 МиБ | `istmat[.]org/node/57859` |
 | [610](https://archive.decolonial.ist/610) | Директивы командования фронтов Красной армии (1917–1922). Т. 1 | Институт военной истории Министерства обороны СССР | 1971 | не охраняется авторским правом | 2 | 0.0 МиБ | `militera.lib[.]ru/docs/da/dir1/index.html` |
 | [611](https://archive.decolonial.ist/611) | Записки о гражданской войне. Т. 1 | Антонов-Овсеенко В. А. | 1924 | общественное достояние | 2 (в релизе 1) | 17.1 МиБ | [https://archive.org/details/zapiskiograzhdanskojvojnet125](https://archive.org/details/zapiskiograzhdanskojvojnet125) |
+| [614](https://archive.decolonial.ist/614) | Приказ М. А. Муравьева о задачах армии по обороне Киева после его освобождения | Муравьёв М. А. | 1918 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g` |
+| [615](https://archive.decolonial.ist/615) | Обращение Киевского комитета РСДРП(б) с призывом к свержению Центральной рады и установлению власти Советов | - | 1918 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g` |
+| [616](https://archive.decolonial.ist/616) | Телеграмма тов. Орджоникидзе Совнаркому о восстании рабочих и солдат Киева против Центральной рады и о приближении советских войск к городу | Орджоникидзе Г. К. | 1918 | общественное достояние | 1 | 0.0 МиБ | `docs.historyrussia[.]org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g` |
 | [617](https://archive.decolonial.ist/617) | Заседание Совета Р. и С. Д. 28 января | - | 1918 | общественное достояние | 2 (в релизе 1) | 149.1 МиБ | `rev-lib[.]com/god-borby-borba-za-vlast-na-ukraine-s-aprelya-1917-goda-do-nemeckoj-okkupacii/` |
 | [621](https://archive.decolonial.ist/621) | Манифест к украинскому народу с ультимативными требованиями к Украинской Раде | Ленин В. И. | 1917 | общественное достояние | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде_(Ленин)](https://ru.wikisource.org/wiki/Манифест_к_украинскому_народу_с_ультимативными_требованиями_к_Украинской_Раде_(Ленин)) |
 | [622](https://archive.decolonial.ist/622) | Постановление СНД РСФСР № 1847-I О признании незаконными выборов, проведенных 27 октября 1991 года в Чечено-Ингушской Республике | Съезд народных депутатов РСФСР | 1991 | не охраняется авторским правом | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Постановление_СНД_РСФСР_от_02.11.1991_№_1847-I](https://ru.wikisource.org/wiki/Постановление_СНД_РСФСР_от_02.11.1991_№_1847-I) |
@@ -287,6 +290,7 @@
 | [627](https://archive.decolonial.ist/627) | Постановление Парламента Чеченской Республики № 25 О незаконности Указа Президента РСФСР о введении чрезвычайного положения на территории Чеченской Республики | Парламент Чеченской Республики | 1991 | не охраняется авторским правом | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Постановление_парламента_Чечни_от_08.11.1991_№_25](https://ru.wikisource.org/wiki/Постановление_парламента_Чечни_от_08.11.1991_№_25) |
 | [629](https://archive.decolonial.ist/629) | Обращение Временного Высшего Совета Чечено-Ингушской Республики к народам, партиям, движениям, трудовым коллективам | Временный Высший Совет Чечено-Ингушской Республики | 1991 | CC BY-SA 4.0 | 1 | 0.0 МиБ | [https://ru.wikisource.org/wiki/Обращение_Временного_Высшего_Совета_Чечено-Ингушской_Республики_к_народам,_партиям,_движениям,_трудовым_коллективам..._(1991)](https://ru.wikisource.org/wiki/Обращение_Временного_Высшего_Совета_Чечено-Ингушской_Республики_к_народам,_партиям,_движениям,_трудовым_коллективам..._(1991)) |
 | [630](https://archive.decolonial.ist/630) | Указ Президента Чеченской Республики О государственном суверенитете Чеченской Республики | Президент Чеченской Республики Д. Дудаев | 1991 | не охраняется авторским правом | 1 | 0.0 МиБ | [https://web.archive.org/web/20161224083527/https://chechenlaw.ru/?p=447](https://web.archive.org/web/20161224083527/https://chechenlaw.ru/?p=447) |
+| [634](https://archive.decolonial.ist/634) | Становление и развитие системы образования в Чеченской Республике | Мусханова И. В. | 2012 | CC BY 4.0 | 2 | 0.3 МиБ | `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike` |
 | [638](https://archive.decolonial.ist/638) | Общегражданский митинг ингушей 1973 года (публикация архивных документов Чечено-Ингушского обкома КПСС) | Яндиева М. Д. | 2008 | не охраняется авторским правом | 2 | 0.1 МиБ | `ghalghay[.]com/2010/04/02/obshegrazhdanskiy-miting-ingushey-1973-goda-3/` |
 | [639](https://archive.decolonial.ist/639) | Записка председателя КГБ СССР Ю. В. Андропова в ЦК КПСС № 3217-А о положении в Чечено-Ингушской АССР после событий января 1973 года | Андропов Ю. В., председатель КГБ СССР | 1973 | не охраняется авторским правом | 1 | 0.0 МиБ | `ghalghay[.]com/2012/08/06/arhivniy-dokument-kgb/` |
 | [640](https://archive.decolonial.ist/640) | Постановление Совета Министров Чечено-Ингушской АССР № 592 О мерах по усилению контроля за соблюдением законодательства о религиозных культах | Совет Министров ЧИАССР | 1969 | не охраняется авторским правом | 1 | 0.0 МиБ | `islamperspectives[.]org/rpi/items/show/20864` |
@@ -306,7 +310,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 838
+## Свободные, но файла у нас нет - 839
 
 Распространять можно, а файла нет.
 
@@ -485,6 +489,7 @@
 | Russia's Steppe Frontier: The Making of a Colonial Empire 1500-1800 | 2002 | Несколько | [https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC](https://books.google.com/books/about/Russia_s_Steppe_Frontier.html?id=Ti51WfA68RYC) |
 | Russia's Systematic Program for the Re-education & Adoption of Ukraine's Children (Yale HRL) | 2023 | Украина | `hub.conflictobservatory[.]org/portal/apps/sites/#/home/pages/children-camps-1` |
 | Russia's Tinderbox: Conflict in the North Caucasus and Its Implications for the Future of the Russian Federation | 1995 | Чечня | [https://archive.org/details/DTIC_ADA301536](https://archive.org/details/DTIC_ADA301536) |
+| Russia. War in Chechnya. New Report From the Field | 1995 | Чечня | [https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf) |
 | Russia/Chechnya: A Legacy of Abuse | 1997 | Чечня | [https://www.hrw.org/reports/pdfs/r/russia/russia971.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia971.pdf) |
 | Russia: Bail refusal for Chechen prisoner of conscience is latest affront to justice | 2018 | Чечня | `www.amnesty[.]org/en/latest/news/2018/11/russia-bail-refusal-for-chechen-prisoner-of-conscience-is-latest-affront-to-justice/` |
 | Russia: Burning down homes after Chechnya clashes appears to be collective punishment | 2014 | Чечня | `www.amnesty[.]org/en/latest/news/2014/12/russia-burning-down-homes-after-chechnya-clashes-appears-be-collective-punishment-1/` |
@@ -523,6 +528,7 @@
 | The Russian-Ukrainian gas crisis of January 2006 | 2006 | Украина | [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf) |
 | The Russo-Ukrainian gas dispute of January 2009 | 2009 | Украина | [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf) |
 | The Tiergarten Murder: German Court Finds Russia Committed an Act of State Terrorism | 2024 | Чечня | `gpil.jura.uni-bonn[.]de/2024/09/the-tiergarten-murder-german-court-finds-russia-committed-an-act-of-state-terrorism/` |
+| The War in Chechnya | 1999 | Чечня | [https://books.google.com/books?id=iThpAAAAMAAJ](https://books.google.com/books?id=iThpAAAAMAAJ) |
 | The situation of human rights in the Republic of Chechnya of the Russian Federation. Report of the Secretary-General (E/CN.4/1996/13) | 1996 | Чечня | [https://docs.un.org/en/E/CN.4/1996/13](https://docs.un.org/en/E/CN.4/1996/13) |
 | The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination | 2015 | Несколько | [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May) |
 | Turluyeva v. Russia | 2013 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf) |
@@ -813,6 +819,7 @@
 | Москва в войну не верит | 1994 | Чечня | [https://web.archive.org/web/20250212000938/https://www.kommersant.ru/doc/96716](https://web.archive.org/web/20250212000938/https://www.kommersant.ru/doc/96716) |
 | Москва не считает Дудаева «здоровой силой» | 1994 | Чечня | [https://web.archive.org/web/20251213141133/https://www.kommersant.ru/doc/85512](https://web.archive.org/web/20251213141133/https://www.kommersant.ru/doc/85512) |
 | Московская контрразведка оказалась обезглавленной | 1994 | Чечня | [https://web.archive.org/web/20250430144503/https://www.kommersant.ru/doc/96950](https://web.archive.org/web/20250430144503/https://www.kommersant.ru/doc/96950) |
+| Моя война. Чеченский дневник окопного генерала | 2001 | Чечня | [https://search.worldcat.org/isbn/5264006571](https://search.worldcat.org/isbn/5264006571) |
 | Мужчина «исчез» в России, по-видимому, из-за своей сексуальной ориентации | 2023 | Чечня | [https://www.hrw.org/ru/news/2023/02/27/russia-man-disappeared-apparently-his-sexual-orientation](https://www.hrw.org/ru/news/2023/02/27/russia-man-disappeared-apparently-his-sexual-orientation) |
 | Мухаджирство: переселение северокавказцев в Османскую империю | 2021 | Чечня | `www.kavkazr[.]com/a/31163461.html` |
 | Мюридизм и Имамат Шамиля – первое общее кавказское государство | 2024 | Чечня | `history-thema[.]com/myuridizm-i-imamat-shamilya-pervoe-obshhee-kavkazskoe-gosudarstvo-chast-ii/` |
@@ -844,7 +851,6 @@
 | О приказе Командующего объединенной группировкой войск (сил) в Чеченской Республике № 80 | 2002 | Чечня | [https://web.archive.org/web/20020615144326id_/http://www.memo.ru/hr/hotpoints/N-Caucas/misc/order.htm](https://web.archive.org/web/20020615144326id_/http://www.memo.ru/hr/hotpoints/N-Caucas/misc/order.htm) |
 | ОЧЕРКИ ИСТОРИИ ЭТНОГРАФИ И ЧУКЧЕЙ | 1965 | Чукотка |  |
 | Об уголовной ответственности за побеги из мест обязательного и постоянного поселения | 1948 | Несколько | `docs.historyrussia[.]org/ru/nodes/49491` |
-| Обращение Киевского комитета РСДРП(б) с призывом к свержению Центральной рады и установлению власти Советов | 1918 | Украина | `docs.historyrussia[.]org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g` |
 | Обращение Президента РФ Б. Н. Ельцина к гражданам в связи с ситуацией в Чечне (телеэфир 27 декабря 1994 года) | 1994 | Чечня | `www.youtube[.]com/watch?v=qvSBESYT61k` |
 | Обращение к Генеральному прокурору РФ Юрию Чайке и Председателю СК РФ Александру Бастрыкину в связи с публичными заявлениями Главы Чеченской Республики Рамзана Кадырова (блог члена Совета при Президенте РФ) | 2014 | Чечня | [https://web.archive.org/web/20210703055306/http://president-sovet.ru/members/blogs/post/982/](https://web.archive.org/web/20210703055306/http://president-sovet.ru/members/blogs/post/982/) |
 | Обращения Игоря Каляпина к Генеральному прокурору РФ Юрию Чайке и Председателю СК РФ Александру Бастрыкину в связи с публичными заявлениями Главы Чеченской Республики Рамзана Кадырова | 2014 | Чечня | `www.pytkam[.]net/press-centr.novosti/4120` |
@@ -938,7 +944,6 @@
 | Пресс-конференция сотрудников ФСБ в агентстве «Интерфакс» 17 ноября 1998 года | 1998 | Чечня | `rutube[.]ru/video/7e4456e88b0319d4d36ce75e6254e168/` |
 | Приговор Зареме Мусаевой 6 августа 2025 года (пост «Команды против пыток» № 3675) | 2025 | Чечня | [https://t.me/no_torture/3675](https://t.me/no_torture/3675) |
 | Приказ Командующего объединенной группировкой войск (сил) в Северо-Кавказском регионе Российской Федерации № 80 от 27 марта 2002 года | 2002 | Чечня | [https://web.archive.org/web/20020527140259id_/http://www.memo.ru/hr/hotpoints/N-Caucas/misc/ordertext.htm](https://web.archive.org/web/20020527140259id_/http://www.memo.ru/hr/hotpoints/N-Caucas/misc/ordertext.htm) |
-| Приказ М. А. Муравьева о задачах армии по обороне Киева после его освобождения | 1918 | Украина | `docs.historyrussia[.]org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g` |
 | Приказ ФМС России от 15 мая 1997 г. № 36 «Об организации выплаты компенсаций за утраченное жилье и/или имущество гражданам, пострадавшим в результате разрешения кризиса в Чеченской Республике и покинувшим ее безвозвратно» | 1997 | Чечня | `base.garant[.]ru/11900577/` |
 | Приказное постановление ITLOS по делу № 26 Украина против России | 2019 | Украина | `www.itlos[.]org/fileadmin/itlos/documents/cases/26/published/C26_Order_20190525.pdf` |
 | Приложения 1 и 2 к докладу ««ЗАЧИСТКА». Посёлок Новые Алды, 5 февраля 2000 г., - преднамеренные преступления против мирного населения» | 2000 | Чечня | [https://web.archive.org/web/20090730015846id_/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter6.htm](https://web.archive.org/web/20090730015846id_/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter6.htm) |
@@ -1034,7 +1039,6 @@
 | Спасать российских танкистов от показательной казни решили: Э. Памфилова, В. Лысенков, С. Юшенков, А. Шабад. Грозный, ноябрь 1994 года | 1994 | Чечня | `www.youtube[.]com/watch?v=Wtzds9sBEOg` |
 | Справка следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Г. Хаджимурадова | 2000 | Чечня | [https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm](https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm) |
 | Справки следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Абулханова | 2000 | Чечня | [https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm](https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm) |
-| Становление и развитие системы образования в Чеченской Республике | 2012 | Чечня | `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike` |
 | Стенограмма Северодонецкого съезда | 2004 | Украина | [https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/](https://v-variant.com.ua/ru/article/stenohramma-severodonetskoho-s-ezda-28-noiabria-2004-hoda/) |
 | Стенограмма пленарного заседания Государственной Думы 13 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250402113603/http://api.duma.gov.ru/api/transcriptFull/1994-12-13](https://web.archive.org/web/20250402113603/http://api.duma.gov.ru/api/transcriptFull/1994-12-13) |
 | Стенограмма пленарного заседания Государственной Думы 14 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250624140844/http://api.duma.gov.ru/api/transcriptFull/1994-12-14](https://web.archive.org/web/20250624140844/http://api.duma.gov.ru/api/transcriptFull/1994-12-14) |
@@ -1054,8 +1058,8 @@
 | Танковая атака на Грозный отбита, ноябрь 1994 года | 1994 | Чечня | `www.youtube[.]com/watch?v=hV0JycyjHgE` |
 | Ташу-Хаджи Саясанский и его деятельность в Чечне в 30-е годы XIX века | 2019 | Несколько | `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/` |
 | Телеграмма А. Шишкова в ЦК РКП(б) | 1919 | Украина | [https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf](https://history.org.ua/LiberUA/978-966-02-7102-9/978-966-02-7102-9.pdf) |
-| Телеграмма тов. Орджоникидзе Совнаркому о восстании рабочих и солдат Киева против Центральной рады и о приближении советских войск к городу | 1918 | Украина | `docs.historyrussia[.]org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g` |
 | Телефонограмма борзенского уездного комиссара Центральной рады волостным Советам крестьянских депутатов о посылке в Киев представителей кулачества для срыва Всеукраинского съезда Советов | 1917 | Украина | `docs.historyrussia[.]org/ru/nodes/503632` |
+| Теракт в Кизляре и Первомайском 9-18 января 1996 года | 2026 | Чечня | [https://www.kavkaz-uzel.eu/articles/218853](https://www.kavkaz-uzel.eu/articles/218853) |
 | Тернистий шлях українства (у складі «Походження українців, росіян, білорусів та їхніх мов») | 2001 | Украина | [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm) |
 | Тернистый путь к свободе. Правительственные документы Чеченской Республики, статьи, интервью | 1993 | Чечня | [http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026](http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026) |
 | Террор как средство управления страной | 2005 | Чечня | `www.thechechenpress[.]com/archive-2005-year/463-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80-%D0%BA%D0%B0%D0%BA-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B9.html` |
@@ -1121,6 +1125,7 @@
 | Чечено-русские отношения в XVIII веке. Исследования и материалы. Том I | 2019 | Чечня | `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf` |
 | Чеченская Республика Ичкерия, 1 октября 1999 года | 1999 | Чечня | `www.youtube[.]com/watch?v=-2WVoz37WkE` |
 | Чеченские силовики принудительно отправляют на войну задержанных геев | 2024 | Чечня | `sksos[.]org/news/lgbt-na-voyne-v-ukraine/` |
+| Чеченский излом. Дневники и воспоминания | 2009 | Чечня | [https://books.google.com/books?id=mgb7kQAACAAJ](https://books.google.com/books?id=mgb7kQAACAAJ) |
 | Чеченский язык в 90-е годы XX века: функции и структура | 2007 | Чечня | `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura` |
 | Чеченцы в Русско-Кавказской войне | 1998 | Несколько | `royallib[.]com/book/hogaev_dalhan/chechentsi_v_russkokavkazskoy_voyne_.html` |
 | Чеченцы и ингуши в Османской империи во второй половине XIX в.: процессы эмиграции и реэмиграции | 2024 | Чечня | `kbsu[.]ru/wp-content/uploads/2024/03/02_chapanov.pdf` |
@@ -1151,7 +1156,7 @@
 | “No Happiness Remains”: Civilian Killings, Pillage, and Rape in Alkhan-Yurt, Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya2/](https://www.hrw.org/legacy/reports/2000/russia_chechnya2/) |
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 
-## Только ссылка, выложить нельзя - 536
+## Только ссылка, выложить нельзя - 540
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -1258,6 +1263,7 @@
 | The Russian-Ukrainian gas crisis of January 2006 | Stern J. | 2006 | материал организации или СМИ под авторским правом (oxfordenergy.org) | [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2011/01/Jan2006-RussiaUkraineGasCrisis-JonathanStern.pdf) |
 | The Russo-Ukrainian gas dispute of January 2009 | Stern J., Pirani S., Yafimava K. | 2009 | материал организации или СМИ под авторским правом (oxfordenergy.org) | [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf) |
 | The Tiergarten Murder: German Court Finds Russia Committed an Act of State Terrorism |  | 2024 | современная публикация 2024 года под авторским правом | `gpil.jura.uni-bonn[.]de/2024/09/the-tiergarten-murder-german-court-finds-russia-committed-an-act-of-state-terrorism/` |
+| The War in Chechnya | Stasys Knezys, Romanas Sedlickas | 1999 | современная публикация 1999 года под авторским правом | [https://books.google.com/books?id=iThpAAAAMAAJ](https://books.google.com/books?id=iThpAAAAMAAJ) |
 | The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination | Laruelle M. | 2015 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May) |
 | Ukraine: The Forgotten Victims (FIDH) | International Federation for Human Rights (FIDH) | 2014 | материал организации или СМИ под авторским правом (fidh.org) | `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf` |
 | Un mouvement populaire au Caucase au XVIIIe siècle. La « guerre sainte » du sheikh Mansur (1785-1791), page mal connue et controversée des relations russo-turques | Bennigsen A. | 1964 | современная публикация 1964 года под авторским правом | `www.persee[.]fr/doc/cmr_0008-0160_1964_num_5_2_1578` |
@@ -1478,6 +1484,7 @@
 | Москва в войну не верит | Камышев Д. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250212000938/https://www.kommersant.ru/doc/96716](https://web.archive.org/web/20250212000938/https://www.kommersant.ru/doc/96716) |
 | Москва не считает Дудаева «здоровой силой» | Булавинов И. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20251213141133/https://www.kommersant.ru/doc/85512](https://web.archive.org/web/20251213141133/https://www.kommersant.ru/doc/85512) |
 | Московская контрразведка оказалась обезглавленной | Старк Н. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250430144503/https://www.kommersant.ru/doc/96950](https://web.archive.org/web/20250430144503/https://www.kommersant.ru/doc/96950) |
+| Моя война. Чеченский дневник окопного генерала | Трошев Г. Н. | 2001 | современная публикация 2001 года под авторским правом | [https://search.worldcat.org/isbn/5264006571](https://search.worldcat.org/isbn/5264006571) |
 | Мухаджирство: переселение северокавказцев в Османскую империю | Вачагаев М. М. | 2021 | современная публикация 2021 года под авторским правом | `www.kavkazr[.]com/a/31163461.html` |
 | Мюридизм и Имамат Шамиля – первое общее кавказское государство |  | 2024 | современная публикация 2024 года под авторским правом | `history-thema[.]com/myuridizm-i-imamat-shamilya-pervoe-obshhee-kavkazskoe-gosudarstvo-chast-ii/` |
 | Місця пам'яті Переяславщини в історії та сьогоденні | Іваненко А. О., Колибенко О. В. | 2013 | современная публикация 2013 года под авторским правом | [https://perejaslav.org.ua/istoria/miscya-pamyati-pereyaslavshhini.html](https://perejaslav.org.ua/istoria/miscya-pamyati-pereyaslavshhini.html) |
@@ -1631,6 +1638,7 @@
 | Так это было: национальные репрессии в СССР |  | 1993 | современная публикация 1993 года под авторским правом | [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491) |
 | Танковая атака на Грозный отбита, ноябрь 1994 года | Телекомпания «ЗеркалоТВ» | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=hV0JycyjHgE` |
 | Ташу-Хаджи Саясанский и его деятельность в Чечне в 30-е годы XIX века | Гапуров Ш. А. | 2019 | современная публикация 2019 года под авторским правом | `anchr[.]ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/` |
+| Теракт в Кизляре и Первомайском 9-18 января 1996 года | Кавказский узел | 2026 | материал организации или СМИ под авторским правом (kavkaz-uzel.eu) | [https://www.kavkaz-uzel.eu/articles/218853](https://www.kavkaz-uzel.eu/articles/218853) |
 | Тернистий шлях українства (у складі «Походження українців, росіян, білорусів та їхніх мов») | Півторак Г. П. | 2001 | современная монография под авторским правом | [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm) |
 | Тернистый путь к свободе. Правительственные документы Чеченской Республики, статьи, интервью |  | 1993 | современная публикация 1993 года под авторским правом | [http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026](http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026) |
 | Терское казачество в этнокультурном пространстве Северного Кавказа | Тхамокова И. Х. | 2017 | современная публикация 2017 года под авторским правом | `www.kbigi[.]ru/fmedia/%D0%A2%D1%85%D0%B0%D0%BC%D0%BE%D0%BA%D0%BE%D0%B2%D0%B0-%D0%98.%D0%A5.-17.01.2018-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf` |
@@ -1668,6 +1676,7 @@
 | Чечено-русские отношения в XVIII веке. Исследования и материалы. Том I | Ахмадов Я. З. | 2019 | современная публикация 2019 года под авторским правом | `roskav[.]ru/wp-content/uploads/2020/04/2019-CHecheno-russkie-otnosheniya-v-XVIII-veke.-Issledovanie-i-materi-aly.-T.-1.-.pdf` |
 | Чеченская Республика Ичкерия, 1 октября 1999 года | НТВ (программа «Сегодня»; корр. Александр Хабаров) | 1999 | современная публикация 1999 года под авторским правом | `www.youtube[.]com/watch?v=-2WVoz37WkE` |
 | Чеченские силовики принудительно отправляют на войну задержанных геев | Кризисная группа СК SOS | 2024 | современная публикация 2024 года под авторским правом | `sksos[.]org/news/lgbt-na-voyne-v-ukraine/` |
+| Чеченский излом. Дневники и воспоминания | Трошев Г. Н. | 2009 | современная публикация 2009 года под авторским правом | [https://books.google.com/books?id=mgb7kQAACAAJ](https://books.google.com/books?id=mgb7kQAACAAJ) |
 | Чеченский язык в 90-е годы XX века: функции и структура | Яхъяева А. А. | 2007 | современная публикация 2007 года под авторским правом | `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura` |
 | Чеченцы в Русско-Кавказской войне | Хожаев Д. А. | 1998 | современная книга под авторским правом, источник royallib.com | `royallib[.]com/book/hogaev_dalhan/chechentsi_v_russkokavkazskoy_voyne_.html` |
 | Чеченцы и ингуши в Османской империи во второй половине XIX в.: процессы эмиграции и реэмиграции | Чапанов А. К. | 2024 | современная публикация 2024 года под авторским правом | `kbsu[.]ru/wp-content/uploads/2024/03/02_chapanov.pdf` |

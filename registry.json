@@ -9050,13 +9050,21 @@
    "year": "1918",
    "author": "Муравьёв М. А.",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1918 года свободен, но напечатан в издании 1971 года — выкладываем только текст документа, не издание",
-   "why_not": "файла на диске нет",
    "card": "https://archive.decolonial.ist/614",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/614",
    "source": "https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g",
-   "files": [],
+   "files": [
+    {
+     "name": "prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt",
+     "bytes": 3725,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/614/prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -9065,13 +9073,21 @@
    "year": "1918",
    "author": "",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1918 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
-   "why_not": "файла на диске нет",
    "card": "https://archive.decolonial.ist/615",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/615",
    "source": "https://docs.historyrussia.org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g",
-   "files": [],
+   "files": [
+    {
+     "name": "obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt",
+     "bytes": 9279,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/615/obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -9080,13 +9096,21 @@
    "year": "1918",
    "author": "Орджоникидзе Г. К.",
    "people": "Украина",
-   "published": false,
+   "published": true,
    "rights": "свободно: документ",
    "basis": "документ 1918 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание",
-   "why_not": "файла на диске нет",
    "card": "https://archive.decolonial.ist/616",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/616",
    "source": "https://docs.historyrussia.org/ru/nodes/479821-telegramma-tov-ordzhonikidze-sovnarkomu-o-vosstanii-rabochih-i-soldat-kieva-protiv-tsentralnoy-rady-i-o-priblizhenii-sovetskih-voysk-k-gorodu-19-yanvarya-1918-g",
-   "files": [],
+   "files": [
+    {
+     "name": "telegramma_tov_ordzhonikidze_sovnarkomu_o_vosstani_tskih_voysk_k_gorodu_1918.txt",
+     "bytes": 1205,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/616/telegramma_tov_ordzhonikidze_sovnarkomu_o_vosstani_tskih_voysk_k_gorodu_1918.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
@@ -9407,13 +9431,28 @@
    "year": "2012",
    "author": "Мусханова И. В.",
    "people": "Чечня",
-   "published": false,
-   "rights": "проверить",
-   "basis": "научная публикация (cyberleninka.ru), 2012 год",
-   "why_not": "права: научная публикация (cyberleninka.ru), 2012 год",
+   "published": true,
+   "rights": "свободно",
+   "basis": "CyberLeninka: CC BY (лицензия проверена на странице статьи 24.09.2026)",
    "card": "https://archive.decolonial.ist/634",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/634",
    "source": "https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike",
-   "files": [],
+   "files": [
+    {
+     "name": "stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.pdf",
+     "bytes": 266837,
+     "sha256": "38aea5d019c402b784330e1970237a97bafe0bab51bcace94abd27e84366ed00",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/634/stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.txt",
+     "bytes": 45250,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/634/stanovlenie_i_razvitie_sistemy_obrazovaniya_v_chechenskoy_respublike_2012.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {

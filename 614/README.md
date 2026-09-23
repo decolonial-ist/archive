@@ -8,13 +8,17 @@
 
 Страница витрины: https://archive.decolonial.ist/614
 
-## Файлы не выкладываем
+## Что здесь лежит
 
-Почему: файла на диске нет
+| файл | что это | объём | где |
+|---|---|---|---|
+| [prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt](https://github.com/decolonial-ist/archive/blob/main/614/prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt) | текст | 4 КБ | в этой папке |
 
 ## Откуда это у нас
 
 Первоисточник: `docs.historyrussia[.]org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
 ## Где упоминается в базе знаний
 
