@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **252**, файлов: **484**, объём: **3.43 ГиБ**. Из 1132 материалов базы распространять разрешено 555, из них 79 - только текстом документа, без издания целиком; 569 остаются ссылкой на первоисточник.
+Выложено материалов: **252**, файлов: **484**, объём: **3.43 ГиБ**. Из 1153 материалов базы распространять разрешено 571, из них 80 - только текстом документа, без издания целиком; 580 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -310,7 +310,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 841
+## Свободные, но файла у нас нет - 862
 
 Распространять можно, а файла нет.
 
@@ -318,11 +318,13 @@
 |---|---|---|---|
 | 1925 год: спецоперация Красной армии | 2000 | Чечня | [https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html](https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html) |
 | 2022 Ukraine Electric Power Attack | 2024 | Украина | [https://attack.mitre.org/campaigns/C0034/](https://attack.mitre.org/campaigns/C0034/) |
+| 27 лет карательной экспедиции российской армии в Самашках | 2022 | Чечня | `www.youtube[.]com/watch?v=kYFDBn0cMgg` |
 | 70 років жорстокого придушення Кенгірського повстання | 2024 | Украина | [https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/) |
 | A.A. and Others v. Russia | 2021 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-214031&filename=001-214031.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-214031&filename=001-214031.pdf) |
 | Abuyeva and Others v. Russia | 2010 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-101936](https://hudoc.echr.coe.int/eng?i=001-101936) |
 | African Borders: Neither Random Nor Decided at the Berlin Conference | 2025 | Несколько | `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/` |
 | Agreement on the peaceful regulation of the situation in the Chechen Republic (on a set of military issues) | 1995 | Чечня | [https://peacemaker.un.org/sites/default/files/document/files/2024/05/ru950730peacefulresolutionmilitaryissues.pdf](https://peacemaker.un.org/sites/default/files/document/files/2024/05/ru950730peacefulresolutionmilitaryissues.pdf) |
+| Agreement to end hostilities signed at OSCE Offices in Chechnya (press release, Vienna, 31 July 1995) | 1995 | Чечня | `www.osce[.]org/sg/52565` |
 | Alexander Litvinenko Clipreel | 2003 | Чечня | `www.journeyman[.]tv/film_documents/3294/transcript/` |
 | Alexander Litvinenko's videotape transcript: protection of organized crime by FSB, part 1 | 2022 | Чечня | `tbcarchives[.]org/alexander-litvinenkos-videotape-transcript-protection-of-organized-crime-by-fsb/` |
 | Alexander Litvinenko's videotape transcript: protection of organized crime by FSB, parts 2 and 3 | 2022 | Чечня | `tbcarchives[.]org/alexander-litvinenkos-videotape-transcript-protection-of-organized-crime-by-fsb-parts-2-and-3/` |
@@ -392,6 +394,7 @@
 | FEATURES OF THE DEVELOPMENT OF THE RUSSIAN FRONTIER IN THE NORTH CAUCASUS | 2023 | Чечня | `doi[.]org/10.32653/CH194934-945` |
 | Fake: Crucifixion in Slovyansk | 2014 | Украина | [https://www.stopfake.org/en/lies-crucifixion-on-channel-one/](https://www.stopfake.org/en/lies-crucifixion-on-channel-one/) |
 | February 5: A Day of Slaughter in Novye Aldi | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya3/Chech006.htm](https://www.hrw.org/legacy/reports/2000/russia_chechnya3/Chech006.htm) |
+| First round of OSCE talks concluded in Grosny (press release, Vienna, 26 May 1995) | 1995 | Чечня | `www.osce[.]org/chechnya-closed/52554` |
 | Floating Coast: An Environmental History of the Bering Strait | 2019 | Чукотка | [https://books.google.com/books?id=UQR1DwAAQBAJ](https://books.google.com/books?id=UQR1DwAAQBAJ) |
 | Forgotten victims: Polish children abducted during WWII | 2017 | Несколько | `www.dw[.]com/en/forgotten-victims-polish-children-abducted-during-world-war-ii-still-seeking-truth/a-41981284` |
 | FrostyGoop Incident | 2024 | Украина | [https://attack.mitre.org/campaigns/C0041/](https://attack.mitre.org/campaigns/C0041/) |
@@ -445,12 +448,18 @@
 | Notes on Russian Orientalism as a Phenomenon of Cultural Transfers | 2020 | Чечня | `doi[.]org/10.17223/19986645/67/10` |
 | OGH 13Os113/21y, Beschluss vom 14. Dezember 2021 | 2021 | Чечня | `www.ris.bka.gv[.]at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20211214_OGH0002_0130OS00113_21Y0000_000` |
 | OSCE Chairman regrets end of OSCE mandate in Chechnya (press release, The Hague, 3 January 2003) | 2003 | Чечня | `www.osce[.]org/cio/54958` |
+| OSCE Chairman-in-Office issues declaration on Chechnya (press release, Bern, 28 May 1996) | 1996 | Чечня | `www.osce[.]org/cio/52456` |
+| OSCE Chairman-in-Office offers OSCE help for Chechnya conflict (press release, Vienna, 5 January 1995) | 1995 | Чечня | `www.osce[.]org/cio/52529` |
 | OSCE Rapporteur’s Report under the Moscow Mechanism on alleged Human Rights Violations and Impunity in the Chechen Republic of the Russian Federation | 2018 | Чечня | `cdn.osce[.]org/sites/default/files/f/documents/b/7/407402.pdf` |
+| OSCE mediated talks continue today in Grozny (press release, Vienna, 21 June 1995) | 1995 | Чечня | `www.osce[.]org/chechnya-closed/52557` |
+| OSCE to deploy Assistance Group for Chechnya (press release, Vienna, 29 March 1995) | 1995 | Чечня | `www.osce[.]org/pc/52548` |
+| OSCE voices concern on increasing tension in Chechnya (press release, Vienna, 11 October 1995) | 1995 | Чечня | `www.osce[.]org/pc/52569` |
 | Of Christianity, Enlightenment, and Colonialism: Russia in the North Caucasus, 1550–1800 | 1999 | Чечня | `www.journals.uchicago[.]edu/doi/pdfplus/10.1086/235251` |
 | On Global Terrorism: FAKT interview with A. Litvinenko | 2005 | Чечня | `jrnyquist[.]blog/2020/03/31/on-global-terrorism-fakt-interview-with-a-litvinenko/` |
 | Open Letter by Human Rights Watch, Amnesty International and Front Line Defenders to the President of the Russian Federation | 2018 | Чечня | [https://www.hrw.org/news/2018/08/28/open-letter-human-rights-watch-amnesty-international-and-front-line-defenders](https://www.hrw.org/news/2018/08/28/open-letter-human-rights-watch-amnesty-international-and-front-line-defenders) |
 | Open Letter to the President of the Russian Federation from Russian and International Human Rights Organizations | 2022 | Чечня | [https://www.hrw.org/news/2022/01/10/open-letter-president-russian-federation-russian-and-international-human-rights](https://www.hrw.org/news/2022/01/10/open-letter-president-russian-federation-russian-and-international-human-rights) |
 | Orientalism reversed: Russian literature in the times of empires | 2007 | Чечня | [https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires](https://www.researchgate.net/publication/231985912_Orientalism_reversed_Russian_literature_in_the_times_of_empires) |
+| Ottawa Declaration of the OSCE Parliamentary Assembly and Resolutions Adopted by the OSCE Parliamentary Assembly at the Fourth Annual Session, Ottawa, 8 July 1995 | 1995 | Чечня | `www.osce[.]org/sites/default/files/f/documents/0/7/38133.pdf` |
 | Persecution of LGBTI people in the Chechen Republic (Russian Federation). Report. Doc. 14572 | 2018 | Чечня | [https://pace.coe.int/en/files/24805](https://pace.coe.int/en/files/24805) |
 | Post-Soviet Borders: A Kaleidoscope of Shifting Lives and Lands | 2023 | Несколько | `www.routledge[.]com/Post-Soviet-Borders-A-Kaleidoscope-of-Shifting-Lives-and-Lands/vonLowis-Eschment/p/book/9780367770105` |
 | Preliminary observations made by the delegation of the European Committee for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (CPT) which visited the North Caucasian region of the Russian Federation from 26 February to 4 March 2000 | 2000 | Чечня | [https://rm.coe.int/doc/0900001680697e6d](https://rm.coe.int/doc/0900001680697e6d) |
@@ -492,6 +501,7 @@
 | Russia's Tinderbox: Conflict in the North Caucasus and Its Implications for the Future of the Russian Federation | 1995 | Чечня | [https://archive.org/details/DTIC_ADA301536](https://archive.org/details/DTIC_ADA301536) |
 | Russia. War in Chechnya. New Report From the Field | 1995 | Чечня | [https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf) |
 | Russia/Chechnya: A Legacy of Abuse | 1997 | Чечня | [https://www.hrw.org/reports/pdfs/r/russia/russia971.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia971.pdf) |
+| Russia/Chechnya: Report to the 1996 OSCE Review Conference | 1996 | Чечня | [https://www.hrw.org/reports/pdfs/r/russia/russia96n.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia96n.pdf) |
 | Russia: Bail refusal for Chechen prisoner of conscience is latest affront to justice | 2018 | Чечня | `www.amnesty[.]org/en/latest/news/2018/11/russia-bail-refusal-for-chechen-prisoner-of-conscience-is-latest-affront-to-justice/` |
 | Russia: Burning down homes after Chechnya clashes appears to be collective punishment | 2014 | Чечня | `www.amnesty[.]org/en/latest/news/2014/12/russia-burning-down-homes-after-chechnya-clashes-appears-be-collective-punishment-1/` |
 | Russia: Further reports that Russian troops have deliberately killed civilians. Further information (7) on UA 446/94, EUR 46/09/95 | 1995 | Чечня | `www.amnesty[.]org/en/documents/eur46/009/1995/en/` |
@@ -511,6 +521,7 @@
 | Situation of human rights in the Autonomous Republic of Crimea (A/RES/73/263) | 2018 | Украина | [https://undocs.org/A/RES/73/263](https://undocs.org/A/RES/73/263) |
 | Statement by Russian and International Human Rights Organizations on the Case of Salman Tepsurkaev | 2020 | Чечня | [https://www.hrw.org/news/2020/09/29/statement-russian-and-international-human-rights-organizations-case-salman-0](https://www.hrw.org/news/2020/09/29/statement-russian-and-international-human-rights-organizations-case-salman-0) |
 | Statement by the OSCE Chairman-in-Office on Chechnya (Vienna, 29 December 1999) | 1999 | Чечня | `www.osce[.]org/cio/52275` |
+| Stockholm Declaration of the OSCE Parliamentary Assembly and Resolutions Adopted by the OSCE Parliamentary Assembly at the Fifth Annual Session, Stockholm, 10 July 1996 | 1996 | Чечня | `cdn.osce[.]org/sites/default/files/f/documents/5/c/38049.pdf` |
 | Supporting the Doves against the Hawks: Experiences of the OSCE Assistance Group to Chechnya | 1998 | Чечня | `www.ifsh[.]de/file-CORE/documents/yearbook/english/97/Guldimann.pdf` |
 | Swept Under: Torture, Forced Disappearances, and Extrajudicial Killings During Sweep Operations in Chechnya | 2002 | Чечня | [https://www.hrw.org/reports/2002/russchech/chech0202.htm](https://www.hrw.org/reports/2002/russchech/chech0202.htm) |
 | TCDD poisoning in Victor Yushchenko (The Lancet) | 2009 | Украина | `pubmed.ncbi.nlm.nih[.]gov/19660807/` |
@@ -519,6 +530,7 @@
 | Terrorism Takes Front Stage | 2003 | Чечня | `www.journeyman[.]tv/film_documents/1665/transcript/` |
 | The Caucasus in a Time of Conflict, Demographic Transition, and Economic Change | 2007 | Чечня | [https://www.researchgate.net/publication/254468387_The_Caucasus_in_a_Time_of_Conflict_Demographic_Transition_and_Economic_Change](https://www.researchgate.net/publication/254468387_The_Caucasus_in_a_Time_of_Conflict_Demographic_Transition_and_Economic_Change) |
 | The Curious Fate of Edward Said in Russia | 2014 | Чечня | `journals.openedition[.]org/edl/686` |
+| The Hungarian Chairmanship and the Chechnya Conflict | 1997 | Чечня | `www.ifsh[.]de/file-CORE/documents/yearbook/english/95_96/Gyarmari.pdf` |
 | The Kremlin's Shifting, Self-Contradicting Narratives on MH17 | 2019 | Украина | `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/` |
 | The Litvinenko Inquiry. Report into the death of Alexander Litvinenko (HC 695) | 2016 | Чечня | `assets.publishing.service.gov[.]uk/media/5a8055c340f0b62302692e48/The-Litvinenko-Inquiry-H-C-695-web.pdf` |
 | The North Caucasus Borderland: Between Muscovy and the Ottoman Empire, 1555–1605 | 2022 | Чечня | [https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ](https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ) |
@@ -535,6 +547,7 @@
 | Turluyeva v. Russia | 2013 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf) |
 | Ukraine war: Amid shifting alliances, General Assembly passes resolution condemning Russia's aggression | 2025 | Украина | [https://news.un.org/en/story/2025/02/1160456](https://news.un.org/en/story/2025/02/1160456) |
 | Ukraine: The Forgotten Victims (FIDH) | 2014 | Украина | `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf` |
+| Ukraine: Unguided Rockets Killing Civilians | 2014 | Несколько | [https://www.hrw.org/news/2014/07/24/ukraine-unguided-rockets-killing-civilians](https://www.hrw.org/news/2014/07/24/ukraine-unguided-rockets-killing-civilians) |
 | Un mouvement populaire au Caucase au XVIIIe siècle. La « guerre sainte » du sheikh Mansur (1785-1791), page mal connue et controversée des relations russo-turques | 1964 | Чечня | `www.persee[.]fr/doc/cmr_0008-0160_1964_num_5_2_1578` |
 | View on the Monument to the Soviet Constitution, Lviv 1940 (REESOURCES) | 2026 | Украина | [https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/](https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/) |
 | Welcome to Hell: Arbitrary Detention, Torture, and Extortion in Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya4/](https://www.hrw.org/legacy/reports/2000/russia_chechnya4/) |
@@ -542,6 +555,7 @@
 | Wiener OLG bestätigte lebenslang für Mord in Gerasdorf | 2022 | Чечня | `www.sn[.]at/panorama/oesterreich/wiener-olg-bestaetigte-lebenslang-fuer-mord-in-gerasdorf-116495896` |
 | World Report 2003 - Russian Federation | 2003 | Чечня | [https://www.hrw.org/legacy/wr2k3/europe11.html](https://www.hrw.org/legacy/wr2k3/europe11.html) |
 | Worse Than a War: "Disappearances" in Chechnya - a Crime Against Humanity | 2005 | Чечня | [https://www.hrw.org/legacy/backgrounder/eca/chechnya0305/chechnya0305.pdf](https://www.hrw.org/legacy/backgrounder/eca/chechnya0305/chechnya0305.pdf) |
+| Yeltsin to meet with Yanderbiev in Moscow (press release, Grozny, 23 May 1996) | 1996 | Чечня | `www.osce[.]org/chechnya-closed/52454` |
 | Zapomniany pomnik | 2012 | Украина | `kuriergalicyjski[.]com/zapomniany-pomnik/` |
 | Zarema Musayeva and Others v. Russia | 2024 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-233833](https://hudoc.echr.coe.int/eng?i=001-233833) |
 | «A Mother's Quest»: задержание Хаджи-Мурата Яндиева, 2 февраля 2000 года | 2000 | Чечня | `www.youtube[.]com/watch?v=zcrCTQBekgU` |
@@ -597,12 +611,14 @@
 | Борис Ельцин дал два дня на размышление | 1994 | Чечня | [https://web.archive.org/web/20260219071846/https://www.kommersant.ru/doc/96526](https://web.archive.org/web/20260219071846/https://www.kommersant.ru/doc/96526) |
 | Борьба за язык (Проблемы становления и развития чеченского языка) | 1999 | Чечня | [https://web.archive.org/web/20140718053359id_/http://old.sakharov-center.ru/chr/chrus07_1.htm](https://web.archive.org/web/20140718053359id_/http://old.sakharov-center.ru/chr/chrus07_1.htm) |
 | Брав участь у спробі вшанувати Героїв Базару (MALYN.MEDIA) | 2023 | Украина | `malyn[.]media/novyny/podii/brav-uchast-u-trahichnomu-vshanuvanni-heroiv-bazaru-pomer-dysydent-i-politv-iazen-vasyl-ovsiienko/` |
+| Будапешт 1995. Пятая встреча Совета министров. Резюме Председателя. Решения будапештской встречи Совета министров (DOC.MC/1/95) | 1995 | Чечня | `www.osce[.]org/mc/40409` |
 | Бунт. Дело Литвиненко (Rebellion. The Litvinenko Case), документальный фильм | 2007 | Чечня | [https://archive.org/details/PoisonedByPolonium210](https://archive.org/details/PoisonedByPolonium210) |
 | Бывший спикер выходит на первые роли | 1994 | Чечня | `www.kommersant[.]ru/doc/88327` |
 | Быть аланами: интеллектуалы и политика на Северном Кавказе в XX веке | 2006 | Чечня | [https://books.google.com/books?id=d5VpAAAAMAAJ](https://books.google.com/books?id=d5VpAAAAMAAJ) |
 | Бюллетень Центра защиты прав человека «Мемориал» о событиях весны 2024 года | 2024 | Чечня | `memorialcenter[.]org/uploads/bulletin_spring24_920530f3b1.pdf` |
 | В Грозном прошел большой митинг против пособников террористов | 2014 | Чечня | [https://web.archive.org/web/20160421091651/http://parlamentchr.ru/press-centre/news/1783-2014-208](https://web.archive.org/web/20160421091651/http://parlamentchr.ru/press-centre/news/1783-2014-208) |
 | В Петербурге задержал подругу похищенной Седы Сулеймановой, которая вышла с пикетом к прокуратуре | 2024 | Чечня | `ovd[.]info/express-news/2024/03/08/v-peterburge-zaderzhal-podrugu-pokhishchennoy-sedy-suleymanovoy-kotoraya` |
+| В Самашках я приняла решение снимать. Зайнап Гашаева | 2024 | Чечня | `www.youtube[.]com/watch?v=bC2c6I7uLG4` |
 | В Чечне 15-летний сын Кадырова избил поджигателя Корана (разбор «Кавказ.Реалий», 21 августа 2023 года) | 2023 | Чечня | `www.youtube[.]com/watch?v=WQWqrs6i8Js` |
 | В Чечне приостановили расследование дела о нападении на Милашину и Немова | 2025 | Чечня | `ovd[.]info/express-news/2025/02/21/v-chechne-priostanovili-rassledovanie-dela-o-napadenii-na-milashinu-i` |
 | В военном ведомстве начались большие маневры | 1994 | Чечня | [https://web.archive.org/web/20250117145451/https://www.kommersant.ru/doc/96907](https://web.archive.org/web/20250117145451/https://www.kommersant.ru/doc/96907) |
@@ -690,6 +706,7 @@
 | ЕСПЧ назначил компенсации Зареме Мусаевой, Сайди Янгулбаеву и их дочери Алие | 2024 | Чечня | `ovd[.]info/express-news/2024/05/28/espch-naznachil-kompensacii-zareme-musaevoy-saydi-yangulbaevu-i-ikh-docheri` |
 | ЕСПЧ присудил 52 тысячи евро чеченскому активисту Руслану Кутаеву. Он рассказал, что его пытали по личному приказу Рамзана Кадырова | 2023 | Чечня | `pytkam[.]net/espch-prisudil-52-tysyachi-evro-chechenskomu-aktivistu-ruslanu-kutaevu-on-rasskazal-chto-ego-pytali-po-lichnomu-prikazu-ramzana-kadyrova/` |
 | ЕСПЧ установил ответственность властей за похищение Салмана Тепсуркаева | 2021 | Чечня | `pytkam[.]net/espch-ustanovil-chto-rossijskie-vlasti-nesut-otvetstvennost-za-pohishhenie-i-zhestokoe-obrashhenie-s-moderatorom-chata-telegram-kanala-salmanom-tepsurkaevym/` |
+| Ежегодный доклад за 1995 год о деятельности ОБСЕ (DOC.SEC/1/95) | 1995 | Чечня | `www.osce[.]org/secretariat/14563` |
 | Екатерининская площадь (история памятника, авторская реконструкция 2007 г.) | 2026 | Украина | `odesskiy[.]com/ulitsi-v-istorii-odessi/ekaterinenskaya-ploschad.html` |
 | Екатерининская площадь, памятник Екатерине II и основателям Одессы | 2026 | Украина | [http://lost-odessa.iv-studio.od.ua/ekaterina.html](http://lost-odessa.iv-studio.od.ua/ekaterina.html) |
 | Енциклопедія історії України: Додатковий том | 2021 | Украина | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
@@ -745,6 +762,7 @@
 | История сталинского Гулага. Конец 1920-х — первая половина 1950-х годов. Том 5. Спецпереселенцы в СССР | 2004 | Несколько | `imwerden[.]de/pdf/istoriya_stalinskikh_repressy_v_sssr_tom5_2004__ocr.pdf` |
 | Источник в Минздраве Чечни: три задержанных в Грозном боевика мертвы | 2017 | Чечня | [https://www.kavkaz-uzel.eu/articles/295187](https://www.kavkaz-uzel.eu/articles/295187) |
 | Итоги выборов президента и парламента ЧРИ, 28 января 1997 года | 1997 | Чечня | `www.youtube[.]com/watch?v=cm2PHhilY74` |
+| Итоги: переговоры Ельцина и Яндарбиева в Кремле | 1996 | Чечня | `www.youtube[.]com/watch?v=q6fOSqMNFTI` |
 | Ичкерии опять обещана независимость. Или как там ее назвать... | 1997 | Чечня | `www.youtube[.]com/watch?v=f1OprNMNaCE` |
 | К 400-летию присоединения Кабарды к России. Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы в 2-х томах. Том II. XVIII в. | 1957 | Несколько | [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-ii-1957/?wpdmdl=2290](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-ii-1957/?wpdmdl=2290) |
 | К вопросу о разоружении Чечни в 1920-1925 годах | 1998 | Чечня | [https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html](https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html) |
@@ -789,6 +807,7 @@
 | Ленин В.И. Полное собрание сочинений. Т. 50 (письма октябрь 1917 — июнь 1919) | 1965 | Украина | `leninism[.]su/works/89-tom-50.html` |
 | Ленінська система влади і власності в окупованій Україні. 1917—1923 | 2024 | Украина | [https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf](https://akademperiodyka.org.ua/wp-content/uploads/Kulchytskyi_SV.pdf) |
 | Ликвидировать ввиду нетранспортабельности | 2009 | Чечня | [https://web.archive.org/web/20230111141231/https://novayagazeta.ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti](https://web.archive.org/web/20230111141231/https://novayagazeta.ru/articles/2009/07/20/42065-likvidirovat-vvidu-netransportabelnosti) |
+| Лиссабонский документ 1996 года (DOC.S/1/96) | 1996 | Чечня | `www.osce[.]org/mc/39539` |
 | Лист Михайла Артемовича Муравйова В. О. Антонову-Овсієнку з проханням посприяти у звільненні з Таганської в'язниці | 1918 | Украина | [https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf](https://web.archive.org/web/20220408034905/https://shron1.chtyvo.org.ua/Hrynevych_Vladyslav/Slidcha_sprava_MA_Muraviova.pdf) |
 | Лист Пилипа Орлика до митрополита Стефана Яворського (1721) | 1862 | Украина | [http://litopys.org.ua/coss3/ohl23.htm](http://litopys.org.ua/coss3/ohl23.htm) |
 | Лист УІНП №2075/2.2-08-24 щодо Монумента Слави у м. Полтава | 2024 | Украина | `poltava[.]to/project/8967/` |
@@ -904,7 +923,7 @@
 | Политика России на Кавказе в XVI-XIX веках | 1958 | Чечня | [https://books.google.com/books?id=-oofAQAAMAAJ](https://books.google.com/books?id=-oofAQAAMAAJ) |
 | Политические репрессии в Чечне 1920-1930-х годов | 2019 | Чечня | `ucomplex[.]org/files/dissertation/74/dissertation_file/898e4962f0b685d3228f88aa4787fb8c.pdf` |
 | Политические уроки саадуевщины | 1930 | Чечня | `abkhazworld[.]com/aw/Pdf/gortsi_kavkaza/gortsi_kavkaza_les_montagnards_du_caucase_oct-dec_1930_no-21-23.pdf` |
-| Политический эмигрант. Сборник статей и интервью | 2007 | Чечня | [https://books.google.com/books?id=sl8sAQAAMAAJ](https://books.google.com/books?id=sl8sAQAAMAAJ) |
+| Политический эмигрант. Сборник статей и интервью | 2008 | Чечня | [https://books.google.com/books?id=sl8sAQAAMAAJ](https://books.google.com/books?id=sl8sAQAAMAAJ) |
 | Политическое убийство, которое будет иметь исторические последствия для России (подборка откликов на гибель Аслана Масхадова) | 2005 | Чечня | `thechechenpress[.]com/archive-2005-year/255-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE,-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B5-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-%D0%B8%D0%BC%D0%B5%D1%82%D1%8C-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8.html` |
 | Полное собрание законов Российской империи. Собрание второе. Том XIV, отделение 1 (1839) | 1840 | Украина | [https://archive.org/details/rossijazakonyipostanovlenijapolnoesobr8396](https://archive.org/details/rossijazakonyipostanovlenijapolnoesobr8396) |
 | Полное собрание законов Российской империи. Собрание первое. Том VI (1720-1722) | 1830 | Украина | `psz.ri.org[.]ru/I/VI.pdf` |
@@ -1054,6 +1073,7 @@
 | Суд в Чечне признал законным отказ в возбуждении дела об убийстве модератора чата 1ADAT Тепсуркаева | 2023 | Чечня | `ovd[.]info/express-news/2023/12/14/sud-v-chechne-priznal-zakonnym-otkaz-v-vozbuzhdenii-dela-ob-ubiystve` |
 | Съезд чеченского народа, выступление Аслана Масхадова, 2 октября 1999 года (видеозапись) | 1999 | Чечня | `www.youtube[.]com/watch?v=hruvAVKkWJw` |
 | Сын Кадырова избил подозреваемого в сожжении Корана. Почему видео выложил в сеть. Мнение адвоката | 2023 | Чечня | `www.youtube[.]com/watch?v=g3qlpr3o6rw` |
+| Сюжеты российского телевидения о Самашках, апрель 1995 (телеархив) | 1995 | Чечня | `www.youtube[.]com/watch?v=GdiKCovOpM8` |
 | Тайны ушедшего века. Границы. Споры. Обиды | 2000 | Чечня | [https://books.google.com/books?id=QDMfAQAAMAAJ](https://books.google.com/books?id=QDMfAQAAMAAJ) |
 | Так было: Размышления о минувшем | 1999 | Несколько | [https://openlibrary.org/books/OL22497158M](https://openlibrary.org/books/OL22497158M) |
 | Так это было: национальные репрессии в СССР | 1993 | Несколько | [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491) |
@@ -1067,6 +1087,7 @@
 | Террор как средство управления страной | 2005 | Чечня | `www.thechechenpress[.]com/archive-2005-year/463-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80-%D0%BA%D0%B0%D0%BA-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B9.html` |
 | Терский город - первая русская крепость на Северном Кавказе в XVI-XVII вв. | 2026 | Чечня | `cyberleninka[.]ru/article/n/terskiy-gorod-pervaya-russkaya-krepost-na-severnom-kavkaze-v-xvi-xvii-vv` |
 | Терское казачество в этнокультурном пространстве Северного Кавказа | 2017 | Несколько | [https://books.google.com/books?id=ZTRKwAEACAAJ](https://books.google.com/books?id=ZTRKwAEACAAJ) |
+| Трагедия села Самашки. Чечня. Апрель 1995. Дневник правозащитника | 1995 | Чечня | [https://resource.history.org.ua/item/0007533](https://resource.history.org.ua/item/0007533) |
 | Трагедия советской деревни. Коллективизация и раскулачивание. Том 5, книга 1. 1937 | 2004 | Несколько | `istmat[.]org/node/32171` |
 | Трагедия советской деревни. Коллективизация и раскулачивание. Том 5, книга 2. 1938-1939 | 2006 | Несколько | `istmat[.]org/node/35277` |
 | Трехлетие в Дагестане (1847-1849) | 1884 | Несколько | `drevlit[.]ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php` |
@@ -1158,13 +1179,14 @@
 | “No Happiness Remains”: Civilian Killings, Pillage, and Rape in Alkhan-Yurt, Chechnya | 2000 | Чечня | [https://www.hrw.org/legacy/reports/2000/russia_chechnya2/](https://www.hrw.org/legacy/reports/2000/russia_chechnya2/) |
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 
-## Только ссылка, выложить нельзя - 545
+## Только ссылка, выложить нельзя - 556
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
 | материал | автор | год | основание | первоисточник |
 |---|---|---|---|---|
 | 1925 год: спецоперация Красной армии | Лашков А. Ю. | 2000 | материал организации или СМИ под авторским правом (nvo.ng.ru) | [https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html](https://web.archive.org/web/20260519005349/https://nvo.ng.ru/history/2000-04-21/5_sp_ops.html) |
+| 27 лет карательной экспедиции российской армии в Самашках | Курочкина И., Курочкин А. | 2022 | современная публикация 2022 года под авторским правом | `www.youtube[.]com/watch?v=kYFDBn0cMgg` |
 | 70 років жорстокого придушення Кенгірського повстання | Національний музей Голодомору-геноциду | 2024 | материал организации или СМИ под авторским правом (holodomormuseum.org.ua) | [https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/](https://web.archive.org/web/20250328050935/https://holodomormuseum.org.ua/news/26-chervnia-70-rokiv-zhorstokoho-prydushennia-kenhirskoho-povstannia/) |
 | African Borders: Neither Random Nor Decided at the Berlin Conference | Paine J., Qiu X., Ricart-Huguet J. | 2025 | современная публикация 2025 года под авторским правом | `www.aehnetwork[.]org/blog/african-borders-neither-random-nor-decided-at-the-berlin-conference/` |
 | Alexander Litvinenko Clipreel | Journeyman Pictures | 2003 | современная публикация 2003 года под авторским правом | `www.journeyman[.]tv/film_documents/3294/transcript/` |
@@ -1257,7 +1279,9 @@
 | Terrorism Takes Front Stage | Lazaredes N. | 2003 | современная публикация 2003 года под авторским правом | `www.journeyman[.]tv/film_documents/1665/transcript/` |
 | The Caucasus in a Time of Conflict, Demographic Transition, and Economic Change | O’Loughlin J., Kolossov V., Radvanyi J. | 2007 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/254468387_The_Caucasus_in_a_Time_of_Conflict_Demographic_Transition_and_Economic_Change](https://www.researchgate.net/publication/254468387_The_Caucasus_in_a_Time_of_Conflict_Demographic_Transition_and_Economic_Change) |
 | The Curious Fate of Edward Said in Russia | Schimmelpenninck van der Oye D. | 2014 | современная публикация 2014 года под авторским правом | `journals.openedition[.]org/edl/686` |
+| The Hungarian Chairmanship and the Chechnya Conflict | Gyarmati I. | 1997 | современная публикация 1997 года под авторским правом | `www.ifsh[.]de/file-CORE/documents/yearbook/english/95_96/Gyarmari.pdf` |
 | The Kremlin's Shifting, Self-Contradicting Narratives on MH17 | Bellingcat | 2019 | материал организации или СМИ под авторским правом (bellingcat.com) | `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/` |
+| The Litvinenko Inquiry. Report into the death of Alexander Litvinenko (HC 695) | Owen R. | 2016 | пометка куратора в листе 27.09.2026; документ Короны под Open Government Licence v3.0 - можно открыть по слову куратора | `assets.publishing.service.gov[.]uk/media/5a8055c340f0b62302692e48/The-Litvinenko-Inquiry-H-C-695-web.pdf` |
 | The North Caucasus Borderland: Between Muscovy and the Ottoman Empire, 1555–1605 | Yaşar M. | 2022 | современная публикация 2022 года под авторским правом | [https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ](https://books.google.com/books/about/THE_NORTH_CAUCASUS_BORDERLAND.html?id=c6C8zgEACAAJ) |
 | The Pogrom of 1905 in Odessa | Weinberg R. | 1992 | современная публикация 1992 года под авторским правом | `faculty.history.umd[.]edu/BCooperman/NewCity/Pogrom1905.html` |
 | The Predicament of Chukotka's Indigenous Movement: Post-Soviet Activism in the Russian Far North | Gray P. A. | 2005 | современная публикация 2005 года под авторским правом | [https://books.google.com/books?id=5GRWgX2xQMEC](https://books.google.com/books?id=5GRWgX2xQMEC) |
@@ -1325,6 +1349,7 @@
 | Бюллетень Центра защиты прав человека «Мемориал» о событиях весны 2024 года | Центр защиты прав человека «Мемориал» | 2024 | современная публикация 2024 года под авторским правом | `memorialcenter[.]org/uploads/bulletin_spring24_920530f3b1.pdf` |
 | В Грозном прошел большой митинг против пособников террористов | Парламент Чеченской Республики | 2014 | современная публикация 2014 года под авторским правом | [https://web.archive.org/web/20160421091651/http://parlamentchr.ru/press-centre/news/1783-2014-208](https://web.archive.org/web/20160421091651/http://parlamentchr.ru/press-centre/news/1783-2014-208) |
 | В Петербурге задержал подругу похищенной Седы Сулеймановой, которая вышла с пикетом к прокуратуре | ОВД-Инфо | 2024 | современная публикация 2024 года под авторским правом | `ovd[.]info/express-news/2024/03/08/v-peterburge-zaderzhal-podrugu-pokhishchennoy-sedy-suleymanovoy-kotoraya` |
+| В Самашках я приняла решение снимать. Зайнап Гашаева | Гашаева З. | 2024 | современная публикация 2024 года под авторским правом | `www.youtube[.]com/watch?v=bC2c6I7uLG4` |
 | В Чечне 15-летний сын Кадырова избил поджигателя Корана (разбор «Кавказ.Реалий», 21 августа 2023 года) | «Кавказ.Реалии» (Радио Свобода) | 2023 | современная публикация 2023 года под авторским правом | `www.youtube[.]com/watch?v=WQWqrs6i8Js` |
 | В Чечне приостановили расследование дела о нападении на Милашину и Немова | ОВД-Инфо | 2025 | современная публикация 2025 года под авторским правом | `ovd[.]info/express-news/2025/02/21/v-chechne-priostanovili-rassledovanie-dela-o-napadenii-na-milashinu-i` |
 | В военном ведомстве начались большие маневры | Ромашов Г. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250117145451/https://www.kommersant.ru/doc/96907](https://web.archive.org/web/20250117145451/https://www.kommersant.ru/doc/96907) |
@@ -1427,6 +1452,7 @@
 | История Чечни в XIX-XX веках | Ахмадов Я. З., Хасмагомадов Э. Х. | 2005 | современная публикация 2005 года под авторским правом | [https://search.worldcat.org/isbn/5934860461](https://search.worldcat.org/isbn/5934860461) |
 | Источник в Минздраве Чечни: три задержанных в Грозном боевика мертвы | «Кавказский узел» | 2017 | материал организации или СМИ под авторским правом (kavkaz-uzel.eu) | [https://www.kavkaz-uzel.eu/articles/295187](https://www.kavkaz-uzel.eu/articles/295187) |
 | Итоги выборов президента и парламента ЧРИ, 28 января 1997 года | НТВ | 1997 | современная публикация 1997 года под авторским правом | `www.youtube[.]com/watch?v=cm2PHhilY74` |
+| Итоги: переговоры Ельцина и Яндарбиева в Кремле | НТВ | 1996 | современная публикация 1996 года под авторским правом | `www.youtube[.]com/watch?v=q6fOSqMNFTI` |
 | Ичкерии опять обещана независимость. Или как там ее назвать... | Максим Ъ-Жуков | 1997 | современная публикация 1997 года под авторским правом | `www.youtube[.]com/watch?v=f1OprNMNaCE` |
 | К вопросу о разоружении Чечни в 1920-1925 годах | Жупикова Е. Ф. | 1998 | современная публикация 1998 года под авторским правом | [https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html](https://web.archive.org/web/20260510114345/https://scepsis.net/library/id_1063.html) |
 | Кавалерідзе Іван Петрович (ЕІУ) | Ковпаненко Н. Г. | 2007 | энциклопедическая статья под авторским правом | [https://www.history.org.ua/?termin=Kavaleridze_I](https://www.history.org.ua/?termin=Kavaleridze_I) |
@@ -1473,6 +1499,7 @@
 | Лётчикам не дали развернуться |  | 1999 | материал организации или СМИ под авторским правом (nvo.ng.ru) | `nvo.ng[.]ru/history/1999-12-10/5_pilots.html` |
 | МВД России считает, что теракт спланирован Чечней | Отдел преступности | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260914220018/https://www.kommersant.ru/doc/85535](https://web.archive.org/web/20260914220018/https://www.kommersant.ru/doc/85535) |
 | Мазепа | Таирова-Яковлева Т. Г. | 2007 | современная публикация 2007 года под авторским правом | [https://books.google.com/books?id=Vp8jAQAAIAAJ](https://books.google.com/books?id=Vp8jAQAAIAAJ) |
+| Мародеры | Литвиненко А. | 2005 | современная публикация 2005 года под авторским правом; пометка куратора в листе 27.09.2026 | `thechechenpress[.]com/archive-2005-year/927-%D0%BC%D0%B0%D1%80%D0%BE%D0%B4%D0%B5%D1%80%D1%8B.html` |
 | Массовые беспорядки в СССР при Хрущеве и Брежневе | Козлов В. А. | 2009 | современная публикация 2009 года под авторским правом | [https://books.google.com/books?id=ihIsAQAAIAAJ](https://books.google.com/books?id=ihIsAQAAIAAJ) |
 | Материалы опроса свидетелей. Вторая сессия. Москва, 20-24 апреля 1996 года. Дополнительные слушания. Третья сессия. Прага, 24-26 мая 1996 года | Международный неправительственный трибунал по делу о преступлениях против человечности и военных преступлениях в Чеченской Республике. Комитет обвинителей | 1997 | современная публикация 1997 года под авторским правом | [http://web.archive.org/web/20170822050911id_/http://grigoryants.ru:80/doc/materialy-oprosa-svidetelej-2-3-sessi.doc](http://web.archive.org/web/20170822050911id_/http://grigoryants.ru:80/doc/materialy-oprosa-svidetelej-2-3-sessi.doc) |
 | Мемориал - Верховный Суд утвердил решение о ликвидации Международного Мемориала | Международный Мемориал | 2022 | материал организации или СМИ под авторским правом (memo.ru) | `www.memo[.]ru/ru-ru/memorial/departments/intermemorial/news/690` |
@@ -1506,6 +1533,7 @@
 | Національно-культурне життя етнічних меншостей України ( 20-30-ті роки ): коренізація і денаціоналізація (2) | Якубова Л. Д. | 1999 | современная научная статья под авторским правом | [http://resource.history.org.ua/publ/journal_1999_1_41](http://resource.history.org.ua/publ/journal_1999_1_41) |
 | Начало рабочей встречи Владимира Путина с Рамзаном Кадыровым, 1 марта 2007 года, Ново-Огарёво (протокольная видеозапись) | пресс-служба Президента России (протокольная съёмка) | 2007 | современная публикация 2007 года под авторским правом | `www.youtube[.]com/watch?v=lr0tvsWzSno` |
 | Наша пісня гарна й нова? | Кальницький М. Б. | 2013 | современная публикация 2013 года под авторским правом | `mik-kiev.livejournal[.]com/94448.html` |
+| Неизвестный солдат кавказской войны, 1994-1996: Потери российских войск: погибшие, пропавшие без вести, пленные | Ольга Трусевич, Александр Черкасов | 1997 | современная публикация 1997 года под авторским правом (издание «Мемориала»); пометка куратора в листе 27.09.2026 | `imwerden[.]de/pdf/neizvestny_soldat_kavkazskoj_vojny_1994-1996_1997__ocr.pdf` |
 | Некоторые аспекты чеченского кризиса | Кульчик Ю. | 1994 | современная публикация 1994 года под авторским правом | `igpi[.]ru/monitoring/1047645476/1994/1294/20.html` |
 | Норильский завет | Тарасов А. | 2013 | газетная публикация под авторским правом | [https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/](https://web.archive.org/web/20130223025712/http://www.istpravda.ru/digest/2278/) |
 | Ночная беседа Сергея Доренко с Александром Литвиненко 20 апреля 1998 года |  | 1998 | современная публикация 1998 года под авторским правом | `www.youtube[.]com/watch?v=TgPqXrwn11A` |
@@ -1552,7 +1580,8 @@
 | Полгода после «Норд-Оста»: один из группы террористов уцелел. Мы его нашли | Политковская А. | 2003 | современная публикация 2003 года под авторским правом | [https://web.archive.org/web/20251102213551/https://politkovskaya.novayagazeta.ru/pub/2003/2003-035.shtml](https://web.archive.org/web/20251102213551/https://politkovskaya.novayagazeta.ru/pub/2003/2003-035.shtml) |
 | Политика России на Кавказе в XVI-XIX веках | Смирнов Н. А. | 1958 | современная публикация 1958 года под авторским правом | [https://books.google.com/books?id=-oofAQAAMAAJ](https://books.google.com/books?id=-oofAQAAMAAJ) |
 | Политические репрессии в Чечне 1920-1930-х годов | Дендиев К. Г. | 2019 | современная публикация 2019 года под авторским правом | `ucomplex[.]org/files/dissertation/74/dissertation_file/898e4962f0b685d3228f88aa4787fb8c.pdf` |
-| Политический эмигрант. Сборник статей и интервью | Литвиненко А. | 2007 | современная публикация 2007 года под авторским правом | [https://books.google.com/books?id=sl8sAQAAMAAJ](https://books.google.com/books?id=sl8sAQAAMAAJ) |
+| Политический эмигрант. Сборник статей и интервью | Литвиненко А. | 2008 | современная публикация 2008 года под авторским правом | [https://books.google.com/books?id=sl8sAQAAMAAJ](https://books.google.com/books?id=sl8sAQAAMAAJ) |
+| Политическое убийство, которое будет иметь исторические последствия для России (подборка откликов на гибель Аслана Масхадова) | Чеченпресс | 2005 | современная публикация 2005 года под авторским правом; пометка куратора в листе 27.09.2026 | `thechechenpress[.]com/archive-2005-year/255-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE,-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B5-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-%D0%B8%D0%BC%D0%B5%D1%82%D1%8C-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8.html` |
 | Популярная практика: в Чечне продолжаются поджоги домов родственников боевиков | Правозащитный центр «Мемориал» | 2009 | материал организации или СМИ под авторским правом (memo.ru) | [https://web.archive.org/web/20090729173835/http://www.memo.ru/hr/hotpoints/caucas1/msg/2009/03/m162902.htm](https://web.archive.org/web/20090729173835/http://www.memo.ru/hr/hotpoints/caucas1/msg/2009/03/m162902.htm) |
 | После объявления ультиматума |  | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250208122720/https://www.kommersant.ru/doc/96775](https://web.archive.org/web/20250208122720/https://www.kommersant.ru/doc/96775) |
 | Последнее слово Заремы Мусаевой (пост «Команды против пыток» № 3674) | «Команда против пыток» | 2025 | современная публикация 2025 года под авторским правом | [https://t.me/no_torture/3674](https://t.me/no_torture/3674) |
@@ -1640,6 +1669,7 @@
 | Суд в Чечне признал законным отказ в возбуждении дела об убийстве модератора чата 1ADAT Тепсуркаева | ОВД-Инфо | 2023 | современная публикация 2023 года под авторским правом | `ovd[.]info/express-news/2023/12/14/sud-v-chechne-priznal-zakonnym-otkaz-v-vozbuzhdenii-dela-ob-ubiystve` |
 | Съезд чеченского народа, выступление Аслана Масхадова, 2 октября 1999 года (видеозапись) | AP Television News (логотип AP виден в кадре на протяжении всего ролика) | 1999 | современная публикация 1999 года под авторским правом | `www.youtube[.]com/watch?v=hruvAVKkWJw` |
 | Сын Кадырова избил подозреваемого в сожжении Корана. Почему видео выложил в сеть. Мнение адвоката | Телеканал FREEДOM | 2023 | современная публикация 2023 года под авторским правом | `www.youtube[.]com/watch?v=g3qlpr3o6rw` |
+| Сюжеты российского телевидения о Самашках, апрель 1995 (телеархив) | НТВ, ИТА | 1995 | современная публикация 1995 года под авторским правом | `www.youtube[.]com/watch?v=GdiKCovOpM8` |
 | Тайны ушедшего века. Границы. Споры. Обиды | Зенькович Н. А. | 2000 | современная публикация 2000 года под авторским правом | [https://books.google.com/books?id=QDMfAQAAMAAJ](https://books.google.com/books?id=QDMfAQAAMAAJ) |
 | Так было: Размышления о минувшем | Микоян А. И. | 1999 | мемуары Микояна, издание 1999 года под авторским правом | [https://openlibrary.org/books/OL22497158M](https://openlibrary.org/books/OL22497158M) |
 | Так это было: национальные репрессии в СССР |  | 1993 | современная публикация 1993 года под авторским правом | [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491) |
@@ -1648,7 +1678,9 @@
 | Теракт в Кизляре и Первомайском 9-18 января 1996 года | Кавказский узел | 2026 | материал организации или СМИ под авторским правом (kavkaz-uzel.eu) | [https://www.kavkaz-uzel.eu/articles/218853](https://www.kavkaz-uzel.eu/articles/218853) |
 | Тернистий шлях українства (у складі «Походження українців, росіян, білорусів та їхніх мов») | Півторак Г. П. | 2001 | современная монография под авторским правом | [http://litopys.org.ua/pivtorak/pivt15.htm](http://litopys.org.ua/pivtorak/pivt15.htm) |
 | Тернистый путь к свободе. Правительственные документы Чеченской Республики, статьи, интервью |  | 1993 | современная публикация 1993 года под авторским правом | [http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026](http://web.archive.org/web/20231202020429/https://constitutions.ru/?p=18026) |
+| Террор как средство управления страной | Литвиненко А. | 2005 | современная публикация 2005 года под авторским правом; пометка куратора в листе 27.09.2026 | `www.thechechenpress[.]com/archive-2005-year/463-%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80-%D0%BA%D0%B0%D0%BA-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BE%D0%B9.html` |
 | Терское казачество в этнокультурном пространстве Северного Кавказа | Тхамокова И. Х. | 2017 | современная публикация 2017 года под авторским правом | [https://books.google.com/books?id=ZTRKwAEACAAJ](https://books.google.com/books?id=ZTRKwAEACAAJ) |
+| Трагедия села Самашки. Чечня. Апрель 1995. Дневник правозащитника | Блинушов А. | 1995 | современная публикация 1995 года под авторским правом (журнал «Карта» № 9, Рязань), первичка для цитирования; скан лежит в открытом каталоге Института истории Украины, но прав на перепубликацию это не даёт | [https://resource.history.org.ua/item/0007533](https://resource.history.org.ua/item/0007533) |
 | Труды и дни Кобзаря | Жур П. В. | 1996 | современная монография под авторским правом | [http://litopys.org.ua/](http://litopys.org.ua/) |
 | У Маріуполі окупанти встановили пам'ятник «бабці з червоною ганчіркою» |  | 2022 | современная публикация 2022 года под авторским правом | [https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto](https://www.0629.com.ua/news/3383296/propagandistska-isteria-rosii-u-mariupoli-okupanti-vstanovili-pamatnik-babci-z-cervonou-gancirkou-foto) |
 | У Переяславі знесли радянський пам'ятник на честь Переяславської ради – символ міфічного «возз'єднання» з росією |  | 2025 | современная публикация 2025 года под авторским правом | `proslav[.]info/u-pereyaslavi-znesly-radyanskyj-pamyatnyk-na-chest-pereyaslavskoyi-rady-symvol-mifichnogo-vozzyednannya-z-rosiyeyu-video/` |
