@@ -1,4 +1,4 @@
-# Report on the human rights situation in Ukraine, 15 April 2014 (OHCHR)
+# Report on the human rights situation in Ukraine, 15 April 2014
 
 **Автор:** Управление Верховного комиссара ООН по правам человека
 **Год публикации:** 2014
@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.doc](https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.doc) | документ Word | 207 КБ | в этой папке |
-| [report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt](https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.txt) | текст | 90 КБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_15_april_2014_2014.doc](https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_2014.doc) | документ Word | 207 КБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_15_april_2014_2014.txt](https://github.com/decolonial-ist/archive/blob/main/325/report_on_the_human_rights_situation_in_ukraine_15_april_2014_2014.txt) | текст | 90 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,7 +25,7 @@
 
 | файл | sha256 |
 |---|---|
-| report_on_the_human_rights_situation_in_ukraine_15_april_2014_ohchr_2014.doc | `874357192acd8384fbaa784d0bdcb0de2170707fcb9a9aa13207dfcf2d887f13` |
+| report_on_the_human_rights_situation_in_ukraine_15_april_2014_2014.doc | `874357192acd8384fbaa784d0bdcb0de2170707fcb9a9aa13207dfcf2d887f13` |
 
 ## Где упоминается в базе знаний
 

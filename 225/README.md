@@ -1,7 +1,8 @@
-# TCDD poisoning in Victor Yushchenko (The Lancet)
+# TCDD poisoning in Victor Yushchenko
 
 **Автор:** Sorg O., Zennegg M., Schmid P. та інші
 **Год публикации:** 2009
+**Где напечатано:** The Lancet
 **Описывает российскую колонизацию народов:** Украинцы
 **Права на публикацию:** нельзя (статья в The Lancet под авторским правом издателя)
 

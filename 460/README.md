@@ -1,4 +1,4 @@
-# Владикавказская железная дорога (ЭСБЕ)
+# Владикавказская железная дорога
 
 **Автор:** Воейков А. И.
 **Год публикации:** 1892
@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.txt) | текст | 8 КБ | в этой папке |
-| [vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_esbe_1892.pdf) | PDF | 33 КБ | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_1892.txt](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_1892.txt) | текст | 8 КБ | в этой папке |
+| [vladikavkazskaya_zheleznaya_doroga_1892.pdf](https://github.com/decolonial-ist/archive/blob/main/460/vladikavkazskaya_zheleznaya_doroga_1892.pdf) | PDF | 33 КБ | в этой папке |
 
 ## Откуда это у нас
 

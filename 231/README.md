@@ -1,4 +1,4 @@
-# Ukraine: The Forgotten Victims (FIDH)
+# Ukraine: The Forgotten Victims
 
 **Автор:** International Federation for Human Rights (FIDH)
 **Год публикации:** 2014

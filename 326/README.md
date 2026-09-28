@@ -1,4 +1,4 @@
-# Situation of human rights in the temporarily occupied Autonomous Republic of Crimea and the city of Sevastopol (OHCHR)
+# Situation of human rights in the temporarily occupied Autonomous Republic of Crimea and the city of Sevastopol
 
 **Автор:** Управление Верховного комиссара ООН по правам человека
 **Год публикации:** 2017
@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.txt) | текст | 164 КБ | в этой папке |
-| [situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf) | PDF | 706 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt) | текст | 164 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf) | PDF | 706 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,7 +25,7 @@
 
 | файл | sha256 |
 |---|---|
-| situation_of_human_rights_in_the_temporarily_occup_of_sevastopol_ohchr_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
+| situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
 
 ## Где упоминается в базе знаний
 

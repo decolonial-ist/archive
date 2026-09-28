@@ -1,7 +1,8 @@
 # The Kremlin's Shifting, Self-Contradicting Narratives on MH17
 
-**Автор:** Bellingcat
-**Год публикации:** 2019
+**Автор:** Toler A.
+**Год публикации:** 2018
+**Где напечатано:** Bellingcat, 05.01.2018
 **Описывает российскую колонизацию народов:** Украинцы
 **Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (bellingcat[.]com))
 
@@ -11,7 +12,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.bellingcat[.]com/news/uk-and-europe/2019/01/04/the-kremlins-shifting-self-contradicting-narratives-on-mh17/`
+Первоисточник: `www.bellingcat[.]com/news/uk-and-europe/2018/01/05/kremlins-shifting-self-contradicting-narratives-mh17/`
 
 ## Где упоминается в базе знаний
 

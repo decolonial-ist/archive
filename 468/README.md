@@ -1,4 +1,4 @@
-# View on the Monument to the Soviet Constitution, Lviv 1940 (REESOURCES)
+# View on the Monument to the Soviet Constitution, Lviv 1940
 
 **Автор:** Центр міської історії Центрально-Східної Європи
 **Год публикации:** 2026
