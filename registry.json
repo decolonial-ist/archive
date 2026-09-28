@@ -1482,7 +1482,7 @@
    "basis": "общественное достояние: издано в 1654 году",
    "card": "https://archive.decolonial.ist/142",
    "github": "https://github.com/decolonial-ist/archive/tree/main/142",
-   "source": "https://sevkrimrus.narod.ru/ZAKON/1654.htm",
+   "source": "https://archive.org/details/auzr10",
    "files": [
     {
      "name": "zhalovannaya_gramota_carya_alekseya_mihaylovicha_voysku_zaporozhskomu_1654.txt",
@@ -1828,7 +1828,7 @@
    "basis": "документ 1877 года свободен, но напечатан в издании 1995 года — выкладываем только текст документа, не издание",
    "card": "https://archive.decolonial.ist/154",
    "github": "https://github.com/decolonial-ist/archive/tree/main/154",
-   "source": "https://rvb.ru/dostoevski/01text/vol14/315.htm",
+   "source": "https://ru.wikisource.org/wiki/Дневник_писателя._1877_год_(Достоевский)/Ноябрь/ГЛАВА_ВТОРАЯ_III",
    "files": [
     {
      "name": "dnevnik_pisatelya_1877.txt",
@@ -2330,7 +2330,7 @@
    "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
    "card": "https://archive.decolonial.ist/172",
    "github": "https://github.com/decolonial-ist/archive/tree/main/172",
-   "source": "https://www.lawmix.ru/sssr/2318",
+   "source": "https://www.economics.kiev.ua/download/ZakonySSSR/data01/tex11098.htm",
    "files": [
     {
      "name": "postanovlenie_sezda_narodnyh_deputatov_sssr_o_sekretnyh_protokolah_1989.txt",

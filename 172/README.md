@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `www.lawmix[.]ru/sssr/2318`
+Первоисточник: [https://www.economics.kiev.ua/download/ZakonySSSR/data01/tex11098.htm](https://www.economics.kiev.ua/download/ZakonySSSR/data01/tex11098.htm)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 
