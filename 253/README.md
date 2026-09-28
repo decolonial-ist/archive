@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/k-voprosu-o-hode-i-osnovnyh-etapah-vosstaniya-v-chechne-v-1877-godu`
+Первоисточник: [https://web.archive.org/web/20260923214434/https://cyberleninka.ru/article/n/k-voprosu-o-hode-i-osnovnyh-etapah-vosstaniya-v-chechne-v-1877-godu](https://web.archive.org/web/20260923214434/https://cyberleninka.ru/article/n/k-voprosu-o-hode-i-osnovnyh-etapah-vosstaniya-v-chechne-v-1877-godu)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

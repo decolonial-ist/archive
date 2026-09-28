@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike`
+Первоисточник: [https://web.archive.org/web/20251019111128/https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike](https://web.archive.org/web/20251019111128/https://cyberleninka.ru/article/n/stanovlenie-i-razvitie-sistemy-obrazovaniya-v-chechenskoy-respublike)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

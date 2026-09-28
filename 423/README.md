@@ -18,7 +18,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/123876`
+Первоисточник: [https://web.archive.org/web/20260923213724/https://docs.historyrussia.org/ru/nodes/123876](https://web.archive.org/web/20260923213724/https://docs.historyrussia.org/ru/nodes/123876)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

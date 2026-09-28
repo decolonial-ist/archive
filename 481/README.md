@@ -17,7 +17,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `cyberleninka[.]ru/article/n/iz-arhiva-daho-dzhanhotova-vedomost-priema-peredachi-ugolovnyh-del-kak-istoricheskiy-dokument`
+Первоисточник: [https://web.archive.org/web/20260923213830/https://cyberleninka.ru/article/n/iz-arhiva-daho-dzhanhotova-vedomost-priema-peredachi-ugolovnyh-del-kak-istoricheskiy-dokument](https://web.archive.org/web/20260923213830/https://cyberleninka.ru/article/n/iz-arhiva-daho-dzhanhotova-vedomost-priema-peredachi-ugolovnyh-del-kak-istoricheskiy-dokument)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

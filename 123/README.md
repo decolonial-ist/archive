@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `kp.rusneb[.]ru/item/material/skazanie-ochevidca-o-shamile`
+Первоисточник: [https://web.archive.org/web/20260923214222/https://kp.rusneb.ru/item/material/skazanie-ochevidca-o-shamile](https://web.archive.org/web/20260923214222/https://kp.rusneb.ru/item/material/skazanie-ochevidca-o-shamile)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

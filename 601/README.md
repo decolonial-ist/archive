@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/503633`
+Первоисточник: [https://web.archive.org/web/20260923213947/https://docs.historyrussia.org/ru/nodes/503633](https://web.archive.org/web/20260923213947/https://docs.historyrussia.org/ru/nodes/503633)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

@@ -16,7 +16,7 @@
 
 ## Откуда это у нас
 
-Первоисточник: `docs.historyrussia[.]org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g`
+Первоисточник: [https://web.archive.org/web/20260923214051/https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g](https://web.archive.org/web/20260923214051/https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
 

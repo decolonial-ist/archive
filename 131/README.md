@@ -2,6 +2,7 @@
 
 **Автор:** Бакланов Я. П.
 **Год публикации:** 1871
+**Где напечатано:** Русская старина. СПб., 1871. Том III. С. 1-15
 **Описывает российскую колонизацию народов:** несколько народов
 **Права на публикацию:** свободно (общественное достояние: издано в 1871 году)
 
@@ -11,14 +12,21 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 111 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 2.4 МБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf) | PDF | 111 КБ | в этой папке |
 | [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 99 КБ | в этой папке |
 
 ## Откуда это у нас
 
-Первоисточник: `readli[.]net/moya-boevaya-zhizn-yazyik-doreformennyiy/`
+Первоисточник: [https://commons.wikimedia.org/wiki/File:1871,_Russkaya_starina,_Vol_3._%E2%84%961-6.pdf](https://commons.wikimedia.org/wiki/File:1871,_Russkaya_starina,_Vol_3._%E2%84%961-6.pdf)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf | `11ef3f8317db8805af8688ecba1fbc39165d6d504ee782a877298efc92a601ec` |
 
 ## Где упоминается в базе знаний
 
