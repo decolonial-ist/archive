@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **252**, файлов: **485**, объём: **3.43 ГиБ**. Из 1274 материалов базы распространять разрешено 632, из них 98 - только текстом документа, без издания целиком; 640 остаются ссылкой на первоисточник.
+Выложено материалов: **252**, файлов: **485**, объём: **3.43 ГиБ**. Из 1291 материалов базы распространять разрешено 644, из них 99 - только текстом документа, без издания целиком; 645 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -310,7 +310,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 983
+## Свободные, но файла у нас нет - 1000
 
 Распространять можно, а файла нет.
 
@@ -361,10 +361,12 @@
 | Chechnya - Russian POWs Release Defuses Crisis | 1994 | Чечня | `www.youtube[.]com/watch?v=sVLXTiUeoM8` |
 | Chechnya - Russian Prisoners Released | 1994 | Чечня | `www.youtube[.]com/watch?v=Jybes5qjQbM` |
 | Chechnya Case Study. Interim Report | 1996 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-case-study](https://reliefweb.int/report/russian-federation/chechnya-case-study) |
-| Chechnya Humanitarian Situation Report, 1 June - 31 July 1997 (UN DHA, ref. 97/0322, полный текст) | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997) |
-| Chechnya Humanitarian Situation Report, 15 Sep - 31 Oct 1997 (UN DHA, ref. DHAGVA-97/0377) | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997) |
+| Chechnya Humanitarian Situation Report, 1 June - 31 July 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997) |
+| Chechnya Humanitarian Situation Report, 15 Sep - 31 Oct 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997) |
+| Chechnya closes Baku-Novorossiisk export pipeline | 1999 | Чечня | `www.ogj[.]com/home/article/17230666/chechnya-closes-baku-novorossiisk-export-pipeline` |
 | Chechnya will count its war damage from 1994 | 2006 | Чечня | [https://www.eng.kavkaz-uzel.eu/articles/5176](https://www.eng.kavkaz-uzel.eu/articles/5176) |
 | Chechnya's last hope? Enforced disappearances and the European Court of Human Rights | 2009 | Чечня | `missingpersons.icrc[.]org/library/chechnyas-last-hope-enforced-disappearances-and-european-court-human-rights` |
+| Chechnya, Russian Federation Situation Report - 1 Nov - 15 Dec 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-russian-federation-situation-report-1-nov-15-dec-1997](https://reliefweb.int/report/russian-federation/chechnya-russian-federation-situation-report-1-nov-15-dec-1997) |
 | Chechnya/ Russia - Air Attack On Grozny | 1994 | Чечня | `www.youtube[.]com/watch?v=RCXyhJmAa-o` |
 | Chechnya: Bombing of the Presidential Palace (WTN, 6 January 1995) | 1995 | Чечня | `www.youtube[.]com/watch?v=S88wTpoMFCU` |
 | Chechnya: Chechens Control Much of Grozny | 1996 | Чечня | `www.rferl[.]org/a/1081341.html` |
@@ -372,8 +374,8 @@
 | Chechnya: Rape and torture of children in Chernokozovo "filtration camp" | 2000 | Чечня | `www.amnesty[.]org/en/documents/eur46/019/2000/en/` |
 | Chechnya: Seeds of the Debacle | 1996 | Чечня | `jamestown[.]org/program/chechnya-seeds-of-the-debacle/` |
 | Chechnya: Shelling | 1995 | Чечня | `www.youtube[.]com/watch?v=nNRuv3ofHRw` |
-| Chechnya: Situation Report covering 20 Aug. - 30 Sept. 1996 (UN DHA, ref. DHAGVA-96/0414) | 1996 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-situation-report-covering-20-aug-30-sept1996](https://reliefweb.int/report/russian-federation/chechnya-situation-report-covering-20-aug-30-sept1996) |
-| Chechnya: Situation Report, 1-31 January 1997 (UN DHA) | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-situation-report-01-31-jan-1997](https://reliefweb.int/report/russian-federation/chechnya-situation-report-01-31-jan-1997) |
+| Chechnya: Situation Report covering 20 Aug. - 30 Sept. 1996 | 1996 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-situation-report-covering-20-aug-30-sept1996](https://reliefweb.int/report/russian-federation/chechnya-situation-report-covering-20-aug-30-sept1996) |
+| Chechnya: Situation Report, 1-31 January 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-situation-report-01-31-jan-1997](https://reliefweb.int/report/russian-federation/chechnya-situation-report-01-31-jan-1997) |
 | Chechnya: Yandarbiyev Estimates Costs Of War | 1996 | Чечня | `www.rferl[.]org/a/1082045.html` |
 | Chitayev and Chitayev v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-79109](https://hudoc.echr.coe.int/eng?i=001-79109) |
 | Chronique. Caucase du Nord: Les répressions | 1928 | Чечня | [https://gallica.bnf.fr/ark:/12148/bpt6k63673031](https://gallica.bnf.fr/ark:/12148/bpt6k63673031) |
@@ -468,6 +470,7 @@
 | Luluyev and Others v. Russia | 2006 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-77926](https://hudoc.echr.coe.int/eng?i=001-77926) |
 | Magomadov and Magomadov v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-81604](https://hudoc.echr.coe.int/eng?i=001-81604) |
 | Makhauri v. Russia | 2007 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-82546](https://hudoc.echr.coe.int/eng?i=001-82546) |
+| Maskhadov Halts Negotiations With Moscow | 1997 | Чечня | `jamestown[.]org/?p=54914` |
 | Maskhadova and Others v. Russia | 2013 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-120439](https://hudoc.echr.coe.int/eng?i=001-120439) |
 | Medova v. Russia | 2009 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-90645](https://hudoc.echr.coe.int/eng?i=001-90645) |
 | Memorandum of Conversation: Meeting with President of Russia (Sochi) | 2008 | Украина | `nsarchive.gwu[.]edu/sites/default/files/documents/3a.pdf` |
@@ -505,13 +508,22 @@
 | Public statement concerning the Chechen Republic of the Russian Federation (made on 10 July 2001) | 2001 | Чечня | [https://rm.coe.int/doc/0900001680697a50](https://rm.coe.int/doc/0900001680697a50) |
 | Public statement concerning the Chechen Republic of the Russian Federation (made on 13 March 2007), CPT/Inf (2007) 17 | 2007 | Чечня | [https://rm.coe.int/doc/0900001680697bd0](https://rm.coe.int/doc/0900001680697bd0) |
 | RFE/RL Newsline, 13 May 1997 | 1997 | Чечня | [https://web.archive.org/web/20010906133629id_/http://www.rferl.org/newsline/1997/05/130597.html](https://web.archive.org/web/20010906133629id_/http://www.rferl.org/newsline/1997/05/130597.html) |
+| RFE/RL Newsline, 13 September 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141990.html` |
+| RFE/RL Newsline, 14 September 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141991.html` |
+| RFE/RL Newsline, 15 March 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141863.html` |
 | RFE/RL Newsline, 15 October 1997 | 1997 | Чечня | [https://web.archive.org/web/20010906133536id_/http://www.rferl.org/newsline/1997/10/151097.html](https://web.archive.org/web/20010906133536id_/http://www.rferl.org/newsline/1997/10/151097.html) |
+| RFE/RL Newsline, 15 September 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141992.html` |
+| RFE/RL Newsline, 18 August 1997 | 1997 | Чечня | `www.rferl[.]org/a/1141474.html` |
 | RFE/RL Newsline, 19 August 1997 | 1997 | Чечня | [https://web.archive.org/web/20010906131706id_/http://www.rferl.org/newsline/1997/08/190897.html](https://web.archive.org/web/20010906131706id_/http://www.rferl.org/newsline/1997/08/190897.html) |
 | RFE/RL Newsline, 23 September 1999 | 1999 | Чечня | [https://web.archive.org/web/20010419102525id_/http://www.rferl.org/newsline/1999/09/230999.html](https://web.archive.org/web/20010419102525id_/http://www.rferl.org/newsline/1999/09/230999.html) |
 | RFE/RL Newsline, 24 September 1999 | 1999 | Чечня | [https://web.archive.org/web/20010713023216id_/http://www.rferl.org/newsline/1999/09/240999.html](https://web.archive.org/web/20010713023216id_/http://www.rferl.org/newsline/1999/09/240999.html) |
 | RFE/RL Newsline, 25 October 1999 | 1999 | Чечня | [https://web.archive.org/web/20010713024834id_/http://www.rferl.org/newsline/1999/10/251099.html](https://web.archive.org/web/20010713024834id_/http://www.rferl.org/newsline/1999/10/251099.html) |
+| RFE/RL Newsline, 27 April 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141893.html` |
 | RFE/RL Newsline, 30 September 1997 | 1997 | Чечня | [https://web.archive.org/web/20010906134747id_/http://www.rferl.org/newsline/1997/09/300997.html](https://web.archive.org/web/20010906134747id_/http://www.rferl.org/newsline/1997/09/300997.html) |
+| RFE/RL Newsline, 8 April 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141880.html` |
 | RFE/RL Newsline, 8 December 1999 | 1999 | Чечня | [https://web.archive.org/web/20010419100335id_/http://www.rferl.org/newsline/1999/12/081299.html](https://web.archive.org/web/20010419100335id_/http://www.rferl.org/newsline/1999/12/081299.html) |
+| RFE/RL Newsline, 8 March 1999 | 1999 | Чечня | `www.rferl[.]org/a/1141858.html` |
+| RFE/RL Newsline, 9 May 1996 | 1996 | Чечня | `www.rferl[.]org/a/1141167.html` |
 | RUSSIA-CHECHNYA: Russian Troops Win Control of Presidential Palace | 1995 | Чечня | `www.ipsnews[.]net/?p=50474` |
 | RUSSIA: CHECHNYA: CLAIMS OF RUSSIAN TORTURE OF CHECHEN PRISONERS | 1995 | Чечня | `www.youtube[.]com/watch?v=Vr9oJglt5lk` |
 | RUSSIA: CHECHNYA: GRACHEV AND DUDAYEV HOLD TALKS | 1994 | Чечня | `www.youtube[.]com/watch?v=AyrKGrH6Zvk` |
@@ -527,6 +539,7 @@
 | RUSSIAN FEDERATION - CHECHEN REPUBLIC: Civilians trapped in Grozny (EXTRA 127/96, EUR 46/36/96) | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/036/1996/en/` |
 | RUSSIAN FEDERATION - CHECHEN REPUBLIC: Civilians under bombardment in Komsomolskoye (EUR 46/37/96) | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/037/1996/en/` |
 | RUSSIAN FEDERATION: Ethnic Chechens in Moscow (UA 182/96, EUR 46/33/96) | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/033/1996/en/` |
+| Remarks by President Clinton and President Yeltsin in a Joint Press Conference | 1995 | Чечня | `clintonwhitehouse6.archives[.]gov/1995/05/1995-05-10-presidents-clinton-and-yeltsin-in-press-conference.html` |
 | Remarks to the Supreme Soviet of the Republic of the Ukraine in Kiev | 1991 | Украина | `www.presidency.ucsb[.]edu/documents/remarks-the-supreme-soviet-the-republic-the-ukraine-kiev-soviet-union` |
 | Report of the Special Rapporteur on torture, Nigel S. Rodley (E/CN.4/1996/35) | 1996 | Чечня | [https://documents.un.org/api/symbol/access?s=E/CN.4/1996/35&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=E/CN.4/1996/35&l=en&t=pdf) |
 | Report of the Special Rapporteur on torture, Sir Nigel Rodley (E/CN.4/2001/66) | 2001 | Чечня | `www.hr-dp[.]org/files/2015/08/05/G0110682.pdf` |
@@ -536,6 +549,7 @@
 | Resolution on the situation in Chechnya (European Parliament, 19 January 1995) | 1995 | Чечня | `eur-lex.europa[.]eu/legal-content/EN/TXT/HTML/?uri=CELEX:51995IP0031` |
 | Russia (Chechnya): Amnesty International says world must protect civilians of Samashki | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/017/1996/en/` |
 | Russia Confronts Chechnya: Roots of a Separatist Conflict | 1998 | Чечня | [https://books.google.com/books?id=P7SUvzGU67IC](https://books.google.com/books?id=P7SUvzGU67IC) |
+| Russia Detains Widow of Late Chechen Rebel Leader | 1996 | Чечня | `www.rferl[.]org/a/1080663.html` |
 | Russia boosts grain exports with crops from parts of Ukraine it controls | 2025 | Украина | `www.reuters[.]com/markets/commodities/russia-boosts-grain-exports-with-crops-parts-ukraine-it-controls-2025-08-06/` |
 | Russia masses forces on border of rebel republic: Another Afghanistan feared as Yeltsin prepares | 1994 | Чечня | `www.theguardian[.]com/world/1994/dec/02/chechnya.davidhearst` |
 | Russia's Policy Toward Compatriots in the Former Soviet Union | 2008 | Несколько | [https://web.archive.org/web/20260814081632/https://eng.globalaffairs.ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/](https://web.archive.org/web/20260814081632/https://eng.globalaffairs.ru/articles/russias-policy-toward-compatriots-in-the-former-soviet-union/) |
@@ -592,6 +606,7 @@
 | The situation of human rights in the Republic of Chechnya of the Russian Federation. Report of the Secretary-General (E/CN.4/1996/13) | 1996 | Чечня | [https://docs.un.org/en/E/CN.4/1996/13](https://docs.un.org/en/E/CN.4/1996/13) |
 | The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination | 2015 | Несколько | [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May) |
 | Turluyeva v. Russia | 2013 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-120970&filename=001-120970.pdf) |
+| U.S. War Reporter Kicked Out Of Russia | 1995 | Чечня | `themoscowtimes[.]com/archive/us-war-reporter-kicked-out-of-russia` |
 | Ukraine war: Amid shifting alliances, General Assembly passes resolution condemning Russia's aggression | 2025 | Украина | [https://news.un.org/en/story/2025/02/1160456](https://news.un.org/en/story/2025/02/1160456) |
 | Ukraine: The Forgotten Victims | 2014 | Украина | `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf` |
 | Ukraine: Unguided Rockets Killing Civilians | 2014 | Несколько | [https://www.hrw.org/news/2014/07/24/ukraine-unguided-rockets-killing-civilians](https://www.hrw.org/news/2014/07/24/ukraine-unguided-rockets-killing-civilians) |
@@ -1138,6 +1153,7 @@
 | Седа Сулейманова могла быть убита родственниками. Что об этом известно? | 2024 | Чечня | `sksos[.]org/news/ubiystvo-sedi-suleimanovoi/` |
 | Семь лет в плену у горцев (1849-1856) | 1882 | Несколько | [https://web.archive.org/web/20260913215708/https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php](https://web.archive.org/web/20260913215708/https://drevlit.ru/docs/kavkaz/XIX/1820-1840/Volkonskij_N_A/index.php) |
 | Сергей Доренко обнародовал материалы 1998 года по «делу Литвиненко» | 2007 | Чечня | [https://web.archive.org/web/20260928044313/https://lenizdat.ru/articles/1050226/](https://web.archive.org/web/20260928044313/https://lenizdat.ru/articles/1050226/) |
+| Сергей Степашин: «Путин выполняет мою программу» | 1999 | Чечня | [https://web.archive.org/web/20071017220841/http://www.yabloko.ru/Publ/2000/TV/stepashin-ntv-1999-1.html](https://web.archive.org/web/20071017220841/http://www.yabloko.ru/Publ/2000/TV/stepashin-ntv-1999-1.html) |
 | Сирський заявив про виведення українських військ з Авдіївки | 2024 | Украина | [https://www.pravda.com.ua/news/2024/02/17/7442285/](https://www.pravda.com.ua/news/2024/02/17/7442285/) |
 | Ситуация в Чечне, 22 августа 1994 года: Хасбулатов, Яндарбиев, Сосламбеков (программа «После империи») | 1994 | Чечня | `www.youtube[.]com/watch?v=D7R8OBjws_c` |
 | Ситуация в Чечне, 27 августа 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050](https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050) |
@@ -1268,6 +1284,7 @@
 | Чеченский язык в 90-е годы XX века: функции и структура | 2007 | Чечня | `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura` |
 | Чеченцы в Русско-Кавказской войне | 1998 | Несколько | [https://search.worldcat.org/isbn/5859730128](https://search.worldcat.org/isbn/5859730128) |
 | Чеченцы и ингуши в Османской империи во второй половине XIX в.: процессы эмиграции и реэмиграции | 2024 | Чечня | [https://web.archive.org/web/20260928041824/https://kbsu.ru/wp-content/uploads/2024/03/02_chapanov.pdf](https://web.archive.org/web/20260928041824/https://kbsu.ru/wp-content/uploads/2024/03/02_chapanov.pdf) |
+| Чеченцы перекрыли нефтепровод, из-за которого началась война | 1999 | Чечня | [https://web.archive.org/web/20250828070419/https://www.kommersant.ru/doc/215926](https://web.archive.org/web/20250828070419/https://www.kommersant.ru/doc/215926) |
 | Чеченцы тренируются в Волгограде | 1994 | Чечня | [https://web.archive.org/web/20241005152159/https://www.kommersant.ru/doc/91470](https://web.archive.org/web/20241005152159/https://www.kommersant.ru/doc/91470) |
 | Чечню намерены восстановить так же быстро, как Белый дом | 1994 | Чечня | [https://web.archive.org/web/20250409172339/https://www.kommersant.ru/doc/97626](https://web.archive.org/web/20250409172339/https://www.kommersant.ru/doc/97626) |
 | Чечня 1990-1991: хроника и документы | 2007 | Чечня | [https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm](https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm) |
@@ -1300,7 +1317,7 @@
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 | “Who Will Tell Me What Happened to My Son?”: Russia’s Implementation of European Court of Human Rights Judgments on Chechnya | 2009 | Чечня | [https://www.hrw.org/report/2009/09/27/who-will-tell-me-what-happened-my-son/russias-implementation-european-court-human](https://www.hrw.org/report/2009/09/27/who-will-tell-me-what-happened-my-son/russias-implementation-european-court-human) |
 
-## Только ссылка, выложить нельзя - 616
+## Только ссылка, выложить нельзя - 621
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -1332,6 +1349,7 @@
 | Chechnya - Russian POWs Release Defuses Crisis | AP Television News | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=sVLXTiUeoM8` |
 | Chechnya - Russian Prisoners Released | AP Television News | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=Jybes5qjQbM` |
 | Chechnya Case Study. Interim Report | Hansen G., Seely R. | 1996 | доклад Watson Institute (Brown University) под авторским правом; ReliefWeb только перепечатывает | [https://reliefweb.int/report/russian-federation/chechnya-case-study](https://reliefweb.int/report/russian-federation/chechnya-case-study) |
+| Chechnya closes Baku-Novorossiisk export pipeline |  | 1999 | современная публикация 1999 года под авторским правом | `www.ogj[.]com/home/article/17230666/chechnya-closes-baku-novorossiisk-export-pipeline` |
 | Chechnya will count its war damage from 1994 |  | 2006 | современная публикация 2006 года под авторским правом | [https://www.eng.kavkaz-uzel.eu/articles/5176](https://www.eng.kavkaz-uzel.eu/articles/5176) |
 | Chechnya's last hope? Enforced disappearances and the European Court of Human Rights | Barrett J. | 2009 | статья в Harvard Human Rights Journal под авторским правом; на сайте МККК - только библиографическая карточка | `missingpersons.icrc[.]org/library/chechnyas-last-hope-enforced-disappearances-and-european-court-human-rights` |
 | Chechnya/ Russia - Air Attack On Grozny | AP Television News | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=RCXyhJmAa-o` |
@@ -1362,6 +1380,7 @@
 | In a Climate of Fear: "Political Process" and Parliamentary Elections in Chechnya | Joint Publication of the International Helsinki Federation for Human Rights (IHF), International Federation for Human Rights (FIDH), Norwegian Helsinki Committee, Center "Demos", Human Rights Center "Memorial" | 2005 | материал организации или СМИ под авторским правом (fidh.org) | `www.fidh[.]org/IMG/pdf/chechnya112005a.pdf` |
 | Key facts about Geriev's case: from kidnapping to appeal | Caucasian Knot | 2018 | современная публикация 2018 года под авторским правом | [https://www.eng.kavkaz-uzel.eu/articles/37713/](https://www.eng.kavkaz-uzel.eu/articles/37713/) |
 | Lebenslang für sechs Schüsse auf Tschetschenen in Gerasdorf | Der Standard | 2021 | современная публикация 2021 года под авторским правом | `www.derstandard[.]at/story/2000128750803/lebenslang-fuer-sechs-schuesse-auf-tschetschenen-in-gerasdorf` |
+| Maskhadov Halts Negotiations With Moscow |  | 1997 | современная публикация 1997 года под авторским правом | `jamestown[.]org/?p=54914` |
 | Memorandum of Conversation: Meeting with President of Russia (Sochi) | Білий дім | 2008 | материал организации или СМИ под авторским правом (nsarchive.gwu.edu) | `nsarchive.gwu[.]edu/sites/default/files/documents/3a.pdf` |
 | Monument of Stalin Constitution | Центр міської історії Центрально-Східної Європи | 2026 | современная публикация 2026 года под авторским правом | [https://lia.lvivcenter.org/en/objects/monument-f-stalin-constitution/](https://lia.lvivcenter.org/en/objects/monument-f-stalin-constitution/) |
 | Mord in Gerasdorf: Lebenslange Haft bestätigt | noe.ORF.at | 2022 | современная публикация 2022 года под авторским правом | `noe.orf[.]at/stories/3141580/` |
@@ -1431,6 +1450,7 @@
 | The War in Chechnya | Stasys Knezys, Romanas Sedlickas | 1999 | современная публикация 1999 года под авторским правом | [https://books.google.com/books?id=iThpAAAAMAAJ](https://books.google.com/books?id=iThpAAAAMAAJ) |
 | The Wars in Chechnya and Their Effects on Neighboring Regions | Vendina O. I., Belozerov V. S., Gustafson A. | 2007 | современная публикация 2007 года под авторским правом | `ibs-lb.colorado[.]edu/waroutcomes/docs/EGE_2007_WarChechnya_s4.pdf` |
 | The ‘Russian World’. Russia's Soft Power and Geopolitical Imagination | Laruelle M. | 2015 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May](https://www.researchgate.net/publication/344222398_The_'Russian_World'_Russia's_Soft_Power_and_Geopolitical_Imagination_Center_for_Global_Interests_Papers_May) |
+| U.S. War Reporter Kicked Out Of Russia | Babakian G. | 1995 | современная публикация 1995 года под авторским правом | `themoscowtimes[.]com/archive/us-war-reporter-kicked-out-of-russia` |
 | Ukraine: The Forgotten Victims | International Federation for Human Rights (FIDH) | 2014 | материал организации или СМИ под авторским правом (fidh.org) | `www.fidh[.]org/IMG/pdf/ukraine-the_forgotten_victims.pdf` |
 | Un mouvement populaire au Caucase au XVIIIe siècle. La « guerre sainte » du sheikh Mansur (1785-1791), page mal connue et controversée des relations russo-turques | Bennigsen A. | 1964 | современная публикация 1964 года под авторским правом | `www.persee[.]fr/doc/cmr_0008-0160_1964_num_5_2_1578` |
 | View on the Monument to the Soviet Constitution, Lviv 1940 | Центр міської історії Центрально-Східної Європи | 2026 | современная публикация 2026 года под авторским правом | [https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/](https://edu.lvivcenter.org/en/images/view-on-the-monument-to-the-soviet-constitution/) |
@@ -1814,6 +1834,7 @@
 | Седа Сулейманова могла быть убита в ноябре 2023 года и захоронена в родовом селе за пределами кладбища | Редакция «Гласной» | 2025 | современная публикация 2025 года под авторским правом | `glasnaya[.]media/2025/08/22/sk-sos-seda-sulejmanova-mogla-byt-ubita-v-noyabre-2023-goda-i-zahoronena-v-rodovom-sele-za-predelami-kladbishha/` |
 | Седа Сулейманова могла быть убита родственниками. Что об этом известно? | Кризисная группа СК SOS | 2024 | современная публикация 2024 года под авторским правом | `sksos[.]org/news/ubiystvo-sedi-suleimanovoi/` |
 | Сергей Доренко обнародовал материалы 1998 года по «делу Литвиненко» | Лениздат.ру | 2007 | современная публикация 2007 года под авторским правом | [https://web.archive.org/web/20260928044313/https://lenizdat.ru/articles/1050226/](https://web.archive.org/web/20260928044313/https://lenizdat.ru/articles/1050226/) |
+| Сергей Степашин: «Путин выполняет мою программу» |  | 1999 | современная публикация 1999 года под авторским правом | [https://web.archive.org/web/20071017220841/http://www.yabloko.ru/Publ/2000/TV/stepashin-ntv-1999-1.html](https://web.archive.org/web/20071017220841/http://www.yabloko.ru/Publ/2000/TV/stepashin-ntv-1999-1.html) |
 | Сирський заявив про виведення українських військ з Авдіївки |  | 2024 | материал организации или СМИ под авторским правом (pravda.com.ua) | [https://www.pravda.com.ua/news/2024/02/17/7442285/](https://www.pravda.com.ua/news/2024/02/17/7442285/) |
 | Ситуация в Чечне, 22 августа 1994 года: Хасбулатов, Яндарбиев, Сосламбеков (программа «После империи») | Радио Свобода, программа «После империи» | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=D7R8OBjws_c` |
 | Ситуация в Чечне, 27 августа 1994 года |  | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050](https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050) |
@@ -1896,6 +1917,7 @@
 | Чеченский язык в 90-е годы XX века: функции и структура | Яхъяева А. А. | 2007 | современная публикация 2007 года под авторским правом | `cheloveknauka[.]com/chechenskiy-yazyk-v-90-e-gody-xx-veka-funktsii-i-struktura` |
 | Чеченцы в Русско-Кавказской войне | Хожаев Д. А. | 1998 | современная публикация 1998 года под авторским правом | [https://search.worldcat.org/isbn/5859730128](https://search.worldcat.org/isbn/5859730128) |
 | Чеченцы и ингуши в Османской империи во второй половине XIX в.: процессы эмиграции и реэмиграции | Чапанов А. К. | 2024 | современная публикация 2024 года под авторским правом | [https://web.archive.org/web/20260928041824/https://kbsu.ru/wp-content/uploads/2024/03/02_chapanov.pdf](https://web.archive.org/web/20260928041824/https://kbsu.ru/wp-content/uploads/2024/03/02_chapanov.pdf) |
+| Чеченцы перекрыли нефтепровод, из-за которого началась война | Барахова А., Сапожников П. | 1999 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250828070419/https://www.kommersant.ru/doc/215926](https://web.archive.org/web/20250828070419/https://www.kommersant.ru/doc/215926) |
 | Чеченцы тренируются в Волгограде | Краснопольский К. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20241005152159/https://www.kommersant.ru/doc/91470](https://web.archive.org/web/20241005152159/https://www.kommersant.ru/doc/91470) |
 | Чечню намерены восстановить так же быстро, как Белый дом | Бородулин В. | 1994 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20250409172339/https://www.kommersant.ru/doc/97626](https://web.archive.org/web/20250409172339/https://www.kommersant.ru/doc/97626) |
 | Чечня 1990-1991: хроника и документы | ИНИОН РАН (хрестоматия «Политические отношения и политический процесс в современной России») | 2007 | современная публикация 2007 года под авторским правом | [https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm](https://web.archive.org/web/20251006010429/http://old.nasledie.ru/bibliot/kniga10/chech1.htm) |
