@@ -139,6 +139,21 @@
    "telegram": {}
   },
   {
+   "id": 26,
+   "title": "Хроника первой российской войны в Чечне",
+   "year": "2026",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2026 года под авторским правом",
+   "why_not": "права: современная публикация 2026 года под авторским правом",
+   "card": "https://archive.decolonial.ist/26",
+   "source": "https://beda.media/ru/articles/war-in-chechnya-chronicle-part1-ru",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 27,
    "title": "Россия - Чечня - цепь ошибок и преступлений. 1994—1996",
    "year": "2010",
@@ -4270,6 +4285,21 @@
    "telegram": {}
   },
   {
+   "id": 310,
+   "title": "Памятники и памятные знаки жертвам политических репрессий - мемориал в Грозном",
+   "year": "2014",
+   "author": "Сахаровский центр",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2014 года под авторским правом",
+   "why_not": "права: современная публикация 2014 года под авторским правом",
+   "card": "https://archive.decolonial.ist/310",
+   "source": "https://web.archive.org/web/20260924161308/https://www.sakharov-center.ru/asfcd/pam/?id=135&t=pam",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 312,
    "title": "Полное собрание законов Российской империи. Т. I",
    "year": "1830",
@@ -6666,6 +6696,13 @@
    "source": "http://web.archive.org/web/20240408142524id_/https://arhiv-chr.ru/deyatelnost/nashi-izdaniya/send/5-nashi-izdaniya/51-arkhivnyj-vestnik-8",
    "files": [
     {
+     "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_o_podgotovke_k_operacii_po_raz.txt",
+     "bytes": 476719,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/479/o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_o_podgotovke_k_operacii_po_raz.txt",
+     "where": "repo"
+    },
+    {
      "name": "o_podgotovke_k_operacii_po_razoruzheniyu_i_borbe_s_banditizmom_v_chechne_2022_arhivchr_vestnik8_2022_instruk.txt",
      "bytes": 116968,
      "sha256": "",
@@ -7725,6 +7762,13 @@
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf",
      "where": "repo"
+    },
+    {
+     "name": "rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.txt",
+     "bytes": 36962,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -7743,10 +7787,24 @@
    "source": "https://zakon.rada.gov.ua/laws/show/2672-20",
    "files": [
     {
-     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt",
+     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini.txt",
+     "bytes": 8165,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini.txt",
+     "where": "repo"
+    },
+    {
+     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini_2.txt",
+     "bytes": 8317,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini_2.txt",
+     "where": "repo"
+    },
+    {
+     "name": "zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_2672.txt",
      "bytes": 7026,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_2672.txt",
      "where": "repo"
     },
     {
@@ -8953,10 +9011,10 @@
    "source": "https://web.archive.org/web/20260120000308/https://istmat.org/node/57859",
    "files": [
     {
-     "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt",
+     "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954_document.txt",
      "bytes": 9010,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954_document.txt",
      "where": "repo"
     },
     {
@@ -8964,6 +9022,13 @@
      "bytes": 34651,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954_page_sloi_text.txt",
+     "bytes": 9408,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/606/postanovlenie_soveta_ministrov_sssr_no_1439_649s_o_henii_specposelencev_1954_page_sloi_text.txt",
      "where": "repo"
     }
    ],
@@ -9746,6 +9811,355 @@
    "telegram": {}
   },
   {
+   "id": 650,
+   "title": "Указ Президента Российской Федерации № 2166 О мерах по пресечению деятельности незаконных вооруженных формирований на территории Чеченской Республики и в зоне осетино-ингушского конфликта",
+   "year": "1994",
+   "author": "Президент Российской Федерации Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/650",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/650",
+   "source": "https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_09.12.1994_№_2166",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_kremlin.txt",
+     "bytes": 7453,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/650/ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_kremlin.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_garant.txt",
+     "bytes": 19864,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/650/ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_garant.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_wikisource.txt",
+     "bytes": 2962,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/650/ukaz_prezidenta_rossiyskoy_federacii_no_2166_o_mer_ngushskogo_konflikta_1994_text_wikisource.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 651,
+   "title": "Постановление Правительства Российской Федерации № 1360 Об обеспечении государственной безопасности и территориальной целостности Российской Федерации, законности, прав и свобод граждан, разоружения незаконных вооруженных формирований на территории Чеченской Республики",
+   "year": "1994",
+   "author": "Правительство Российской Федерации",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/651",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/651",
+   "source": "https://web.archive.org/web/20200213200717/http://base.garant.ru:80/5178101/",
+   "files": [
+    {
+     "name": "postanovlenie_pravitelstva_rossiyskoy_federacii_no_echenskoy_respubliki_1994.txt",
+     "bytes": 30586,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/651/postanovlenie_pravitelstva_rossiyskoy_federacii_no_echenskoy_respubliki_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 652,
+   "title": "Постановление Конституционного Суда Российской Федерации № 10-П по делу о проверке конституционности указов Президента и постановления Правительства о Чеченской Республике",
+   "year": "1995",
+   "author": "Конституционный Суд Российской Федерации",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/652",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/652",
+   "source": "https://ru.wikisource.org/wiki/Постановление_Конституционного_Суда_РФ_от_31.07.1995_№_10-П",
+   "files": [
+    {
+     "name": "postanovlenie_konstitucionnogo_suda_rossiyskoy_fed_echenskoy_respublike_1995.txt",
+     "bytes": 268712,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/652/postanovlenie_konstitucionnogo_suda_rossiyskoy_fed_echenskoy_respublike_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 654,
+   "title": "Russia: Three Months of War in Chechnya",
+   "year": "1995",
+   "author": "Human Rights Watch/Helsinki",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/654",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/654",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia952.pdf",
+   "files": [
+    {
+     "name": "russia_three_months_of_war_in_chechnya_1995_hrw_russia952_three_months_of.txt",
+     "bytes": 107975,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/654/russia_three_months_of_war_in_chechnya_1995_hrw_russia952_three_months_of.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_three_months_of_war_in_chechnya_1995.pdf",
+     "bytes": 256321,
+     "sha256": "5aed2553aef8ef0b27c664be773acd1eef631a2051bb12d0671af0b5b803c8c5",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/654/russia_three_months_of_war_in_chechnya_1995.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "russia_three_months_of_war_in_chechnya_1995_2.txt",
+     "bytes": 107677,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/654/russia_three_months_of_war_in_chechnya_1995_2.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 655,
+   "title": "Russia: Partisan War in Chechnya on the Eve of the World War II Commemoration",
+   "year": "1995",
+   "author": "Human Rights Watch/Helsinki",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/655",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/655",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia955.pdf",
+   "files": [
+    {
+     "name": "russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995_hrw_russia955_partisan_war_slo.txt",
+     "bytes": 70104,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/655/russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995_hrw_russia955_partisan_war_slo.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995.pdf",
+     "bytes": 185758,
+     "sha256": "925155b8aa930990121d5fbd668ad8eb92d206f5223ada9c56b1585b0ed07957",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/655/russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995_2.txt",
+     "bytes": 69869,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/655/russia_partisan_war_in_chechnya_on_the_eve_of_the_war_ii_commemoration_1995_2.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 656,
+   "title": "Caught in the Crossfire: Civilians in Gudermes and Pervomayskoye",
+   "year": "1996",
+   "author": "Human Rights Watch/Helsinki",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/656",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/656",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia963.pdf",
+   "files": [
+    {
+     "name": "caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996_hrw_russia963_caught_in_crossf.txt",
+     "bytes": 117449,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/656/caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996_hrw_russia963_caught_in_crossf.txt",
+     "where": "repo"
+    },
+    {
+     "name": "caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996.pdf",
+     "bytes": 266058,
+     "sha256": "2dcfb08b5edf433f77af1cd74fbaa63e9cc489b94c31a1ed2f35490a83ac8029",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/656/caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996_2.txt",
+     "bytes": 117123,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/656/caught_in_the_crossfire_civilians_in_gudermes_and_pervomayskoye_1996_2.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 657,
+   "title": "Russia/Chechnya: A Legacy of Abuse",
+   "year": "1997",
+   "author": "Human Rights Watch",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/657",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/657",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia971.pdf",
+   "files": [
+    {
+     "name": "russia_chechnya_a_legacy_of_abuse_1997_hrw_russia971_legacy_of_abuse.txt",
+     "bytes": 103035,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/657/russia_chechnya_a_legacy_of_abuse_1997_hrw_russia971_legacy_of_abuse.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_chechnya_a_legacy_of_abuse_1997.pdf",
+     "bytes": 254256,
+     "sha256": "d00d707d852a08adc6a010eac6c4fab092402d0544609feea00708731ad8f3e0",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/657/russia_chechnya_a_legacy_of_abuse_1997.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "russia_chechnya_a_legacy_of_abuse_1997_hrw_1997_russia2_03.txt",
+     "bytes": 20344,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/657/russia_chechnya_a_legacy_of_abuse_1997_hrw_1997_russia2_03.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_chechnya_a_legacy_of_abuse_1997_3.txt",
+     "bytes": 102734,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/657/russia_chechnya_a_legacy_of_abuse_1997_3.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 658,
+   "title": "The situation of human rights in the Republic of Chechnya of the Russian Federation. Report of the Secretary-General (E/CN.4/1996/13)",
+   "year": "1996",
+   "author": "UN Commission on Human Rights, 52nd session",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/658",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/658",
+   "source": "https://docs.un.org/en/E/CN.4/1996/13",
+   "files": [
+    {
+     "name": "the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_hrlibrary_umn_edu_commission_r.txt",
+     "bytes": 69678,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/658/the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_hrlibrary_umn_edu_commission_r.txt",
+     "where": "repo"
+    },
+    {
+     "name": "the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_e_cn_4_1996_13_ru.pdf",
+     "bytes": 126025,
+     "sha256": "f391902edaebc2543e0bc2d825baddc5c52bc1c6da0a98064822ce8f7c43efa0",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/658/the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_e_cn_4_1996_13_ru.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_e_cn_4_1996_13_en.pdf",
+     "bytes": 71721,
+     "sha256": "c8cf229c12b8da90f8516347d59c6eb89bf442d73bc545d11463634305467a53",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/658/the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_e_cn_4_1996_13_en.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_ocr.txt",
+     "bytes": 142620,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/658/the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_ocr.txt",
+     "where": "repo"
+    },
+    {
+     "name": "the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_2.txt",
+     "bytes": 83348,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/658/the_situation_of_human_rights_in_the_republic_of_c_neral_e_cn_4_1996_13_1996_2.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 659,
+   "title": "Russian Federation: Human rights violations in the Chechen Republic (EUR 46/20/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/659",
+   "source": "https://www.amnesty.org/ar/wp-content/uploads/2021/06/eur460201996en.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 661,
+   "title": "Хасавюртовские соглашения",
+   "year": "1996",
+   "author": "Совместное заявление и Принципы определения основ взаимоотношений между Российской Федерацией и Чеченской Республикой",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Викимедиа: CC BY-SA 4.0 либо общественное достояние",
+   "card": "https://archive.decolonial.ist/661",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/661",
+   "source": "https://ru.wikisource.org/wiki/Хасавюртовские_соглашения_от_31.08.1996",
+   "files": [
+    {
+     "name": "hasavyurtovskie_soglasheniya_1996_kavkaz_uzel_295026.txt",
+     "bytes": 22991,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/661/hasavyurtovskie_soglasheniya_1996_kavkaz_uzel_295026.txt",
+     "where": "repo"
+    },
+    {
+     "name": "hasavyurtovskie_soglasheniya_1996_hasavyurtovskie_soglasheniya_1.txt",
+     "bytes": 5482,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/661/hasavyurtovskie_soglasheniya_1996_hasavyurtovskie_soglasheniya_1.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 662,
+   "title": "Всеми имеющимися средствами… Результаты независимого расследования Наблюдательной миссии правозащитных общественных организаций в зоне вооруженного конфликта в Чечне",
+   "year": "1995",
+   "author": "Блинушов А., Гурьянов А., Орлов О., Рачинский Я., Соколов А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (memohrc.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (memohrc.org)",
+   "card": "https://archive.decolonial.ist/662",
+   "source": "https://memohrc.org/sites/default/files/samashki.doc",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 663,
    "title": "Быть аланами: интеллектуалы и политика на Северном Кавказе в XX веке",
    "year": "2006",
@@ -9757,6 +10171,96 @@
    "why_not": "права: современная публикация 2006 года под авторским правом",
    "card": "https://archive.decolonial.ist/663",
    "source": "https://books.google.com/books?id=d5VpAAAAMAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 671,
+   "title": "Указ Президента Российской Федерации от 25 июня 1996 г. № 985 о выводе сил и средств, входящих в состав Временных объединенных сил, с территории Чеченской Республики",
+   "year": "1996",
+   "author": "Президент Российской Федерации",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/671",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/671",
+   "source": "https://ru.wikisource.org/wiki/Указ_Президента_РФ_от_25.06.1996_№_985",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_25_iyunya_echenskoy_respubliki_1996_2.txt",
+     "bytes": 2587,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/671/ukaz_prezidenta_rossiyskoy_federacii_ot_25_iyunya_echenskoy_respubliki_1996_2.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_25_iyunya_echenskoy_respubliki_1996_page_raw.txt",
+     "bytes": 2587,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/671/ukaz_prezidenta_rossiyskoy_federacii_ot_25_iyunya_echenskoy_respubliki_1996_page_raw.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 681,
+   "title": "Supporting the Doves against the Hawks: Experiences of the OSCE Assistance Group to Chechnya",
+   "year": "1998",
+   "author": "Guldimann T.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1998 года под авторским правом",
+   "why_not": "права: современная публикация 1998 года под авторским правом",
+   "card": "https://archive.decolonial.ist/681",
+   "source": "https://www.ifsh.de/file-CORE/documents/yearbook/english/97/Guldimann.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 687,
+   "title": "Премьер в загоне",
+   "year": "1999",
+   "author": "Коммерсантъ Власть",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/687",
+   "source": "https://web.archive.org/web/20250703162012/https://www.kommersant.ru/doc/16049",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 694,
+   "title": "Russian Federation: For the Motherland. Reported grave breaches of international humanitarian law. Persecution of ethnic Chechens in Moscow (EUR 46/46/99)",
+   "year": "1999",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/694",
+   "source": "https://www.amnesty.org/en/documents/eur46/046/1999/en/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 697,
+   "title": "«За три года после Хасавюрта мы проиграли мир»",
+   "year": "2023",
+   "author": "Мемориал",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2023 года под авторским правом",
+   "why_not": "права: современная публикация 2023 года под авторским правом",
+   "card": "https://archive.decolonial.ist/697",
+   "source": "https://memorialcenter.org/news/za-tri-goda-posle-hasavyurta-my-proigrali-mir",
    "files": [],
    "telegram": {}
   },
@@ -9932,6 +10436,3389 @@
    "why_not": "права: современная публикация 1998 года под авторским правом",
    "card": "https://archive.decolonial.ist/710",
    "source": "https://books.google.com/books?id=P7SUvzGU67IC",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 712,
+   "title": "Миллион первый",
+   "year": "2002",
+   "author": "Дудаева А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2002 года под авторским правом",
+   "why_not": "права: современная публикация 2002 года под авторским правом",
+   "card": "https://archive.decolonial.ist/712",
+   "source": "https://books.google.com/books?id=uc0yAAAAMAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 713,
+   "title": "Чечения - битва за свободу",
+   "year": "1996",
+   "author": "Яндарбиев З.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/713",
+   "source": "https://books.google.com/books?id=C-UnAAAAMAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 717,
+   "title": "Оппозиция перешла в наступление",
+   "year": "1994",
+   "author": "Шпак В.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/717",
+   "source": "https://web.archive.org/web/20260928200914/https://www.kommersant.ru/doc/88725",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 718,
+   "title": "Лётчикам не дали развернуться",
+   "year": "1999",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (nvo.ng.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (nvo.ng.ru)",
+   "card": "https://archive.decolonial.ist/718",
+   "source": "https://web.archive.org/web/20260618075837/https://nvo.ng.ru/history/1999-12-10/5_pilots.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 727,
+   "title": "Победившая нас война. Часть 2",
+   "year": "2025",
+   "author": "Шаповалов Н.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2025 года под авторским правом",
+   "why_not": "права: современная публикация 2025 года под авторским правом",
+   "card": "https://archive.decolonial.ist/727",
+   "source": "https://novayagazeta.eu/articles/2025/01/08/pobedivshaia-nas-voina-chast-2",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 729,
+   "title": "Программа «Новости» от 2 сентября 1994 года: бой у посёлка Долинское",
+   "year": "1994",
+   "author": "РГТРК «Останкино», программа «Новости»",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/729",
+   "source": "https://www.youtube.com/watch?v=7u4DDko99LY",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 735,
+   "title": "Resolution on the situation in Chechnya (European Parliament, 19 January 1995)",
+   "year": "1995",
+   "author": "Европейский парламент",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/735",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/735",
+   "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:51995IP0031",
+   "files": [
+    {
+     "name": "resolution_on_the_situation_in_chechnya_european_p_ment_19_january_1995_1995.txt",
+     "bytes": 6266,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/735/resolution_on_the_situation_in_chechnya_european_p_ment_19_january_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 736,
+   "title": "Comments of the Human Rights Committee: Russian Federation (CCPR/C/79/Add.54)",
+   "year": "1995",
+   "author": "Комитет ООН по правам человека",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/736",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/736",
+   "source": "https://documents.un.org/api/symbol/access?s=CCPR/C/79/Add.54&l=en&t=pdf",
+   "files": [
+    {
+     "name": "comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_original.pdf",
+     "bytes": 57198,
+     "sha256": "877f130000221139d4f5118c35c470ae7dbb1478749edcde929b92f2558ef273",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/736/comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_original.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_qwen_text.txt",
+     "bytes": 44169,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/736/comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_qwen_text.txt",
+     "where": "repo"
+    },
+    {
+     "name": "comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_original.pdf",
+     "bytes": 525727,
+     "sha256": "57868c9165dfdbba402c6ca3a10c03a6f0e933f7d5f1783ef08ed66844a05523",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/736/comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_original.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ocr_bez_vychitk.txt",
+     "bytes": 22849,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/736/comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ocr_bez_vychitk.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 738,
+   "title": "Report of the Special Rapporteur on torture: Addendum. Summary of communications transmitted to Governments and replies received (E/CN.4/1996/35/Add.1)",
+   "year": "1996",
+   "author": "Комиссия ООН по правам человека",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/738",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/738",
+   "source": "https://documents.un.org/api/symbol/access?s=E/CN.4/1996/35/Add.1&l=en&t=pdf",
+   "files": [
+    {
+     "name": "report_of_the_special_rapporteur_on_torture_addend_e_cn_4_1996_35_add_1_1996.txt",
+     "bytes": 521335,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/738/report_of_the_special_rapporteur_on_torture_addend_e_cn_4_1996_35_add_1_1996.txt",
+     "where": "repo"
+    },
+    {
+     "name": "report_of_the_special_rapporteur_on_torture_addend_e_cn_4_1996_35_add_1_1996.pdf",
+     "bytes": 396160,
+     "sha256": "c45a8a38e9e5c6d4382dd3ab1ba8053424d7b997342eb8d9bd3555ca6d983084",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/738/report_of_the_special_rapporteur_on_torture_addend_e_cn_4_1996_35_add_1_1996.pdf",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 739,
+   "title": "Extrajudicial, summary or arbitrary executions. Report by the Special Rapporteur, Bacre Waly Ndiaye (E/CN.4/1996/4)",
+   "year": "1996",
+   "author": "Комиссия ООН по правам человека",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/739",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/739",
+   "source": "https://documents.un.org/api/symbol/access?s=E/CN.4/1996/4&l=en&t=pdf",
+   "files": [
+    {
+     "name": "extrajudicial_summary_or_arbitrary_executions_repo_ndiaye_e_cn_4_1996_4_1996.txt",
+     "bytes": 455055,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/739/extrajudicial_summary_or_arbitrary_executions_repo_ndiaye_e_cn_4_1996_4_1996.txt",
+     "where": "repo"
+    },
+    {
+     "name": "extrajudicial_summary_or_arbitrary_executions_repo_ndiaye_e_cn_4_1996_4_1996.pdf",
+     "bytes": 351273,
+     "sha256": "99e2deef2202c5988e1e0ea8090332aefb20b10ac47c9dfa4fc367fc5f785660",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/739/extrajudicial_summary_or_arbitrary_executions_repo_ndiaye_e_cn_4_1996_4_1996.pdf",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 747,
+   "title": "Обращение Президента РФ Б. Н. Ельцина к гражданам в связи с ситуацией в Чечне (телеэфир 27 декабря 1994 года)",
+   "year": "1994",
+   "author": "Центральное телевидение России",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/747",
+   "source": "https://www.youtube.com/watch?v=qvSBESYT61k",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 799,
+   "title": "Заявление от 3 октября 1996 года, подписанное руководителями делегаций на переговорах в Москве",
+   "year": "1996",
+   "author": "В. Черномырдин, А. Лебедь, З. Яндарбиев, А. Закаев",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/799",
+   "source": "https://www.youtube.com/watch?v=1PcCJ-5O3Vk",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 919,
+   "title": "Death in Chechnya",
+   "year": "1995",
+   "author": "Kovalev S. (Сергей Ковалёв)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/919",
+   "source": "https://www.nybooks.com/articles/1995/06/08/death-in-chechnya/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 921,
+   "title": "За спинами мирных жителей. Захват заложников и использование гражданского населения в качестве «живого щита» федеральными войсками России в ходе вооруженного конфликта в Чечне",
+   "year": "1996",
+   "author": "Правозащитный центр «Мемориал»",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/921",
+   "source": "https://web.archive.org/web/20170707001947/http://old.memo.ru/hr/hotpoints/chechen/szczyt/index.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 922,
+   "title": "Условия содержания задержанных в зоне вооруженного конфликта в Чеченской Республике. Обращение с задержанными",
+   "year": "1995",
+   "author": "Наблюдательная миссия правозащитных общественных организаций в зоне вооруженного конфликта в Чечне",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/922",
+   "source": "https://web.archive.org/web/20240513064941/http://old.memo.ru/hr/hotpoints/chechen/filter/filtrru_toc.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 985,
+   "title": "Указ Президента Российской Федерации № 2200 О восстановлении федеральных территориальных органов исполнительной власти на территории Чеченской Республики",
+   "year": "1994",
+   "author": "Президент Российской Федерации Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/985",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/985",
+   "source": "http://web.archive.org/web/20251004183811id_/http://www.kremlin.ru/acts/bank/7336",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_no_2200_o_vos_echenskoy_respubliki_1994.txt",
+     "bytes": 2367,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/985/ukaz_prezidenta_rossiyskoy_federacii_no_2200_o_vos_echenskoy_respubliki_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 986,
+   "title": "Война в Чечне: Международный трибунал: Материалы опроса свидетелей: Первая сессия",
+   "year": "1996",
+   "author": "Международный неправительственный трибунал по делу о преступлениях против человечности и военных преступлениях в Чеченской Республике. Комитет обвинителей",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/986",
+   "source": "https://web.archive.org/web/20120517020826/http://grigoryants.ru/tribunal-po-chechne/materialy-oprosa-svidetelej-1-sessiya/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 987,
+   "title": "Неизвестный солдат кавказской войны, 1994-1996: Потери российских войск: погибшие, пропавшие без вести, пленные",
+   "year": "1997",
+   "author": "Ольга Трусевич, Александр Черкасов",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1997 года под авторским правом (издание «Мемориала»)",
+   "why_not": "права: современная публикация 1997 года под авторским правом (издание «Мемориала»)",
+   "card": "https://archive.decolonial.ist/987",
+   "source": "https://imwerden.de/pdf/neizvestny_soldat_kavkazskoj_vojny_1994-1996_1997__ocr.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 988,
+   "title": "Материалы опроса свидетелей. Вторая сессия. Москва, 20-24 апреля 1996 года. Дополнительные слушания. Третья сессия. Прага, 24-26 мая 1996 года",
+   "year": "1997",
+   "author": "Международный неправительственный трибунал по делу о преступлениях против человечности и военных преступлениях в Чеченской Республике. Комитет обвинителей",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1997 года под авторским правом",
+   "why_not": "права: современная публикация 1997 года под авторским правом",
+   "card": "https://archive.decolonial.ist/988",
+   "source": "http://web.archive.org/web/20170822050911id_/http://grigoryants.ru:80/doc/materialy-oprosa-svidetelej-2-3-sessi.doc",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1038,
+   "title": "Hearing on Chechnya (CSCE 104-1-6)",
+   "year": "1995",
+   "author": "Commission on Security and Cooperation in Europe (U.S. Helsinki Commission)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "издание Правительства США (U.S. Government Printing Office, стенограмма слушаний Конгресса) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1038",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1038",
+   "source": "https://www.govinfo.gov/content/pkg/GOVPUB-Y4_SE2-930e6b0a30ed8a1dd1f4b88c72311e88/html/GOVPUB-Y4_SE2-930e6b0a30ed8a1dd1f4b88c72311e88.htm",
+   "files": [
+    {
+     "name": "hearing_on_chechnya_csce_104_1_6_1995.txt",
+     "bytes": 155499,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1038/hearing_on_chechnya_csce_104_1_6_1995.txt",
+     "where": "repo"
+    },
+    {
+     "name": "hearing_on_chechnya_csce_104_1_6_1995_ocr.txt",
+     "bytes": 135201,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1038/hearing_on_chechnya_csce_104_1_6_1995_ocr.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1039,
+   "title": "Chechen capital on war alert after raid",
+   "year": "1994",
+   "author": "Hearst D.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (theguardian.com)",
+   "why_not": "права: материал организации или СМИ под авторским правом (theguardian.com)",
+   "card": "https://archive.decolonial.ist/1039",
+   "source": "https://www.theguardian.com/world/1994/oct/01/chechnya.davidhearst",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1042,
+   "title": "Чеченцы тренируются в Волгограде",
+   "year": "1994",
+   "author": "Краснопольский К.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1042",
+   "source": "https://web.archive.org/web/20241005152159/https://www.kommersant.ru/doc/91470",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1043,
+   "title": "Наступление было непродолжительным",
+   "year": "1994",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1043",
+   "source": "https://web.archive.org/web/20160310054201/https://www.kommersant.ru/doc/92725",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1045,
+   "title": "Оппозиция копит силы для последнего штурма",
+   "year": "1994",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1045",
+   "source": "https://web.archive.org/web/20250811150539/https://www.kommersant.ru/doc/95981",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1049,
+   "title": "Борис Ельцин дал два дня на размышление",
+   "year": "1994",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1049",
+   "source": "https://web.archive.org/web/20260219071846/https://www.kommersant.ru/doc/96526",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1059,
+   "title": "Chechnya - Airport Attacked",
+   "year": "1994",
+   "author": "AP Television News",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1059",
+   "source": "https://www.youtube.com/watch?v=tUBNKVmMnwo",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1060,
+   "title": "Chechnya/ Russia - Air Attack On Grozny",
+   "year": "1994",
+   "author": "AP Television News",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1060",
+   "source": "https://www.youtube.com/watch?v=RCXyhJmAa-o",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1063,
+   "title": "RUSSIA: CHECHNYA: GRACHEV AND DUDAYEV HOLD TALKS",
+   "year": "1994",
+   "author": "AP Television News",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1063",
+   "source": "https://www.youtube.com/watch?v=AyrKGrH6Zvk",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1068,
+   "title": "Оппозиция предложила Дудаеву сдаться",
+   "year": "1994",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1068",
+   "source": "https://web.archive.org/web/20251118202107/https://www.kommersant.ru/doc/91319",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1071,
+   "title": "Chechnya - Dudayev's Men Take Opposition Soldiers",
+   "year": "1994",
+   "author": "AP Television News",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1071",
+   "source": "https://www.youtube.com/watch?v=fC5FpaJzLSc",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1078,
+   "title": "Выпуски новостей российского телевидения о Чечне, 6 декабря 1994 года",
+   "year": "1994",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1078",
+   "source": "https://www.youtube.com/watch?v=fVOBzwBeEvc",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1085,
+   "title": "Преданные. Как начиналась «первая чеченская»",
+   "year": "2004",
+   "author": "Черкасов А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2004 года под авторским правом",
+   "why_not": "права: современная публикация 2004 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1085",
+   "source": "https://web.archive.org/web/20120202211659/http://polit.ru/article/2004/12/03/chech/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1086,
+   "title": "«Парад планет». Ноябрьский штурм Грозного: подготовка и осуществление",
+   "year": "2004",
+   "author": "Черкасов А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2004 года под авторским правом",
+   "why_not": "права: современная публикация 2004 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1086",
+   "source": "https://web.archive.org/web/20060108053430/http://www.polit.ru/analytics/2004/11/29/chech.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1087,
+   "title": "ФСБ взрывает Россию",
+   "year": "2002",
+   "author": "Литвиненко А., Фельштинский Ю.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2002 года под авторским правом",
+   "why_not": "права: современная публикация 2002 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1087",
+   "source": "https://openlibrary.org/books/OL23164272M",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1121,
+   "title": "Attacks on the Press in 1996: Russia",
+   "year": "1997",
+   "author": "Committee to Protect Journalists",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1997 года под авторским правом",
+   "why_not": "права: современная публикация 1997 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1121",
+   "source": "https://web.archive.org/web/20031229045333/http://www.cpj.org/attacks96/countries/europe/russiarhs.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1122,
+   "title": "У нас там не оказалось подводной лодки: Кизляр - Первомайское, январь 1996",
+   "year": "1996",
+   "author": "Правозащитный центр «Мемориал»",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1122",
+   "source": "https://web.archive.org/web/20191008024532/http://old.memo.ru/hr/hotpoints/chechen/submar/ch4.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1123,
+   "title": "Указ Президента Российской Федерации от 3 июля 1995 г. № 663 «О дислокации органов военного управления, соединений, воинских частей, учреждений и организаций Вооруженных Сил Российской Федерации на территории Чеченской Республики»",
+   "year": "1995",
+   "author": "Президент Российской Федерации Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1123",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1123",
+   "source": "https://web.archive.org/web/20260918184700/https://www.szrf.ru/api/issues/document?nd=18&volid=1001995028000",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_3_iyulya_1_echenskoy_respubliki_1995.txt",
+     "bytes": 1331,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1123/ukaz_prezidenta_rossiyskoy_federacii_ot_3_iyulya_1_echenskoy_respubliki_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1124,
+   "title": "Протокол заседания Комиссий по переговорам о прекращении огня, военных действий и мерах по урегулированию вооруженного конфликта на территории Чеченской Республики",
+   "year": "1996",
+   "author": "Комиссии по переговорам Правительства Российской Федерации и Кабинета министров Чеченской Республики Ичкерия",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "соглашение сторон переговоров (комиссии России и Чеченской Республики Ичкерия, Назрань, 10.06.1996) — официальный документ; выкладывается только текст протокола, без аппарата книги Ляховского 2006 года",
+   "card": "https://archive.decolonial.ist/1124",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1124",
+   "source": "https://books.google.com/books?id=jZ0iAQAAIAAJ",
+   "files": [
+    {
+     "name": "protokol_zasedaniya_komissiy_po_peregovoram_o_prek_echenskoy_respubliki_1996.txt",
+     "bytes": 7491,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1124/protokol_zasedaniya_komissiy_po_peregovoram_o_prek_echenskoy_respubliki_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1127,
+   "title": "The War in Chechnya",
+   "year": "1999",
+   "author": "Stasys Knezys, Romanas Sedlickas",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1999 года под авторским правом",
+   "why_not": "права: современная публикация 1999 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1127",
+   "source": "https://books.google.com/books?id=iThpAAAAMAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1128,
+   "title": "Russia. War in Chechnya. New Report From the Field",
+   "year": "1995",
+   "author": "Human Rights Watch/Helsinki",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/1128",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1128",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf",
+   "files": [
+    {
+     "name": "russia_war_in_chechnya_new_report_from_the_field_1995.pdf",
+     "bytes": 160207,
+     "sha256": "772e981b3c2dceeb1ab7524a25feab278cb828ff0dcbb3b1eaeb5434905dd555",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1128/russia_war_in_chechnya_new_report_from_the_field_1995.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "russia_war_in_chechnya_new_report_from_the_field_1995_hrw_1995_01_war_in_chechnya_ne.txt",
+     "bytes": 47109,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1128/russia_war_in_chechnya_new_report_from_the_field_1995_hrw_1995_01_war_in_chechnya_ne.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_war_in_chechnya_new_report_from_the_field_1995_hrw_russia2951_jan1995_newrepo.txt",
+     "bytes": 46875,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1128/russia_war_in_chechnya_new_report_from_the_field_1995_hrw_russia2951_jan1995_newrepo.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1130,
+   "title": "Чеченский излом. Дневники и воспоминания",
+   "year": "2009",
+   "author": "Трошев Г. Н.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2009 года под авторским правом",
+   "why_not": "права: современная публикация 2009 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1130",
+   "source": "https://books.google.com/books?id=mgb7kQAACAAJ",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1131,
+   "title": "Agreement on the peaceful regulation of the situation in the Chechen Republic (on a set of military issues)",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "соглашение сторон переговоров (делегации России и Чеченской Республики Ичкерия, Грозный, 30.07.1995) — официальный документ; английский перевод из базы мирных соглашений ООН",
+   "card": "https://archive.decolonial.ist/1131",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1131",
+   "source": "https://peacemaker.un.org/sites/default/files/document/files/2024/05/ru950730peacefulresolutionmilitaryissues.pdf",
+   "files": [
+    {
+     "name": "agreement_on_the_peaceful_regulation_of_the_situat_t_of_military_issues_1995.txt",
+     "bytes": 12383,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1131/agreement_on_the_peaceful_regulation_of_the_situat_t_of_military_issues_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1134,
+   "title": "Итоги: переговоры Ельцина и Яндарбиева в Кремле",
+   "year": "1996",
+   "author": "НТВ",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1134",
+   "source": "https://www.youtube.com/watch?v=q6fOSqMNFTI",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1136,
+   "title": "Трагедия села Самашки. Чечня. Апрель 1995. Дневник правозащитника",
+   "year": "1995",
+   "author": "Блинушов А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом (журнал «Карта» № 9, Рязань)",
+   "why_not": "права: современная публикация 1995 года под авторским правом (журнал «Карта» № 9, Рязань)",
+   "card": "https://archive.decolonial.ist/1136",
+   "source": "https://resource.history.org.ua/item/0007533",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1142,
+   "title": "OSCE to deploy Assistance Group for Chechnya (press release, Vienna, 29 March 1995)",
+   "year": "1995",
+   "author": "Постоянный совет ОБСЕ",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1142",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1142",
+   "source": "https://www.osce.org/pc/52548",
+   "files": [
+    {
+     "name": "osce_to_deploy_assistance_group_for_chechnya_press_vienna_29_march_1995_1995.txt",
+     "bytes": 6210,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1142/osce_to_deploy_assistance_group_for_chechnya_press_vienna_29_march_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1149,
+   "title": "Ottawa Declaration of the OSCE Parliamentary Assembly and Resolutions Adopted by the OSCE Parliamentary Assembly at the Fourth Annual Session, Ottawa, 8 July 1995",
+   "year": "1995",
+   "author": "Парламентская ассамблея ОБСЕ",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1149",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1149",
+   "source": "https://www.osce.org/sites/default/files/f/documents/0/7/38133.pdf",
+   "files": [
+    {
+     "name": "ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_osceor.txt",
+     "bytes": 39059,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1149/ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_osceor.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_osceor.pdf",
+     "bytes": 57404,
+     "sha256": "19312fc030bec39421fb0b58d06a4050ed4f70cab378972d24d1faeb55dda3d1",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1149/ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_osceor.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_oscepa.pdf",
+     "bytes": 271857,
+     "sha256": "a32d6ffdb982f71676cfd1366692d1f95d8c8169f24ca7a950460bbf388d1594",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1149/ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_oscepa.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_oscepa.txt",
+     "bytes": 42792,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1149/ottawa_declaration_of_the_osce_parliamentary_assem_n_ottawa_8_july_1995_1995_ottawa_1995_declaration_oscepa.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1152,
+   "title": "Russia/Chechnya: Report to the 1996 OSCE Review Conference",
+   "year": "1996",
+   "author": "Human Rights Watch/Helsinki",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/1152",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1152",
+   "source": "https://www.hrw.org/reports/pdfs/r/russia/russia96n.pdf",
+   "files": [
+    {
+     "name": "russia_chechnya_report_to_the_1996_osce_review_conference_1996.txt",
+     "bytes": 57480,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1152/russia_chechnya_report_to_the_1996_osce_review_conference_1996.txt",
+     "where": "repo"
+    },
+    {
+     "name": "russia_chechnya_report_to_the_1996_osce_review_conference_1996.pdf",
+     "bytes": 183203,
+     "sha256": "0615125a6ebf1bd9b0f2ded5a22155ae776dcba4cfb407980a1553d6022edea4",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1152/russia_chechnya_report_to_the_1996_osce_review_conference_1996.pdf",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1156,
+   "title": "Грозный после штурма города 26 ноября 1994 года",
+   "year": "1994",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1156",
+   "source": "https://www.youtube.com/watch?v=tOZ6IB-DwDM",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1158,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-228)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/1158",
+   "source": "https://archive.org/details/micro_IA1176916_0340",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1159,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-229)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1159",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1159",
+   "source": "https://archive.org/details/micro_IA1176916_0341",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_229_1994_layer.txt",
+     "bytes": 399884,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1159/daily_report_central_eurasia_fbis_sov_94_229_1994_layer.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_229_1994.txt",
+     "bytes": 400474,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1159/daily_report_central_eurasia_fbis_sov_94_229_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1160,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-136)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1160",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1160",
+   "source": "https://archive.org/details/micro_IA1176916_0833",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_136_1996_fbis_sov_96_136_djvu.txt",
+     "bytes": 91785,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1160/daily_report_central_eurasia_fbis_sov_96_136_1996_fbis_sov_96_136_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_136_1996_fbis_sov_96_136_1996_07_15_arc.txt",
+     "bytes": 133696,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1160/daily_report_central_eurasia_fbis_sov_96_136_1996_fbis_sov_96_136_1996_07_15_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1161,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-146)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1161",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1161",
+   "source": "https://archive.org/details/micro_IA1176916_0844",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_146_1996_fbis_sov_96_146_djvu.txt",
+     "bytes": 286306,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1161/daily_report_central_eurasia_fbis_sov_96_146_1996_fbis_sov_96_146_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_146_1996_fbis_sov_96_146_1996_07_29_arc.txt",
+     "bytes": 392145,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1161/daily_report_central_eurasia_fbis_sov_96_146_1996_fbis_sov_96_146_1996_07_29_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1162,
+   "title": "RUSSIAN FEDERATION: Ethnic Chechens in Moscow (UA 182/96, EUR 46/33/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1162",
+   "source": "https://www.amnesty.org/en/documents/eur46/033/1996/en/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1163,
+   "title": "Хроника високосного года: октябрь 1996",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1163",
+   "source": "https://www.kommersant.ru/doc/2284464",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1164,
+   "title": "Указ Президента Российской Федерации от 23 ноября 1996 г. № 1590 «О мерах по обеспечению дальнейшего мирного урегулирования в Чеченской Республике»",
+   "year": "1996",
+   "author": "Президент Российской Федерации Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1164",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1164",
+   "source": "https://web.archive.org/web/20261003201334/http://www.kremlin.ru/acts/bank/10270",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996_ukaz_1590_1996_11_23_kremlin.txt",
+     "bytes": 4060,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1164/ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996_ukaz_1590_1996_11_23_kremlin.txt",
+     "where": "repo"
+    },
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996.pdf",
+     "bytes": 197747,
+     "sha256": "57f7b225735c42cc0c5b4c23a90c1786bf728a992019f764e95aa829bc9cd559",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1164/ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996_ukaz_1590_23_11_1996_peaceagre.txt",
+     "bytes": 2556,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1164/ukaz_prezidenta_rossiyskoy_federacii_ot_23_noyabry_echenskoy_respublike_1996_ukaz_1590_23_11_1996_peaceagre.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1165,
+   "title": "Доку Завгаев видит в Чечне только хорошее",
+   "year": "2001",
+   "author": "Барахова А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1165",
+   "source": "https://web.archive.org/web/20260521164155/https://www.kommersant.ru/doc/169369",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1166,
+   "title": "Кавказский ренессанс",
+   "year": "2002",
+   "author": "Мурадов М.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1166",
+   "source": "https://web.archive.org/web/20261011234935/https://www.kommersant.ru/doc/309300",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1169,
+   "title": "«Хуже всего - не знать»: День пропавших без вести",
+   "year": "2015",
+   "author": "Султанов А., Бигг К.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1169",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1169",
+   "source": "https://www.currenttime.tv/a/27217005.html",
+   "files": [
+    {
+     "name": "huzhe_vsego_ne_znat_den_propavshih_bez_vesti_2015.txt",
+     "bytes": 16450,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1169/huzhe_vsego_ne_znat_den_propavshih_bez_vesti_2015.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1171,
+   "title": "В Грозный привезли останки 109 мирных жителей, погибших в первую чеченскую войну",
+   "year": "2017",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2017 года под авторским правом",
+   "why_not": "права: современная публикация 2017 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1171",
+   "source": "https://graniru.org/War/Chechnya/m.257848.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1179,
+   "title": "Жители Чечни возмутились переносом процедуры опознания останков из братской могилы",
+   "year": "2017",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kavkaz-uzel.eu)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kavkaz-uzel.eu)",
+   "card": "https://archive.decolonial.ist/1179",
+   "source": "https://www.kavkaz-uzel.eu/articles/295398",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1185,
+   "title": "Безымянные солдаты",
+   "year": "1997",
+   "author": "Панюшкин В.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1185",
+   "source": "https://web.archive.org/web/20260219180529/https://www.kommersant.ru/doc/13998",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1191,
+   "title": "Александр Черкасов, председатель Совета ПЦ «Мемориал»: «Нам пришлось подменить собой государство»",
+   "year": "2019",
+   "author": "Зеленая Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (novayagazeta.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (novayagazeta.ru)",
+   "card": "https://archive.decolonial.ist/1191",
+   "source": "https://web.archive.org/web/20240518140745/https://novayagazeta.ru/articles/2019/12/11/83100-aleksandr-cherkasov-predsedatel-pravozaschitnogo-tsentra-memorial-nam-prishlos-podmenit-soboy-gosudarstvo",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1245,
+   "title": "Chechnya Case Study. Interim Report",
+   "year": "1996",
+   "author": "Hansen G., Seely R.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "доклад Watson Institute (Brown University) под авторским правом; ReliefWeb только перепечатывает",
+   "why_not": "права: доклад Watson Institute (Brown University) под авторским правом; ReliefWeb только перепечатывает",
+   "card": "https://archive.decolonial.ist/1245",
+   "source": "https://reliefweb.int/report/russian-federation/chechnya-case-study",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1253,
+   "title": "Human Rights Watch World Report 1997: The Russian Federation",
+   "year": "1997",
+   "author": "Human Rights Watch",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/1253",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1253",
+   "source": "https://www.hrw.org/reports/1997/WR97/HELSINKI-13.htm",
+   "files": [
+    {
+     "name": "human_rights_watch_world_report_1997_the_russian_federation_1997.txt",
+     "bytes": 24890,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1253/human_rights_watch_world_report_1997_the_russian_federation_1997.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1256,
+   "title": "Указ Президента Российской Федерации от 2 ноября 1993 г. № 1815 «О мерах по предупреждению бродяжничества и попрошайничества»",
+   "year": "1993",
+   "author": "Президент Российской Федерации Б. Ельцин",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1256",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1256",
+   "source": "https://web.archive.org/web/20251206100731/https://legalacts.ru/doc/ukaz-prezidenta-rf-ot-02111993-n-1815/",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_2_noyabrya_i_poproshaynichestva_1993.txt",
+     "bytes": 6474,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1256/ukaz_prezidenta_rossiyskoy_federacii_ot_2_noyabrya_i_poproshaynichestva_1993.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1257,
+   "title": "RUSSIA-CHECHNYA: Russian Troops Win Control of Presidential Palace",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1257",
+   "source": "https://www.ipsnews.net/?p=50474",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1259,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-149)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1259",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1259",
+   "source": "https://archive.org/details/micro_IA1176916_0847",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_149_1996_fbis_sov_96_149_djvu.txt",
+     "bytes": 218574,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1259/daily_report_central_eurasia_fbis_sov_96_149_1996_fbis_sov_96_149_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_149_1996_fbis_sov_96_149_1996_08_01_arc.txt",
+     "bytes": 329512,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1259/daily_report_central_eurasia_fbis_sov_96_149_1996_fbis_sov_96_149_1996_08_01_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1260,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-162)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1260",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1260",
+   "source": "https://archive.org/details/micro_IA1176916_0859",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_162_1996_fbis_sov_96_162_djvu.txt",
+     "bytes": 137877,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1260/daily_report_central_eurasia_fbis_sov_96_162_1996_fbis_sov_96_162_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_162_1996_fbis_sov_96_162_1996_08_20_arc.txt",
+     "bytes": 208740,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1260/daily_report_central_eurasia_fbis_sov_96_162_1996_fbis_sov_96_162_1996_08_20_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1266,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-148)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1266",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1266",
+   "source": "https://archive.org/details/micro_IA1176916_0846",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_148_1996_fbis_sov_96_148_1996_07_31_arc.txt",
+     "bytes": 352123,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1266/daily_report_central_eurasia_fbis_sov_96_148_1996_fbis_sov_96_148_1996_07_31_arc.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_148_1996_fbis_sov_96_148_djvu.txt",
+     "bytes": 245587,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1266/daily_report_central_eurasia_fbis_sov_96_148_1996_fbis_sov_96_148_djvu.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1270,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-161)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1270",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1270",
+   "source": "https://archive.org/details/micro_IA1176916_0860",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_161_1996_fbis_sov_96_161_1996_08_19_arc.txt",
+     "bytes": 364287,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1270/daily_report_central_eurasia_fbis_sov_96_161_1996_fbis_sov_96_161_1996_08_19_arc.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_161_1996_fbis_sov_96_161_djvu.txt",
+     "bytes": 276045,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1270/daily_report_central_eurasia_fbis_sov_96_161_1996_fbis_sov_96_161_djvu.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1271,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-163)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1271",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1271",
+   "source": "https://archive.org/details/micro_IA1176916_0861",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_163_1996_fbis_sov_96_163_djvu.txt",
+     "bytes": 192835,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1271/daily_report_central_eurasia_fbis_sov_96_163_1996_fbis_sov_96_163_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_163_1996_fbis_sov_96_163_1996_08_21_arc.txt",
+     "bytes": 282512,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1271/daily_report_central_eurasia_fbis_sov_96_163_1996_fbis_sov_96_163_1996_08_21_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1272,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-164)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1272",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1272",
+   "source": "https://archive.org/details/micro_IA1176916_0862",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_164_1996_fbis_sov_96_164_djvu.txt",
+     "bytes": 168858,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1272/daily_report_central_eurasia_fbis_sov_96_164_1996_fbis_sov_96_164_djvu.txt",
+     "where": "repo"
+    },
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_164_1996_fbis_sov_96_164_1996_08_22_arc.txt",
+     "bytes": 227493,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1272/daily_report_central_eurasia_fbis_sov_96_164_1996_fbis_sov_96_164_1996_08_22_arc.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1273,
+   "title": "RUSSIAN FEDERATION - CHECHEN REPUBLIC: Civilians trapped in Grozny (EXTRA 127/96, EUR 46/36/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1273",
+   "source": "https://www.amnesty.org/en/documents/eur46/036/1996/en/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1274,
+   "title": "RUSSIAN FEDERATION - CHECHEN REPUBLIC: Civilians under bombardment in Komsomolskoye (EUR 46/37/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1274",
+   "source": "https://www.amnesty.org/en/documents/eur46/037/1996/en/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1275,
+   "title": "CHECHEN REPUBLIC - RUSSIAN FEDERATION: \"Disappearance\" / Possible extrajudicial execution (UA 196/96, EUR 46/35/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1275",
+   "source": "https://www.amnesty.org/en/documents/eur46/035/1996/en/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1276,
+   "title": "Remarks by President Clinton and President Yeltsin in a Joint Press Conference",
+   "year": "1995",
+   "author": "The White House, Office of the Press Secretary",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ Правительства США (пресс-служба Белого дома) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1276",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1276",
+   "source": "https://clintonwhitehouse6.archives.gov/1995/05/1995-05-10-presidents-clinton-and-yeltsin-in-press-conference.html",
+   "files": [
+    {
+     "name": "remarks_by_president_clinton_and_president_yeltsin_int_press_conference_1995.txt",
+     "bytes": 28946,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1276/remarks_by_president_clinton_and_president_yeltsin_int_press_conference_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1278,
+   "title": "RFE/RL Newsline, 9 May 1996",
+   "year": "1996",
+   "author": "RFE/RL Newsline (редакция Radio Free Europe / Radio Liberty)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1278",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1278",
+   "source": "https://www.rferl.org/a/1141167.html",
+   "files": [
+    {
+     "name": "rfe_rl_newsline_9_may_1996_1996.txt",
+     "bytes": 32840,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1278/rfe_rl_newsline_9_may_1996_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1279,
+   "title": "Russia Detains Widow of Late Chechen Rebel Leader",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1279",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1279",
+   "source": "https://www.rferl.org/a/1080663.html",
+   "files": [
+    {
+     "name": "russia_detains_widow_of_late_chechen_rebel_leader_1996.txt",
+     "bytes": 1969,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1279/russia_detains_widow_of_late_chechen_rebel_leader_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1293,
+   "title": "Russia: Amnesty calls on Russian authorities to release or charge Chechen detainees",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1293",
+   "source": "https://www.amnesty.org/en/wp-content/uploads/2021/06/eur460141995en.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1294,
+   "title": "План Ельцина по Чечне",
+   "year": "1996",
+   "author": "Капустина Ю.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1294",
+   "source": "https://web.archive.org/web/20260406072752/https://www.kommersant.ru/doc/130047",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1297,
+   "title": "Чечня - радиоперехват Грозный 96",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1297",
+   "source": "https://web.archive.org/web/20200710061743/https://rutube.ru/video/887369a414609963b090be865b5ae227/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1298,
+   "title": "Взгляд 06.09.1996",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1298",
+   "source": "https://web.archive.org/web/20251014051222/https://rutube.ru/video/7e5d459618d563075c3733ac0b55caf4/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1300,
+   "title": "Protocol of the Meeting of the Working Groups, Formed under the Negotiations Commissions, to Locate Missing Persons and to Free Forcibly Detained Persons",
+   "year": "1996",
+   "author": "Bezborodov N., Makhashev K.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1300",
+   "source": "https://www.peaceagreements.org/view/513/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1301,
+   "title": "Human Rights Watch World Report 1996: The Russian Federation",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "Human Rights Watch: CC BY-NC-ND 3.0, перепубликация без переработки, некоммерчески, со ссылкой",
+   "card": "https://archive.decolonial.ist/1301",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1301",
+   "source": "https://www.hrw.org/legacy/reports/1996/WR96/Helsinki-16.htm",
+   "files": [
+    {
+     "name": "human_rights_watch_world_report_1996_the_russian_federation_1996.txt",
+     "bytes": 28385,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1301/human_rights_watch_world_report_1996_the_russian_federation_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1303,
+   "title": "Госдума о чеченском кризисе",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1303",
+   "source": "https://web.archive.org/web/20251219093126/https://www.kommersant.ru/doc/102545",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1304,
+   "title": "Chechnya: At Least 80,000 People Died In War, Says Lebed",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1304",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1304",
+   "source": "https://www.rferl.org/a/1081622.html",
+   "files": [
+    {
+     "name": "chechnya_at_least_80_000_people_died_in_war_says_lebed_1996.txt",
+     "bytes": 3599,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1304/chechnya_at_least_80_000_people_died_in_war_says_lebed_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1305,
+   "title": "Russian Security Adviser Defends Agreement That Halted Fighting",
+   "year": "1996",
+   "author": "Gordon M. R.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1305",
+   "source": "https://www.spokesman.com/stories/1996/sep/04/russian-security-adviser-defends-agreement-that/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1307,
+   "title": "Ультиматум — оружие миротворцев",
+   "year": "1996",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1307",
+   "source": "https://web.archive.org/web/20161005231344/http://www.kommersant.ru/doc/235942",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1309,
+   "title": "Путь к миру вымощен «адекватными мерами»",
+   "year": "1996",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1309",
+   "source": "https://web.archive.org/web/20261005161159/https://www.kommersant.ru/doc/236108",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1310,
+   "title": "Троллейбусная война",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1310",
+   "source": "https://web.archive.org/web/20250116122719/https://www.kommersant.ru/doc/236338",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1313,
+   "title": "Оказывается, это была шутка",
+   "year": "1996",
+   "author": "Камышев Д.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1313",
+   "source": "https://web.archive.org/web/20261005201212/https://www.kommersant.ru/doc/238131",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1315,
+   "title": "Постановление Государственной Думы от 12 марта 1997 г. № 1199-II ГД «Об объявлении амнистии в отношении лиц, совершивших общественно опасные деяния в связи с вооруженным конфликтом в Чеченской Республике»",
+   "year": "1997",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1315",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1315",
+   "source": "https://web.archive.org/web/20251019184517/https://www.consultant.ru/document/cons_doc_LAW_13693/",
+   "files": [
+    {
+     "name": "postanovlenie_gosudarstvennoy_dumy_ot_12_marta_199_echenskoy_respublike_1997.txt",
+     "bytes": 7739,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1315/postanovlenie_gosudarstvennoy_dumy_ot_12_marta_199_echenskoy_respublike_1997.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1316,
+   "title": "Agreement «On Urgent Measures to Stop Fire and Combat Operations in the City of Grozny and on the Territory of Chechnya»",
+   "year": "1996",
+   "author": "Lebed A., Maskhadov A.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1316",
+   "source": "https://www.peaceagreements.org/view/227/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1319,
+   "title": "Conflicting parties agree to cease hostilities during talks on Chechnya (press release, 22 June 1995)",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1319",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1319",
+   "source": "https://www.osce.org/chechnya-closed/52559",
+   "files": [
+    {
+     "name": "conflicting_parties_agree_to_cease_hostilities_dur_release_22_june_1995_1995.txt",
+     "bytes": 7509,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1319/conflicting_parties_agree_to_cease_hostilities_dur_release_22_june_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1320,
+   "title": "Russia, Chechnya Talk Peace, Make War in Rebel Region",
+   "year": "1994",
+   "author": "Ford P.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1994 года под авторским правом",
+   "why_not": "права: современная публикация 1994 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1320",
+   "source": "https://www.csmonitor.com/1994/1213/13014.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1323,
+   "title": "Этот день победы...",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1323",
+   "source": "https://web.archive.org/web/20260213200855/https://www.kommersant.ru/doc/99805",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1325,
+   "title": "Protocol of the Meeting of Delegations on the Issue of Peaceful Resolution of the Crisis in the Chechen Republic with OSCE Support",
+   "year": "1995",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1325",
+   "source": "https://www.peaceagreements.org/view/510/",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1326,
+   "title": "Указ Президента Российской Федерации от 31 марта 1996 г. № 435 «О программе урегулирования кризиса в Чеченской Республике»",
+   "year": "1996",
+   "author": "Ельцин Б. Н.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1326",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1326",
+   "source": "https://web.archive.org/web/20261011221042/https://laws-russia.narod.ru/fed1996/data06/tex20004.htm",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_31_marta_1_echenskoy_respublike_1996.txt",
+     "bytes": 12984,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1326/ukaz_prezidenta_rossiyskoy_federacii_ot_31_marta_1_echenskoy_respublike_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1327,
+   "title": "Указ Президента Российской Федерации от 2 ноября 1993 г. № 1833 «Об Основных положениях военной доктрины Российской Федерации»",
+   "year": "1993",
+   "author": "Ельцин Б. Н.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1327",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1327",
+   "source": "https://web.archive.org/web/20221126052531/https://base.garant.ru/6302237/",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_2_noyabrya_rossiyskoy_federacii_1993.txt",
+     "bytes": 11699,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1327/ukaz_prezidenta_rossiyskoy_federacii_ot_2_noyabrya_rossiyskoy_federacii_1993.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1330,
+   "title": "RFE/RL Newsline, 19 June 1996",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1330",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1330",
+   "source": "https://www.rferl.org/a/1141196.html",
+   "files": [
+    {
+     "name": "rfe_rl_newsline_19_june_1996_1996.txt",
+     "bytes": 32609,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1330/rfe_rl_newsline_19_june_1996_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1331,
+   "title": "OSCE dismisses Chechnya election",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "заметка The Jamestown Foundation (Monitor) под авторским правом; ReliefWeb только перепечатал",
+   "why_not": "права: заметка The Jamestown Foundation (Monitor) под авторским правом; ReliefWeb только перепечатал",
+   "card": "https://archive.decolonial.ist/1331",
+   "source": "https://reliefweb.int/report/russian-federation/19-june-1996-monitor-vol-ii-no120",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1334,
+   "title": "Grozny Falls",
+   "year": "1995",
+   "author": "Gray M.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1334",
+   "source": "https://thecanadianencyclopedia.ca/en/article/grozny-falls",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1335,
+   "title": "Attacks on the Press in 1995: Central Europe and the Republics of the Former Soviet Union",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1335",
+   "source": "https://web.archive.org/web/20191215163011/https://cpj.org/attacks95/attlist95.europe.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1337,
+   "title": "World Vision Team Re-Enters Sernovodsk. Trip shows shocking conditions in Sernovodsk and in Grozni hospital",
+   "year": "1995",
+   "author": "Vanhee J., Peltoniemi J., Almas P.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1337",
+   "source": "https://writing.upenn.edu/~afilreis/News/chechnya-health.html",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1338,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-172)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/1338",
+   "source": "https://archive.org/details/micro_IA1176916_0280",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1339,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-227)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1339",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1339",
+   "source": "https://archive.org/details/micro_IA1176916_0339",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_227_1994.txt",
+     "bytes": 410319,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1339/daily_report_central_eurasia_fbis_sov_94_227_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1340,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-230)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1340",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1340",
+   "source": "https://archive.org/details/micro_IA1176916_0342",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_230_1994.txt",
+     "bytes": 435831,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1340/daily_report_central_eurasia_fbis_sov_94_230_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1341,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-232)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1341",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1341",
+   "source": "https://archive.org/details/micro_IA1176916_0345",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_232_1994.txt",
+     "bytes": 306331,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1341/daily_report_central_eurasia_fbis_sov_94_232_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1342,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-243)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1342",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1342",
+   "source": "https://archive.org/details/micro_IA1176916_0356",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_243_1994.txt",
+     "bytes": 402243,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1342/daily_report_central_eurasia_fbis_sov_94_243_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1343,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-244)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1343",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1343",
+   "source": "https://archive.org/details/micro_IA1176916_0357",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_244_1994.txt",
+     "bytes": 236318,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1343/daily_report_central_eurasia_fbis_sov_94_244_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1344,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-250)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1344",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1344",
+   "source": "https://archive.org/details/micro_IA1176916_0363",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_250_1994.txt",
+     "bytes": 310902,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1344/daily_report_central_eurasia_fbis_sov_94_250_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1345,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-034)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1345",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1345",
+   "source": "https://archive.org/details/micro_IA1176916_0400",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_034_1995.txt",
+     "bytes": 186962,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1345/daily_report_central_eurasia_fbis_sov_95_034_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1346,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-082)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1346",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1346",
+   "source": "https://archive.org/details/micro_IA1176916_0471",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_082_1995.txt",
+     "bytes": 471934,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1346/daily_report_central_eurasia_fbis_sov_95_082_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1347,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-098)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/1347",
+   "source": "https://archive.org/details/micro_IA1176916_0494",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1348,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-195)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/1348",
+   "source": "https://archive.org/details/micro_IA1176916_0633",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1349,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-196)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1349",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1349",
+   "source": "https://archive.org/details/micro_IA1176916_0634",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_196_1995.txt",
+     "bytes": 449033,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1349/daily_report_central_eurasia_fbis_sov_95_196_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1351,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-241)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1351",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1351",
+   "source": "https://archive.org/details/micro_IA1176916_0685",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_241_1995.txt",
+     "bytes": 305529,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1351/daily_report_central_eurasia_fbis_sov_95_241_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1352,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-242)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1352",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1352",
+   "source": "https://archive.org/details/micro_IA1176916_0686",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_242_1995.txt",
+     "bytes": 462859,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1352/daily_report_central_eurasia_fbis_sov_95_242_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1354,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-249)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1354",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1354",
+   "source": "https://archive.org/details/micro_IA1176916_0693",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_249_1995.txt",
+     "bytes": 204834,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1354/daily_report_central_eurasia_fbis_sov_95_249_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1355,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-014)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1355",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1355",
+   "source": "https://archive.org/details/micro_IA1176916_0705",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_014_1996.txt",
+     "bytes": 59891,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1355/daily_report_central_eurasia_fbis_sov_96_014_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1356,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-044)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1356",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1356",
+   "source": "https://archive.org/details/micro_IA1176916_0738",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_044_1996.txt",
+     "bytes": 341376,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1356/daily_report_central_eurasia_fbis_sov_96_044_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1357,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-063)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1357",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1357",
+   "source": "https://archive.org/details/micro_IA1176916_0758",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_063_1996.txt",
+     "bytes": 275924,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1357/daily_report_central_eurasia_fbis_sov_96_063_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1359,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-083)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1359",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1359",
+   "source": "https://archive.org/details/micro_IA1176916_0781",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_083_1996.txt",
+     "bytes": 297768,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1359/daily_report_central_eurasia_fbis_sov_96_083_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1360,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-087)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1360",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1360",
+   "source": "https://archive.org/details/micro_IA1176916_0785",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_087_1996.txt",
+     "bytes": 212251,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1360/daily_report_central_eurasia_fbis_sov_96_087_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1361,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-092)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1361",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1361",
+   "source": "https://archive.org/details/micro_IA1176916_0790",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_092_1996.txt",
+     "bytes": 314341,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1361/daily_report_central_eurasia_fbis_sov_96_092_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1362,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-108)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1362",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1362",
+   "source": "https://archive.org/details/micro_IA1176916_0805",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_108_1996.txt",
+     "bytes": 244773,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1362/daily_report_central_eurasia_fbis_sov_96_108_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1363,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-137)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1363",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1363",
+   "source": "https://archive.org/details/micro_IA1176916_0834",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_137_1996.txt",
+     "bytes": 242937,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1363/daily_report_central_eurasia_fbis_sov_96_137_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1364,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-139)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1364",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1364",
+   "source": "https://archive.org/details/micro_IA1176916_0837",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_139_1996.txt",
+     "bytes": 272306,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1364/daily_report_central_eurasia_fbis_sov_96_139_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1365,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-140)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1365",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1365",
+   "source": "https://archive.org/details/micro_IA1176916_0838",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_140_1996.txt",
+     "bytes": 262517,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1365/daily_report_central_eurasia_fbis_sov_96_140_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1366,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-156)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1366",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1366",
+   "source": "https://archive.org/details/micro_IA1176916_0854",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_156_1996.txt",
+     "bytes": 204699,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1366/daily_report_central_eurasia_fbis_sov_96_156_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1367,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-158)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1367",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1367",
+   "source": "https://archive.org/details/micro_IA1176916_0856",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_158_1996.txt",
+     "bytes": 286591,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1367/daily_report_central_eurasia_fbis_sov_96_158_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1369,
+   "title": "OMRI Daily Digest, 2 February 1995",
+   "year": "1995",
+   "author": "OMRI Daily Digest (Open Media Research Institute)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1369",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1369",
+   "source": "https://www.rferl.org/a/1140866.html",
+   "files": [
+    {
+     "name": "omri_daily_digest_2_february_1995_1995.txt",
+     "bytes": 31046,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1369/omri_daily_digest_2_february_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1373,
+   "title": "OMRI Daily Digest, 22 May 1995",
+   "year": "1995",
+   "author": "OMRI Daily Digest (Open Media Research Institute)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1373",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1373",
+   "source": "https://www.rferl.org/a/1140940.html",
+   "files": [
+    {
+     "name": "omri_daily_digest_22_may_1995_1995.txt",
+     "bytes": 30642,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1373/omri_daily_digest_22_may_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1375,
+   "title": "OSCE Group Reports Bilateral Rights Abuses",
+   "year": "1995",
+   "author": "Gall C.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1375",
+   "source": "https://www.themoscowtimes.com/archive/osce-group-reports-bilateral-rights-abuses",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1380,
+   "title": "Обращение Президента РФ к гражданам России от 11 декабря 1994 г. О введении на территорию Чеченской Республики подразделений войск МВД и Минобороны России",
+   "year": "1994",
+   "author": "Ельцин Б. Н.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "официальный документ: тексты актов авторским правом не охраняются (текст с base.garant.ru)",
+   "card": "https://archive.decolonial.ist/1380",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1380",
+   "source": "https://web.archive.org/web/20231117052024/https://base.garant.ru/6300117/",
+   "files": [
+    {
+     "name": "obraschenie_prezidenta_rf_k_grazhdanam_rossii_ot_1_i_minoborony_rossii_1994.txt",
+     "bytes": 13235,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1380/obraschenie_prezidenta_rf_k_grazhdanam_rossii_ot_1_i_minoborony_rossii_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1381,
+   "title": "War Crimes and Politics of Terror in Chechnya 1994-2004. MSF Speaks Out",
+   "year": "2014",
+   "author": "Binet L.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2014 года под авторским правом",
+   "why_not": "права: современная публикация 2014 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1381",
+   "source": "https://www.msf.org/sites/default/files/2019-04/MSF%20Speaking%20Out%20Chechnya%201994-2004.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1382,
+   "title": "OSCE Faces Problems In Chechnya",
+   "year": "1996",
+   "author": "Radio Free Europe / Radio Liberty (RFE/RL)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1382",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1382",
+   "source": "https://www.rferl.org/a/1080017.html",
+   "files": [
+    {
+     "name": "osce_faces_problems_in_chechnya_1996.txt",
+     "bytes": 3574,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1382/osce_faces_problems_in_chechnya_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1385,
+   "title": "RFE/RL Newsline, 28 March 1996",
+   "year": "1996",
+   "author": "RFE/RL Newsline (редакция Radio Free Europe / Radio Liberty)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1385",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1385",
+   "source": "https://www.rferl.org/a/1141140.html",
+   "files": [
+    {
+     "name": "rfe_rl_newsline_28_march_1996_1996.txt",
+     "bytes": 31856,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1385/rfe_rl_newsline_28_march_1996_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1388,
+   "title": "Will Lebed Discipline Tikhomirov?",
+   "year": "1996",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1388",
+   "source": "https://jamestown.org/?p=49792",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1389,
+   "title": "RFE/RL Newsline, 10 June 1996",
+   "year": "1996",
+   "author": "RFE/RL Newsline (редакция Radio Free Europe / Radio Liberty)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1389",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1389",
+   "source": "https://www.rferl.org/a/1141189.html",
+   "files": [
+    {
+     "name": "rfe_rl_newsline_10_june_1996_1996.txt",
+     "bytes": 32696,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1389/rfe_rl_newsline_10_june_1996_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1402,
+   "title": "CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EXTRA 34/96, EUR 46/13/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1402",
+   "source": "https://www.amnesty.org/en/wp-content/uploads/2021/06/eur460131996en.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1403,
+   "title": "CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EUR 46/14/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1403",
+   "source": "https://www.amnesty.org/ar/wp-content/uploads/2021/06/eur460141996en.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1407,
+   "title": "Russian Federation/Northen Caucasus: Drinking water scarce in Grozny",
+   "year": "1996",
+   "author": "Международный комитет Красного Креста (ICRC)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1407",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1407",
+   "source": "https://reliefweb.int/report/russian-federation/russian-federationnorthen-caucasus-drinking-water-scarce-grozny",
+   "files": [
+    {
+     "name": "russian_federation_northen_caucasus_drinking_water_scarce_in_grozny_1996.txt",
+     "bytes": 2112,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1407/russian_federation_northen_caucasus_drinking_water_scarce_in_grozny_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1410,
+   "title": "OMRI Daily Digest, 20 January 1995",
+   "year": "1995",
+   "author": "OMRI Daily Digest (Open Media Research Institute)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1410",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1410",
+   "source": "https://www.rferl.org/a/1140857.html",
+   "files": [
+    {
+     "name": "omri_daily_digest_20_january_1995_1995.txt",
+     "bytes": 31030,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1410/omri_daily_digest_20_january_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1411,
+   "title": "OMRI Daily Digest, 19 May 1995",
+   "year": "1995",
+   "author": "OMRI Daily Digest (Open Media Research Institute)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "RFE/RL: перепубликация текста разрешена со ссылкой на оригинал и копирайтом RFE/RL",
+   "card": "https://archive.decolonial.ist/1411",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1411",
+   "source": "https://www.rferl.org/a/1140939.html",
+   "files": [
+    {
+     "name": "omri_daily_digest_19_may_1995_1995.txt",
+     "bytes": 30861,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1411/omri_daily_digest_19_may_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1414,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-191)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1414",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1414",
+   "source": "https://archive.org/details/micro_IA1176916_0300",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_191_1994.txt",
+     "bytes": 327873,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1414/daily_report_central_eurasia_fbis_sov_94_191_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1415,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-231)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1415",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1415",
+   "source": "https://archive.org/details/micro_IA1176916_0344",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_94_231_1994.txt",
+     "bytes": 186891,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1415/daily_report_central_eurasia_fbis_sov_94_231_1994.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1418,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-141)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1418",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1418",
+   "source": "https://archive.org/details/micro_IA1176916_0558",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_141_1995.txt",
+     "bytes": 439580,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1418/daily_report_central_eurasia_fbis_sov_95_141_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1420,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-094)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1420",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1420",
+   "source": "https://archive.org/details/micro_IA1176916_0791",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_094_1996.txt",
+     "bytes": 281778,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1420/daily_report_central_eurasia_fbis_sov_96_094_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1421,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-145)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1421",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1421",
+   "source": "https://archive.org/details/micro_IA1176916_0843",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_145_1996.txt",
+     "bytes": 283890,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1421/daily_report_central_eurasia_fbis_sov_96_145_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1423,
+   "title": "Указ Президента Российской Федерации от 27.01.1995 г. № 79 Об обеспечении условий для воссоздания конституционных органов власти в Чеченской Республике",
+   "year": "1995",
+   "author": "Ельцин Б. Н.",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются",
+   "card": "https://archive.decolonial.ist/1423",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1423",
+   "source": "https://web.archive.org/web/20241210103713/http://www.kremlin.ru/acts/bank/7475",
+   "files": [
+    {
+     "name": "ukaz_prezidenta_rossiyskoy_federacii_ot_27_01_1995_echenskoy_respublike_1995.txt",
+     "bytes": 3363,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1423/ukaz_prezidenta_rossiyskoy_federacii_ot_27_01_1995_echenskoy_respublike_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1424,
+   "title": "Покушение на Джохара Дудаева",
+   "year": "1994",
+   "author": "Игорев М.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1424",
+   "source": "https://web.archive.org/web/20260310040559/https://www.kommersant.ru/doc/79930",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1425,
+   "title": "Под огнем Москвы оказались переговоры",
+   "year": "1994",
+   "author": "Камышев Д. и др.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1425",
+   "source": "https://web.archive.org/web/20241215090807/https://www.kommersant.ru/doc/97904",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1426,
+   "title": "Ситуация в Чечне, 23 декабря 1994 года",
+   "year": "1994",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/1426",
+   "source": "https://web.archive.org/web/20250118073828/https://www.kommersant.ru/doc/98564",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1427,
+   "title": "Прощения нам не будет",
+   "year": "1996",
+   "author": "Блинушов А.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1996 года под авторским правом",
+   "why_not": "права: современная публикация 1996 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1427",
+   "source": "https://web.archive.org/web/2006id_/http://www.hro.org/editions/karta/nr15/blin.htm",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1428,
+   "title": "Dawn raiders seize Chechens",
+   "year": "1996",
+   "author": "Reuters",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "статья Reuters в The Guardian под авторским правом; archive.org только хранит выпуск газеты",
+   "why_not": "права: статья Reuters в The Guardian под авторским правом; archive.org только хранит выпуск газеты",
+   "card": "https://archive.decolonial.ist/1428",
+   "source": "https://archive.org/details/TheGuardian1996UKEnglish",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1429,
+   "title": "Report of the Working Group on Enforced or Involuntary Disappearances (E/CN.4/1997/34)",
+   "year": "1996",
+   "author": "Рабочая группа ООН по насильственным или недобровольным исчезновениям",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ ООН (Комиссия по правам человека): свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1429",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1429",
+   "source": "https://archive.org/details/micro_IA40243809_0438",
+   "files": [
+    {
+     "name": "report_of_the_working_group_on_enforced_or_involun_ances_e_cn_4_1997_34_1996.txt",
+     "bytes": 209205,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1429/report_of_the_working_group_on_enforced_or_involun_ances_e_cn_4_1997_34_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1430,
+   "title": "Report of the Working Group on Enforced or Involuntary Disappearances (E/CN.4/1998/43)",
+   "year": "1998",
+   "author": "Рабочая группа ООН по насильственным или недобровольным исчезновениям",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "документ ООН (Комиссия по правам человека): свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1430",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1430",
+   "source": "https://archive.org/details/micro_IA41948443_0214",
+   "files": [
+    {
+     "name": "report_of_the_working_group_on_enforced_or_involun_ances_e_cn_4_1998_43_1998.txt",
+     "bytes": 96362,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1430/report_of_the_working_group_on_enforced_or_involun_ances_e_cn_4_1998_43_1998.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1431,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-003)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1431",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1431",
+   "source": "https://archive.org/details/micro_IA1176916_0368",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_003_1995.txt",
+     "bytes": 231605,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1431/daily_report_central_eurasia_fbis_sov_95_003_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1432,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-119)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1432",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1432",
+   "source": "https://archive.org/details/micro_IA1176916_0525",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_119_1995.txt",
+     "bytes": 360356,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1432/daily_report_central_eurasia_fbis_sov_95_119_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1433,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-144)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "why_not": "у материала нет файла, который можно выложить (издание целиком не наше)",
+   "card": "https://archive.decolonial.ist/1433",
+   "source": "https://archive.org/details/micro_IA1176916_0563",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1434,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-198)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1434",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1434",
+   "source": "https://archive.org/details/micro_IA1176916_0636",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_198_1995.txt",
+     "bytes": 422594,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1434/daily_report_central_eurasia_fbis_sov_95_198_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1435,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-199)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1435",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1435",
+   "source": "https://archive.org/details/micro_IA1176916_0638",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_199_1995.txt",
+     "bytes": 433935,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1435/daily_report_central_eurasia_fbis_sov_95_199_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1436,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-95-201)",
+   "year": "1995",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1436",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1436",
+   "source": "https://archive.org/details/micro_IA1176916_0640",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_95_201_1995.txt",
+     "bytes": 372881,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1436/daily_report_central_eurasia_fbis_sov_95_201_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1437,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-062)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1437",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1437",
+   "source": "https://archive.org/details/micro_IA1176916_0757",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_062_1996.txt",
+     "bytes": 181223,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1437/daily_report_central_eurasia_fbis_sov_96_062_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1580,
+   "title": "Чечня (Нохчичьо) - взгляд изнутри",
+   "year": "1995",
+   "author": "Сосламбеков Ю.",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 1995 года под авторским правом",
+   "why_not": "права: современная публикация 1995 года под авторским правом",
+   "card": "https://archive.decolonial.ist/1580",
+   "source": "https://ichkeria.net/wp-content/uploads/2020/07/2-d0a1d0bed181d0bbd0b0d0bcd0b1d0b5d0bad0bed0b2-d0ae.-d09dd0bed185d187d0b8d187d0bed18c-d0b2d0b7d0b3d0bbd18fd0b4-d0b8d0b7d0bdd183d182d180d0b8-1996okfinoapag24.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1608,
+   "title": "Hunt for War Dead Mired in Mistrust",
+   "year": "1995",
+   "author": "Carlotta Gall",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (themoscowtimes.com)",
+   "why_not": "права: материал организации или СМИ под авторским правом (themoscowtimes.com)",
+   "card": "https://archive.decolonial.ist/1608",
+   "source": "https://www.themoscowtimes.com/1995/09/05/hunt-for-war-dead-mired-in-mistrust-a335085",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1609,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-96-080)",
+   "year": "1996",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно: документ",
+   "basis": "перевод Правительства США (FBIS) - общественное достояние, 17 U.S.C. § 105",
+   "card": "https://archive.decolonial.ist/1609",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1609",
+   "source": "https://archive.org/details/micro_IA1176916_0778",
+   "files": [
+    {
+     "name": "daily_report_central_eurasia_fbis_sov_96_080_1996.txt",
+     "bytes": 445711,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1609/daily_report_central_eurasia_fbis_sov_96_080_1996.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 1611,
+   "title": "Grozny's war-torn treasures",
+   "year": "2002",
+   "author": "",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (theglobeandmail.com)",
+   "why_not": "права: материал организации или СМИ под авторским правом (theglobeandmail.com)",
+   "card": "https://archive.decolonial.ist/1611",
+   "source": "https://www.theglobeandmail.com/arts/groznys-war-torn-treasures/article4137469",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 1613,
+   "title": "Chechnya's Literary Pyre",
+   "year": "2004",
+   "author": "Aslan Doukaev",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "статья журнала под авторским правом (Foreign Policy)",
+   "why_not": "права: статья журнала под авторским правом (Foreign Policy)",
+   "card": "https://archive.decolonial.ist/1613",
+   "source": "https://www.proquest.com/openview/c0d6c5bd56914ac4b1f0a38cebf2213d/1",
    "files": [],
    "telegram": {}
   }

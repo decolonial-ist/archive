@@ -13,6 +13,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.pdf) | PDF | 69 КБ | в этой папке |
+| [rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.txt](https://github.com/decolonial-ist/archive/blob/main/551/rekomendaciya_evropeyskogo_parlamenta_po_otnosheniyam_es_rossiya_2004.txt) | текст | 36 КБ | в этой папке |
 
 ## Откуда это у нас
 

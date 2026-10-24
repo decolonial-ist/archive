@@ -12,7 +12,9 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.txt) | текст | 7 КБ | в этой папке |
+| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini.txt](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini.txt) | текст | 8 КБ | в этой папке |
+| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini_2.txt](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_zayava_verhovnoi_radi_ukraini_2.txt) | текст | 8 КБ | в этой папке |
+| [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_2672.txt](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022_rada_2672.txt) | текст | 7 КБ | в этой папке |
 | [zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/552/zayava_verhovnoi_radi_ukraini_pro_zasudzhennya_zbr_chechenskogo_narodu_2022.pdf) | PDF | 31 КБ | в этой папке |
 
 ## Откуда это у нас
