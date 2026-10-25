@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **346**, файлов: **624**, объём: **3.45 ГиБ**. Из 2189 материалов базы распространять разрешено 870, из них 158 - только текстом документа, без издания целиком; 1317 остаются ссылкой на первоисточник.
+Выложено материалов: **346**, файлов: **624**, объём: **3.45 ГиБ**. Из 2205 материалов базы распространять разрешено 879, из них 161 - только текстом документа, без издания целиком; 1324 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -404,7 +404,7 @@
 
 Контрольные суммы каждого файла - в README.md папки материала и в registry.json.
 
-## Свободные, но файла у нас нет - 1805
+## Свободные, но файла у нас нет - 1821
 
 Распространять можно, а файла нет.
 
@@ -478,6 +478,7 @@
 | Chechnya Case Study. Interim Report | 1996 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-case-study](https://reliefweb.int/report/russian-federation/chechnya-case-study) |
 | Chechnya Humanitarian Situation Report, 1 June - 31 July 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-1-june-31-july-1997) |
 | Chechnya Humanitarian Situation Report, 15 Sep - 31 Oct 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997](https://reliefweb.int/report/russian-federation/chechnya-humanitarian-situation-report-15-sep-31-oct-1997) |
+| Chechnya Sitrep | 1999 | Чечня | `www.globalsecurity[.]org/military/library/news/1999/12/991210-chechen4.htm` |
 | Chechnya closes Baku-Novorossiisk export pipeline | 1999 | Чечня | `www.ogj[.]com/home/article/17230666/chechnya-closes-baku-novorossiisk-export-pipeline` |
 | Chechnya started to slowly rise from ashes | 2001 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-started-slowly-rise-ashes](https://reliefweb.int/report/russian-federation/chechnya-started-slowly-rise-ashes) |
 | Chechnya will count its war damage from 1994 | 2006 | Чечня | [https://www.eng.kavkaz-uzel.eu/articles/5176](https://www.eng.kavkaz-uzel.eu/articles/5176) |
@@ -485,6 +486,7 @@
 | Chechnya's last hope? Enforced disappearances and the European Court of Human Rights | 2009 | Чечня | `missingpersons.icrc[.]org/library/chechnyas-last-hope-enforced-disappearances-and-european-court-human-rights` |
 | Chechnya, Russian Federation Situation Report - 1 Nov - 15 Dec 1997 | 1997 | Чечня | [https://reliefweb.int/report/russian-federation/chechnya-russian-federation-situation-report-1-nov-15-dec-1997](https://reliefweb.int/report/russian-federation/chechnya-russian-federation-situation-report-1-nov-15-dec-1997) |
 | Chechnya/ Russia - Air Attack On Grozny | 1994 | Чечня | `www.youtube[.]com/watch?v=RCXyhJmAa-o` |
+| Chechnya/Checkpoint | 1999 | Чечня | `www.globalsecurity[.]org/military/library/news/1999/12/991211-chechen2.htm` |
 | Chechnya: Bombing of the Presidential Palace (WTN, 6 January 1995) | 1995 | Чечня | `www.youtube[.]com/watch?v=S88wTpoMFCU` |
 | Chechnya: Chechens Control Much of Grozny | 1996 | Чечня | `www.rferl[.]org/a/1081341.html` |
 | Chechnya: Civilians Short of Water, Food, Supplies | 1996 | Чечня | `www.rferl[.]org/a/1081402.html` |
@@ -555,6 +557,7 @@
 | Estamirov and Others v. Russia | 2006 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-77396](https://hudoc.echr.coe.int/eng?i=001-77396) |
 | Estemirova v. Russia | 2021 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-211591&filename=001-211591.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-211591&filename=001-211591.pdf) |
 | Ethno-territorial conflict and coexistence in the Caucasus, Central Asia and Fereydan | 2013 | Чечня | [https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan](https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan) |
+| Europe's Top Rights Body Urges Chechen Talks | 2005 | Чечня | `www.rferl[.]org/amp/1057446.html` |
 | European Parliament recommendation to the Council on EU-Russia relations | 2004 | Чечня | `eur-lex.europa[.]eu/legal-content/EN/TXT/PDF/?uri=celex:52004IP0121` |
 | European Parliament resolution of 5 October 2023 on the case of Zarema Musaeva in Chechnya | 2023 | Чечня | [https://www.europarl.europa.eu/doceo/document/TA-9-2023-0350_EN.html](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0350_EN.html) |
 | FEATURES OF THE DEVELOPMENT OF THE RUSSIAN FRONTIER IN THE NORTH CAUCASUS | 2023 | Чечня | `doi[.]org/10.32653/CH194934-945` |
@@ -645,6 +648,9 @@
 | Nazyrova and Others v. Russia | 2016 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-160422](https://hudoc.echr.coe.int/eng?i=001-160422) |
 | Nearly 25,000 civilians died in Grozny, Russian human rights panel reports | 1995 | Чечня | `www.baltimoresun[.]com/1995/02/22/nearly-25000-civilians-died-in-grozny-russian-human-rights-panel-reports/` |
 | New Air Attacks In Chechnya, In Wake of Dudayev's Reported Death | 1996 | Чечня | `www.rferl[.]org/a/1080433.html` |
+| Newsline - January 10, 2000 | 2000 | Чечня | `www.rferl[.]org/a/1142068.html` |
+| Newsline - January 11, 2000 | 2000 | Чечня | `www.rferl[.]org/a/1142069.html` |
+| Newsline - January 6, 2000 | 2000 | Чечня | `www.rferl[.]org/a/1142066.html` |
 | Night Is Falling On Human Rights Across Yeltsin's Russia | 1995 | Чечня | `www.csmonitor[.]com/1995/0331/31182.html` |
 | No Russian Soldiers in Chechnya, - The History of Russian Lies | 2014 | Чечня | `www.youtube[.]com/watch?v=vtvpPwBxhOw` |
 | North Caucasus Relief & Rehabilitation - EURU81 - Appeal | 1998 | Чечня | [https://reliefweb.int/report/russian-federation/north-caucasus-relief-rehabilitation](https://reliefweb.int/report/russian-federation/north-caucasus-relief-rehabilitation) |
@@ -733,6 +739,7 @@
 | RUSSIAN FEDERATION - CHECHEN REPUBLIC: Civilians under bombardment in Komsomolskoye (EUR 46/37/96) | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/037/1996/en/` |
 | RUSSIAN FEDERATION: Ethnic Chechens in Moscow (UA 182/96, EUR 46/33/96) | 1996 | Чечня | `www.amnesty[.]org/en/documents/eur46/033/1996/en/` |
 | Remarks to the Supreme Soviet of the Republic of the Ukraine in Kiev | 1991 | Украина | `www.presidency.ucsb[.]edu/documents/remarks-the-supreme-soviet-the-republic-the-ukraine-kiev-soviet-union` |
+| Renewed Chechnya Conflict: Developments in 1999-2000 | 2000 | Чечня | `www.everycrsreport[.]com/reports/RL30389.html` |
 | Report of the Special Rapporteur on torture, Nigel S. Rodley (E/CN.4/1996/35) | 1996 | Чечня | [https://documents.un.org/api/symbol/access?s=E/CN.4/1996/35&l=en&t=pdf](https://documents.un.org/api/symbol/access?s=E/CN.4/1996/35&l=en&t=pdf) |
 | Report of the Special Rapporteur on torture, Sir Nigel Rodley (E/CN.4/2001/66) | 2001 | Чечня | `www.hr-dp[.]org/files/2015/08/05/G0110682.pdf` |
 | Report of the Working Group on Enforced or Involuntary Disappearances (E/CN.4/2003/70) | 2003 | Чечня | `hrlibrary.umn[.]edu/research/disappearances-russia2003.html` |
@@ -770,6 +777,7 @@
 | Russian Security Adviser Defends Agreement That Halted Fighting | 1996 | Чечня | `www.spokesman[.]com/stories/1996/sep/04/russian-security-adviser-defends-agreement-that/` |
 | Russian Troops Run Wild in Grozny | 1995 | Чечня | `www.themoscowtimes[.]com/archive/russian-troops-run-wild-in-grozny` |
 | Russian Ultimatum to Grozny Condemned | 1999 | Чечня | [https://www.hrw.org/news/1999/12/07/russian-ultimatum-grozny-condemned](https://www.hrw.org/news/1999/12/07/russian-ultimatum-grozny-condemned) |
+| Russians Must Do More to Provide Safe Exit From Grozny | 1999 | Чечня | [https://www.hrw.org/legacy/press/1999/dec/chech1215b.htm](https://www.hrw.org/legacy/press/1999/dec/chech1215b.htm) |
 | Russians delay drive against Chechnya | 1994 | Чечня | `www.deseret[.]com/1994/12/16/19148327/russians-delay-drive-against-chechnya/` |
 | S.T. and Y.B. v. Russia | 2021 | Чечня | [https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-212397&filename=001-212397.pdf](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-212397&filename=001-212397.pdf) |
 | Sadykov v. Russia | 2010 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-100791](https://hudoc.echr.coe.int/eng?i=001-100791) |
@@ -1238,6 +1246,7 @@
 | Екатерининская площадь, памятник Екатерине II и основателям Одессы | 2026 | Украина | [http://lost-odessa.iv-studio.od.ua/ekaterina.html](http://lost-odessa.iv-studio.od.ua/ekaterina.html) |
 | Ельцин и Дудаев поделили гран-при | 2004 | Чечня | [https://web.archive.org/web/20251205043751/https://politkovskaya.novayagazeta.ru/pub/2004/2004-058.shtml](https://web.archive.org/web/20251205043751/https://politkovskaya.novayagazeta.ru/pub/2004/2004-058.shtml) |
 | Ельцин и Масхадов | 1997 | Чечня | [https://web.archive.org/web/20170507230025/http://www.kommersant.ru/doc/182740](https://web.archive.org/web/20170507230025/http://www.kommersant.ru/doc/182740) |
+| Ельцин напомнил Клинтону и миру: Россия остается ядерной державой | 1999 | Чечня | [https://web.archive.org/web/20000915153803/http://www.ng.ru:80/world/1999-12-10/1_pekin.html](https://web.archive.org/web/20000915153803/http://www.ng.ru:80/world/1999-12-10/1_pekin.html) |
 | Енциклопедія історії України: Додатковий том | 2021 | Украина | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
 | Енциклопедія історії України: Т. 1 | 2003 | Украина | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
 | Енциклопедія історії України: Т. 10 | 2013 | Украина | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
@@ -1371,6 +1380,7 @@
 | Каждый день в Москве обсуждают чеченский вопрос | 1999 | Чечня | [https://web.archive.org/web/20260519132756/https://politkovskaya.novayagazeta.ru/pub/1999/1999-33.shtml](https://web.archive.org/web/20260519132756/https://politkovskaya.novayagazeta.ru/pub/1999/1999-33.shtml) |
 | Казачки объявили свой манифест по Чечне | 1999 | Чечня | [https://web.archive.org/web/20241212225249/https://politkovskaya.novayagazeta.ru/pub/1999/1999-39.shtml](https://web.archive.org/web/20241212225249/https://politkovskaya.novayagazeta.ru/pub/1999/1999-39.shtml) |
 | Как «Кавказскому узлу» угрожают в Чечне и выражают поддержку в мире: хроника | 2017 | Чечня | [https://www.kavkaz-uzel.eu/articles/295863](https://www.kavkaz-uzel.eu/articles/295863) |
+| Как Россия ловила Ахмеда Закаева | 2010 | Чечня | [https://web.archive.org/web/20120401155227/http://kommersant.ru/doc/1507497](https://web.archive.org/web/20120401155227/http://kommersant.ru/doc/1507497) |
 | Как башкир возглавил восстание чеченцев | 2014 | Чечня | [https://web.archive.org/web/20240208141113/https://islamnews.ru/kak-bashkir-vozglavil-vosstanie-chechentsev](https://web.archive.org/web/20240208141113/https://islamnews.ru/kak-bashkir-vozglavil-vosstanie-chechentsev) |
 | Как выбирали Кадырова | 2003 | Чечня | [https://web.archive.org/web/20260121071957/https://politkovskaya.novayagazeta.ru/pub/2003/2003-106.shtml](https://web.archive.org/web/20260121071957/https://politkovskaya.novayagazeta.ru/pub/2003/2003-106.shtml) |
 | Как и почему журналисты освещают чеченскую войну? | 1999 | Чечня | [https://www.svoboda.org/a/24218626.html](https://www.svoboda.org/a/24218626.html) |
@@ -1415,6 +1425,7 @@
 | Контртеррористическая операция: посёлок Старые Атаги. Сентябрь 1999 г. - май 2002 г. | 2002 | Чечня | [https://web.archive.org/web/20181113162636/textarchive.ru/c-2952423-pall.html](https://web.archive.org/web/20181113162636/textarchive.ru/c-2952423-pall.html) |
 | Концлагерь с коммерческим уклоном | 2001 | Чечня | [https://web.archive.org/web/20261013190132/https://politkovskaya.novayagazeta.ru/pub/2001/2001-14.shtml](https://web.archive.org/web/20261013190132/https://politkovskaya.novayagazeta.ru/pub/2001/2001-14.shtml) |
 | Красный террор глазами очевидцев | 2009 | Украина | `coollib[.]com/b/181411/read` |
+| Краткий век хамелеона | 2005 | Чечня | [https://web.archive.org/web/20051024015813/http://lenta.ru:80/articles/2005/10/20/peace/](https://web.archive.org/web/20051024015813/http://lenta.ru:80/articles/2005/10/20/peace/) |
 | Крис Паттен: «Неужели у вашего спикера нет своего факса?» | 2003 | Чечня | [https://web.archive.org/web/20250120090919/https://politkovskaya.novayagazeta.ru/pub/2003/2003-010.shtml](https://web.archive.org/web/20250120090919/https://politkovskaya.novayagazeta.ru/pub/2003/2003-010.shtml) |
 | Кто в Европе ответит за войну в Европе? | 2001 | Чечня | [https://web.archive.org/web/20260421041249/https://politkovskaya.novayagazeta.ru/pub/2001/2001-54.shtml](https://web.archive.org/web/20260421041249/https://politkovskaya.novayagazeta.ru/pub/2001/2001-54.shtml) |
 | Кто занимался восстановлением народного хозяйства Чечни | 2000 | Чечня | [https://web.archive.org/web/20261011235020/https://www.kommersant.ru/doc/164471](https://web.archive.org/web/20261011235020/https://www.kommersant.ru/doc/164471) |
@@ -1465,6 +1476,7 @@
 | Массовое отторжение генералов | 2004 | Чечня | [https://web.archive.org/web/20260305201336/https://politkovskaya.novayagazeta.ru/pub/2004/2004-063.shtml](https://web.archive.org/web/20260305201336/https://politkovskaya.novayagazeta.ru/pub/2004/2004-063.shtml) |
 | Массовые беспорядки в СССР при Хрущеве и Брежневе | 2009 | Несколько | [https://books.google.com/books?id=ihIsAQAAIAAJ](https://books.google.com/books?id=ihIsAQAAIAAJ) |
 | Масхадов "объявил" мир. Ненадолго | 2005 | Чечня | `www.kavkaz-uzel[.]org/articles/69647` |
+| Масхадов был убит при подготовке переговоров с федералами | 2005 | Чечня | [https://web.archive.org/web/20051218102130/http://lenta.ru:80/news/2005/10/20/maskhadov/](https://web.archive.org/web/20051218102130/http://lenta.ru:80/news/2005/10/20/maskhadov/) |
 | Масхадов осуждает теракт и требует суда над Басаевым | 2002 | Чечня | [https://web.archive.org/web/20241212225224/https://politkovskaya.novayagazeta.ru/pub/2002/2002-80.shtml](https://web.archive.org/web/20241212225224/https://politkovskaya.novayagazeta.ru/pub/2002/2002-80.shtml) |
 | Масхадов отдал приказ сбивать все летательные аппараты в небе Чечни | 1999 | Чечня | [https://web.archive.org/web/20190927070120/https://polit.ru/news/1999/03/29/529559/print/](https://web.archive.org/web/20190927070120/https://polit.ru/news/1999/03/29/529559/print/) |
 | Материалы для истории Северного Кавказа. 1787-1792 гг. (Кавказский сборник т.20) | 1899 | Чечня | [https://web.archive.org/web/20240719222553/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XVIII/1780-1800/Mat_sev_kavk_1787_1792/pril42.htm](https://web.archive.org/web/20240719222553/https://www.vostlit.info/Texts/Dokumenty/Kavkaz/XVIII/1780-1800/Mat_sev_kavk_1787_1792/pril42.htm) |
@@ -1852,6 +1864,7 @@
 | Росинформцентр: мирных чеченцев терроризируют украинские наемники Хаттаба, одетые в российскую форму | 1999 | Чечня | [https://web.archive.org/web/20050906105716/http://lenta.ru/vojna/1999/12/20/massacre/ukrainians.htm](https://web.archive.org/web/20050906105716/http://lenta.ru/vojna/1999/12/20/massacre/ukrainians.htm) |
 | Российская колонизация Центрального Предкавказья во второй половине XVIII - начале XX в. | 2017 | Несколько | [https://web.archive.org/web/20260928041925/https://cyberleninka.ru/article/n/rossiyskaya-kolonizatsiya-tsentralnogo-predkavkazya-vo-vtoroy-polovine-xviii-nachale-xx-v](https://web.archive.org/web/20260928041925/https://cyberleninka.ru/article/n/rossiyskaya-kolonizatsiya-tsentralnogo-predkavkazya-vo-vtoroy-polovine-xviii-nachale-xx-v) |
 | Российские герои «ДСП» | 2002 | Чечня | [https://web.archive.org/web/20251119080344/https://politkovskaya.novayagazeta.ru/pub/2002/2002-04.shtml](https://web.archive.org/web/20251119080344/https://politkovskaya.novayagazeta.ru/pub/2002/2002-04.shtml) |
+| Российские части пытаются окружить лагерь Хаттаба | 1999 | Чечня | [https://web.archive.org/web/20011224160948/http://svoboda.org:80/archive/crisis/caucasus/1299/ll.122099-2.asp](https://web.archive.org/web/20011224160948/http://svoboda.org:80/archive/crisis/caucasus/1299/ll.122099-2.asp) |
 | Российский контрразведчик не стал говорить по-чеченски | 1994 | Чечня | [https://web.archive.org/web/20260928201035/https://www.kommersant.ru/doc/88991](https://web.archive.org/web/20260928201035/https://www.kommersant.ru/doc/88991) |
 | Российский референдум в Чечне | 2003 | Чечня | [https://www.kavkaz-uzel.eu/articles/35127](https://www.kavkaz-uzel.eu/articles/35127) |
 | Российский ультиматум жителям Грозного | 1999 | Чечня | [https://www.svoboda.org/a/24218340.html](https://www.svoboda.org/a/24218340.html) |
@@ -1913,6 +1926,7 @@
 | Сердечные раны | 2000 | Чечня | [https://web.archive.org/web/20260421050544/https://politkovskaya.novayagazeta.ru/pub/2000/2000-101.shtml](https://web.archive.org/web/20260421050544/https://politkovskaya.novayagazeta.ru/pub/2000/2000-101.shtml) |
 | Силовики по вызову | 2003 | Чечня | [https://web.archive.org/web/20251119082855/https://politkovskaya.novayagazeta.ru/pub/2003/2003-057.shtml](https://web.archive.org/web/20251119082855/https://politkovskaya.novayagazeta.ru/pub/2003/2003-057.shtml) |
 | Сирський заявив про виведення українських військ з Авдіївки | 2024 | Украина | [https://www.pravda.com.ua/news/2024/02/17/7442285/](https://www.pravda.com.ua/news/2024/02/17/7442285/) |
+| Ситуация в Чечне вся состоит из противоречий | 2000 | Чечня | [https://www.svoboda.org/a/24220833.html](https://www.svoboda.org/a/24220833.html) |
 | Ситуация в Чечне, 22 августа 1994 года: Хасбулатов, Яндарбиев, Сосламбеков (программа «После империи») | 1994 | Чечня | `www.youtube[.]com/watch?v=D7R8OBjws_c` |
 | Ситуация в Чечне, 23 декабря 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250118073828/https://www.kommersant.ru/doc/98564](https://web.archive.org/web/20250118073828/https://www.kommersant.ru/doc/98564) |
 | Ситуация в Чечне, 27 августа 1994 года | 1994 | Чечня | [https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050](https://web.archive.org/web/20250603165729/https://www.kommersant.ru/doc/88050) |
@@ -1964,6 +1978,7 @@
 | Список незначившихся | 2005 | Чечня | [https://web.archive.org/web/20261014175812/https://politkovskaya.novayagazeta.ru/pub/2005/2005-020.shtml](https://web.archive.org/web/20261014175812/https://politkovskaya.novayagazeta.ru/pub/2005/2005-020.shtml) |
 | Справедливость никогда не идет вслед за пулей | 2000 | Чечня | [https://web.archive.org/web/20260305194956/https://politkovskaya.novayagazeta.ru/pub/2000/2000-024.shtml](https://web.archive.org/web/20260305194956/https://politkovskaya.novayagazeta.ru/pub/2000/2000-024.shtml) |
 | Справка следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Г. Хаджимурадова | 2000 | Чечня | [https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm](https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm) |
+| Справка: Ахмед Закаев | 2002 | Чечня | [https://web.archive.org/web/20261025011905/https://www.kommersant.ru/doc/952509](https://web.archive.org/web/20261025011905/https://www.kommersant.ru/doc/952509) |
 | Справки следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Абулханова | 2000 | Чечня | [https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm](https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm) |
 | Среди тех, кто взрывал дома, не было ни одного чеченца | 1999 | Чечня | [https://web.archive.org/web/20010504235650/http://lenta.ru/russia/1999/09/24/zdanovich/](https://web.archive.org/web/20010504235650/http://lenta.ru/russia/1999/09/24/zdanovich/) |
 | Станислав Ильясов: я понимал: да, Грозный разрушен... | 2001 | Чечня | [https://web.archive.org/web/20241212225347/https://politkovskaya.novayagazeta.ru/pub/2001/2001-11.shtml](https://web.archive.org/web/20241212225347/https://politkovskaya.novayagazeta.ru/pub/2001/2001-11.shtml) |
@@ -2076,6 +2091,7 @@
 | Улица Кадырова, угол Берия? | 2004 | Чечня | [https://web.archive.org/web/20261009014620/https://politkovskaya.novayagazeta.ru/pub/2004/2004-071.shtml](https://web.archive.org/web/20261009014620/https://politkovskaya.novayagazeta.ru/pub/2004/2004-071.shtml) |
 | Ультиматум — оружие миротворцев | 1996 | Чечня | [https://web.archive.org/web/20161005231344/http://www.kommersant.ru/doc/235942](https://web.archive.org/web/20161005231344/http://www.kommersant.ru/doc/235942) |
 | Умаров расколол лагерь сепаратистов Чечни провозглашением Кавказского Эмирата | 2007 | Чечня | [https://web.archive.org/web/20090409061334/http://www.kavkaz-uzel.ru/newstext/news/id/1200657.html](https://web.archive.org/web/20090409061334/http://www.kavkaz-uzel.ru/newstext/news/id/1200657.html) |
+| Умеренный среди ичкерийцев | 2005 | Чечня | [https://web.archive.org/web/20051206224413/http://lenta.ru:80/articles/2005/03/09/quote/](https://web.archive.org/web/20051206224413/http://lenta.ru:80/articles/2005/03/09/quote/) |
 | Унесенные «Вихрем» | 2004 | Чечня | [https://web.archive.org/web/20260121054508/https://politkovskaya.novayagazeta.ru/pub/2004/2004-024.shtml](https://web.archive.org/web/20260121054508/https://politkovskaya.novayagazeta.ru/pub/2004/2004-024.shtml) |
 | Урок всем несогласным? Родственников критиков Кадырова насильно отправляют на войну в Украину | 2023 | Чечня | `www.kavkazr[.]com/a/urok-vsem-nesoglasnym-rodstvennikov-kritikov-kadyrova-nasiljno-otpravlyayut-na-voynu-v-ukrainu-/32541042.html` |
 | Уроки этиологии | 2006 | Чечня | [https://web.archive.org/web/20241212225301/https://politkovskaya.novayagazeta.ru/pub/2006/2006-19.shtml](https://web.archive.org/web/20241212225301/https://politkovskaya.novayagazeta.ru/pub/2006/2006-19.shtml) |
@@ -2216,7 +2232,7 @@
 | “They said that I’m not a human, that I am nothing, that I should rather be a terrorist, then a fagot”. LGBT Persecution in the North Caucasus: a Report | 2017 | Чечня | `www.ilga-europe[.]org/sites/default/files/chechnya_report_by_rus_lgbt_n_31_july_2017.pdf` |
 | “Who Will Tell Me What Happened to My Son?”: Russia’s Implementation of European Court of Human Rights Judgments on Chechnya | 2009 | Чечня | [https://www.hrw.org/report/2009/09/27/who-will-tell-me-what-happened-my-son/russias-implementation-european-court-human](https://www.hrw.org/report/2009/09/27/who-will-tell-me-what-happened-my-son/russias-implementation-european-court-human) |
 
-## Только ссылка, выложить нельзя - 1294
+## Только ссылка, выложить нельзя - 1301
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -2284,6 +2300,7 @@
 | Devastated by War, Chechnya's Civilian Population Faces Approaching Winter | Center Lam | 2000 | современная публикация 2000 года под авторским правом | `idee[.]org/lreport1.html` |
 | Domen för mordförsök på tjetjensk bloggare i Gävle prövas inte i HD | Sveriges Radio, P4 Gävleborg | 2021 | современная публикация 2021 года под авторским правом | `sverigesradio[.]se/artikel/domen-for-mordforsok-pa-tjetjensk-bloggare-i-gavle-provas-inte-i-hd` |
 | Ethno-territorial conflict and coexistence in the Caucasus, Central Asia and Fereydan | Rezvani B. | 2013 | современная научная статья под авторским правом | [https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan](https://www.researchgate.net/publication/235899111_Access_to_full_text_Ethno-Territorial_Conflict_and_Coexistence_in_the_Caucasus_Central_Asia_and_Fereydan) |
+| Europe's Top Rights Body Urges Chechen Talks |  | 2005 | материал информационного агентства под авторским правом (AFP, через rferl.org) | `www.rferl[.]org/amp/1057446.html` |
 | FEATURES OF THE DEVELOPMENT OF THE RUSSIAN FRONTIER IN THE NORTH CAUCASUS | Магарамов Ш. А. | 2023 | современная публикация 2023 года под авторским правом | `doi[.]org/10.32653/CH194934-945` |
 | Fact sheet: Enforced disappearances |  | 2025 | современная публикация 2025 года под авторским правом | `nhc[.]no/content/uploads/2025/10/Fact-sheet-Enforced-disappearances-4.pdf` |
 | Fake: Crucifixion in Slovyansk | StopFake | 2014 | современная публикация 2014 года под авторским правом | [https://www.stopfake.org/en/lies-crucifixion-on-channel-one/](https://www.stopfake.org/en/lies-crucifixion-on-channel-one/) |
@@ -2749,6 +2766,7 @@
 | Екатерининская площадь, памятник Екатерине II и основателям Одессы | Иванченко С. | 2026 | современная публикация 2026 года под авторским правом | [http://lost-odessa.iv-studio.od.ua/ekaterina.html](http://lost-odessa.iv-studio.od.ua/ekaterina.html) |
 | Ельцин и Дудаев поделили гран-при | Анна Политковская | 2004 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20251205043751/https://politkovskaya.novayagazeta.ru/pub/2004/2004-058.shtml](https://web.archive.org/web/20251205043751/https://politkovskaya.novayagazeta.ru/pub/2004/2004-058.shtml) |
 | Ельцин и Масхадов |  | 1997 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20170507230025/http://www.kommersant.ru/doc/182740](https://web.archive.org/web/20170507230025/http://www.kommersant.ru/doc/182740) |
+| Ельцин напомнил Клинтону и миру: Россия остается ядерной державой | Дмитрий Горностаев | 1999 | материал организации или СМИ под авторским правом (ng.ru) | [https://web.archive.org/web/20000915153803/http://www.ng.ru:80/world/1999-12-10/1_pekin.html](https://web.archive.org/web/20000915153803/http://www.ng.ru:80/world/1999-12-10/1_pekin.html) |
 | Енциклопедія історії України: Додатковий том | Інститут історії України НАН України | 2021 | энциклопедия под авторским правом Института истории | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
 | Енциклопедія історії України: Т. 1 | Інститут історії України НАН України | 2003 | энциклопедия под авторским правом Института истории | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
 | Енциклопедія історії України: Т. 10 | Інститут історії України НАН України | 2013 | энциклопедия под авторским правом Института истории | [https://archive.org/details/e0h0u](https://archive.org/details/e0h0u) |
@@ -2846,6 +2864,7 @@
 | Каждый день в Москве обсуждают чеченский вопрос | Анна Политковская | 1999 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260519132756/https://politkovskaya.novayagazeta.ru/pub/1999/1999-33.shtml](https://web.archive.org/web/20260519132756/https://politkovskaya.novayagazeta.ru/pub/1999/1999-33.shtml) |
 | Казачки объявили свой манифест по Чечне | Анна Политковская | 1999 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20241212225249/https://politkovskaya.novayagazeta.ru/pub/1999/1999-39.shtml](https://web.archive.org/web/20241212225249/https://politkovskaya.novayagazeta.ru/pub/1999/1999-39.shtml) |
 | Как «Кавказскому узлу» угрожают в Чечне и выражают поддержку в мире: хроника | «Кавказский узел» | 2017 | материал организации или СМИ под авторским правом (kavkaz-uzel.eu) | [https://www.kavkaz-uzel.eu/articles/295863](https://www.kavkaz-uzel.eu/articles/295863) |
+| Как Россия ловила Ахмеда Закаева |  | 2010 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20120401155227/http://kommersant.ru/doc/1507497](https://web.archive.org/web/20120401155227/http://kommersant.ru/doc/1507497) |
 | Как башкир возглавил восстание чеченцев |  | 2014 | современная публикация 2014 года под авторским правом | [https://web.archive.org/web/20240208141113/https://islamnews.ru/kak-bashkir-vozglavil-vosstanie-chechentsev](https://web.archive.org/web/20240208141113/https://islamnews.ru/kak-bashkir-vozglavil-vosstanie-chechentsev) |
 | Как выбирали Кадырова | Анна Политковская | 2003 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260121071957/https://politkovskaya.novayagazeta.ru/pub/2003/2003-106.shtml](https://web.archive.org/web/20260121071957/https://politkovskaya.novayagazeta.ru/pub/2003/2003-106.shtml) |
 | Как нам обустроить Россию? | Солженицын А. И. | 1990 | современная публикация 1990 года под авторским правом | [https://web.archive.org/web/20260918171847/http://www.lib.ru/PROZA/SOLZHENICYN/s_kak_1990.txt](https://web.archive.org/web/20260918171847/http://www.lib.ru/PROZA/SOLZHENICYN/s_kak_1990.txt) |
@@ -2880,6 +2899,7 @@
 | Контртеррористическая операция: посёлок Старые Атаги. Сентябрь 1999 г. - май 2002 г. |  | 2002 | доклад «Мемориала» под авторским правом | [https://web.archive.org/web/20181113162636/textarchive.ru/c-2952423-pall.html](https://web.archive.org/web/20181113162636/textarchive.ru/c-2952423-pall.html) |
 | Концлагерь с коммерческим уклоном | Анна Политковская | 2001 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20261013190132/https://politkovskaya.novayagazeta.ru/pub/2001/2001-14.shtml](https://web.archive.org/web/20261013190132/https://politkovskaya.novayagazeta.ru/pub/2001/2001-14.shtml) |
 | Красный террор глазами очевидцев |  | 2009 | современная публикация 2009 года под авторским правом | `coollib[.]com/b/181411/read` |
+| Краткий век хамелеона | Мария Мстиславская | 2005 | материал организации или СМИ под авторским правом (lenta.ru) | [https://web.archive.org/web/20051024015813/http://lenta.ru:80/articles/2005/10/20/peace/](https://web.archive.org/web/20051024015813/http://lenta.ru:80/articles/2005/10/20/peace/) |
 | Крис Паттен: «Неужели у вашего спикера нет своего факса?» | Анна Политковская | 2003 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20250120090919/https://politkovskaya.novayagazeta.ru/pub/2003/2003-010.shtml](https://web.archive.org/web/20250120090919/https://politkovskaya.novayagazeta.ru/pub/2003/2003-010.shtml) |
 | Кто в Европе ответит за войну в Европе? | Анна Политковская | 2001 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260421041249/https://politkovskaya.novayagazeta.ru/pub/2001/2001-54.shtml](https://web.archive.org/web/20260421041249/https://politkovskaya.novayagazeta.ru/pub/2001/2001-54.shtml) |
 | Кто занимался восстановлением народного хозяйства Чечни |  | 2000 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20261011235020/https://www.kommersant.ru/doc/164471](https://web.archive.org/web/20261011235020/https://www.kommersant.ru/doc/164471) |
@@ -2924,6 +2944,7 @@
 | Массовое отторжение генералов | Анна Политковская | 2004 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260305201336/https://politkovskaya.novayagazeta.ru/pub/2004/2004-063.shtml](https://web.archive.org/web/20260305201336/https://politkovskaya.novayagazeta.ru/pub/2004/2004-063.shtml) |
 | Массовые беспорядки в СССР при Хрущеве и Брежневе | Козлов В. А. | 2009 | современная публикация 2009 года под авторским правом | [https://books.google.com/books?id=ihIsAQAAIAAJ](https://books.google.com/books?id=ihIsAQAAIAAJ) |
 | Масхадов "объявил" мир. Ненадолго |  | 2005 | материал организации или СМИ под авторским правом (kavkaz-uzel.org) | `www.kavkaz-uzel[.]org/articles/69647` |
+| Масхадов был убит при подготовке переговоров с федералами |  | 2005 | материал организации или СМИ под авторским правом (lenta.ru) | [https://web.archive.org/web/20051218102130/http://lenta.ru:80/news/2005/10/20/maskhadov/](https://web.archive.org/web/20051218102130/http://lenta.ru:80/news/2005/10/20/maskhadov/) |
 | Масхадов осуждает теракт и требует суда над Басаевым | Анна Политковская | 2002 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20241212225224/https://politkovskaya.novayagazeta.ru/pub/2002/2002-80.shtml](https://web.archive.org/web/20241212225224/https://politkovskaya.novayagazeta.ru/pub/2002/2002-80.shtml) |
 | Масхадов отдал приказ сбивать все летательные аппараты в небе Чечни |  | 1999 | современная публикация 1999 года под авторским правом | [https://web.archive.org/web/20190927070120/https://polit.ru/news/1999/03/29/529559/print/](https://web.archive.org/web/20190927070120/https://polit.ru/news/1999/03/29/529559/print/) |
 | Материалы опроса свидетелей. Вторая сессия. Москва, 20-24 апреля 1996 года. Дополнительные слушания. Третья сессия. Прага, 24-26 мая 1996 года | Международный неправительственный трибунал по делу о преступлениях против человечности и военных преступлениях в Чеченской Республике. Комитет обвинителей | 1997 | современная публикация 1997 года под авторским правом | [http://web.archive.org/web/20170822050911id_/http://grigoryants.ru:80/doc/materialy-oprosa-svidetelej-2-3-sessi.doc](http://web.archive.org/web/20170822050911id_/http://grigoryants.ru:80/doc/materialy-oprosa-svidetelej-2-3-sessi.doc) |
@@ -3317,6 +3338,7 @@
 | Список незначившихся | Анна Политковская | 2005 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20261014175812/https://politkovskaya.novayagazeta.ru/pub/2005/2005-020.shtml](https://web.archive.org/web/20261014175812/https://politkovskaya.novayagazeta.ru/pub/2005/2005-020.shtml) |
 | Справедливость никогда не идет вслед за пулей | Анна Политковская | 2000 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260305194956/https://politkovskaya.novayagazeta.ru/pub/2000/2000-024.shtml](https://web.archive.org/web/20260305194956/https://politkovskaya.novayagazeta.ru/pub/2000/2000-024.shtml) |
 | Справка следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Г. Хаджимурадова | Следователь по особо важным делам Главного управления Генеральной прокуратуры РФ на Северном Кавказе Т. А. Мурдалов | 2000 | материал организации или СМИ под авторским правом (memo.ru) | [https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm](https://web.archive.org/web/20090730015849/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter5.htm) |
+| Справка: Ахмед Закаев |  | 2002 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20261025011905/https://www.kommersant.ru/doc/952509](https://web.archive.org/web/20261025011905/https://www.kommersant.ru/doc/952509) |
 | Справки следователя Главного управления Генеральной прокуратуры Российской Федерации на Северном Кавказе Т. А. Мурдалова по поводу гибели А. Абулханова | Следователь по особо важным делам Главного управления Генеральной прокуратуры РФ на Северном Кавказе Т. А. Мурдалов | 2000 | материал организации или СМИ под авторским правом (memo.ru) | [https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm](https://web.archive.org/web/20080802032304/http://www.memo.ru/hr/hotpoints/N-Caucas/aldy2000/Chapter4.htm) |
 | Среди тех, кто взрывал дома, не было ни одного чеченца |  | 1999 | материал организации или СМИ под авторским правом (lenta.ru) | [https://web.archive.org/web/20010504235650/http://lenta.ru/russia/1999/09/24/zdanovich/](https://web.archive.org/web/20010504235650/http://lenta.ru/russia/1999/09/24/zdanovich/) |
 | Станислав Ильясов: я понимал: да, Грозный разрушен... | Анна Политковская | 2001 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20241212225347/https://politkovskaya.novayagazeta.ru/pub/2001/2001-11.shtml](https://web.archive.org/web/20241212225347/https://politkovskaya.novayagazeta.ru/pub/2001/2001-11.shtml) |
@@ -3397,6 +3419,7 @@
 | Улица Кадырова, угол Берия? | Анна Политковская | 2004 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20261009014620/https://politkovskaya.novayagazeta.ru/pub/2004/2004-071.shtml](https://web.archive.org/web/20261009014620/https://politkovskaya.novayagazeta.ru/pub/2004/2004-071.shtml) |
 | Ультиматум — оружие миротворцев | Камышев Д. | 1996 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20161005231344/http://www.kommersant.ru/doc/235942](https://web.archive.org/web/20161005231344/http://www.kommersant.ru/doc/235942) |
 | Умаров расколол лагерь сепаратистов Чечни провозглашением Кавказского Эмирата |  | 2007 | материал организации или СМИ под авторским правом (kavkaz-uzel.ru) | [https://web.archive.org/web/20090409061334/http://www.kavkaz-uzel.ru/newstext/news/id/1200657.html](https://web.archive.org/web/20090409061334/http://www.kavkaz-uzel.ru/newstext/news/id/1200657.html) |
+| Умеренный среди ичкерийцев | Елена Любарская | 2005 | материал организации или СМИ под авторским правом (lenta.ru) | [https://web.archive.org/web/20051206224413/http://lenta.ru:80/articles/2005/03/09/quote/](https://web.archive.org/web/20051206224413/http://lenta.ru:80/articles/2005/03/09/quote/) |
 | Унесенные «Вихрем» | Анна Политковская | 2004 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260121054508/https://politkovskaya.novayagazeta.ru/pub/2004/2004-024.shtml](https://web.archive.org/web/20260121054508/https://politkovskaya.novayagazeta.ru/pub/2004/2004-024.shtml) |
 | Уроки этиологии | Анна Политковская | 2006 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20241212225301/https://politkovskaya.novayagazeta.ru/pub/2006/2006-19.shtml](https://web.archive.org/web/20241212225301/https://politkovskaya.novayagazeta.ru/pub/2006/2006-19.shtml) |
 | Урус-мартановская очередь | Анна Политковская | 2003 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260421034124/https://politkovskaya.novayagazeta.ru/pub/2003/2003-034.shtml](https://web.archive.org/web/20260421034124/https://politkovskaya.novayagazeta.ru/pub/2003/2003-034.shtml) |
