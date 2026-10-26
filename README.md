@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **346**, файлов: **632**, объём: **3.46 ГиБ**. Из 2373 материалов базы распространять разрешено 1034, из них 161 - только текстом документа, без издания целиком; 1337 остаются ссылкой на первоисточник.
+Выложено материалов: **347**, файлов: **633**, объём: **3.46 ГиБ**. Из 2374 материалов базы распространять разрешено 1034, из них 161 - только текстом документа, без издания целиком; 1337 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -18,7 +18,7 @@
 
 | лицензия | материалов | условия при перепубликации |
 |---|---|---|
-| общественное достояние | 190 | нет: срок охраны истёк |
+| общественное достояние | 191 | нет: срок охраны истёк |
 | не охраняется авторским правом | 103 | нет: закон выводит официальные документы из-под авторского права |
 | CC BY 4.0 | 15 | ссылка на источник |
 | RFE/RL: текст со ссылкой и копирайтом | 14 | ссылка на оригинал и копирайт RFE/RL; фото и видео не берём |
@@ -49,7 +49,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 346 материалов, 632 файлов
+## Что выложено - 347 материалов, 633 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -328,6 +328,7 @@
 | [1128](https://archive.decolonial.ist/1128) | Russia. War in Chechnya. New Report From the Field | Human Rights Watch/Helsinki | 1995 | CC BY-NC-ND 3.0 | 3 | 0.2 МиБ | [https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia2951.pdf) |
 | [1131](https://archive.decolonial.ist/1131) | Agreement on the peaceful regulation of the situation in the Chechen Republic (on a set of military issues) | - | 1995 | не охраняется авторским правом | 1 | 0.0 МиБ | [https://peacemaker.un.org/sites/default/files/document/files/2024/05/ru950730peacefulresolutionmilitaryissues.pdf](https://peacemaker.un.org/sites/default/files/document/files/2024/05/ru950730peacefulresolutionmilitaryissues.pdf) |
 | [1142](https://archive.decolonial.ist/1142) | OSCE to deploy Assistance Group for Chechnya (press release, Vienna, 29 March 1995) | Постоянный совет ОБСЕ | 1995 | общественное достояние | 1 | 0.0 МиБ | `www.osce[.]org/pc/52548` |
+| [1146](https://archive.decolonial.ist/1146) | OSCE voices concern on increasing tension in Chechnya (press release, Vienna, 11 October 1995) | Постоянный совет ОБСЕ | 1995 | общественное достояние | 1 | 0.0 МиБ | `www.osce[.]org/pc/52569` |
 | [1149](https://archive.decolonial.ist/1149) | Ottawa Declaration of the OSCE Parliamentary Assembly and Resolutions Adopted by the OSCE Parliamentary Assembly at the Fourth Annual Session, Ottawa, 8 July 1995 | Парламентская ассамблея ОБСЕ | 1995 | общественное достояние | 4 | 0.4 МиБ | `www.osce[.]org/sites/default/files/f/documents/0/7/38133.pdf` |
 | [1152](https://archive.decolonial.ist/1152) | Russia/Chechnya: Report to the 1996 OSCE Review Conference | Human Rights Watch/Helsinki | 1996 | CC BY-NC-ND 3.0 | 2 | 0.2 МиБ | [https://www.hrw.org/reports/pdfs/r/russia/russia96n.pdf](https://www.hrw.org/reports/pdfs/r/russia/russia96n.pdf) |
 | [1159](https://archive.decolonial.ist/1159) | Daily Report: Central Eurasia (FBIS-SOV-94-229) | Foreign Broadcast Information Service (FBIS) | 1994 | общественное достояние | 2 | 0.8 МиБ | [https://archive.org/details/micro_IA1176916_0341](https://archive.org/details/micro_IA1176916_0341) |
@@ -481,8 +482,8 @@
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EUR 46/14/96) | 1996 | Чечня | `www.amnesty[.]org/ar/wp-content/uploads/2021/06/eur460141996en.pdf` |
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EXTRA 34/96, EUR 46/13/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460131996en.pdf` |
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk; additional concern: Civilians in Samashki (EUR 46/16/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460161996en.pdf` |
-| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment; continued fear for safety of civilians in Shali (EUR 46/24/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460241996en.pdf` |
-| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment; new concern: Fear for safety of civilians in Urus Martan (EUR 46/25/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460251996en.pdf` |
+| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment - continued fear for safety of civilians in Shali (EUR 46/24/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460241996en.pdf` |
+| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment - new concern: Fear for safety of civilians in Urus Martan (EUR 46/25/96) | 1996 | Чечня | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460251996en.pdf` |
 | Cable 08KYIV2414: Firtash makes his case to the USG | 2008 | Украина | `wikileaks[.]org/plusd/cables/08KYIV2414_a.html` |
 | Carter v. Russia | 2021 | Чечня | [https://hudoc.echr.coe.int/eng?i=001-211972](https://hudoc.echr.coe.int/eng?i=001-211972) |
 | Case of Ukraine and the Netherlands v. Russia (Applications nos. 8019/16, 43800/14, 28525/20 and 11055/22), Judgment, Grand Chamber | 2025 | Украина | [https://hudoc.echr.coe.int/eng?i=001-244292](https://hudoc.echr.coe.int/eng?i=001-244292) |
@@ -550,6 +551,7 @@
 | Crimea in the dark: The silencing of dissent | 2016 | Украина | `www.amnesty[.]org/en/documents/eur50/5330/2016/en/` |
 | Cultural Identity of the North Caucasus in Contemporary Russian Literature | 2025 | Чечня | `repozytorium.uni.wroc[.]pl/dlibra/publication/151956/edition/142247/cultural-identity-of-the-north-caucasus-in-contemporary-russian-literature-a-study-of-alisa-ganieva-s-novels-kula-joanna-orcid-0000-0002-1950-3498` |
 | Daily Report: Central Eurasia (FBIS-SOV-94-172) | 1994 | Чечня | [https://archive.org/details/micro_IA1176916_0280](https://archive.org/details/micro_IA1176916_0280) |
+| Daily Report: Central Eurasia (FBIS-SOV-94-197) | 1994 | Чечня | [https://archive.org/details/micro_IA1176916_0307](https://archive.org/details/micro_IA1176916_0307) |
 | Daily Report: Central Eurasia (FBIS-SOV-94-228) | 1994 | Чечня | [https://archive.org/details/micro_IA1176916_0340](https://archive.org/details/micro_IA1176916_0340) |
 | Daily Report: Central Eurasia (FBIS-SOV-94-235) | 1994 | Чечня | [https://archive.org/details/micro_IA1176916_0348](https://archive.org/details/micro_IA1176916_0348) |
 | Daily Report: Central Eurasia (FBIS-SOV-94-236) | 1994 | Чечня | [https://archive.org/details/micro_IA1176916_0349](https://archive.org/details/micro_IA1176916_0349) |
@@ -724,7 +726,6 @@
 | OSCE back in Chechnya: A major breakthrough | 2001 | Чечня | `www.osce[.]org/cio/53640` |
 | OSCE dismisses Chechnya election | 1996 | Чечня | [https://reliefweb.int/report/russian-federation/19-june-1996-monitor-vol-ii-no120](https://reliefweb.int/report/russian-federation/19-june-1996-monitor-vol-ii-no120) |
 | OSCE mediated talks continue today in Grozny (press release, Vienna, 21 June 1995) | 1995 | Чечня | `www.osce[.]org/chechnya-closed/52557` |
-| OSCE voices concern on increasing tension in Chechnya (press release, Vienna, 11 October 1995) | 1995 | Чечня | `www.osce[.]org/pc/52569` |
 | Of Christianity, Enlightenment, and Colonialism: Russia in the North Caucasus, 1550–1800 | 1999 | Чечня | `www.journals.uchicago[.]edu/doi/pdfplus/10.1086/235251` |
 | On Global Terrorism: FAKT interview with A. Litvinenko | 2005 | Чечня | `jrnyquist[.]blog/2020/03/31/on-global-terrorism-fakt-interview-with-a-litvinenko/` |
 | Open Letter by Human Rights Watch, Amnesty International and Front Line Defenders to the President of the Russian Federation | 2018 | Чечня | [https://www.hrw.org/news/2018/08/28/open-letter-human-rights-watch-amnesty-international-and-front-line-defenders](https://www.hrw.org/news/2018/08/28/open-letter-human-rights-watch-amnesty-international-and-front-line-defenders) |
@@ -2437,8 +2438,8 @@
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EUR 46/14/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/ar/wp-content/uploads/2021/06/eur460141996en.pdf` |
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EXTRA 34/96, EUR 46/13/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460131996en.pdf` |
 | CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk; additional concern: Civilians in Samashki (EUR 46/16/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460161996en.pdf` |
-| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment; continued fear for safety of civilians in Shali (EUR 46/24/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460241996en.pdf` |
-| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment; new concern: Fear for safety of civilians in Urus Martan (EUR 46/25/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460251996en.pdf` |
+| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment - continued fear for safety of civilians in Shali (EUR 46/24/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460241996en.pdf` |
+| CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment - new concern: Fear for safety of civilians in Urus Martan (EUR 46/25/96) | Amnesty International | 1996 | материал организации или СМИ под авторским правом (amnesty.org) | `www.amnesty[.]org/en/wp-content/uploads/2021/06/eur460251996en.pdf` |
 | Cable 08KYIV2414: Firtash makes his case to the USG | Посольство США в Києві | 2008 | современная публикация 2008 года под авторским правом | `wikileaks[.]org/plusd/cables/08KYIV2414_a.html` |
 | Casus belli: у Москвы больше нет выборов | Камышев Д. | 1996 | материал организации или СМИ под авторским правом (kommersant.ru) | [https://web.archive.org/web/20260508120613/https://www.kommersant.ru/doc/236034](https://web.archive.org/web/20260508120613/https://www.kommersant.ru/doc/236034) |
 | Caucasus - Mountains, Facts, & Map | Bruk S. I., Owen L., Gvozdetsky N. A. | 2026 | современная публикация 2026 года под авторским правом | `www.britannica[.]com/place/Caucasus` |

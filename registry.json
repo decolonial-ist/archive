@@ -11315,6 +11315,29 @@
    "telegram": {}
   },
   {
+   "id": 1146,
+   "title": "OSCE voices concern on increasing tension in Chechnya (press release, Vienna, 11 October 1995)",
+   "year": "1995",
+   "author": "Постоянный совет ОБСЕ",
+   "people": "Чечня",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/1146",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/1146",
+   "source": "https://www.osce.org/pc/52569",
+   "files": [
+    {
+     "name": "osce_voices_concern_on_increasing_tension_in_chech_enna_11_october_1995_1995.txt",
+     "bytes": 3067,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/1146/osce_voices_concern_on_increasing_tension_in_chech_enna_11_october_1995_1995.txt",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
    "id": 1149,
    "title": "Ottawa Declaration of the OSCE Parliamentary Assembly and Resolutions Adopted by the OSCE Parliamentary Assembly at the Fourth Annual Session, Ottawa, 8 July 1995",
    "year": "1995",
@@ -13285,6 +13308,21 @@
    "telegram": {}
   },
   {
+   "id": 1395,
+   "title": "CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians under Russian bombardment - continued fear for safety of civilians in Shali (EUR 46/24/96)",
+   "year": "1996",
+   "author": "Amnesty International",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (amnesty.org)",
+   "why_not": "права: материал организации или СМИ под авторским правом (amnesty.org)",
+   "card": "https://archive.decolonial.ist/1395",
+   "source": "https://www.amnesty.org/en/wp-content/uploads/2021/06/eur460241996en.pdf",
+   "files": [],
+   "telegram": {}
+  },
+  {
    "id": 1402,
    "title": "CHECHEN REPUBLIC - RUSSIAN FEDERATION: Civilians in Sernovodsk (EXTRA 34/96, EUR 46/13/96)",
    "year": "1996",
@@ -13875,6 +13913,21 @@
    "why_not": "права: статья журнала под авторским правом (Foreign Policy)",
    "card": "https://archive.decolonial.ist/1613",
    "source": "https://www.proquest.com/openview/c0d6c5bd56914ac4b1f0a38cebf2213d/1",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 2375,
+   "title": "Daily Report: Central Eurasia (FBIS-SOV-94-197)",
+   "year": "1994",
+   "author": "Foreign Broadcast Information Service (FBIS)",
+   "people": "Чечня",
+   "published": false,
+   "rights": "проверить",
+   "basis": "перепубликация (archive.org), издание 1994 года",
+   "why_not": "права: перепубликация (archive.org), издание 1994 года",
+   "card": "https://archive.decolonial.ist/2375",
+   "source": "https://archive.org/details/micro_IA1176916_0307",
    "files": [],
    "telegram": {}
   }
