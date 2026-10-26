@@ -18,12 +18,10 @@
 
 Сноски на этот материал стоят в 4 местах.
 
-### Процедуры
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Массовые убийства гражданских](https://decolonial.ist/techniques/T0104/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Убийство пленных и задержанных](https://decolonial.ist/techniques/T0162/003/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Ложный коридор](https://decolonial.ist/techniques/T0167/003/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Транспортная блокада](https://decolonial.ist/techniques/T0107/)**
+- [Массовые убийства гражданских — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0104/)
+- [Убийство пленных и задержанных — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0162.003/)
+- [Ложный коридор — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0167.003/)
+- [Транспортная блокада — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0107/)
 
 
 ---

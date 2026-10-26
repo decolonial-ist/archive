@@ -20,10 +20,8 @@
 
 Сноски на этот материал стоят в 2 местах.
 
-### Процедуры
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Неизбирательные нападения](https://decolonial.ist/techniques/T0165/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Организация переворота](https://decolonial.ist/techniques/T0020/)**
+- [Неизбирательные нападения — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0165/)
+- [Организация переворота — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0020/)
 
 
 ---

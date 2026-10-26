@@ -31,14 +31,12 @@
 
 Сноски на этот материал стоят в 6 местах.
 
-### Процедуры
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Пытки и истязания](https://decolonial.ist/techniques/T0162/004/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Убийство пленных и задержанных](https://decolonial.ist/techniques/T0162/003/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Безнаказанность исполнителей](https://decolonial.ist/techniques/T0168/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Выдворение внешних миссий](https://decolonial.ist/techniques/T0027/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Мародерство](https://decolonial.ist/techniques/T0164/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Похищение людей](https://decolonial.ist/techniques/T0053/)**
+- [Пытки и истязания — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0162.004/)
+- [Убийство пленных и задержанных — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0162.003/)
+- [Безнаказанность исполнителей — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0168/)
+- [Выдворение внешних миссий — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0027/)
+- [Мародерство — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0164/)
+- [Похищение людей — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0053/)
 
 
 ---

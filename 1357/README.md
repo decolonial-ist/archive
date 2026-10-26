@@ -24,14 +24,9 @@
 
 Сноски на этот материал стоят в 3 местах.
 
-### Кампании
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/)**
-
-### Процедуры
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Ложное перемирие](https://decolonial.ist/techniques/T0167/002/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Дегуманизация](https://decolonial.ist/techniques/T0006/)**
+- [Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/)
+- [Ложное перемирие — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0167.002/)
+- [Дегуманизация — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0006/)
 
 
 ---

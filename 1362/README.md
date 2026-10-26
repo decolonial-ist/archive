@@ -24,10 +24,8 @@
 
 Сноски на этот материал стоят в 2 местах.
 
-### Процедуры
-
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Ложное перемирие](https://decolonial.ist/techniques/T0167/002/)**
-- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Ложь о собственных действиях](https://decolonial.ist/techniques/T0007/001/)**
+- [Ложное перемирие — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0167.002/)
+- [Ложь о собственных действиях — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0007.001/)
 
 
 ---
