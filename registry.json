@@ -3285,17 +3285,31 @@
    "source": "https://documents.un.org/api/symbol/access?s=A/HRC/52/62&l=en&t=pdf",
    "files": [
     {
-     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf",
+     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.pdf",
      "bytes": 290474,
      "sha256": "397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.pdf",
      "where": "repo"
     },
     {
-     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt",
+     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.txt",
      "bytes": 76739,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.txt",
+     "where": "repo"
+    },
+    {
+     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.txt",
+     "bytes": 169624,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.txt",
+     "where": "repo"
+    },
+    {
+     "name": "report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.pdf",
+     "bytes": 384227,
+     "sha256": "d62304d5b2f2f06bb5fb64736314733241aef8d1ec4303b3550080cd8a7b9fa2",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.pdf",
      "where": "repo"
     }
    ],
@@ -3316,14 +3330,14 @@
    "files": [
     {
      "name": "report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf",
-     "bytes": 2760022,
-     "sha256": "12ec4333c5418839bedec315ea8273f7a0ab3d687f1acb8d7d97da1f900f5b6d",
+     "bytes": 3310442,
+     "sha256": "c48cfd5055a717289bc629e12ad7cc8d8222aabd04ced892b15c8a0434e6b288",
      "url": "https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf",
      "where": "repo"
     },
     {
      "name": "report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt",
-     "bytes": 150819,
+     "bytes": 283005,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt",
      "where": "repo"
@@ -3525,6 +3539,20 @@
    "source": "https://digitallibrary.un.org/record/780616/files/A_HRC_27_75-RU.pdf",
    "files": [
     {
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.pdf",
+     "bytes": 76195,
+     "sha256": "36442ec277857ae8f142a88e105d7643f02005cf429a9d1d02f1d9f3617ac231",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.txt",
+     "bytes": 36216,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.txt",
+     "where": "repo"
+    },
+    {
      "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt",
      "bytes": 819112,
      "sha256": "",
@@ -3532,17 +3560,31 @@
      "where": "repo"
     },
     {
-     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt",
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.txt",
      "bytes": 817452,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.txt",
      "where": "repo"
     },
     {
-     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf",
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.pdf",
+     "bytes": 2542773,
+     "sha256": "e11c1e3316c98f4f6fc6f985ad32dbc42a1bae637a54b6e556d0929ae54ee90c",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.txt",
+     "bytes": 833256,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.txt",
+     "where": "repo"
+    },
+    {
+     "name": "doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.pdf",
      "bytes": 2956966,
      "sha256": "8b21919d7a562dcad45b2c34a5bbf698dbfd1d9e50309dc5361da9825c01dccd",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.pdf",
      "where": "repo"
     }
    ],
@@ -4553,17 +4595,31 @@
    "source": "https://www.ohchr.org/sites/default/files/Documents/Countries/UA/Crimea2014_2017_EN.pdf",
    "files": [
     {
-     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt",
+     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.txt",
      "bytes": 167432,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.txt",
      "where": "repo"
     },
     {
-     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf",
+     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.pdf",
      "bytes": 723267,
      "sha256": "ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.pdf",
+     "bytes": 726308,
+     "sha256": "907f5ba79e5ae6f4c95a83ddf6eb817ff4afb281fcfdf06a183f9fb24d0c0367",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.txt",
+     "bytes": 320911,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.txt",
      "where": "repo"
     }
    ],

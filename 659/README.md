@@ -20,10 +20,10 @@
 
 ### Процедуры
 
-- **Первая Русско-Чеченская война (1994–1996) — техника [Массовые убийства гражданских](https://decolonial.ist/techniques/T0104/)**
-- **Первая Русско-Чеченская война (1994–1996) — техника [Убийство пленных и задержанных](https://decolonial.ist/techniques/T0162/003/)**
-- **Первая Русско-Чеченская война (1994–1996) — техника Ложный коридор**
-- **Первая Русско-Чеченская война (1994–1996) — техника [Транспортная блокада](https://decolonial.ist/techniques/T0107/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Массовые убийства гражданских](https://decolonial.ist/techniques/T0104/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Убийство пленных и задержанных](https://decolonial.ist/techniques/T0162/003/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Ложный коридор](https://decolonial.ist/techniques/T0167/003/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Транспортная блокада](https://decolonial.ist/techniques/T0107/)**
 
 
 ---

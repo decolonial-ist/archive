@@ -27,7 +27,7 @@
 
 ### Процедуры
 
-- **Первая Русско-Чеченская война (1994–1996) — техника [Военная интервенция](https://decolonial.ist/techniques/T0019/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Военная интервенция](https://decolonial.ist/techniques/T0019/)**
 
 
 ---

@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf) | PDF | 2.6 МБ | в этой папке |
-| [report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt) | текст | 147 КБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf) | PDF | 3.2 МБ | в этой папке |
+| [report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt](https://github.com/decolonial-ist/archive/blob/main/222/report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.txt) | текст | 276 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,7 +24,7 @@
 
 | файл | sha256 |
 |---|---|
-| report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf | `12ec4333c5418839bedec315ea8273f7a0ab3d687f1acb8d7d97da1f900f5b6d` |
+| report_on_the_human_rights_situation_in_ukraine_1_uary_to_31_july_2023_2023.pdf | `c48cfd5055a717289bc629e12ad7cc8d8222aabd04ced892b15c8a0434e6b288` |
 
 ## Где упоминается в базе знаний
 

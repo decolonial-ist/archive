@@ -11,8 +11,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf) | PDF | 284 КБ | в этой папке |
-| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.txt) | текст | 75 КБ | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.pdf) | PDF | 284 КБ | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.txt) | текст | 75 КБ | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.txt](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.txt) | текст | 166 КБ | в этой папке |
+| [report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.pdf](https://github.com/decolonial-ist/archive/blob/main/221/report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.pdf) | PDF | 375 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -24,7 +26,8 @@
 
 | файл | sha256 |
 |---|---|
-| report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023.pdf | `397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a` |
+| report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_un_coi_a_hrc_52_62.pdf | `397d907c06844412ac4adda8b95d07a8509eef7be3fe6e79aa84198795a7e59a` |
+| report_of_the_independent_international_commission_ukraine_a_hrc_52_62_2023_coi_hrc52_a_hrc_52_62_a_hrc_52.pdf | `d62304d5b2f2f06bb5fb64736314733241aef8d1ec4303b3550080cd8a7b9fa2` |
 
 ## Где упоминается в базе знаний
 

@@ -26,7 +26,7 @@
 
 ### Процедуры
 
-- **Первая Русско-Чеченская война (1994–1996) — техника [Лишение субъектности](https://decolonial.ist/techniques/T0008/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Лишение субъектности](https://decolonial.ist/techniques/T0008/)**
 
 
 ---

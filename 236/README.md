@@ -11,9 +11,13 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.pdf) | PDF | 74 КБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.txt) | текст | 35 КБ | в этой папке |
 | [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_layer.txt) | текст | 800 КБ | в этой папке |
-| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.txt) | текст | 798 КБ | в этой папке |
-| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf) | PDF | 2.8 МБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.txt) | текст | 798 КБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.pdf) | PDF | 2.4 МБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.txt](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.txt) | текст | 814 КБ | в этой папке |
+| [doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.pdf](https://github.com/decolonial-ist/archive/blob/main/236/doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.pdf) | PDF | 2.8 МБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,7 +29,9 @@
 
 | файл | sha256 |
 |---|---|
-| doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014.pdf | `8b21919d7a562dcad45b2c34a5bbf698dbfd1d9e50309dc5361da9825c01dccd` |
+| doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_periodic_19_september_20.pdf | `36442ec277857ae8f142a88e105d7643f02005cf429a9d1d02f1d9f3617ac231` |
+| doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_un_a_hrc_27_75_en.pdf | `e11c1e3316c98f4f6fc6f985ad32dbc42a1bae637a54b6e556d0929ae54ee90c` |
+| doklad_verhovnogo_komissara_oon_po_pravam_chelovek_ukraine_a_hrc_27_75_2014_ohchr_a_hrc_27_75_ru.pdf | `8b21919d7a562dcad45b2c34a5bbf698dbfd1d9e50309dc5361da9825c01dccd` |
 
 ## Где упоминается в базе знаний
 

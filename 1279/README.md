@@ -26,7 +26,7 @@
 
 ### Процедуры
 
-- **Первая Русско-Чеченская война (1994–1996) — техника [Захват заложников](https://decolonial.ist/techniques/T0099/)**
+- **[Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/campaigns/C1193/#procedures) — техника [Захват заложников](https://decolonial.ist/techniques/T0099/)**
 
 
 ---

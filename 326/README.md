@@ -12,8 +12,10 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.txt) | текст | 164 КБ | в этой папке |
-| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf) | PDF | 706 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.txt) | текст | 164 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.pdf) | PDF | 706 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.pdf](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.pdf) | PDF | 709 КБ | в этой папке |
+| [situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.txt](https://github.com/decolonial-ist/archive/blob/main/326/situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.txt) | текст | 313 КБ | в этой папке |
 
 ## Откуда это у нас
 
@@ -25,7 +27,8 @@
 
 | файл | sha256 |
 |---|---|
-| situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
+| situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_crimea_2014_2017.pdf | `ac99ece4146f3671fb98f4b80d4f437b9bb38fd1dbc58bb926d43dcd57a028d5` |
+| situation_of_human_rights_in_the_temporarily_occup_e_city_of_sevastopol_2017_ohchr_situation_of_human_right.pdf | `907f5ba79e5ae6f4c95a83ddf6eb817ff4afb281fcfdf06a183f9fb24d0c0367` |
 
 ## Где упоминается в базе знаний
 
