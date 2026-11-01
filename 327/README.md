@@ -12,7 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.txt](https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.txt) | текст | 439 КБ | в этой папке |
+| [report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022_str101_103_q.txt](https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022_str101_103_q.txt) | текст | 5 КБ | в этой папке |
+| [report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022.txt](https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022.txt) | текст | 439 КБ | в этой папке |
 | [report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.pdf](https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.pdf) | PDF | 2.8 МБ | в этой папке |
 
 ## Откуда это у нас

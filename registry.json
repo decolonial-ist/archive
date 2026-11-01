@@ -2978,24 +2978,10 @@
    "source": "https://web.archive.org/web/20260418074925/http://www.kremlin.ru/events/president/transcripts/20796/work",
    "files": [
     {
-     "name": "pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt",
-     "bytes": 333319,
+     "name": "pryamaya_liniya_s_vladimirom_putinym_2014.txt",
+     "bytes": 337537,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_13_putin_pryamaya_liniya_2014.txt",
-     "where": "repo"
-    },
-    {
-     "name": "pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt",
-     "bytes": 332882,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014_direct_line_2014_04_17_extract.txt",
-     "where": "repo"
-    },
-    {
-     "name": "pryamaya_liniya_s_vladimirom_putinym_2014.pdf",
-     "bytes": 295793,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.pdf",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/203/pryamaya_liniya_s_vladimirom_putinym_2014.txt",
      "where": "repo"
     }
    ],
@@ -4460,10 +4446,17 @@
    "source": "https://web.archive.org/web/20260918194841/http://kremlin.ru/events/president/news/67828",
    "files": [
     {
-     "name": "obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt",
+     "name": "obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_putin_address_21022022.txt",
      "bytes": 83232,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_putin_address_21022022.txt",
+     "where": "repo"
+    },
+    {
+     "name": "obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_c6_putin_21022022_recognition.txt",
+     "bytes": 87830,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/317/obraschenie_prezidenta_rossiyskoy_federacii_21_fevralya_2022_goda_2022_c6_putin_21022022_recognition.txt",
      "where": "repo"
     },
     {
@@ -4639,10 +4632,17 @@
    "source": "https://www.osce.org/files/f/documents/f/a/515868.pdf",
    "files": [
     {
-     "name": "report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.txt",
+     "name": "report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022_str101_103_q.txt",
+     "bytes": 5512,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022_str101_103_q.txt",
+     "where": "repo"
+    },
+    {
+     "name": "report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022.txt",
      "bytes": 449039,
      "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022.txt",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/327/report_on_violations_of_international_humanitarian_committed_in_ukraine_2022_osce_mm_april2022.txt",
      "where": "repo"
     },
     {
@@ -11557,7 +11557,7 @@
    "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
    "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
    "card": "https://archive.decolonial.ist/1163",
-   "source": "https://www.kommersant.ru/doc/2284464",
+   "source": "https://web.archive.org/web/20261014182444/https://www.kommersant.ru/doc/2284464",
    "files": [],
    "telegram": {}
   },
@@ -13928,6 +13928,51 @@
    "why_not": "права: перепубликация (archive.org), издание 1994 года",
    "card": "https://archive.decolonial.ist/2375",
    "source": "https://archive.org/details/micro_IA1176916_0307",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 2380,
+   "title": "Войны с Чечней",
+   "year": "2001",
+   "author": "Коммерсантъ",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "материал организации или СМИ под авторским правом (kommersant.ru)",
+   "why_not": "права: материал организации или СМИ под авторским правом (kommersant.ru)",
+   "card": "https://archive.decolonial.ist/2380",
+   "source": "https://web.archive.org/web/20251209113254/https://www.kommersant.ru/doc/256319",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 2381,
+   "title": "Первая чеченская война: хроника конфликта",
+   "year": "2024",
+   "author": "Ведомости",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2024 года под авторским правом",
+   "why_not": "права: современная публикация 2024 года под авторским правом",
+   "card": "https://archive.decolonial.ist/2381",
+   "source": "https://web.archive.org/web/20260306212638/https://www.vedomosti.ru/politics/galleries/2024/12/11/1080487-pervaya-chechenskaya-voina",
+   "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 2382,
+   "title": "Первая чеченская кампания 1994-1996 годов",
+   "year": "2014",
+   "author": "РИА Новости",
+   "people": "Чечня",
+   "published": false,
+   "rights": "нельзя",
+   "basis": "современная публикация 2014 года под авторским правом",
+   "why_not": "права: современная публикация 2014 года под авторским правом",
+   "card": "https://archive.decolonial.ist/2382",
+   "source": "https://web.archive.org/web/20260713133823/https://ria.ru/20141211/1037221201.html",
    "files": [],
    "telegram": {}
   }
