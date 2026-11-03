@@ -3506,7 +3506,7 @@
 | “You Don’t Exist”: Arbitrary Detentions, Enforced Disappearances, and Torture in Eastern Ukraine | 2016 | Украина | [https://www.hrw.org/report/2016/07/21/you-dont-exist/arbitrary-detentions-enforced-disappearances-and-torture-eastern](https://www.hrw.org/report/2016/07/21/you-dont-exist/arbitrary-detentions-enforced-disappearances-and-torture-eastern) |
 | “You Dress According to Their Rules”: Enforcement of an Islamic Dress Code for Women in Chechnya | 2011 | Чечня | [https://www.hrw.org/report/2011/03/10/you-dress-according-their-rules/enforcement-islamic-dress-code-women-chechnya](https://www.hrw.org/report/2011/03/10/you-dress-according-their-rules/enforcement-islamic-dress-code-women-chechnya) |
 
-## Только ссылка, выложить нельзя - 1988
+## Только ссылка, выложить нельзя - 1989
 
 Эти материалы мы читаем и цитируем, но не перевыкладываем: правообладатель либо прямо запретил перепечатку, либо срок охраны не истёк, а открытой лицензии нет.
 
@@ -5279,6 +5279,7 @@
 | Так кому же нужна война? | Политковская А. С. | 2001 | материал организации или СМИ под авторским правом (novayagazeta.ru) | [https://web.archive.org/web/20260305212404/https://politkovskaya.novayagazeta.ru/pub/2001/2001-30.shtml](https://web.archive.org/web/20260305212404/https://politkovskaya.novayagazeta.ru/pub/2001/2001-30.shtml) |
 | Так это было: национальные репрессии в СССР | Алиева С. У. | 1993 | современная публикация 1993 года под авторским правом | [https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491](https://search.worldcat.org/title/Tak-eto-bylo-:-nacionalnye-repressii-v-SSSR-1919-1952-gody/oclc/826657491) |
 | Танковая атака на Грозный отбита, ноябрь 1994 года | Телекомпания «ЗеркалоТВ» | 1994 | современная публикация 1994 года под авторским правом | `www.youtube[.]com/watch?v=hV0JycyjHgE` |
+| Татары в переписях: переселение из городов-крепостей на земли Закамья и Приуралья | Бушуев А. С., Габдрахманова Г. Ф., Загидуллин И. К., Измайлов Б. И. | 2022 | современная публикация 2022 года под авторским правом | [https://web.archive.org/web/20260412195255/https://m.realnoevremya.ru/articles/245931-tatary-v-perepisyah](https://web.archive.org/web/20260412195255/https://m.realnoevremya.ru/articles/245931-tatary-v-perepisyah) |
 | Ташев-Хаджи - сподвижник Шамиля | Закс А. Б. | 1992 | книга А. Б. Закс (умерла в 1996) под авторским правом |  |
 | Ташу-Хаджи Саясанский и его деятельность в Чечне в 30-е годы XIX века | Гапуров Ш. А. | 2019 | современная публикация 2019 года под авторским правом | [https://web.archive.org/web/20241208025129/https://anchr.ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/](https://web.archive.org/web/20241208025129/https://anchr.ru/2019/12/tashu-hadzhi-sayasanskij-i-ego-deyatelnost-v-chechne-v-30-e-gody-h1h-veka/) |
 | Текст постановления Госдумы «Об объявлении амнистии в отношении лиц, совершивших общественно-опасные деяния в ходе проведения антитеррористической операции на Северном Кавказе» | Lenta.ru | 1999 | материал организации или СМИ под авторским правом (lenta.ru) | [https://web.archive.org/web/20050416114001/http://www.lenta.ru/vojna/1999/12/13/amnesty/text.htm](https://web.archive.org/web/20050416114001/http://www.lenta.ru/vojna/1999/12/13/amnesty/text.htm) |
