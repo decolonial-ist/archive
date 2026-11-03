@@ -1,6 +1,6 @@
 # The War in Chechnya
 
-**Автор:** Stasys Knezys, Romanas Sedlickas
+**Автор:** Knezys S., Sedlickas R.
 **Год публикации:** 1999
 **Где напечатано:** College Station: Texas A&M University Press, 1999. ISBN 0-89096-856-X
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

@@ -1,6 +1,6 @@
 # Will Lebed Discipline Tikhomirov?
 
-**Автор:** The Jamestown Foundation, Monitor, 26.06.1996 (со ссылкой на Интерфакс, 24 и 25 июня)
+**Автор:** The Jamestown Foundation
 **Год публикации:** 1996
 **Где напечатано:** The Jamestown Foundation, Monitor, 26.06.1996 (со ссылкой на Интерфакс, 24 и 25 июня)
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

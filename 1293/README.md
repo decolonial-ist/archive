@@ -1,6 +1,6 @@
 # Russia: Amnesty calls on Russian authorities to release or charge Chechen detainees
 
-**Автор:** Amnesty International, News Service 132/95, AI Index: EUR 46/14/95, 17 July 1995
+**Автор:** Amnesty International
 **Год публикации:** 1995
 **Где напечатано:** Amnesty International, News Service 132/95, AI Index: EUR 46/14/95, 17 July 1995
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

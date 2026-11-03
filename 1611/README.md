@@ -1,6 +1,6 @@
 # Grozny's war-torn treasures
 
-**Автор:** The Globe and Mail, 2002
+**Автор:** The Globe and Mail
 **Год публикации:** 2002
 **Где напечатано:** The Globe and Mail, 2002
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

@@ -1,6 +1,6 @@
 # RFE/RL Newsline, 19 June 1996
 
-**Автор:** Radio Free Europe/Radio Liberty (RFE/RL)
+**Автор:** Radio Free Europe/Radio Liberty
 **Год публикации:** 1996
 **Где напечатано:** Radio Free Europe/Radio Liberty (RFE/RL)
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

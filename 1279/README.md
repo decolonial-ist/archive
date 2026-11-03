@@ -1,6 +1,6 @@
 # Russia Detains Widow of Late Chechen Rebel Leader
 
-**Автор:** Radio Free Europe / Radio Liberty, Москва, 28.05.1996
+**Автор:** Radio Free Europe/Radio Liberty
 **Год публикации:** 1996
 **Где напечатано:** Radio Free Europe / Radio Liberty, Москва, 28.05.1996
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

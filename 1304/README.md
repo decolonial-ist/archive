@@ -1,6 +1,6 @@
 # Chechnya: At Least 80,000 People Died In War, Says Lebed
 
-**Автор:** Radio Free Europe/Radio Liberty (RFE/RL), Moscow, 3 September 1996
+**Автор:** Radio Free Europe/Radio Liberty
 **Год публикации:** 1996
 **Где напечатано:** Radio Free Europe/Radio Liberty (RFE/RL), Moscow, 3 September 1996
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

@@ -1,6 +1,6 @@
 # Agreement on the peaceful regulation of the situation in the Chechen Republic (on a set of military issues)
 
-**Автор:** Подписано в Грозном 30 июля 1995 года Английский перевод; скан страницы 170-173 сборника документов из базы мирных соглашений ООН (UN Peacemaker)
+**Автор:** Delegations of the Russian Federation and the Chechen Republic of Ichkeria
 **Год публикации:** 1995
 **Где напечатано:** Подписано в Грозном 30 июля 1995 года Английский перевод; скан страницы 170-173 сборника документов из базы мирных соглашений ООН (UN Peacemaker)
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

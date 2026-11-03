@@ -1,6 +1,6 @@
 # OSCE dismisses Chechnya election
 
-**Автор:** The Jamestown Foundation, Monitor, Vol. II, No. 120 (через ReliefWeb)
+**Автор:** The Jamestown Foundation
 **Год публикации:** 1996
 **Где напечатано:** The Jamestown Foundation, Monitor, Vol. II, No. 120 (через ReliefWeb)
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

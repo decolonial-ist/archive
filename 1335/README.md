@@ -1,6 +1,6 @@
 # Attacks on the Press in 1995: Central Europe and the Republics of the Former Soviet Union
 
-**Автор:** Committee to Protect Journalists (CPJ) (копия Wayback Machine)
+**Автор:** Committee to Protect Journalists
 **Год публикации:** 1996
 **Где напечатано:** Committee to Protect Journalists (CPJ) (копия Wayback Machine)
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

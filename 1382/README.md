@@ -1,6 +1,6 @@
 # OSCE Faces Problems In Chechnya
 
-**Автор:** Radio Free Europe / Radio Liberty (RFE/RL)
+**Автор:** Radio Free Europe/Radio Liberty
 **Год публикации:** 1996
 **Где напечатано:** корреспондентское сообщение, Вена, 8.02.1996
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

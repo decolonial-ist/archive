@@ -1,6 +1,6 @@
 # Agreement «On Urgent Measures to Stop Fire and Combat Operations in the City of Grozny and on the Territory of Chechnya»
 
-**Автор:** Lebed A., Maskhadov A.
+**Автор:** Лебедь А., Масхадов А.
 **Год публикации:** 1996
 **Где напечатано:** signed 22 August 1996, Novye Atagi; PA-X Peace Agreements Database, English translation
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

@@ -1,6 +1,6 @@
 # RUSSIA-CHECHNYA: Russian Troops Win Control of Presidential Palace
 
-**Автор:** Inter Press Service, Москва, 19.01.1995
+**Автор:** Inter Press Service
 **Год публикации:** 1995
 **Где напечатано:** Inter Press Service, Москва, 19.01.1995
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)

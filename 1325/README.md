@@ -1,6 +1,6 @@
 # Protocol of the Meeting of Delegations on the Issue of Peaceful Resolution of the Crisis in the Chechen Republic with OSCE Support
 
-**Автор:** Delegations of the Russian Federation and the Chechen Republic of Ichkeria, OSCE (Grozny, 20 June 1995); PA-X Peace Agreements Database, unofficial English translation
+**Автор:** Delegations of the Russian Federation and the Chechen Republic of Ichkeria
 **Год публикации:** 1995
 **Где напечатано:** Delegations of the Russian Federation and the Chechen Republic of Ichkeria, OSCE (Grozny, 20 June 1995); PA-X Peace Agreements Database, unofficial English translation
 **Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
