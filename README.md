@@ -4,7 +4,7 @@
 
 Этот файл и есть картотека. Всё остальное в репозитории - сами документы.
 
-Выложено материалов: **347**, файлов: **633**, объём: **3.46 ГиБ**. Из 3480 материалов базы распространять разрешено 1455, из них 160 - только текстом документа, без издания целиком; 2011 остаются ссылкой на первоисточник.
+Выложено материалов: **347**, файлов: **634**, объём: **3.46 ГиБ**. Из 3480 материалов базы распространять разрешено 1455, из них 160 - только текстом документа, без издания целиком; 2011 остаются ссылкой на первоисточник.
 
 Папка материала - его номер: `/137/` в репозитории = страница [archive.decolonial.ist/137](https://archive.decolonial.ist/137) на витрине (`/uk/137`, `/en/137` - другие языки). Файлы тяжелее 10 МБ лежат активами релиза, а не в дереве репозитория; в таблице они помечены как «релиз».
 
@@ -49,7 +49,7 @@
 
 Если права на материал ваши - напишите на contact@decolonial.ist, снимем.
 
-## Что выложено - 347 материалов, 633 файлов
+## Что выложено - 347 материалов, 634 файлов
 
 Одна строка - один материал; ID ведёт на его страницу.
 
@@ -60,7 +60,7 @@
 | [33](https://archive.decolonial.ist/33) | 2016 Ukraine Electric Power Attack | MITRE ATT&CK® | 2023 | MITRE ATT&CK Terms of Use | 2 | 0.1 МиБ | [https://attack.mitre.org/campaigns/C0025/](https://attack.mitre.org/campaigns/C0025/) |
 | [36](https://archive.decolonial.ist/36) | APT28 Nearest Neighbor Campaign | MITRE ATT&CK® | 2025 | MITRE ATT&CK Terms of Use | 2 | 0.0 МиБ | [https://attack.mitre.org/campaigns/C0051/](https://attack.mitre.org/campaigns/C0051/) |
 | [37](https://archive.decolonial.ist/37) | Campaign C0026 | MITRE ATT&CK® | 2023 | MITRE ATT&CK Terms of Use | 2 | 0.0 МиБ | [https://attack.mitre.org/campaigns/C0026/](https://attack.mitre.org/campaigns/C0026/) |
-| [92](https://archive.decolonial.ist/92) | Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы. Том I | Кушева Е. Н. | 1957 | общественное достояние | 2 | 0.1 МиБ | [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/) |
+| [92](https://archive.decolonial.ist/92) | Кабардино-русские отношения в XVI-XVIII вв. Документы и материалы. Том I | Кушева Е. Н. | 1957 | общественное достояние | 3 | 2.2 МиБ | [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/) |
 | [96](https://archive.decolonial.ist/96) | Записки А.П. Ермолова. 1798-1826 гг. | Ермолов А. П. | 1991 | общественное достояние | 1 | 1.4 МиБ | [https://web.archive.org/web/20260617105700/http://militera.lib.ru/memo/russian/ermolov_ap/index.html](https://web.archive.org/web/20260617105700/http://militera.lib.ru/memo/russian/ermolov_ap/index.html) |
 | [99](https://archive.decolonial.ist/99) | Акты собранные Кавказскою археографическою комиссиею. Том III (1806-1809) | Кавказская археографическая комиссия | 1869 | общественное достояние | 2 (в релизе 1) | 106.1 МиБ | [https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html](https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html) |
 | [100](https://archive.decolonial.ist/100) | Акты собранные Кавказскою археографическою комиссиею. Том IV (1809-1811) | Кавказская археографическая комиссия | 1870 | общественное достояние | 2 (в релизе 1) | 166.7 МиБ | [https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html](https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html) |

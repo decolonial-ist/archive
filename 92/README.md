@@ -11,7 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.txt](https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.txt) | текст | 69 КБ | в этой папке |
+| [kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957_kabardino_russkie_otnosheniya.txt](https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957_kabardino_russkie_otnosheniya.txt) | текст | 2.0 МБ | в этой папке |
+| [kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957_kabardino_russkie_otnosheniya_2.txt](https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957_kabardino_russkie_otnosheniya_2.txt) | текст | 69 КБ | в этой папке |
 | [kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.pdf](https://github.com/decolonial-ist/archive/blob/main/92/kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957.pdf) | PDF | 79 КБ | в этой папке |
 
 ## Откуда это у нас
@@ -19,6 +20,19 @@
 Первоисточник: [https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/](https://dzurdzuki.com/download/kabardino-russkie-otnosheniya-v-xvi-xviii-vv-dokumenty-i-materialy-tom-i-1957/)
 
 Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+
+## Как получен текст
+
+**kabardino_russkie_otnosheniya_v_xvi_xviii_vv_dokumenty_i_materialy_tom_i_1957_kabardino_russkie_otnosheniya.txt** — текст распознали мы, в архиве decolonial.ist. Основа - текстовый слой издания (ABBYY FineReader) в PDF с плохого скана. По картинке каждой страницы языковая модель исправила перепутанные похожие буквы (и/п/н, к/х/в, е/с); правка принималась, только если менялись похожие буквы, старинное написание документов не трогалось. Затем текст сведён с набором тех же документов на сайте «Восточная литература»: где наш текст и набор выровнялись, слово набора идёт основным, наша раскладка строк и пометы листов остаются; заголовки, легенды и сноски, которые с набором не выровнялись, - наш текст. Инструменты и модели: Qwen 3.6 (35B); vostlit.info. документы тома, 361 страница, 200 594 слова; по набору заменено 16 532 слова.
+
+**Как мы проверяем.** Выборочная сверка со сканом трёх страниц документов (с. 39, 129, 303 издания): 8 ошибок на 1590 слов, около 5 на 1000; в заголовках и легендах ошибок больше. До сведения с набором наш текст на с. 39 давал около 85 ошибок на 1000 слов.
+
+**Что ещё не так.** Скан 150 точек на дюйм: и/п/н на нём не различает и глаз. Заголовки документов, легенды и сноски с набором не сверены, в них «№» часто прочитан как «А?». Где ошибся набор, его ошибка перешла к нам («Мудал-князь» при «Муцал-князь» на скане). Вступительная статья, комментарий и указатели издания в файл не вошли. Сообщить об ошибке: contact@decolonial.ist.
+
+**Впервые.** В распознанном виде этот текст выкладывается впервые: все документы тома одним текстом; в сети том был только сканом с плохим слоем и набором отдельных документов на vostlit.info.
+
+Подробнее о способе: https://archive.decolonial.ist/raspoznavanie/
 
 ## Где упоминается в базе знаний
 
