@@ -25,17 +25,11 @@
 
 ## Как получен текст
 
-**doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt** — текст распознали мы, в архиве decolonial.ist. Текстовый слой скана был мусорным. Страницы отрисованы в 300 точек на дюйм и распознаны Tesseract. Инструменты и модели: Tesseract (rus). страницы PDF 337-363 (доклад).
+**doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_doklad_ocr.txt**, **doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt** — текст распознали мы, в архиве decolonial.ist. Текстовый слой скана был мусорным. Страницы отрисованы в 300 точек на дюйм и распознаны Tesseract. Инструменты и модели: Tesseract (rus). **…doklad_ocr.txt**: страницы PDF 337-363 (доклад). **…tom_ocr.txt**: весь том, 366 страниц.
 
-**Как мы проверяем.** Все 6 цитат базы знаний сверены со сканом по страницам.
+**Как мы проверяем.** **…doklad_ocr.txt**: Все 6 цитат базы знаний сверены со сканом по страницам. **…tom_ocr.txt**: Сверены только цитируемые страницы доклада.
 
-**Что ещё не так.** Дореформенная печать: ѣ часто читается как «Ъ» или «$», і - как «!». Слова целы. Сообщить об ошибке: contact@decolonial.ist.
-
-**doklad_ck_rokk_o_deyatelnosti_chrezvychaynoy_komissii_v_kieve_1920_text_tom_ocr.txt** — текст распознали мы, в архиве decolonial.ist. Текстовый слой скана был мусорным. Страницы отрисованы в 300 точек на дюйм и распознаны Tesseract. Инструменты и модели: Tesseract (rus). весь том, 366 страниц.
-
-**Как мы проверяем.** Сверены только цитируемые страницы доклада.
-
-**Что ещё не так.** Дореформенная печать: ѣ часто читается как «Ъ» или «$», і - как «!». Без вычитки. Сообщить об ошибке: contact@decolonial.ist.
+**Что ещё не так.** Дореформенная печать: ѣ часто читается как «Ъ» или «$», і - как «!». **…doklad_ocr.txt**: Слова целы. **…tom_ocr.txt**: Без вычитки. Сообщить об ошибке: contact@decolonial.ist.
 
 Подробнее о способе: https://archive.decolonial.ist/raspoznavanie/
 
