@@ -12,7 +12,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt](https://github.com/decolonial-ist/archive/blob/main/630/ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt) | текст | 6 КБ | в этой папке |
+| [ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt](https://github.com/decolonial-ist/archive/blob/main/630/ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt) | текст | 5 КБ | в этой папке |
 
 ## Откуда это у нас
 

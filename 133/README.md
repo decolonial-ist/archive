@@ -12,7 +12,7 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [tri_goda_na_kavkaze_1837_1839_1884.md](https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.md) | текст | 1.2 МБ | в этой папке |
-| [tri_goda_na_kavkaze_1837_1839_1884.pdf](https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.pdf) | PDF | 948 КБ | в этой папке |
+| [tri_goda_na_kavkaze_1837_1839_1884.pdf](https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.pdf) | PDF | 972 КБ | в этой папке |
 
 ## Откуда это у нас
 

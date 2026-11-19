@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md) | текст | 24 КБ | в этой папке |
-| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf) | PDF | 48 КБ | в этой папке |
+| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md) | текст | 23 КБ | в этой папке |
+| [general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf](https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf) | PDF | 42 КБ | в этой папке |
 
 ## Откуда это у нас
 

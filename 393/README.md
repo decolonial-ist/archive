@@ -12,8 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf) | PDF | 65 КБ | в этой папке |
-| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt) | текст | 35 КБ | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf) | PDF | 60 КБ | в этой папке |
+| [istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt](https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt) | текст | 34 КБ | в этой папке |
 
 ## Откуда это у нас
 

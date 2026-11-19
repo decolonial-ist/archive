@@ -13,8 +13,8 @@
 | файл | что это | объём | где |
 |---|---|---|---|
 | [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 2.4 МБ | в этой папке |
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf) | PDF | 111 КБ | в этой папке |
-| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 99 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf) | PDF | 108 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 97 КБ | в этой папке |
 
 ## Откуда это у нас
 

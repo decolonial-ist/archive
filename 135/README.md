@@ -11,8 +11,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md) | текст | 104 КБ | в этой папке |
-| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf) | PDF | 114 КБ | в этой папке |
+| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md) | текст | 101 КБ | в этой папке |
+| [zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf](https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf) | PDF | 108 КБ | в этой папке |
 
 ## Откуда это у нас
 

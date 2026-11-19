@@ -12,7 +12,8 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt](https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt) | текст | 9 КБ | в этой папке |
+| [krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.pdf](https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.pdf) | PDF | 653 КБ | в этой папке |
+| [krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt](https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt) | текст | 816 КБ | в этой папке |
 
 ## Откуда это у нас
 

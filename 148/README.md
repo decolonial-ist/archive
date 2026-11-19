@@ -12,7 +12,7 @@
 
 | файл | что это | объём | где |
 |---|---|---|---|
-| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf) | PDF | 40 КБ | в этой папке |
+| [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf) | PDF | 36 КБ | в этой папке |
 | [manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt](https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt) | текст | 11 КБ | в этой папке |
 
 ## Откуда это у нас

@@ -692,18 +692,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md",
-     "bytes": 5952342,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/99/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf",
      "bytes": 105351797,
      "sha256": "8d51c8043a0589e36a003908ba3b9be7acc483fb399501fd62e762387a8059e0",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/99__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.txt",
+     "bytes": 6369221,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/99/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_iii_1806_1809_1869.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -722,18 +722,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md",
-     "bytes": 8066475,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/100/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf",
      "bytes": 166747876,
      "sha256": "513cc88c61d3a9e8afb69fbe23f9e2e7607a123cd3ebf59cbf03ab933217d3f5",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/100__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.txt",
+     "bytes": 8591897,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/100/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_iv_1809_1811_1870.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -752,18 +752,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md",
-     "bytes": 9156960,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf",
      "bytes": 147318741,
      "sha256": "b8b77e78c0f055b6a5198842716e8eed1dfca3e3c801c21a8ad81461a0b68eec",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/101__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.txt",
+     "bytes": 10108438,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/101/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_v_1811_1816_1873.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -782,18 +782,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md",
-     "bytes": 7223702,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/103/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf",
      "bytes": 126791122,
      "sha256": "0d0c99499e557fe4e100f8d5bc2cec97a633763dedc8a19aba5f5751d971655c",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/103__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.txt",
+     "bytes": 7959182,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/103/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_st_vtoraya_1816_1827_1875.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -812,18 +812,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md",
-     "bytes": 7684572,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/104/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf",
      "bytes": 195666461,
      "sha256": "c6ab85e254ec45facc1c407cd1a2f4027a8a1510305ad5d79440b0907641e580",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/104__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.txt",
+     "bytes": 8850182,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/104/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_vii_1827_1831_1878.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -842,18 +842,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md",
-     "bytes": 8180324,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/105/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf",
      "bytes": 162870189,
      "sha256": "b5983cef6d702958ef328fed1a22d06f7b9ce1db7c9f1a52a95f3549920165e1",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/105__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.txt",
+     "bytes": 8824947,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/105/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_u_tom_viii_1831_1837_1881.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -872,18 +872,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.md",
-     "bytes": 7690761,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/106/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.pdf",
      "bytes": 191457669,
      "sha256": "e7489ddb9934e1d04cdcca2ef25cb2b6af9d6e985e912aeb2751567517b385a8",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/106__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.txt",
+     "bytes": 8445734,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/106/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_ix_1837_1844_1884.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -902,18 +902,18 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md",
-     "bytes": 8047996,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/107/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf",
      "bytes": 230076136,
      "sha256": "b629449be9606b76b3d21a869346bbe82a0f1a5ce56e2bb69930a969a11f1f33",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/107__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.pdf",
      "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.txt",
+     "bytes": 9260647,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/107/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komissieyu_tom_x_1844_1854_1885.txt",
+     "where": "repo"
     }
    ],
    "telegram": {}
@@ -932,17 +932,17 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md",
-     "bytes": 9242996,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/108/akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.md",
-     "where": "repo"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf",
      "bytes": 197284811,
      "sha256": "37c132bb77a612986331955937db59ddd185ed9d9cec3d6d936898a3b32d096d",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.pdf",
+     "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.txt",
+     "bytes": 11193577,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/108__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_eyu_tom_xi_1854_1856_1888.txt",
      "where": "release"
     }
    ],
@@ -962,17 +962,17 @@
    "source": "https://web.archive.org/web/20250912093519/http://apsnyteka.org/381-akak_i_xii.html",
    "files": [
     {
-     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md",
-     "bytes": 14107060,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.md",
-     "where": "release"
-    },
-    {
      "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf",
      "bytes": 339156427,
      "sha256": "31b2f656cf3f5ccdcc7bd854772e9da683cdb1639819c07467d7ecc878382fb9",
      "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.pdf",
+     "where": "release"
+    },
+    {
+     "name": "akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.txt",
+     "bytes": 15636620,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/releases/download/originals-v2/109__akty_sobrannye_kavkazskoyu_arheograficheskoyu_komi_yu_tom_xii_1856_1862_1904.txt",
      "where": "release"
     }
    ],
@@ -1299,14 +1299,14 @@
     },
     {
      "name": "moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf",
-     "bytes": 113906,
+     "bytes": 110847,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf",
      "where": "repo"
     },
     {
      "name": "moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md",
-     "bytes": 100886,
+     "bytes": 99318,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md",
      "where": "repo"
@@ -1344,14 +1344,14 @@
    "files": [
     {
      "name": "tri_goda_na_kavkaze_1837_1839_1884.md",
-     "bytes": 1219932,
+     "bytes": 1213358,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.md",
      "where": "repo"
     },
     {
      "name": "tri_goda_na_kavkaze_1837_1839_1884.pdf",
-     "bytes": 970349,
+     "bytes": 995639,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/133/tri_goda_na_kavkaze_1837_1839_1884.pdf",
      "where": "repo"
@@ -1374,28 +1374,28 @@
    "files": [
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md",
-     "bytes": 805235,
+     "bytes": 795548,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav.md",
      "where": "repo"
     },
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md",
-     "bytes": 647770,
+     "bytes": 643828,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_2.md",
      "where": "repo"
     },
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md",
-     "bytes": 499476,
+     "bytes": 497876,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886_1840_1841_i_1842_y_gody_na_kav_3.md",
      "where": "repo"
     },
     {
      "name": "1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf",
-     "bytes": 1244910,
+     "bytes": 1566975,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/134/1840_1841_i_1842_y_gody_na_kavkaze_1886.pdf",
      "where": "repo"
@@ -1418,14 +1418,14 @@
    "files": [
     {
      "name": "zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md",
-     "bytes": 106744,
+     "bytes": 103173,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.md",
      "where": "repo"
     },
     {
      "name": "zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf",
-     "bytes": 116374,
+     "bytes": 110909,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/135/zhurnal_voennyh_deystviy_otryada_general_leytenant_a_iyul_sentyabr_1840_1912.pdf",
      "where": "repo"
@@ -1448,14 +1448,14 @@
    "files": [
     {
      "name": "vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf",
-     "bytes": 469757,
+     "bytes": 467410,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.pdf",
      "where": "repo"
     },
     {
      "name": "vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md",
-     "bytes": 556308,
+     "bytes": 553955,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/137/vospominaniya_kniga_2_god_na_kavkaze_1839_1840_1919.md",
      "where": "repo"
@@ -1681,14 +1681,14 @@
    "files": [
     {
      "name": "manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf",
-     "bytes": 41297,
+     "bytes": 37136,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.pdf",
      "where": "repo"
     },
     {
      "name": "manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt",
-     "bytes": 11692,
+     "bytes": 11156,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/148/manifest_o_prinyatii_kryma_pod_rossiyskuyu_derzhavu_1783.txt",
      "where": "repo"
@@ -2027,7 +2027,7 @@
    "files": [
     {
      "name": "stolypinskiy_cirkulyar_1910.txt",
-     "bytes": 5204,
+     "bytes": 5105,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/160/stolypinskiy_cirkulyar_1910.txt",
      "where": "repo"
@@ -4137,7 +4137,7 @@
     },
     {
      "name": "materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt",
-     "bytes": 25644,
+     "bytes": 25752,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/261/materialy_dlya_opisaniya_russko_tureckoy_voyny_187_eatre_tom_vi_chast_1_1910.txt",
      "where": "repo"
@@ -4394,14 +4394,14 @@
    "files": [
     {
      "name": "general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md",
-     "bytes": 24707,
+     "bytes": 23524,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.md",
      "where": "repo"
     },
     {
      "name": "general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf",
-     "bytes": 48826,
+     "bytes": 42682,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/314/general_mayor_n_p_slepcov_biograficheskiy_ocherk_terskiy_sbornik_1903.pdf",
      "where": "repo"
@@ -5185,14 +5185,14 @@
    "files": [
     {
      "name": "istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf",
-     "bytes": 66087,
+     "bytes": 61285,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.pdf",
      "where": "repo"
     },
     {
      "name": "istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt",
-     "bytes": 35818,
+     "bytes": 34432,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/393/istochniki_malorossiyskoy_istorii_sobrannye_d_n_ba_im_chast_2_1691_1722_1859.txt",
      "where": "repo"
@@ -5328,14 +5328,14 @@
    "files": [
     {
      "name": "sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt",
-     "bytes": 8577,
+     "bytes": 4663,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.txt",
      "where": "repo"
     },
     {
      "name": "sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf",
-     "bytes": 36804,
+     "bytes": 28872,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/398/sobranie_gosudarstvennyh_gramot_i_dogovorov_chast_4_1828.pdf",
      "where": "repo"
@@ -6737,7 +6737,7 @@
    "files": [
     {
      "name": "ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt",
-     "bytes": 7642,
+     "bytes": 7513,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/478/ck_rkp_b_vkp_b_i_nacionalnyy_vopros_kn_1_1918_1933_gg_2005.txt",
      "where": "repo"
@@ -7932,16 +7932,9 @@
     },
     {
      "name": "istoriya_stalinskogo_gulaga_2004.pdf",
-     "bytes": 53560,
+     "bytes": 31720,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.pdf",
-     "where": "repo"
-    },
-    {
-     "name": "istoriya_stalinskogo_gulaga_2004.md",
-     "bytes": 11837,
-     "sha256": "",
-     "url": "https://github.com/decolonial-ist/archive/blob/main/555/istoriya_stalinskogo_gulaga_2004.md",
      "where": "repo"
     }
    ],
@@ -8387,8 +8380,15 @@
    "source": "https://history.org.ua/LiberUA/KrTerGrV_2004/KrTerGrV_2004.pdf",
    "files": [
     {
+     "name": "krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.pdf",
+     "bytes": 668515,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.pdf",
+     "where": "repo"
+    },
+    {
      "name": "krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt",
-     "bytes": 8761,
+     "bytes": 836084,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/574/krasnyy_terror_v_gody_grazhdanskoy_voyny_2004.txt",
      "where": "repo"
@@ -8854,7 +8854,7 @@
    "files": [
     {
      "name": "telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
-     "bytes": 1847,
+     "bytes": 1811,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/592/telegramma_v_i_mezhlauka_v_i_leninu_1919.txt",
      "where": "repo"
@@ -9263,7 +9263,7 @@
     },
     {
      "name": "zasedanie_soveta_r_i_s_d_28_yanvarya_1918.txt",
-     "bytes": 36278,
+     "bytes": 36039,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/617/zasedanie_soveta_r_i_s_d_28_yanvarya_1918.txt",
      "where": "repo"
@@ -9500,7 +9500,7 @@
    "files": [
     {
      "name": "ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt",
-     "bytes": 6120,
+     "bytes": 5608,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/630/ukaz_prezidenta_chechenskoy_respubliki_o_gosudarst_echenskoy_respubliki_1991.txt",
      "where": "repo"
@@ -10637,7 +10637,7 @@
     },
     {
      "name": "comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_qwen_text.txt",
-     "bytes": 44169,
+     "bytes": 43735,
      "sha256": "",
      "url": "https://github.com/decolonial-ist/archive/blob/main/736/comments_of_the_human_rights_committee_russian_fed_ion_ccpr_c_79_add_54_1995_ccpr_c79_add54_ru_qwen_text.txt",
      "where": "repo"
@@ -13921,6 +13921,94 @@
    "card": "https://archive.decolonial.ist/1613",
    "source": "https://www.proquest.com/openview/c0d6c5bd56914ac4b1f0a38cebf2213d/1",
    "files": [],
+   "telegram": {}
+  },
+  {
+   "id": 2229,
+   "title": "Arbitrary detention, torture and ill-treatment in the context of armed conflict in eastern Ukraine, 2014-2021",
+   "year": "2021",
+   "author": "Office of the United Nations High Commissioner for Human Rights (HRMMU)",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/2229",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/2229",
+   "source": "https://www.ohchr.org/sites/default/files/Documents/Countries/UA/UkraineArbDetTorture_EN.pdf",
+   "files": [
+    {
+     "name": "arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort.txt",
+     "bytes": 213437,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2229/arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort.txt",
+     "where": "repo"
+    },
+    {
+     "name": "arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort_2.txt",
+     "bytes": 383538,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2229/arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort_2.txt",
+     "where": "repo"
+    },
+    {
+     "name": "arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort.pdf",
+     "bytes": 2646202,
+     "sha256": "845668fe74ad7917a0e46c7e4f8bdb510968e19f50d56e650ec2f6631f51725d",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2229/arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort_2.pdf",
+     "bytes": 2797442,
+     "sha256": "d91ac303e6b255eb5480e7a9d0599f55cfc59ab093914e374700feddea71214a",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2229/arbitrary_detention_torture_and_ill_treatment_in_t_rn_ukraine_2014_2021_2021_ohchr_arbitrary_detention_tort_2.pdf",
+     "where": "repo"
+    }
+   ],
+   "telegram": {}
+  },
+  {
+   "id": 2286,
+   "title": "Treatment of prisoners of war and persons hors de combat in the context of the armed attack by the Russian Federation against Ukraine, 24 February 2022 – 23 February 2023",
+   "year": "2023",
+   "author": "Office of the United Nations High Commissioner for Human Rights (HRMMU)",
+   "people": "Украина",
+   "published": true,
+   "rights": "свободно",
+   "basis": "документ межгосударственного органа: свободное воспроизведение с указанием источника",
+   "card": "https://archive.decolonial.ist/2286",
+   "github": "https://github.com/decolonial-ist/archive/tree/main/2286",
+   "source": "https://www.ohchr.org/sites/default/files/documents/countries/ukraine/2023/23-03-24-Ukraine-thematic-report-POWs-ENG.pdf",
+   "files": [
+    {
+     "name": "treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o.pdf",
+     "bytes": 7933738,
+     "sha256": "29af9559791e6adfe018fb460a361dde7f868333c4c77b5a85a16eab2fe882a2",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2286/treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o_2.pdf",
+     "bytes": 1765097,
+     "sha256": "8328ddc788766ddfbc25bb7797ac3f438c9d32c63873cc61bb98138c5223ef09",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2286/treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o_2.pdf",
+     "where": "repo"
+    },
+    {
+     "name": "treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o.txt",
+     "bytes": 119336,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2286/treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o.txt",
+     "where": "repo"
+    },
+    {
+     "name": "treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o_2.txt",
+     "bytes": 224158,
+     "sha256": "",
+     "url": "https://github.com/decolonial-ist/archive/blob/main/2286/treatment_of_prisoners_of_war_and_persons_hors_de_022_23_february_2023_2023_ohchr_treatment_of_prisoners_o_2.txt",
+     "where": "repo"
+    }
+   ],
    "telegram": {}
   },
   {
