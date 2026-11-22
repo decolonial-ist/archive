@@ -1,0 +1,52 @@
+# Сборник грамот и договоров о присоединении царств и областей
+
+**Автор:** Пазухин А. А.
+**Год публикации:** 1922
+**Где напечатано:** Петербург, часть 1; текст «Вечного мира» 1686 года
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (общественное достояние: издано в 1922 году)
+
+Страница витрины: https://archive.decolonial.ist/162
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/162__sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf) | PDF | 17.8 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt](https://github.com/decolonial-ist/archive/blob/main/162/sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt) | текст | 1.9 МБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20250514073154/https://runivers.ru/lib/book20820/602162/](https://web.archive.org/web/20250514073154/https://runivers.ru/lib/book20820/602162/)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+
+## Как получен текст
+
+**sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922_ocr.txt** — текст распознали мы, в архиве decolonial.ist. Распознавание скана Tesseract в два прогона: обычная русская модель дала слова, модель дореформенной орфографии (orus) - буквы ѣ и і; прогоны сведены по словам, спорные замены отсечены по частотному словарю. Инструменты и модели: Tesseract (rus, orus). 394 листа, 13 210 правок.
+
+**Как мы проверяем.** Замер до и после на всём тексте: слов из словаря 64,7% → 69,7%; ѣ 0 → 8272, і 0 → 1455.
+
+**Что ещё не так.** Без вычитки; разметка страниц «[скан-стр. N]» наша. Сообщить об ошибке: contact@decolonial.ist.
+
+Подробнее о способе: https://archive.decolonial.ist/raspoznavanie/
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| sbornik_gramot_i_dogovorov_o_prisoedinenii_carstv_i_oblastey_1922.pdf | `59e54f8a9e399ee053c412cd808cc50b35a8bb2a3abe5f37ee9100da865d3ffb` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [«Вечный мир» с Польшей (1686)](https://decolonial.ist/campaigns/C0009/)
+- [Оправдание через религию — «Вечный мир» с Польшей (1686)](https://decolonial.ist/procedures/C0009.T0024/)
+- [Сговор с третьей стороной за спиной народа — «Вечный мир» с Польшей (1686)](https://decolonial.ist/procedures/C0009.T0039/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

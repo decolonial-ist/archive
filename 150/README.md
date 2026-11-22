@@ -1,0 +1,40 @@
+# Указ о правах гражданства евреев
+
+**Автор:** Екатерина II
+**Год публикации:** 1791
+**Где напечатано:** указ от 23 декабря 1791; ПСЗРИ, том XXIII, № 17006
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
+
+Страница витрины: https://archive.decolonial.ist/150
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [ukaz_o_pravah_grazhdanstva_evreev_1791.txt](https://github.com/decolonial-ist/archive/blob/main/150/ukaz_o_pravah_grazhdanstva_evreev_1791.txt) | текст | 5.8 МБ | в этой папке |
+| [ukaz_o_pravah_grazhdanstva_evreev_1791.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/150__ukaz_o_pravah_grazhdanstva_evreev_1791.pdf) | PDF | 56.2 МБ | актив релиза (файл тяжелее 10 МБ) |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20230314052025/https://psz.ri.org.ru/I/XXIII.pdf](https://web.archive.org/web/20230314052025/https://psz.ri.org.ru/I/XXIII.pdf)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| ukaz_o_pravah_grazhdanstva_evreev_1791.pdf | `216756731f97b1c58f7b0860f048443064622e98994c2beecffca59475a7f1a8` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+- [Учреждение «Черты оседлости» (1791)](https://decolonial.ist/campaigns/C0036/)
+- [Правовая сегрегация населения — Учреждение «Черты оседлости» (1791)](https://decolonial.ist/procedures/C0036.T0032/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

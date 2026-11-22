@@ -1,0 +1,34 @@
+# Сказание очевидца о Шамиле
+
+**Автор:** Гаджи-Али
+**Год публикации:** 1873
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** свободно (общественное достояние: издано в 1873 году)
+
+Страница витрины: https://archive.decolonial.ist/123
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [skazanie_ochevidca_o_shamile_1873.txt](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.txt) | текст | 221 КБ | в этой папке |
+| [skazanie_ochevidca_o_shamile_1873.pdf](https://github.com/decolonial-ist/archive/blob/main/123/skazanie_ochevidca_o_shamile_1873.pdf) | PDF | 199 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20260923214222/https://kp.rusneb.ru/item/material/skazanie-ochevidca-o-shamile](https://web.archive.org/web/20260923214222/https://kp.rusneb.ru/item/material/skazanie-ochevidca-o-shamile)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [Аманатско-податная система полковника Пулло в захваченных аулах Чечни (1836-1840)](https://decolonial.ist/campaigns/C1163/)
+- [Просеки и голод: завоевание Чечни Евдокимовым (1857-1859)](https://decolonial.ist/campaigns/C1168/)
+- [Военная интервенция — «Стеснение Чечни со всех сторон»: блокада, тайная война, карательные экспедиции и Сунженская линия (1840-1846)](https://decolonial.ist/procedures/C1165.T0019/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

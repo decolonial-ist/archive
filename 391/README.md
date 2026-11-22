@@ -1,0 +1,41 @@
+# Полное собрание законов Российской империи. Собрание первое. Том XXI (1781-1783)
+
+**Автор:** Екатерина II
+**Год публикации:** 1830
+**Где напечатано:** манифест № 15708 от 8 апреля 1783 года «О принятии полуострова Крымского, острова Тамана и всей Кубанской стороны под Российскую державу»; ПСЗРИ
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** свободно (общественное достояние: издано в 1830 году)
+
+Страница витрины: https://archive.decolonial.ist/391
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/391__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf) | PDF | 58.1 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.txt](https://github.com/decolonial-ist/archive/blob/main/391/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.txt) | текст | 6.3 МБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20251024204634/https://psz.ri.org.ru/I/XXI.pdf](https://web.archive.org/web/20251024204634/https://psz.ri.org.ru/I/XXI.pdf)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_oe_tom_xxi_1781_1783_1830.pdf | `651119a60cb965f51789a84f4b441a9801229c23a5dbd97cedec94d0b2bd0e0a` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [Административный демонтаж и закрепощение Левобережья (1781–1786)](https://decolonial.ist/campaigns/C0034/)
+- [Военная аннексия Крымского ханства (1783)](https://decolonial.ist/campaigns/C0035/)
+- [Административно-территориальное деление — Административный демонтаж и закрепощение Левобережья (1781–1786)](https://decolonial.ist/procedures/C0034.T0030/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

@@ -1,0 +1,26 @@
+# The Russia-Ukraine War Report Card, May 13, 2026
+
+**Автор:** Russia Matters
+**Год публикации:** 2026
+**Где напечатано:** данные Institute for the Study of War по состоянию на 12.05.2026; Belfer Center, Harvard Kennedy School
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (современная публикация 2026 года под авторским правом)
+
+Страница витрины: https://archive.decolonial.ist/473
+
+## Файлы не выкладываем
+
+## Откуда это у нас
+
+Первоисточник: `www.russiamatters[.]org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-may-13-2026`
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+- [Полномасштабное вторжение (с 24 февраля 2022)](https://decolonial.ist/campaigns/C0103/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

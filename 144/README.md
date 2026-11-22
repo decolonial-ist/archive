@@ -1,0 +1,35 @@
+# Наставление Екатерины II князю Вяземскому
+
+**Автор:** Екатерина II
+**Год публикации:** 1764
+**Где напечатано:** Сборник Русского исторического общества, том VII, страницы 345
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (общественное достояние: издано в 1764 году)
+
+Страница витрины: https://archive.decolonial.ist/144
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.txt) | текст | 3 КБ | в этой папке |
+| [nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf](https://github.com/decolonial-ist/archive/blob/main/144/nastavlenie_ekateriny_ii_knyazyu_vyazemskomu_1764.pdf) | PDF | 29 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20250101065950/https://runivers.ru/bookreader/book482339/](https://web.archive.org/web/20250101065950/https://runivers.ru/bookreader/book482339/)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)](https://decolonial.ist/campaigns/C0030/)
+- [Лишение субъектности — Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)](https://decolonial.ist/procedures/C0030.T0008/)
+- [Культурная ассимиляция — Ликвидация института гетманства и Вторая Малороссийская коллегия (1764)](https://decolonial.ist/procedures/C0030.T0115/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

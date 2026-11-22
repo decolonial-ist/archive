@@ -1,0 +1,75 @@
+Campaign C0026 | MITRE ATT&CK®
+https://attack.mitre.org/campaigns/C0026/
+
+C0026
+C0026 was a campaign identified in September 2022 that included the selective distribution of KOPILUWAK and QUIETCANARY malware to previous ANDROMEDA malware victims in Ukraine through re-registered ANDROMEDA C2 domains. Several tools and tactics used during C0026 were consistent with historic Turla operations.[1]
+ID: C0026
+First Seen:
+August 2022 [1]
+Last Seen:
+September 2022 [1]
+Contributors: Yoshihiro Kori, NEC Corporation; Manikantan Srinivasan, NEC Corporation India; Pooja Natarajan, NEC Corporation India
+Version: 1.0
+Created: 15 May 2023
+Last Modified: 31 July 2026
+Version Permalink
+Live Version
+ATT&CK® Navigator Layers
+Enterprise Layer
+download
+view
+Techniques Used
+Domain
+ID
+Name
+Use
+Enterprise
+T1583
+.001
+Acquire Infrastructure: Domains
+For C0026, the threat actors re-registered expired C2 domains previously used for ANDROMEDA malware.[1]
+Enterprise
+T1560
+.001
+Archive Collected Data: Archive via Utility
+During C0026, the threat actors used WinRAR to collect documents on targeted systems. The threat actors appeared to only exfiltrate files created after January 1, 2021.[1]
+Enterprise
+T1005
+Data from Local System
+During C0026, the threat actors collected documents from compromised hosts.[1]
+Enterprise
+T1030
+Data Transfer Size Limits
+During C0026, the threat actors split encrypted archives containing stolen files and information into 3MB parts prior to exfiltration.[1]
+Enterprise
+T1568
+Dynamic Resolution
+During C0026, the threat actors re-registered a ClouDNS dynamic DNS subdomain which was previously used by ANDROMEDA.[1]
+Enterprise
+T1105
+Ingress Tool Transfer
+During C0026, the threat actors downloaded malicious payloads onto select compromised hosts.[1]
+Software
+ID
+Name
+Description
+S1074
+ANDROMEDA
+During C0026, the threat actors re-registered expired ANDROMEDA domains to profile past victims for further targeting.[1]
+S0099
+Arp
+[1]
+S1075
+KOPILUWAK
+KOPILUWAK was used as a first-stage profiling utility for previous victims of ANDROMEDA during C0026.[1]
+S0039
+Net
+[1]
+S0104
+netstat
+[1]
+S1076
+QUIETCANARY
+During C0026, the threat actors used QUIETCANARY to gather and exfiltrate data. [1]
+References
+Hawley, S. et al. (2023, February 2). Turla: A Galaxy of Opportunity. Retrieved May 15, 2023.

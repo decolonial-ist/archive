@@ -1,0 +1,33 @@
+# Чека. Личные воспоминания об Одесской чрезвычайке
+
+**Автор:** Алинин К.
+**Год публикации:** 1919
+**Где напечатано:** Одесса; текст по сборник: Волков С. (составитель) Красный террор глазами очевидцев; Алинин - псевдоним
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (общественное достояние: издано в 1919 году)
+
+Страница витрины: https://archive.decolonial.ist/597
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.pdf) | PDF | 193 КБ | в этой папке |
+| [cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt](https://github.com/decolonial-ist/archive/blob/main/597/cheka_lichnye_vospominaniya_ob_odesskoy_chrezvychayke_1919.txt) | текст | 206 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: `coollib[.]com/b/181411/read#t25`
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+- [Пытки и истязания — Советско-Украинская война: второе вторжение и ресурсное истощение (1919)](https://decolonial.ist/procedures/C0074.T0162.004/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

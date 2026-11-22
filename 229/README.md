@@ -1,0 +1,28 @@
+# The Russo-Ukrainian gas dispute of January 2009
+
+**Автор:** Stern J., Pirani S., Yafimava K.
+**Год публикации:** 2009
+**Где напечатано:** Oxford Institute for Energy Studies
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** нельзя (материал организации или СМИ под авторским правом (oxfordenergy.org))
+
+Страница витрины: https://archive.decolonial.ist/229
+
+## Файлы не выкладываем
+
+## Откуда это у нас
+
+Первоисточник: [https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf](https://www.oxfordenergy.org/wpcms/wp-content/uploads/2010/11/NG27-TheRussoUkrainianGasDisputeofJanuary2009AComprehensiveAssessment-JonathanSternSimonPiraniKatjaYafimava-2009.pdf)
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [Газовые войны и энергетический шантаж (2006–2009)](https://decolonial.ist/campaigns/C0097/)
+- [Подкуп элит — Газовые войны и энергетический шантаж (2006–2009)](https://decolonial.ist/procedures/C0097.T0015/)
+- [Экономическая блокада — Газовые войны и энергетический шантаж (2006–2009)](https://decolonial.ist/procedures/C0097.T0108/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

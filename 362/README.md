@@ -1,0 +1,34 @@
+# 1876 - підписано Емський указ
+
+**Автор:** Український інститут національної пам'яті
+**Год публикации:** 2020
+**Где напечатано:** не пізніше грудня 2020 року
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (Український інститут національної пам'яті: CC BY 4.0)
+
+Страница витрины: https://archive.decolonial.ist/362
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [1876_pidpisano_emskiy_ukaz_2020.txt](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2020.txt) | текст | 7 КБ | в этой папке |
+| [1876_pidpisano_emskiy_ukaz_2020.pdf](https://github.com/decolonial-ist/archive/blob/main/362/1876_pidpisano_emskiy_ukaz_2020.pdf) | PDF | 30 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://uinp.gov.ua/istorychnyy-kalendar/traven/30/1876-emskyy-ukaz](https://uinp.gov.ua/istorychnyy-kalendar/traven/30/1876-emskyy-ukaz)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+- [Памятник Богдану Хмельницкому (1888)](https://decolonial.ist/campaigns/C0065/)
+- [Маркировка территории имперскими символами — Памятник Богдану Хмельницкому (1888)](https://decolonial.ist/procedures/C0065.T0158/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

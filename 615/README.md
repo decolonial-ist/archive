@@ -1,0 +1,33 @@
+# Обращение Киевского комитета РСДРП(б) с призывом к свержению Центральной рады и установлению власти Советов
+
+**Автор:** Киевский комитет РСДРП(б)
+**Год публикации:** 1918
+**Где напечатано:** Великая Октябрьская социалистическая революция на Украине. Том 3. — Киев: Госполитиздат УССР, 1957
+**Архивный шифр:** ЦГАОР УССР, фонд листовок, инв. № 2325. Типографский оттиск
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно: документ (документ 1918 года свободен, но напечатан в издании 1957 года — выкладываем только текст документа, не издание)
+
+Страница витрины: https://archive.decolonial.ist/615
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt](https://github.com/decolonial-ist/archive/blob/main/615/obraschenie_kievskogo_komiteta_rsdrp_b_s_prizyvom_eniyu_vlasti_sovetov_1918.txt) | текст | 9 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20260923214101/https://docs.historyrussia.org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g](https://web.archive.org/web/20260923214101/https://docs.historyrussia.org/ru/nodes/479802-obraschenie-kievskogo-komiteta-rsdrp-b-s-prizyvom-k-sverzheniyu-tsentralnoy-rady-i-ustanovleniyu-vlasti-sovetov-16-yanvarya-1918-g)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+- [Организация переворота — Советско-Украинская война: первое вторжение и марионеточное правительство (декабрь 1917 - апрель 1918)](https://decolonial.ist/procedures/C0072.T0020/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

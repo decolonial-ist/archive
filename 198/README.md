@@ -1,0 +1,34 @@
+# Про засади державної мовної політики
+
+**Автор:** Верховна Рада України
+**Год публикации:** 2012
+**Где напечатано:** закон № 5029-VI; втратив чинність 2018
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (официальный документ: законы, указы, постановления и решения судов авторским правом не охраняются)
+
+Страница витрины: https://archive.decolonial.ist/198
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.pdf) | PDF | 104 КБ | в этой папке |
+| [pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt](https://github.com/decolonial-ist/archive/blob/main/198/pro_zasadi_derzhavnoi_movnoi_politiki_2012.txt) | текст | 103 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://zakon.rada.gov.ua/laws/show/5029-17](https://zakon.rada.gov.ua/laws/show/5029-17)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+- [Закон Кивалова-Колесниченко (2012)](https://decolonial.ist/campaigns/C0055/)
+- [Исключение родного языка из делопроизводства — Закон Кивалова-Колесниченко (2012)](https://decolonial.ist/procedures/C0055.T0113.002/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

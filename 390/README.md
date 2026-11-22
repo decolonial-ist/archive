@@ -1,0 +1,39 @@
+# Полное собрание законов Российской империи. Собрание первое. Том XX (1775-1780)
+
+**Автор:** Екатерина II
+**Год публикации:** 1830
+**Где напечатано:** манифест № 14354 от 3 августа 1775 года «Об уничтожении Запорожской Сечи»; ПСЗРИ
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (общественное достояние: издано в 1830 году)
+
+Страница витрины: https://archive.decolonial.ist/390
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf](https://github.com/decolonial-ist/archive/releases/download/originals-v2/390__polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf) | PDF | 56.7 МБ | актив релиза (файл тяжелее 10 МБ) |
+| [polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.txt](https://github.com/decolonial-ist/archive/blob/main/390/polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.txt) | текст | 6.1 МБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20230314052023/https://psz.ri.org.ru/I/XX.pdf](https://web.archive.org/web/20230314052023/https://psz.ri.org.ru/I/XX.pdf)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| polnoe_sobranie_zakonov_rossiyskoy_imperii_sobrani_voe_tom_xx_1775_1780_1830.pdf | `d92e96b98781f988ee2537f52d33e588963cf7dbb693878935a1481addfcbe17` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+- [Военная ликвидация Запорожской Сечи (1775)](https://decolonial.ist/campaigns/C0033/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

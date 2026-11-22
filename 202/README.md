@@ -1,0 +1,40 @@
+# Territorial integrity of Ukraine (A/RES/68/262)
+
+**Автор:** United Nations General Assembly
+**Год публикации:** 2014
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно (документ межгосударственного органа: свободное воспроизведение с указанием источника)
+
+Страница витрины: https://archive.decolonial.ist/202
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [territorial_integrity_of_ukraine_a_res_68_262_2014.pdf](https://github.com/decolonial-ist/archive/blob/main/202/territorial_integrity_of_ukraine_a_res_68_262_2014.pdf) | PDF | 35 КБ | в этой папке |
+| [territorial_integrity_of_ukraine_a_res_68_262_2014.txt](https://github.com/decolonial-ist/archive/blob/main/202/territorial_integrity_of_ukraine_a_res_68_262_2014.txt) | текст | 4 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://digitallibrary.un.org/record/767883/files/A_RES_68_262-EN.pdf](https://digitallibrary.un.org/record/767883/files/A_RES_68_262-EN.pdf)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| territorial_integrity_of_ukraine_a_res_68_262_2014.pdf | `c0156b2e043a976794b46d90a56bd6d394cfd016b44e7266b5564133cce42dc7` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 3 местах.
+
+- [Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)](https://decolonial.ist/campaigns/C0100/)
+- [Марионеточное правительство — Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)](https://decolonial.ist/procedures/C0100.T0037/)
+- [Имитация народного волеизъявления — Начало российско-украинской войны: Вооруженное вторжение и оккупация Крыма (2014)](https://decolonial.ist/procedures/C0100.T0109/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

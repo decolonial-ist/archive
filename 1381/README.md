@@ -1,0 +1,27 @@
+# War Crimes and Politics of Terror in Chechnya 1994-2004. MSF Speaks Out
+
+**Автор:** Binet L.
+**Год публикации:** 2014
+**Где напечатано:** director of studies; Médecins Sans Frontières (MSF), серия «MSF Speaking Out», сентябрь 2014
+**Описывает российскую колонизацию народов:** Нохчи (Чеченцы)
+**Права на публикацию:** нельзя (современная публикация 2014 года под авторским правом)
+
+Страница витрины: https://archive.decolonial.ist/1381
+
+## Файлы не выкладываем
+
+## Откуда это у нас
+
+Первоисточник: `www.msf[.]org/sites/default/files/2019-04/MSF%20Speaking%20Out%20Chechnya%201994-2004.pdf`
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+- [Выдворение и недопуск внешних миссий — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0027/)
+- [Неизбирательные нападения — Первая Русско-Чеченская война (1994–1996)](https://decolonial.ist/procedures/C1193.T0165/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

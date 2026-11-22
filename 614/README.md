@@ -1,0 +1,32 @@
+# Приказ М. А. Муравьева о задачах армии по обороне Киева после его освобождения
+
+**Автор:** Муравьёв М. А.
+**Год публикации:** 1918
+**Где напечатано:** Антонов-Овсеенко В. А. Записки о гражданской войне. Том 1. — М., 1924. С. 152–154; текст по сборник: Директивы командования фронтов Красной Армии (1917–1922). Том 1. — Москва: Воениздат, 1971
+**Описывает российскую колонизацию народов:** Украинцы
+**Права на публикацию:** свободно: документ (документ 1918 года свободен, но напечатан в издании 1971 года — выкладываем только текст документа, не издание)
+
+Страница витрины: https://archive.decolonial.ist/614
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt](https://github.com/decolonial-ist/archive/blob/main/614/prikaz_m_a_muraveva_o_zadachah_armii_po_oborone_ki_e_ego_osvobozhdeniya_1918.txt) | текст | 4 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://web.archive.org/web/20260923214051/https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g](https://web.archive.org/web/20260923214051/https://docs.historyrussia.org/ru/nodes/186080-prikaz-m-a-muravieva-o-zadachah-armii-po-oborone-kieva-posle-ego-osvobozhdeniya-9-st-darnitsa-22-yanvarya-1918-g)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 1 месте.
+
+- [Массовые убийства гражданских — Советско-Украинская война: первое вторжение и марионеточное правительство (декабрь 1917 - апрель 1918)](https://decolonial.ist/procedures/C0072.T0104/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).

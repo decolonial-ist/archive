@@ -1,0 +1,1501 @@
+TREATMENTOFP  RI
+               SONE RSOFWAR
+ANDP  E
+      R SONSHOR  SDECOMBAT
+I
+NT HECONT  EXTOFT HEARMEDATT
+                           ACK
+BYT HERUS SI
+           AN FEDERAT
+                    ION
+AGAI NSTUKR AI
+             NE
+24F
+  EBRUAR
+       Y2022–23F
+               EBRUAR
+                    Y2023
+
+                       24Mar
+                           ch2023
+REPORT ON THE
+TREATMENT OF PRISONERS OF WAR
+AND PERSONS HORS DE COMBAT IN
+THE CONTEXT OF THE ARMED ATTACK
+BY THE RUSSIAN FEDERATION
+AGAINST UKRAINE
+
+24 FEBRUARY 2022 TO 23 FEBRUARY 2023
+
+                                       24 March 2023
+CONTENTS
+
+I.            EXECUTIVE SUMMARY .............................................................................................. 3
+II.           METHODOLOGY..................................................................................................... 6
+III.          CONTEXT AND LEGAL FRAMEWORK ............................................................................ 7
+IV.           TREATMENT OF PRISONERS OF WAR IN THE HANDS OF THE RUSSIAN FEDERATION .................. 9
+      A. Capture and evacuation ....................................................................................... 9
+           Summary executions ................................................................................................ 9
+           Torture or other forms of ill-treatment........................................................................ 10
+           Pillage of belongings ............................................................................................. 11
+           Exposure to public curiosity .................................................................................... 11
+           Conditions of evacuation........................................................................................ 11
+      B.      Internment of POWs ........................................................................................... 12
+           Conditions of internment ........................................................................................ 13
+           Torture or other ill-treatment, including sexual violence, during internment .................... 17
+           Killing and injuring of POWs at the penal colony near Olenivka ................................ 20
+           Torture or other ill-treatment, including sexual violence, against women POWs in internment 21
+      C. Trials of POWs .................................................................................................. 22
+      D.      Conditions of release and repatriation .................................................................. 23
+V.            TREATMENT OF PRISONERS OF WAR IN THE HANDS OF UKRAINE ...................................... 25
+      A. Capture and evacuation ..................................................................................... 25
+           Summary executions .............................................................................................. 25
+           Torture or other forms of ill-treatment........................................................................ 26
+           Pillage of belongings ............................................................................................. 28
+           Exposure to public curiosity .................................................................................... 28
+           Conditions of evacuation........................................................................................ 29
+      B.      Internment of POWs ........................................................................................... 29
+      C. Trials of POWs .................................................................................................. 33
+VI.           CONCLUSIONS AND RECOMMENDATIONS ................................................................. 35
+
+                                                           Report on the treatment of POWs, 24 February 2022 – 23 February 2023     | 2
+         I.      Executive summary
+1.       This report by the Office of the United Nations High Commissioner for Human Rights (OHCHR)
+         focuses on the treatment of prisoners of war (POWs) by the parties to the international armed conflict
+         since the large-scale armed attack by the Russian Federation against Ukraine commencing on 24
+         February 2022. The report covers the period from 24 February 2022 to 23 February 2023 and is
+         based on the findings of the Human Rights Monitoring Mission in Ukraine.1 It examines international
+         humanitarian law (IHL) and international human rights law (IHRL) violations in relation to the treatment
+         of POWs during all stages of captivity – from their capture through to their internment and
+         repatriation. The report also describes IHRL and IHL concerns in relation to the criminal prosecution
+         of POWs. By providing recommendations to both Ukraine and the Russian Federation, OHCHR
+         seeks enhanced protection for POWs and improvement of their conditions of internment, regardless
+         of their affiliation, and for all perpetrators responsible for violations of the rights of POWs to face
+         due accountability.
+2.       The ongoing armed attack by the Russian Federation against Ukraine, in breach of the UN Charter
+         and international law, has led to a wide range of IHL and IHRL violations. Since 24 February 2022,
+         a large number of members of the armed forces and other combatants have been captured by the
+         parties to the international armed conflict. Through documenting and cross-checking individual
+         cases, OHCHR identified patterns of IHL and IHRL violations in relation to the treatment of POWs by
+         the Russian Federation2 and Ukraine.3 and Many of the documented violations amount to gross
+         violations of IHRL, as well as to serious violations of IHL and thus may constitute war crimes.
+3.       The Government of Ukraine provided OHCHR with full and confidential access to POWs in official
+         places of internment, which OHCHR acknowledges with great appreciation. Further, the State
+         Penitentiary Service and the Office of the Prosecutor General have actively engaged with OHCHR
+         in relation to concerns raised regarding the treatment of POWs. OHCHR has not been granted
+         access to POWs interned by the Russian Federation despite repeated requests. On one occasion,
+         on 19 August 2022, OHCHR was allowed to meet a group of 13 Ukrainian men POWs interned
+         in a pre-trial detention facility (SIZO) in Luhansk. However, OHCHR was not allowed to conduct
+         confidential interviews.
+
+     1
+       HRMMU was deployed on 14 March 2014, at the request of the Government of Ukraine, to monitor and report on
+        the human rights situation throughout the country and propose recommendations to the Government and other
+        actors to address human rights violations and concerns.
+     2
+       OHCHR refers to Russian armed forces as comprising all actors fighting on behalf of the Russian Federation, including
+        the Armed Forces and National Guard Forces of the Russian Federation, as well as affiliated armed groups of the
+        former self-proclaimed ‘republics’ and Wagner Group military and security contractors, who are under the overall
+        control of the Russian Federation. In some instances, OHCHR names the specific actors fighting on behalf of the
+        Russian Federation to either identify those responsible for the violations or highlight differences in treatment of
+        POWs. The same way, OHCHR refers to Russian POWs in relation to all individuals from the above-mentioned
+        forces that fell into the hands of the belligerent party, regardless of their nationality.
+     3
+       OHCHR refers to Ukrainian armed forces as comprising all actors fighting on behalf of Ukraine, namely the Armed
+        Forces of Ukraine (including units of the Territorial Defense), National Guard of Ukraine and State Border Guard
+        Service of Ukraine, both under the authority of the Ministry of Interior, some units of the Security Service of Ukraine
+        (SBU), National Police and other law-enforcement agencies directly engaged in hostilities, as well as members of
+        organized resistance movements. In some instances, OHCHR names the specific actors fighting on behalf of Ukraine
+        to either identify those responsible for the violations or highlight differences in treatment of POWs. OHCHR refers
+        to Ukrainian POWs in relation to all individuals from the above-mentioned forces that fell in the hands of the
+        belligerent party, regardless of their nationality.
+
+                                                     Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 3
+4.   The report is based on these specific cases that OHCHR has been in a position to document. The
+     number of cases and range of violations is influenced in substantial measure by the level and kind
+     of access to detention facilities and POWs. The respective portions of this report and the numbers
+     and details of cases should not be compared against each other.
+5.   In relation to the treatment of POWs in the power of the Russian Federation, OHCHR documented
+     gross violations of IHRL, and serious violations of IHL that may constitute war crimes upon capture
+     and immediately thereafter. They include the summary executions of 15 POWs, the use of POWs as
+     human shields, the deaths of two wounded men POWs due to a lack of medical care, and torture
+     or other ill-treatment to extract information. OHCHR also documented a widespread practice of
+     pillage of belongings of POWs and evacuation in inhuman conditions, such as in overcrowded
+     vehicles with hands tied and eyes covered, without access to water or toilets.
+6.   Of 203 Ukrainian POWs interviewed by OHCHR, 136 had fallen into the hands of the Russian
+     Federation after their surrender was negotiated between the belligerent forces. OHCHR did not
+     document significant violations of IHL or IHRL during the capture of Ukrainian servicepersons whose
+     surrender was negotiated. Senior officers, and on one occasion international observers, were
+     present during negotiated surrenders of large groups of Ukrainian servicepersons, notably in
+     Mariupol. This contributed to the on-site protection of the POWs and put them at lower risk of being
+     tortured or otherwise ill-treated upon capture.
+7.   OHCHR identified 48 places of internment of POWs both in the Russian Federation and in Russian-
+     occupied territory of Ukraine. More than 75 per cent of POWs interviewed by OHCHR were interned
+     temporarily or for the full period of captivity in penitentiary facilities, in violation of the IHL obligation
+     that they cannot be held in close confinement. Violations of IHL and IHRL documented in 32 of these
+     places related to dire conditions of internment (quarters, food, hygiene and medical attention), denial
+     of communications with the outside world impacting both POWs and their relatives, torture or other
+     ill-treatment, forced labour in violation of IHL rules, and a lack of access of independent monitors. In
+     the majority of places of internment, violations were widespread and persistent. OHCHR
+     documented five cases where men POWs died after being tortured or otherwise ill-treated, and four
+     cases where POWs died due to a lack of medical attention during internment.
+8.   Through individual interviews with 24 women POWs, OHCHR found that women POWs in the
+     hands of the Russian Federation were treated differently than men POWs. Women were interned
+     separately from men and generally subjected to less physical violence, especially the most severe
+     forms, and enjoyed better conditions during evacuations and transfers between places of internment.
+     However, in 17 cases, women POWs interned in pre-trial detention and penitentiary facilities in
+     Donetsk or in the Russian Federation were subjected to beatings, electrocution, forced nudity, cavity
+     searches and threats of sexual violence. Women POWs interviewed by OHCHR were also not
+     provided with access to sexual and reproductive health services.
+9.   In the Russian-occupied territory of Donetsk, OHCHR documented eleven cases of criminal
+     prosecution of Ukrainian POWs for mere participation in hostilities. OHCHR also documented the
+     use of torture or other ill-treatment to extract confessions and testimony; denial of the right to trial by
+     a regularly constituted, independent and impartial court; and violations of the right to have legal
+     counsel of one’s own choosing.
+10. In relation to the treatment of POWs in the power of Ukraine, OHCHR also documented cases of
+    summary executions of at least 25 Russian POWs upon capture through information gathered from
+    open sources, in situ visits and interviews with witnesses. Such cases amount to gross violations of
+    IHRL and serious violations of IHL that may constitute war crimes.
+
+                                              Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 4
+11. OHCHR also documented cases of torture or other forms of ill-treatment against 113 POWs, many
+    of them involving beatings, kicking or, to a lesser extent, stabbing. These took place at various stages
+    of captivity, but mainly during capture, first interrogations or evacuation to places of internment.
+    Many POWs reported poor and often humiliating conditions during their evacuation to transit camps
+    and permanent places of internment, notably being packed into overcrowded vehicles, often half-
+    naked, with hands tied behind their backs.
+12. OHCHR documented cases of inadequate conditions of internment in 8 out of 31 transit and
+    permanent facilities run by the Government of Ukraine. It also documented cases of torture and ill-
+    treatment, including so-called ‘welcome beatings’ in a penal colony in Dnipro from March to May
+    2022.
+13. OHCHR welcomes the establishment by Ukraine of a POW camp in Lviv region as required under
+    IHL rules on the places and conditions of internment and the security of POWs. However, OHCHR
+    has concerns regarding the lack of food, cold temperatures in living quarters and humiliating
+    treatment. OHCHR also notes that a significant number of POWs remain interned in penitentiary
+    facilities, in violation of the IHL obligation that they cannot be held in close confinement.
+14. OHCHR identified patterns of violations related to criminal proceedings carried out by Ukrainian
+    authorities against POWs from Russian-affiliated armed groups. They include prosecution for conduct
+    amounting to mere participation in hostilities, as well as violations of the right to fair trial, notably of
+    the guarantees to prepare one’s defence and have counsel of one’s own choosing, use of confessions
+    obtained with a promise of swift release during POW exchanges and rushed trials by courts that
+    may lack impartiality.
+
+                                             Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 5
+       II.      Methodology
+15. This report is based on information gathered by OHCHR through 50 site visits, and interviews with
+    432 POWs (407 men and 25 women), their relatives and civilians who were detained in the same
+    location as POWs. OHCHR was provided confidential access to POWs interned by Ukraine and
+    was able to conduct interviews in places of internment. No confidential access was provided to
+    POWs in the hands of the Russian Federation.4 OHCHR interviewed Ukrainian POWs upon their
+    release and return to Government-controlled territory.
+16. Information obtained through interviews was cross-checked and corroborated by on-site observations
+    in places of internment, geographic data, official records, open-source information, court documents,
+    and other relevant material assessed as credible and reliable. Where OHCHR was not able to
+    corroborate information through witnesses or other sources, it reached conclusions by comparing
+    the information with sets of similar allegations giving rise to substantiated patterns of consistent
+    conduct.
+17. Findings are included in the report where they meet the “reasonable grounds to believe” standard,
+    namely where, based on a body of verified information, an ordinarily prudent observer would have
+    reasonable grounds to believe that the facts took place as described, and where legal conclusions
+    are drawn, that these facts meet all the elements of a violation.
+18. Information in this report is used with the full and informed consent of all sources as to its use. At all
+    stages, OHCHR strictly adhered to the “do no harm” principle and took all appropriate measures to
+    prevent re-traumatization and protect individuals who remain in captivity.
+19. OHCHR shared the draft report with the concerned States for factual comments, as per usual
+    practice.
+
+   4
+       On one occasion, OHCHR was granted access to a place of internment in Luhansk city and met with a group of
+        POWs together with local occupation officials. However, OHCHR was not able to carry out confidential interviews.
+
+                                                   Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 6
+       III. Context and Legal Framework
+20. On 24 February 2022, the Russian Federation launched a large-scale armed attack against Ukraine,
+    with air strikes across the country and land invasion in ten regions: Kyiv, Chernihiv, Donetsk, Kharkiv,
+    Kherson, Luhansk, Mykolaiv, Sumy, Zaporizhzhia and Zhytomyr.5 The attack was supported by
+    Russian-affiliated armed groups.6 The incursion marked a destructive new chapter in the conflict in
+    Ukraine, ongoing since 2014, and resulted in a sharp increase in civilian casualties and destruction
+    of civilian objects. Both the United Nations General Assembly and the Secretary-General deplored
+    Russia’s aggression against Ukraine, in breach of the United Nations Charter and international law.7
+21. The armed attack and hostilities have led to a grave deterioration in the human rights situation across
+    the country. The international armed conflict has resulted in a wide range of human rights violations
+    of both civilians and combatants, including the rights to life, liberty and security of persons. Intense
+    hostilities also created a deterioration in a range of economic and social rights of the civilian
+    population, in particular on their rights to an adequate standard of living, education, health and
+    housing.
+22. Both Ukraine and the Russian Federation are bound by treaty and customary IHL, including the four
+    Geneva Conventions of 1949, the 1977 Additional Protocol I to the Geneva Conventions, and the
+    1907 Hague Convention IV with its annexed Regulations concerning the Laws and Customs of War
+    on Land (Hague Regulations).
+23. In addition, IHRL continues to apply concurrently during armed conflict, and the human rights
+    obligations of States apply extraterritorially in all circumstances where they exercise jurisdiction or
+    effective control. This includes non-derogable rights, even in times of emergency, such as the rights
+    not to be subjected to arbitrary deprivation of life,8 to torture or other cruel, inhuman or degrading
+
+   5
+     For details on the context of the armed attack, see OHCHR, Situation of Human Rights in Ukraine in the Context of
+       the Armed Attack by the Russian Federation, 29 June 2022, available at: www.ohchr.org/en/documents/country-
+       reports/situation-human-rights-ukraine-context-armed-attack-russian-federation; OHCHR, Killings of Civilians:
+       Summary Executions and Attacks on Individual Civilians in Kyiv, Chernihiv, and Sumy Regions in the Context of the
+       Russian      Federation     Armed     Attack     Against     Ukraine,     December      2022,       available     at:
+       www.ohchr.org/en/documents/country-reports/killings-civilians-summary-executions-and-attacks-individual-
+       civilians, paras. 19-23.
+   6
+     Armed groups of the (former) self-proclaimed ‘Donetsk people’s republic’ and the (former) self-proclaimed ‘Luhansk
+       people’s republic’.
+   7
+     See, for example, General Assembly resolutions A/RES/ES-11/1; A/RES/ES-11/4 and A/RES/ES-11/5, and
+       Statement       of      the     Secretary-General       of     24       February     2022,         available      at:
+       https://www.un.org/sg/en/content/sg/statement/2022-02-24/statement-the-secretary-general-%E2%80%93-
+       ukraine
+   8
+     Universal Declaration of Human Rights, art. 3; International Covenant on Civil and Political Rights (ICCPR), art. 6(1);
+       Human Rights Committee, General Comment No. 36 (2018). See also the Convention for the Protection of Human
+       Rights and Fundamental Freedoms (ECHR), art. 2 which prohibits intentional deprivation of life save for a narrow
+       set of circumstances. On 16 September 2022, the Russian Federation ceased to be a party to the ECHR.
+
+                                                   Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 7
+        treatment or punishment,9 fundamental guarantees of fair trial,10 and obligations to provide
+        adequate access to justice and remedies to victims.11
+24. In line with IHL, members of the regular armed forces of Ukraine and the Russian Federation, as well
+    as members of other formations being part of such armed forces, who have fallen into the power of
+    a belligerent party are considered POWs in this report.12 The treatment of POWs is specifically
+    regulated by the Third Geneva Convention relative to the treatment of POWs and applicable
+    customary IHL, which is binding on both Ukraine and the Russian Federation. States have a
+    fundamental obligation to treat all POWs in their power humanely at all times, from the moment of
+    their capture until their release and repatriation.
+25. Certain violations of the rules applicable to the treatment of POWs are considered to be grave
+    breaches of the Geneva Convention13 and war crimes under the Rome Statute of the International
+    Criminal Court (ICC).14 These include wilful killings, torture or inhuman treatment, wilfully causing
+    great suffering or serious injury to body or health, sexual violence, compelling a POW to serve in
+    the forces of the hostile Power, or wilfully depriving a POW of the rights of fair and regular trial.
+
+   9
+     ICCPR, art. 7.
+   10
+      ICCPR, art. 14.
+   11
+       United Nations General Assembly, Basic principles and guidelines on the right to a remedy and reparation for
+        victims of gross violations of international human rights law and serious violations of international humanitarian
+        law, A/RES/60/147.
+   12
+       Article 4 of the Third Geneva Convention as completed by articles 43 and 44 of Additional Protocol I lists the
+        categories of persons who shall be considered as POWs if certain conditions are fulfilled.
+   13
+      Article 130 of the Third Geneva Convention; article 85(4)(b) of Additional Protocol I.
+   14
+      Articles 8(2)(a)(i) and 8(2)(b)(xxii) of the Rome Statute. While neither Ukraine nor the Russian Federation are parties
+        to the Rome Statute, Ukraine has accepted the Court's jurisdiction over alleged crimes under the Statute occurring
+        on its territory, pursuant to art. 12(3). Furthermore, on 2 March 2022, the Prosecutor of the ICC announced having
+        opened an investigation into the situation in Ukraine on the basis of referrals received. The scope of the situation
+        encompasses allegations of war crimes, crimes against humanity or genocide committed in Ukraine from 21
+        November 2013 onwards (see https://www.icc-cpi.int/ukraine).
+
+                                                   Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 8
+        IV. Treatment of prisoners of war in the hands
+            of the Russian Federation
+26. OHCHR recalls that the Russian Federation refused it access to relevant facilities. The following
+    analysis therefore reflects only cases and details that could be verified through other means. The
+    analysis of the available information discloses patterns that are deeply worrying.
+
+        A.   CAPTURE AND EVACUATION
+
+27. Through interviews with 203 Ukrainian POWs (179 men and 24 women) who were released,
+    OHCHR documented the following violations of IHL and IHRL by Russian armed forces upon their
+    capture and during evacuation: summary executions, torture or other ill-treatment, evacuation in
+    inhumane conditions, denial of medical attention (sometimes leading to death), denial of access to
+    food and water, and pillage of belongings.
+28. Of those interviewed, 136 Ukrainian POWs (118 men and 18 women) fell into the hands of the
+    Russian Federation after their surrender was negotiated by commanders of the belligerent forces.15
+    They stated that Russian soldiers mostly treated them with respect at the time of surrender, with
+    officers protecting them from attempts to humiliate, threaten or beat them. Those in need of medical
+    care reported that it was provided on site by Russian or Ukrainian medical personnel who were
+    allowed to do so. Yet, nine POWs reported verbal humiliation and intimidation.
+
+        Summary executions
+29. Through interviews with witnesses, OHCHR documented the summary executions of 14 Ukrainian
+    men POWs shortly after their capture by members of the Russian armed forces and Wagner Group
+    military and security contractors. Attacking persons hors de combat or wilfully killing POWs are
+    considered grave breaches of the Third Geneva Convention and Additional Protocol I.16 For
+    example, in early April in Mariupol, Russian servicemen tortured and then executed an officer of the
+    National Guard of Ukraine when he refused to provide the password to a radio station used by the
+    Ukrainian armed forces. On 26 June, Wager Group military and security contractors captured six
+    Ukrainian servicemen and brought them to the Myronivskyi power station in Donetsk region for
+    questioning. One military and security contractor shot dead a prisoner after he stated having
+    voluntarily joined the Ukrainian armed forces after the start of the Russian armed attack against
+    Ukraine. On 11 September 2022, about 20 Wagner Group military and security contractors
+    captured two wounded Ukrainian servicemen from the 24th Separate Assault Battalion “Aidar” near
+    Mykolaivka village in the south of Bakhmut, Donetsk region. Shortly after, one of the Wagner Group
+    military and security contractors executed one of those POWs because he was moaning in pain
+    from his wounds. He shot him three times in his chest and once in his head.
+30. In addition, OHCHR analysed videos widely disseminated via social media on 28 July 2022, which
+    appear to show a member of the Russian armed forces kicking the head of a man wearing a uniform
+
+   15
+      These POWs include members of the National Guard who laid down their arms at the Chornobyl Nuclear Power
+       Plant on 24 February 2022, and servicepersons defending Mariupol who laid down their arms at the Illich Steel
+       and Iron Works plant between 11 and 12 April 2022 and at the Azovstal Steel and Iron Works plant on 16-20
+       May 2022.
+   16
+      Third Geneva Convention, art. 130; Additional Protocol I, arts. 41 and 85.
+
+                                                Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 9
+        of the Ukrainian armed forces, cutting off his testicles with a utility knife and shooting him dead.
+        Although OHCHR was not able to establish the identity of the victim, the incident does not appear
+        staged and would manifestly amount to torture, including sexual violence, and wilful killing.
+31. Summary executions and attacks against POWs and persons hors de combat are prohibited under
+    international law and, where deliberate, constitute war crimes. State parties to the conflict should
+    take all available measures to prevent and punish such acts and ensure that all responsible actors
+    are brought to account.
+
+        Torture or other forms of ill-treatment
+
+                                          “If you scream, I will shoot you down.”
+                                          - A man POW recalling how Wagner group military and
+                                          security contractors threatened him and other POWs before
+                                          starting to beat them.
+
+32. Fifty-five Ukrainian POWs (52 men and 3 women) reported various forms of torture or other ill-
+    treatment,17 including sexual violence, upon their capture.18 Most of them fell into the hands of the
+    Russian Federation during battle and were not seriously wounded. POWs were tortured and ill-
+    treated to extract information of military relevance or as a form of punishment. They reported being
+    beaten with fists, tactical gloves with knuckles, rifle butts, shovels, batons or sticks; kicked; stabbed,
+    subjected to mock executions with the use of firearms; subjected to electric shocks; strangled; held
+    in cold temperature without clothes and threatened with mutilation. Some of them lost their teeth or
+    fingers, had their ribs, fingers or noses broken, or suffered from pain for extended periods of times.
+33. OHCHR documented six cases of torture of Ukrainian POWs at the Melitopol Air Base, where
+    Russian armed forces were stationed. Several POWs held in the building of a pilot school were
+    subjected to prolonged beatings and electrocution with a TA-57 military telephone by servicepersons
+    of the armed forces of the Russian Federation. On 9 May 2022, the POWs heard another Ukrainian
+    POW being tortured and saw signs of beatings on his body after he was brought to the room where
+    they were held. He died shortly after, due to the injuries sustained.
+34. OHCHR is particularly concerned about the use of two Ukrainian POWs in a military operation. On
+    7 July 2022, Wagner Group military and security contractors dressed in Ukrainian uniforms used
+    two POWs to approach and attack Ukrainian positions near Bakhmut, Donetsk region. Those who
+    reported the case to OHCHR believe that the POWs and private military contractors were killed
+    during the attack. Such action constitutes a violation of article 23 of the Third Geneva Convention
+    and article 39 of Additional Protocol I, and may amount to a war crime.19
+
+   17
+      The prohibition of torture and ill-treatment is a fundamental principle of IHL and IHRL, both jus cogens and treaty-
+       based. It is laid down in articles 13 and 130 of the Third Geneva Convention and described as a grave breach of
+       IHL.
+   18
+      See para. 28 above. POWs whose surrender was negotiated by the parties enjoyed a higher level of protection
+       upon capture.
+   19
+      Article 23 states that “[n]o prisoner of war may at any time be sent to, or detained in areas where he may be
+       exposed to the fire of the combat zone, nor may his presence be used to render certain points or areas immune
+       from military operations”. In addition, article 13 prohibits and regards as a serious breach of the Convention any
+       unlawful act or omission causing death or seriously endangering the health of a prisoner of war. Article 8(2)(b)(xxiii)
+
+                                                  Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 10
+     Pillage of belongings
+35. Of the 203 Ukrainian POWs interviewed by OHCHR, 122 (103 men and 19 women) reported the
+    pillage of their belongings by Russian armed forces at various stages from the moment of their
+    capture to their arrival at places of internment. Most often, money, wristwatches, jewellery (including
+    wedding rings and religious symbols), toiletries and medicine for personal use were taken in
+    violation of article 18 of the Third Geneva Convention.20 POWs reported the pillage of their military
+    clothing, which left some POWs suffering from cold temperatures or lack of proper footwear.
+    OHCHR also documented seven cases where members of Russian armed forces seized POWs’ bank
+    cards and withdrew money from their bank accounts.21
+
+     Exposure to public curiosity
+36. OHCHR notes with concern the abundance of videos publicly available online exposing Ukrainian
+    POWs to intimidation, humiliation and public curiosity in violation of IHL.22 POWs appear in these
+    videos as partially naked or visibly in pain, and in need of medical assistance or receiving medical
+    assistance. In some videos, the POWs are verbally abused, threatened and compelled to apologise,
+    disparage their command, glorify the Russian armed forces, shout slogans or congratulatory words
+    to specific military units or individuals, or make statements about their adequate treatment in
+    captivity. Some videos were later broadcasted on Russian television.
+37. In one case, a commander who surrendered with his son to the Russian armed forces was compelled
+    to make a statement on video disparaging their command and describing their treatment as
+    adequate, under threats of shooting his son. In another case, several Russian servicemen forced two
+    wounded Ukrainian POWs with broken legs to crawl about 500-700 meters to the closest Russian
+    military position. The Russian servicemen mocked the POWs and filmed the scene, which was later
+    posted online.
+
+     Conditions of evacuation
+38. OHCHR documented 19 cases of Ukrainian POWs evacuated in a manner and under conditions
+    contravening the Third Geneva Convention, which prescribes that the evacuation of POWs be
+    carried out humanely and in conditions similar to those for the forces of the Detaining Power during
+    their change of station.23 The POWs reported being transferred with their hands tied and eyes
+
+       of the Rome Statute defines as a war crime the act of utilizing the presence of a civilian or other protected person
+       to render certain points, areas or military forces immune from military operations.
+       20
+          Article 18(1) of the Third Geneva Convention specifies that effects and articles of personal use may not be taken
+       from POWs. This includes toiletries, glasses, jewellery, wristwatches, books, wallets, keys, pens and paper,
+       medicine for personal use and items of religious significance. See also Commentary of 2020.
+   21
+      Members of Russian armed forced either forced POWs to provide the security codes for their bank cards or used
+       payment terminals in shops to withdraw small amounts of money. In one documented case, Russian servicemen
+       contacted a POW’s relatives and coerced them into transferring money from the POW’s bank card under threats
+       of torturing the POW.
+   22
+      Article 13 (2) of the Third Geneva Convention states that “prisoners of war must at all times be protected, particularly
+       against acts of violence or intimidation and against insults and public curiosity”. In modern conflicts, the prohibited
+       acts include the disclosure of photographic and video images, recordings of interrogations or private conversations,
+       personal correspondence or any other private data, irrespective of the public communication channel used. See
+       also Commentary of 2020, paras. 1623-1624.
+   23
+      Third Geneva Convention, art. 20.
+
+                                                  Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 11
+        covered in overcrowded cargo trucks or “paddy wagons” lacking fresh air. Moreover, several
+        POWs reported that they were neither allowed to use a toilet nor provided with food or water during
+        evacuations which lasted for a day or two. This raises concerns regarding respect of the obligation
+        to treat POWs humanely and the prohibition of humiliating or degrading treatment.
+39. OHCHR has identified 21 places in the territory of Ukraine occupied by the Russian Federation, and
+    two in the Republic of Belarus, where Russian armed forces held Ukrainian POWs for up to one
+    week before their evacuation to formal places of internment. Such places include old and abandoned
+    barns, farm buildings, garages, car repair shops, private houses, industrial buildings, also used as
+    frontline bases by Russian armed forces, and occupied premises of Ukrainian law-enforcement
+    bodies. 28 POWs who were held in these places reported that they suffered from overcrowding and
+    a lack of fresh air, proper bedding or access to a toilet.24 14 POWs also complained about the lack
+    of water and food. In one case from late May 2022, up to a dozen Ukrainian POWs were held
+    overnight in a pit dug in a forest near a garage used as a base by Russian armed forces.
+40. OHCHR has received credible allegations that at least two wounded Ukrainian men POWs from
+    Mariupol died on 16 April 2022 while being transferred from a barn in Sartana village, Donetsk
+    region, to a hospital in Donetsk.25 Witnesses told OHCHR that the two victims were transferred in a
+    civilian truck and without proper medical attention while on the move.26 23 men POWs interviewed
+    by OHCHR stated that Russian armed forces provided them with due medical assistance during the
+    early stages of captivity.
+41. OHCHR notes the treatment of 168 servicemen of the National Guard of Ukraine who were
+    guarding the Chornobyl Nuclear Power Plant (CNPP). They surrendered to the Russian armed forces
+    on 24 February and were held at the CNPP until 31 March 2022.27 During that period, many of
+    them continued to perform their duties at the CNPP, but without weapons and ammunition. Eight
+    men POWs interviewed by OHCHR complained that they were held in the so-called ‘dirty zone’ of
+    the CNPP, where there are much higher levels of radioactive pollution.
+
+        B.    INTERNMENT OF POWS
+
+42. OHCHR identified 48 places of internment located in Russian-occupied territory of Ukraine and the
+    Russian Federation. These include 28 pre-trial detention facilities and penal colonies, four places of
+    temporary detention and cells in buildings of Ukrainian law enforcement bodies, tent camps and
+    makeshift places of internment28 usually located in industrial buildings. Men and women POWs were
+
+   24
+      In such places, POWs were provided with buckets that served as toilets. In one case that occurred in April, women
+        POWs had to use the buckets while being interned for one week with men POWs in abandoned barns in the village
+        of Sartana, Donetsk region.
+   25
+      Medical attention entails attending to wounds and injuries incurred on the battlefield and during capture or captivity,
+        including the treatment of fractures, orthopaedic surgery and the supply of medicines. See Third Geneva
+        Convention, art. 15; Commentary of 2020, para. 1728.
+   26
+      OHCHR notes that wounded Ukrainian POWs who laid down arms in the Azovstal Iron and Steel Works plant in
+        Mariupol on 16 May 2022 were almost immediately transferred to a hospital in the town of Novoazovsk, Donetsk
+        region.
+   27
+      On 31 March 2022, they were transferred through Belarus to the SIZO in the town of Novozybkov, in the Briansk
+        region of the Russian Federation.
+   28
+      For the purposes of this report, OHCHR identifies premises that were not designed for these purposes and where
+        POWs were held for up to several days as makeshift places of internment (e.g. warehouses, basements); pre-trial
+        and penitentiary facilities or hospitals as transit camps; and the POW camp as a permanent internment facility
+        (camp). In some instances, pre-trial detention facilities were used as permanent transit camps where POWs stayed
+        for longer periods.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 12
+        held separately from each other, and POWs were held separately from persons detained under
+        criminal laws.
+43. Through the accounts of POWs who spent time in these places of internment, OHCHR documented
+    consistent patterns of torture and ill-treatment, poor quartering conditions, and lack of food, water
+    and proper medical attention. In some cases, OHCHR was able to identify the persons allegedly
+    responsible for such violations. See infographic providing detailed information about these places
+    below.
+
+        Conditions of internment
+
+                                           “I was hungry all the time. You eat but you don’t
+                                           feel like you have eaten. I weighed 106 kg, and
+                                           now my weight is 75 kg.”
+                                           – A man POW about conditions in a pre-trial detention facility
+                                           in the Russian Federation.
+
+44. OHCHR documented IHL and IHRL violations in relation to the conditions of internment in 32 of the
+    identified places, including in relation to POWs’ quarters, food, water, hygiene and medical
+    attention.
+45. Of the 203 Ukrainian POWs interviewed by OHCHR, 158 (134 men and 24 women) were interned
+    either at all times or during certain periods of their internment in pre-trial detention facilities,
+    temporary detention facilities, and buildings of law-enforcement bodies. In such places, POWs were
+    held in cells or other forms of close confinement in violation of articles 21 and 22 of the Third Geneva
+    Convention.
+46. One hundred and thirty-seven of the interviewed Ukrainian POWs (24 women and 113 men)
+    reported overcrowded cells which lacked beds,29 fresh air and adequate sanitation and cold
+    temperatures during early spring, autumn and winter in 18 places of internment. For example, POWs
+    told OHCHR that toilets in their cells or barracks were either unavailable or usually clogged, sanitary
+    water was absent or delivered irregularly, and cells were covered extensively with mold and fungus.
+    Nor were these POWs provided with any items to clean their cells. One hundred and twenty POWs
+    also complained that items for personal hygiene were not provided, or were provided in insufficient
+    quantities.30
+47. OHCHR also documented poor hygiene and sanitation with regard to the provision of food, risking
+    spread of infection or disease. For example, in pre-trial detention facilities in the Russian Federation,
+    POWs shared dishes, which were passed from one another, but which could not be cleaned in
+    between use, as no detergent was provided. As a result, POWs sometimes received food served on
+    dirty and unsanitary dishes. Moreover, POWs observed guard dogs licking their dishes and rats
+    sitting on them while being stored in a food cart in the corridor.
+
+   29
+        OHCHR documented that up to 50 POWs and civilian detainees were held in one cell designed for 6 people.
+   30
+        Article 29 of the Third Geneva Convention obliges the Detaining power to take measures to ensure the cleanliness
+         and healthiness of places of interment and to provide POWs with the necessary items for self-hygiene and laundry.
+
+                                                  Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 13
+Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 14
+48. Of the 203 Ukrainian POWs interviewed by OHCHR, 157 POWs (139 men and 18 women)
+    reported poor quality of food or lack of food in 20 places of internment. POWs told OHCHR that
+    their food was undercooked, rotten, or contained sand or small rocks. Those POWs who complained
+    about the inadequate quantity of food reported being given only three or four spoonfuls of porridge
+    and a small piece of bread per meal, which they felt was enough only to keep them alive.31 Twenty
+    two POWs released from four places of internment described being forced to consume their food in
+    a harmful or humiliating manner. For example, the guards gave POWs only 45 seconds to 2 minutes
+    to eat, including very hot food which burned their mouths and throats.32
+49. Through interviews with 77 POWs, OHCHR identified four places of internment where POWs
+    suffered from lack of or poor quality of water. In such places, POWs received only limited amounts
+    of drinking water or dirty water with insects.33 This issue was particularly acute in a penal colony
+    near Olenivka and the SIZO in Donetsk.
+50. Thirty-four per cent of interviewed POWs complained about the lack of medical attention during their
+    internment in penitentiary facilities. Nineteen POWs complained that no medical care was provided
+    despite requests. Many POWs informed OHCHR that the absence of adequate medical care for
+    gastro-intestinal infections, which was common due to poor food, water, hygiene and sanitation,
+    was a major issue. Ten POWs reported that guards beat them or other POWs when they requested
+    medical assistance. Twenty-one POWs also complained that medical personnel in penitentiary
+    institutions only treated and bandaged their wounds to prevent sepsis, but did not provide any
+    medication.
+51. Of deep concern, OHCHR documented the death of four wounded or sick POWs due to lack of
+    proper medical attention. In summer 2022, a man POW died in a penal colony near Olenivka due
+    to lack of treatment for hepatitis. On 10 July 2022, a wounded POW died in a makeshift place of
+    internment in Pervomaisk, Luhansk region, after Wagner Group military and security contractors
+    refused to provide him with antibiotics and a catheter, despite several requests from other POWs.
+52. The conditions described above led 171 POWs (21 women and 150 men) to lose a significant
+    amount of body weight. Many lost up to a quarter of their total weight, and several lost one third.
+53. Severely wounded Ukrainian POWs were also interned in hospitals located in Russian-occupied
+    territory of Ukraine or in the Russian Federation itself. Most of these POWs had no complaints about
+    living conditions, food or medical services, but several reported that medical staff and guards
+    threatened them with violence.
+54. The majority of Ukrainian POWs interviewed by OHCHR were not required to perform work while
+    interned. However, OHCHR documented the case of eight POWs who were forced to load artillery
+    ammunition in Alchevsk city, in violation of IHL norms on the appropriate labour of POWs. OHCHR
+    also received reports that a group of Ukrainian POWs from a penal colony near Olenivka had to
+    collect and load dead bodies in Mariupol in May and June 2022. The Third Geneva Convention
+
+   31
+      These practices not only contravene article 26 of the Third Geneva Convention on food quantity, quality and variety,
+       but they also constitute degrading and humiliating treatment.
+   32
+      POWs knew that they would be punished with physical exercise or beatings if they failed to comply with the guards’
+       orders.
+   33
+      Prisoners must have access to clean, drinkable (filtered and disinfected, if required) water all day long in sufficient
+       quantities ranging from 2.5 and 3 litres per person, or more in hot climates or when POWs carry out physical
+       labour. See Third Geneva Convention, art. 26; Commentary of 2020, paras. 2128-2129.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 15
+        allows a Detaining Power to utilize the labour of POWs, but only under certain conditions and for
+        work that is not dangerous, humiliating, or military in nature.34
+55. Violations of the right to maintain contacts with the outside world affected both POWs and their
+    relatives. Only 10 Ukrainian POWs, with whom OHCHR spoke, were allowed to call or text their
+    relatives,35 and 18 POWs were allowed to send letters. Only 11 out of 203 POWs interviewed by
+    OHCHR were visited by international monitors.36 Numerous relatives of POWs who believed their
+    missing ones had been captured approached OHCHR in despair due to the lack of information
+    about, or contact with them, and the pain of uncertainty that they live through. IHL specifically
+    requires that POWs be allowed to contact their relatives immediately upon capture or within a week
+    of their arrival at a camp. It is of paramount importance for POWs to maintain their connection with
+    the outside world and for their loved ones to know their fate. IHL requires States to ensure this
+    communication on a regular basis.37
+56. OHCHR also received reports that Russian armed forces placed and used artillery near at least two
+    places of internment, which endangered POWs by exposing them to the risk of return artillery fire
+    in violation of the rules of the Third Geneva Convention.38
+57. Based on information from interviews, OHCHR identified only two places of internment for Ukrainian
+    POWs which appeared to comply with IHL requirements on internment conditions: a tent camp in
+    Belgorod region and a former naval school in Sevastopol. POWs also reported generally satisfactory
+    conditions and treatment in the temporary detention center in Donetsk.
+
+   34
+      Article 49.
+   35
+      This was rather an exception, usually made possible by investigators interrogating POWs or medical staff in hospitals.
+   36
+      However, nine out of eleven said that they were visited by international monitors during their internment in a naval
+       school in Sevastopol.
+   37
+      Third Geneva Convention, arts. 70-71.
+   38
+      Article 23 of the Third Geneva Convention states: “No prisoner of war may at any time be sent to, or detained in
+       areas where he may be exposed to the fire of the combat zone, nor may his presence be used to render certain
+       points or areas immune from military operations”.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 16
+        Torture or other forms of ill-treatment, including sexual violence, during
+        internment
+
+                                           “They did not just beat us, they broke us. They
+                                           used their fists, legs, batons, tasers. There were
+                                           POWs who had their arms or legs broken.”
+                                           – A man POW describing ‘admission’ in a pre-trial detention
+                                           facility in the Russian Federation
+                                           “Once I did 2,000 squats. We were brought to a
+                                           canteen for lunch and ordered to sit down. I asked
+                                           a guard whether we could start eating and that
+                                           was my punishment.”
+                                           – A man POW describing how POWs were forced to do
+                                           physical exercises in penitentiary facilities in the Russian
+                                           Federation
+
+58. One hundred seventy-three Ukrainian POWs (153 men and 20 women) interviewed were subjected
+    to torture or other forms of ill-treatment while interned by the Russian Federation, in breach of article
+    13 of the Third Geneva Convention. Their accounts revealed widespread use of torture or other ill-
+    treatment both to extract military information or testimony for tribunals in occupied territory, and to
+    intimidate and humiliate POWs. POWs with pro-Ukrainian tattoos, members of specific military
+    formations such as artillery and tank crews, snipers and sappers, and those who took part in the
+    military operations in eastern Ukraine prior to 2022, were at higher risk of the most violent forms of
+    torture or ill-treatment.
+59. The most widespread forms of torture or ill-treatment were beatings by hand (usually with tactical
+    gloves), batons, wooden hammers or other objects,39 and kicks to various parts of the body, but
+    usually avoiding the head and other vital areas. Electric shocks were also used, both with tasers and
+    TA-57 military telephones. Other common forms of torture or ill-treatment reported to OHCHR
+    included stabbing, strangling, suffocation with a bag, applying pressure, hitting or stepping on
+    wounded limbs, attacks or threats of attacks by dogs, threats with weapons, mock executions,
+    placement in a hotbox or stress position, hanging by hands or legs, burns with cigarettes or lighters,
+    exposure to cold temperatures, twisting or breaking of joints or bones, applying a tourniquet to
+    cause pain, with the POW fearing loss of limb due to constriction of blood circulation, and threats
+    of mutilation with pressing sharp objects against POW’s body parts.40 Five POWs (all men) said that
+    the perpetrators threatened to kill and torture relatives who were also interned in the same facility.
+60. The most common method of torture was the so-called ‘admission’ or ‘welcome beatings’, which the
+    majority of POWs (83 men and 9 women) interviewed by OHCHR experienced upon their arrival
+    at the place of internment. This involved prolonged beatings, threats, dog attacks, tasering, stripping
+    and use of stress positions. OHCHR found that members of the Russian Federal Penitentiary Services
+    (FSIN) systematically engaged in this practice against POWs in pre-trial detention facilities in the
+    Russian Federation. OHCHR documented the same systematic type of mistreatment in the Donetsk
+
+   39
+      POWs were also beaten with plastic pipes, hoses, books, sticks, rifle butts, a pistol hilt and in one case the antenna
+        from a military vehicle.
+   40
+      In one case, perpetrators pressed a screw to the POW’s ear and eye.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 17
+        pre-trial detention facility and 23 other locations in the territory of Ukraine occupied by the Russian
+        Federation.
+61. OHCHR was told repeatedly about the so-called ‘tiny train’ form of torture, which was used in the
+    Donetsk SIZO as well as two other places. POWs were forced to line up, one bent over another to
+    form a ‘train’ and beaten by guards while the ‘train’ moved along.
+62. Fifty-four POWs provided accounts of various forms of sexual violence, including forced nudity. In
+    27 cases (against men), perpetrators targeted the victim’s genitalia during beatings or with electric
+    shocks from a taser, or pulled men POWs by a rope tied around their genitalia. 17 POWs (11 men
+    and six women) were subjected to unnecessary and humiliating cavity searches.41 31 POWs (18
+    men and 13 women) were threatened with rape or other sexual violence in circumstances that made
+    them believe such threats would be executed.42
+
+63. Even though perpetrators did not usually target vital areas of the body, OHCHR documented five
+    cases at two facilities where men POWs died after being tortured. For example, seven POWs told
+    OHCHR that a serviceperson from the Azov Regiment of the National Guard Unit 3057 was beaten
+    to death by guards from the Russian-affiliated armed groups in a disciplinary isolation ward of the
+    penal colony near Olenivka. Women POWs interned in the facility saw his body being carried out
+    of the building on 3 or 4 July 2022.
+64. In 28 places of internment, POWs were subjected daily to painful acts of torture and ill-treatment.
+    POWs told OHCHR they were forced to stay in stress positions, such as in squat or ‘star’ positions
+    (leaning on a wall with arms and legs widely spread), or to perform exhaustive physical exercise
+
+   41
+      POWs reported weekly cavity searches while in close confinement in their cells and without contact with the outside
+        world.
+   42
+       In some cases, victims had been beaten and believed that the perpetrators could employ sexual violence. In other
+        cases, perpetrators made threats of sexual violence while the victims were naked or while trying to undress them
+        by force.
+
+                                                Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 18
+        (repeated squatting, push ups, pull ups, etc.) as intimidation or punishment for alleged misconduct.
+        During such exercises, the guards frequently beat POWs with batons or kicked them.
+65. One hundred and twenty-three Ukrainian POWs informed OHCHR about humiliating practices
+    widely used in places of internment, such as forcing POWs to sing Russian patriotic or children’s
+    songs or to shout slogans. Those who refused or who made mistakes were beaten. POWs also told
+    OHCHR that guards verbally abused them and forced them to dance with each other, imitate
+    animals, scenes from movies or video games, slap each other, and write songs or jokes to entertain
+    guards.43 Guards often spread false news and told POWs they had no country to return to and no
+    chance for release. In four cases, guards taunted POWs by staging transfer for repatriation.44 Such
+    practices amount to a violation of the moral integrity of POWs.45
+
+         Penal colony near Olenivka, Donetsk region46
+         66. In April 2022, this penal colony became a major place of internment for POWs from
+             Mariupol and other parts of southern and eastern Ukraine, as well as for civilians detained
+             in the course of so-called ‘filtration’ processes.47 POWs were held in ten barracks (located
+             in five two-story buildings) and in overcrowded cells of the disciplinary isolation ward
+             (DIZO). In addition, for two days 193 men POWs were held in a building in the industrial
+             zone of the colony, where explosions during the night of 28–29 July 2022 killed at least
+             50 POWs and injured many others. OHCHR assesses that the maximum number of POWs
+             and detained civilians held simultaneously in the colony may have reached about 4,000.
+         67. Two large groups of Ukrainian POWs who surrendered in Mariupol were transferred to
+             the penal colony between 14 and 17 April and between 16 and 21 May 2022,
+             respectively. Men POWs from the first group reported that they were transferred in
+             overcrowded ‘paddy’ wagons and trucks, and subjected to violent ‘welcome beatings’ by
+             penitentiary guards from Russian-affiliated armed groups. POWs from the second group
+             were mostly guarded by FSIN servicepersons and were not subjected to ill-treatment upon
+             their arrival.
+         68. POWs interned in the colony suffered from poor quality of food and drinking water, poor
+             hygiene and sanitation conditions, irregular food distribution, a lack of beds in the
+             barracks, as well as inadequate medical services and a lack of medication to treat
+             infectious diseases. Most POWs reported significant weight loss due to these dire
+             conditions.
+
+   43
+      The general obligation to treat POWs humanely involves protecting them from any physical or psychological abuse
+       or threat thereof, and encompasses a prohibition on humiliating them, in particular by way of insults. See Third
+       Geneva Convention, art. 13; Commentary of 2020, para. 1563.
+   44
+      POWs were put in a bus and told they would be transferred for a POW exchange. They were then brought back to
+       the facilities and told that the Government of Ukraine refused to have them back.
+   45
+      Third Geneva Convention, art. 14.
+   46
+      This detention facility is located in Molodizhne village, near the town of Olenivka in the Volnovaskyi district of
+       Donetsk region. According to Ukrainian legislation, the official name of the facility before it fell under the control
+       of the Russian-affiliated armed groups is Volnovaska penal colony No. 120. Russian-affiliated armed groups
+       continued to refer to it as Volnovaska penal colony.
+   47
+      For more details on the process of ‘filtration’, see OHCHR, Report on the human rights situation in Ukraine, 1 February
+       – 31 July 2022, paras. 78-80.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 19
+          69. With monthly shift changes, the FSIN guards became more violent, frequently insulting or
+              beating POWs, forcing them to do physical exercises and stay in stress positions. Some
+              POWs were also beaten by guards before or during interrogations conducted by the
+              Federal Security Service (FSB) and the Investigative Committee of the Russian Federation.
+          70. Penitentiary guards from Russian-affiliated armed groups subjected men POWs to violent
+              beatings, electrocution, strangulation, sexual violence and torture by fire. Women POWs
+              were interned in cells of the DIZO, which was also used as a place of temporary
+              confinement for men POWs accused of disciplinary offences.
+          71. In mid-July 2022, the Russian Federation began to transfer POWs to other penitentiary
+              facilities. OHCHR received reports that the last POWs left the colony in January 2023.
+
+        Killing and injuring of POWs at the penal colony near Olenivka
+72. During the night of 28–29 July 2022, at least 50 Ukrainian POWs were killed and many more
+    injured after explosive weapons reportedly hit a barrack with 193 Ukrainian POWs (all members
+    of the “Azov” regiment) in the penal colony No. 120, located approximately 5 km east of the town
+    of Olenivka (part of Donetsk region occupied by the Russian Federation).
+73. OHCHR collected and analyzed publicly available information on the incident, including over 20
+    statements by officials of the Russian Federation and representatives of the (former) self-proclaimed
+    ‘Donetsk people’s republic’; over 70 videos and photographs related to the incident, including from
+    inside and outside the barracks; satellite imagery of the barracks and the colony before and after
+    the incident; and other relevant contextual information. Additionally, from September 2022 to
+    January 2023, OHCHR interviewed 55 Ukrainian POWs who were in the colony on the night of
+    the attack and the next day, including eight survivors from the affected barracks, and several POWs
+    who took part in bringing out dead bodies from the barracks on the next day.
+74. OHCHR documented that the 193 POWs were transferred on 27 July to this barrack, which was
+    refurbished from an industrial shed that stood separately from the other barracks in the colony. That
+    same day, the colony management ordered that the guard post be moved further from the barrack
+    and that a fortified trench be dug for the guards, which was not done for other barracks. On 28
+    July, the guards of the barrack wore bullet-proof vests and helmets, which they had not done before
+    and unlike other colony personnel who rarely wore them. POWs interned in different barracks
+    reported that an “Grad” rocket system, which had been placed close to their barracks and near the
+    colony’s fence just before the incident, was firing in a westerly direction away from the colony and
+    covered the sounds of the explosions that killed and injured the POWs. A Ukrainian civilian detainee
+    who acted as a liaison for the administration ordered the POWs who cleared debris and removed
+    dead bodies on 29 July to keep silent about what they saw.
+75. In the immediate aftermath of the incident, both Governments of Ukraine and the Russian Federation
+    traded accusations that the other had deliberately targeted the barracks.48
+
+   48
+        The Russian Federation and representatives of (former) self-proclaimed ‘Donetsk people’s republic’ claimed that
+         Ukrainian armed forces deliberately struck the barrack with HIMARS rockets to silence Ukrainian POWs. The
+         Ukrainian Government refuted such allegations, insisting instead that Russian armed forced had targeted the
+         barracks.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 20
+76. OHCHR will continue to gather and analyse information on this incident. OHCHR found that the
+    number of POWs who died from the attack could have been considerably lower if those heavily
+    injured by the explosions had been provided with prompt medical care. The survivors had numerous
+    injuries, including serious burns and wounds from fragments of projectiles and the barrack. However,
+    medical assistance was not provided by personnel of the colony, and survivors had to do what they
+    could to try to help stop each other’s bleeding without proper medical equipment. OHCHR
+    documented that multiple injured POWs died on the ground near the entrance to the colony,
+    reportedly due to massive blood loss. Survivors were taken to hospitals in Donetsk only 5-7 hours
+    after the attack, in overcrowded trucks that drove over bumpy roads, causing additional suffering to
+    the injured POWs. The POWs who survived with light injuries were placed in a so-called disciplinary
+    isolation ward for one month, where they were effectively isolated from communicating with other
+    POWs in the colony.
+
+        Torture or other ill-treatment, including sexual violence, against women
+        POWs in internment
+
+                                      “At some point, I was transferred to Cell No. 1
+                                      designed for 6 people. There were 27 women
+                                      already there. Before that, the number was even
+                                      larger, exceeding 40 persons.”
+                                      – A woman POW about her conditions of internment in a penal
+                                      colony near Olenivka
+
+77. OHCHR interviewed 24 women POWs upon their release from internment in facilities near Olenivka,
+    in Donetsk and in the Russian Federation.
+78. Fifty-four per cent of the women in facilities located in the Russian Federation were subjected to cavity
+    or naked searches49 during the ‘admission procedures’ in the presence of men guards and to
+    ‘welcome beatings’50. Women POWs were also beaten by FSIN members in their legs and buttocks
+    during daily checks or forced to remain in stress positions for extended periods of time.
+79. In SIZOs in Donetsk (Russian-occupied territory of Ukraine) and in Taganrog (Russian Federation),
+    women POWs were forced to undress, walk naked from one room to another, and shower in the
+    presence of men guards, which they found humiliating.51 They were also frequently forced to walk
+    in a stress position (half-bent) through the hall while being beaten by guards with batons. Every
+    month in Taganrog SIZO, a new shift of the Special Forces of FSIN forced POWs to run from the
+    canteen to their cell within ten seconds, and from their cell to the toilet within six seconds, or be
+    shocked with a taser. They also forced them to move imitating ducks under threat of beatings or
+    taser shocks.
+
+   49
+      Taganrog SIZO, Kursk SIZO, Novozybkov SIZO in Briansk region, penal colony in Valuiki, Belgorod region.
+   50
+      Penal colony in Malaya Loknya, Kursk region, Taganrog SIZO.
+   51
+      Sexual violence is not limited to physical invasion of the human body. Forced stripping and public nudity under
+       coercive circumstances are considered sexual violence qualifying as international criminal crimes under “other
+       inhumane acts” and “outrages upon personal dignity”. See International Criminal Tribunal for Rwanda, Akayesu,
+       Judgment, 1998, paras. 688 and 693; International Criminal Tribunal for the Former Yugoslavia, Kunarac,
+       Judgment, 2001, paras. 766–774.
+
+                                              Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 21
+80. Seventy per cent of the women POWs interviewed who were held in pre-trial detention facilities in
+    the Russian Federation and Donetsk region reported being subjected to beatings and electric shocks
+    and threatened with sexual violence during interrogations.
+81. Women POWs also suffered from dire conditions of internment. They were held in close confinement
+    in overcrowded cells and permitted walks outside their cells on rare occasions. Up to 30 persons
+    could be held in a six-bed cell. They lacked mattresses, bed linen and hygiene items, and generally
+    suffered from constant digestive problems and extreme weight loss as a result of the poor quality
+    and quantity of food and water. Most women POWs reported issues with their sexual and
+    reproductive health while in captivity, notably termination of their menstruation, due to stress and the
+    conditions of internment. All women POWs interviewed by OHCHR, except one,52 reported that the
+    administration of internment facilities did not offer them specialized medical assistance, check-ups
+    by medical professionals or access to sexual and reproductive health treatment.
+
+        C.      TRIALS OF POWS
+
+                                            “If you think we will get tired – you are wrong!”
+                                            – A man POW describing a torture session by so-called
+                                            ‘investigators’ from Russian-affiliated armed groups to extract
+                                            confession of war crimes
+
+82. OHCHR interviewed eleven Ukrainian POWs who faced criminal prosecution for conduct amounting
+    to mere participation in the hostilities. Furthermore, 68 interviewed POWs were tortured to provide
+    testimonies against other servicepersons in violation of Article 17 of the Third Geneva Convention,
+    which prohibits physical or mental torture, or any other form of coercion, to secure information of
+    any kind.
+83. OHCHR interviewed 10 men and 1 woman POWs who were indicted, tried and/or sentenced in
+    Donetsk by so-called ‘courts’ of Russian-affiliated armed groups for conduct that amounted to mere
+    participation in hostilities.53 Under international law, combatants enjoy combatant immunity and
+    cannot be prosecuted for mere participation in hostilities, or for lawful acts of war committed in the
+    course of the armed conflict, even if such acts would otherwise constitute an offense under domestic
+    law.
+84. All the POWs interviewed reported being tortured or otherwise ill-treated before or during
+    interrogations by so-called ‘prosecutors’ of Russian-affiliated armed groups, either to compel them to
+    confess or to sign records of interrogations which included statements they had not made. Five of
+
+   52
+        One woman POW was transferred to Donetsk hospital in acute condition and received medical assistance.
+   53
+        Seven indicted individuals were released during ‘POWs exchanges’ before their ‘trials’ started. Two had stood ‘trial’,
+         but were released before proceedings ended. Two were sentenced to death. POWs were groundlessly charged or
+         tried for terrorism, mercenarism, and attempted overthrow of the ‘constitutional order’ in the self-proclaimed
+         ‘Donetsk people’s republic’.
+
+                                                   Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 22
+        them were compelled to waive their rights to legal counsel during investigation, because no lawyers
+        were available.54
+85. Three POWs interviewed by OHCHR were tried in camera55 by a so-called ‘court’ which lacked
+    essential guarantees of lawfulness, independence and impartiality.56 One of the POWs was not
+    brought for hearings in his ‘trial’ and was sentenced to death. POWs tried in Donetsk complained
+    that the ‘judges’ were blatantly biased against them, cherry-picking parts of their testimony in order
+    to find them guilty. Moreover, four POWs complained that their lawyers did not provide any legal
+    assistance and only advised them to plead guilty. One POW also reported that his legal aid lawyer
+    contacted his relatives and demanded USD 5,000 for filing an appeal against a death sentence
+    imposed against him. Another POW who did not speak Russian well was provided with the text of
+    his indictment in Russian, although he requested its translation into English. Under IHL rules, POWs
+    can be validly sentenced only if the provisions on judicial proceedings of the Third Geneva
+    Convention are respected,57 which includes the prohibition on exerting moral or physical coercion
+    to induce admission of guilt, the right to defence by a qualified advocate or counsel of one’s own
+    choice and the obligation to communicate charges and documents to the accused in a language he
+    or she understands.58 OHCHR is concerned that the POWs were not validly sentenced according to
+    IHL, particularly where they confessed under duress and their rights to a defence were violated.
+    OHCHR recalls that wilfully depriving a POW of the rights to a fair and regular trial constitutes a
+    grave breach of the Third Geneva Convention.59
+
+        D.    CONDITIONS OF RELEASE AND REPATRIATION
+
+                                          “It was the most terrifying episode. They told us
+                                          nothing. I thought we were brought out to be
+                                          executed.”
+                                          – A man POW about treatment during a transfer for an
+                                          exchange of POWs
+
+86. OHCHR is concerned that Ukrainian POWs being released and exchanged were repatriated in
+    inhumane conditions and subjected to ill-treatment, in breach of article 119 of the Third Geneva
+    Convention.60 Most cases documented by OHCHR took place during a POW exchange on 21
+
+   54
+      No POW may be convicted without having had an opportunity to present their defence and with the assistance of
+       a qualified advocate or counsel. Third Geneva Convention, art. 99.
+   55
+      On 9 June 2022, OHCHR attempted to observe a ‘hearing’ in a ‘criminal case’ against three Ukrainian POWs in
+       Donetsk but was denied access to the courtroom of the so-called ‘supreme court’.
+   56
+       OHCHR found similar violations and explained why such ‘courts’ cannot be seen as regularly constituted,
+       independent and impartial in the Human Rights in the Administration of Justice in Conflict-Related Criminal Cases
+       in Ukraine from April 2014-April 2020, available at: https://www.ohchr.org/en/documents/country-
+       reports/human-rights-administration-justice-conflict-related-criminal-cases.
+   57
+      Third Geneva Convention, art. 102.
+   58
+      Third Geneva Convention, art. 105.
+   59
+      Third Geneva Convention, art. 130.
+   60
+      Article 119 of the Third Geneva Convention stipulates that repatriation shall be effected in conditions similar to those
+       laid down in Articles 46 and 48 of the convention for the transfer of prisoners of war. Article 46 provides that the
+       transfer of POWs shall always be effected humanely and in conditions not less familiar than those under which the
+
+                                                  Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 23
+     September 2022. POWs were transferred in overcrowded cargo trucks, with their hands tied and
+     eyes covered tightly with duct tape. Many showed OHCHR scars and wounds on their hands and
+     faces caused by plastic strips and duct tape. Men were also made to sit in a stressful herring pattern
+     in the trucks.61 During the transfer, POWs interviewed by OHCHR reported hearing many others
+     fainting due to the lack of space and air. Those who asked for water or assistance were hit or tasered
+     by guards. POWs also reported that a guard threw an open vial with ammonia inside one truck
+     after several POWs fainted, which caused the others to feel burning pain in their eyes and noses
+     and to struggle to breathe. The POWs were brought to airfields, boarded military multipurpose
+     planes and were flown to Belarus before being transferred to Chernihiv region. During the transfer,
+     guards hit them and tasered them. In total, POWs spent almost two full days tied and blindfolded,
+     without food, water, or access to a toilet. This raises concerns regarding respect of the obligation to
+     treat POWs humanely and the prohibition of humiliating or degrading treatment. Only women
+     POWs were allowed to relieve themselves in an open field, but in the presence of men guards. They
+     were also provided with water when brought to the airfields.
+87. OHCHR documented similar conditions and mistreatment during the transfers of other POWs in more
+    than 12 cases. Of concern, OHCHR documented cases of three men POWs who spent about 12
+    hours in wet clothes during winter, because the guards of a penitentiary facility in the Russian
+    Federation deliberately made them wash their clothes just before their transfer to an exchange.
+
+      forces of the Detaining Power are transferred. During transfer, the Detaining Power shall supply POWs with sufficient
+      food and drinking water, necessary clothing, shelter and medical attention. The Detaining Power shall take
+      adequate precautions to ensure their safety and shall draw up a complete list of all transferred POWs before their
+      departure.
+  61
+     They sat on the floor with their legs widely spread and their tied hands over the head of the man sitting in front.
+
+                                                Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 24
+        V. Treatment of prisoners of war in the hands
+           of Ukraine
+88. Since 30 March 2022, OHCHR has conducted confidential interviews with 229 POWs62 from
+    Russian armed forces (228 men and 1 woman), mainly in places of internment where the
+    Government of Ukraine had granted OHCHR full and unimpeded access to POWs. These include
+    interviews with three POWs from Russian-affiliated armed groups after they were exchanged and
+    returned to the parts of Luhansk region occupied by the Russian Federation; however, these
+    interviews were not confidential.63
+89. Of the 229 POWs interviewed, 113 reported torture or other ill-treatment at different stages of their
+    captivity.
+
+        A.   CAPTURE AND EVACUATION
+
+        Summary executions
+90. Through open source material and confidential interviews, OHCHR documented incidents where
+    Ukrainian servicemen killed at least 25 Russian POWs and persons who were wounded and
+    considered hors de combat. In one case that occurred in March in Luhansk region, Ukrainian armed
+    forces surrounded members of Russian affiliated armed groups lying on the ground after an artillery
+    attack, some of whom were possibly dead or injured, and told them to explicitly pronounce their
+    intent to surrender. Only a few POWs did so. Those interviewed by OHCHR then heard several
+    shots and one Ukrainian serviceman saying, “they would suffer more otherwise”. At the time of the
+    interviews, the surviving POWs had not since seen the other members of their group.
+91. OHCHR also analysed videos published online on 22-23 November, depicting what appears to be
+    summary executions of Russian POWs and persons hors de combat by Ukrainian armed forces at
+    different locations and times. The analysis of these videos indicates that they are highly likely
+    authentic.
+92. In one video, at least eleven Russian soldiers are seen exiting a basement, laying down their arms
+    and lying on the ground in front of at least three Ukrainian servicemen in Makiivka, Luhansk region.
+    The last soldier exiting the building is seen opening fire, then sounds of shooting can be heard. Later,
+    another video shot from a drone shows what appears to be the same group of Russian soldiers, all
+    lying dead on the ground, seemingly in the same positions in which they were instructed to lie down
+    during their surrender. OHCHR notes that soldiers who have fallen into the power64 of Ukraine are
+
+   62
+      This included 102 POWs from the Armed Forces of the Russian Federation, 126 from affiliated armed groups (87
+        from armed groups of former self-proclaimed ‘Donetsk people’s republic’ and 39 from armed groups of former self-
+        proclaimed ‘Luhansk people’s republic’) and 1 member of the Wagner Group military and security contractors.
+        Almost all POWs from affiliated armed groups were Ukrainian nationals, and OHCHR has reasonable grounds to
+        believe that the majority thereof had been subjected to forced conscription.
+   63
+       They were conducted via teleconference with interviewees who were physically present in the office of the so-called
+        ‘ombudsperson’ of former self-proclaimed ‘Luhansk people’s republic’ and, on another occasion, in person in the
+        same office.
+   64
+      Article 41 of Additional Protocol 1 states that a person is hors de combat if he is in the power of an adverse party
+        or if he clearly expresses an intention to surrender. See also Commentary of 2020 to article 4A of the Third Geneva
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 25
+     to be granted the full spectrum of protection guarantees, therefore their killing, if deliberate, would
+     constitute a war crime.
+93. A series of videos recorded in Nova Basan, Chernihiv region, in March 2022, show seven Russian
+    POWs who have been killed. In the first video, Ukrainian armed forces unload three Russian POWs
+    from the back of a pick-up truck, who have their hands tied and eyes covered. A second video from
+    the same site show the bodies of six Russian POWs, including the three from the first video, lying on
+    the ground in positions and with wounds and traces of blood that are consistent with execution by
+    firearms. There is a seventh body lying separately, off to the side. The third video shows an attempt
+    to bury the seventh victim nearby; part of his head is missing. During its field visits to Nova Basan,
+    OHCHR was able to corroborate the killings of at least these seven Russian POWs.
+94. OHCHR welcomes the stated commitment of the General Prosecutor’s Office of Ukraine to investigate
+    all allegations of mistreatment of POWs, and acknowledges that criminal investigations into five
+    episodes, involving 22 victims, have been launched. However, OHCHR regrets lack of significant
+    developments in these investigations to date, and that no such cases have yet been brought before
+    the courts.
+
+     Torture or other forms of ill-treatment
+
+                                          “Before questioning, they showed me an axe
+                                          handle covered in blood as a warning. The
+                                          questioning lasted for about an hour and they used
+                                          electricity six times, whenever they thought I was
+                                          lying.”
+                                          - A Russian POW on torture and psychological pressure during
+                                          interrogations by Ukrainian armed forces
+                                          "At night the Ukrainian armed forces forced me to
+                                          pray. I was also taken out and told to run away;
+                                          this was done on purpose because anyone who
+                                          tried to run away would be shot and killed"
+                                          - A Russian POW on mock execution during initial stages of
+                                          captivity
+
+95. One hundred and one of interviewed POWs were subjected to different forms of torture or other ill-
+    treatment65 upon capture by Ukrainian armed forces. In the majority of documented cases of torture,
+    POWs were beaten, sometimes for prolonged periods, leading to severe pain and injuries.
+96. OHCHR documented three cases where members of the Ukrainian armed forces shot POWs in the
+    legs immediately after their capture or during initial interrogation.
+
+       Convention, which explains that the terms “fallen into the power of the enemy” imply that “the Detaining Power
+       exercises some level of physical control or restraint over the person, and that the person is no longer willing or able
+       to participate in hostilities or defend themselves. It would thus not include persons who merely reside or operate in
+       a territory controlled by a belligerent Party”.
+   65
+      These included severe beatings, electrocution with military phone, suffocation, shots to limbs, stabbing limbs, punches
+       in the faces, kicking and hitting the body, including with hard objects, exposure to cold temperatures, cigarette
+       burns, cutting with a knife, stress positions, mock execution, death threats, threats to physical integrity, threats of
+       sexual violence and verbal abuse.
+
+                                                  Report on the treatment of POWs, 24 February 2022 – 23 February 2023    | 26
+97. Three interviewees reported that members of the Ukrainian armed forces connected wires from a TA-
+    57 military telephone (widely known as ‘TAPik’) to their feet and put electrical current through their
+    bodies. The interrogations and physical violence lasted for several hours. In one of these cases
+    perpetrators sprayed a product on his back that he believed amplified the conductivity of electricity.
+    Overall, OHCHR documented five cases of electrocution of POWs by the Ukrainian armed forces
+    as a form of torture.
+98. In 27 cases, POWs were subjected to specific forms of torture or ill-treatment that inflicted
+    psychological pain or suffering, such as death threats, mock executions or threats of sexual violence
+    carried out in circumstances which were perceived by POWs as real. In one case, members of the
+    Ukrainian armed forces interrogated a group of three POWs separately. After one POW heard
+    gunshots, the soldiers told him they had killed the other two POWs and that he would be executed
+    next.
+99. OHCHR analysed publicly available videos that appear to be authentic, depicting torture of Russian
+    POWs by the Ukrainian armed forces. OHCHR has previously reported about one case, in which
+    videos depicted members of Ukrainian armed forces shooting the legs of three captured Russian
+    soldiers and kicking wounded Russian soldiers lying on the ground, threatening them with execution
+    and pointing guns at them, in Kharkiv region.66
+100. After their capture, POWs were taken from the front line to makeshift temporary places of internment,
+     such as military headquarters located in various buildings, including police departments, to be
+     interrogated by the Armed Forces of Ukraine, the SBU, intelligence or police officers. Sixty-six POWs
+     stated that their interrogators, mostly servicepersons, tortured and ill-treated them to extract
+     information, punish, humiliate and intimidate them, and, in several cases, get access to their bank
+     details. Sometimes, beatings accompanied every question asked. The majority of tortured and ill-
+     treated POWs complained of beatings with rifle butts, wooden bats, sticks and fists on their faces,
+     torsos and legs, cigarette burns and being forced to kneel for hours while being questioned.
+101. In several cases, beatings by Ukrainian servicepersons, notably in the aftermath of battle, appeared
+     purely retaliatory in nature.67 For example, in some cases, officers beat POWs saying “This is for
+     Bucha” or words to similar effect. OHCHR documented one case where an officer of the Ukrainian
+     armed forces attacked a group of 11 men Russian POWs who had been brought to an area near
+     Sloviansk in June 2022. He stabbed at least three of them in their shoulders or legs. In another case,
+     soldiers of the Ukrainian armed forces brought a POW to a lake and forced his head underwater
+     until he lost consciousness. The next day, they beat him and carved a 'smile' with a knife on his left
+     shoulder, which was still visible at the time of the interview.
+
+   66
+      See OHCHR, Situation of human rights in Ukraine in the context of the armed attack by the Russian Federation, 24
+       February – 15 May 2022, June 2022 para. 105.
+   67
+      Article 13 of the Third Geneva Convention prohibits measures of reprisals against POWs.
+
+                                               Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 27
+102. OHCHR observed a pattern of torture and ill-treatment against men POWs upon their arrival to
+     transit camps, distant from the frontline, in the beginning of the armed attack in March – May 2022,
+     with peaks after the killings of civilians in Bucha became public. In particular, OHCHR documented
+     six cases of torture and ill-treatment in penal colony No. 89 in Dnipro. Upon arrival to this transit
+     camp, men POWs went through ‘welcome beatings’. Guards also used beatings as a means of
+     discipline and made POWs kneel for several hours, beating them or shocking them with tasers if
+     they moved.
+
+     Pillage of belongings
+103. Nine POWs reported the pillage of their belongings, mostly money, wedding rings and religious
+     symbols, either at the site of surrender, in makeshift places of internment, or upon arrival to transit
+     camps in violation of article 18 of the Third Geneva Convention. Several POWs reported the pillage
+     of their military clothing, notably their jackets and boots, which left some of them suffering from the
+     cold or lack of proper footwear during initial stages of internment. In two cases, members of the
+     Ukrainian armed forces seized POWs’ bank cards and forced them to disclose passwords. OHCHR
+     also documented two cases where servicepersons of the Ukrainian armed forces contacted relatives
+     of two men POWs from the armed forces of the Russian Federation and attempted to extort money
+     under threats of torture and execution.
+
+     Exposure to public curiosity
+104. OHCHR notes with concern that the Ukrainian armed forces ordered some POWs to condemn the
+     war on camera and call on their fellow soldiers to lay down arms. OHCHR observed a widespread
+     pattern of filming and publishing videos of Russian POWs forced to sing songs, shout slogans, glorify
+     or swear at specific military units or persons, or subjected to various other forms of humiliation. The
+     Ukrainian armed forces recorded videos of the ill-treatment and humiliation of POWs during their
+     evacuation and disseminated them through social media. IHL forbids exposing POWs to public
+     curiosity or humiliating them, including by posting videos of them in situations that can be reasonably
+     perceived as humiliating.
+
+                                          Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 28
+        Conditions of evacuation
+
+                                         "On the way to a transit place of internment in
+                                         Kharkiv, some Ukrainian soldiers said – ‘Let’s have
+                                         fun because they will be taken soon’ and started
+                                         beating us heavily."
+                                         - A POW on ill-treatment during evacuation.
+
+105. OHCHR documented 19 cases of Russian POWs evacuated in a manner and under conditions
+     contravening the Third Geneva Convention, which prescribes that the evacuation of POWs be
+     carried out humanely and in conditions similar to those for the forces of the Detaining Power during
+     their change of station. POWs reported humiliating treatment during their evacuation to transit camps
+     and permanent internment facilities. POWs were frequently transported half-dressed, packed in
+     minivans or trucks in stress positions with their hands bound behind their backs. These accounts were
+     also corroborated through numerous videos recorded by members of Ukrainian armed forces.
+106. Sixteen POWs reported beatings during their evacuation, either by soldiers who transported them
+     or at checkpoints. Several men POWs mentioned that the soldiers guarding them offered soldiers
+     stationed at each checkpoint the opportunity to beat them. Four men POWs also reported being
+     pushed or kicked by members of the National Guard, while being transported between pre-trial
+     facilities or to the POW camp.
+107. The majority of POWs spent brief periods of time in one to three makeshift places of internment
+     before being moved to permanent internment facilities. Such places included private houses, police
+     stations, warehouses, garages, schools or factories occupied or used by Ukrainian armed forces. In
+     one instance, several dozen POWs were interned for a few days in three shipping containers located
+     in industrial storage areas of Kharkiv region. In most cases, POWs in makeshift places of internment
+     were kept with their hands tied and eyes covered for several hours to several days, raising serious
+     concerns regarding respect of the obligation to treat POWs humanely and the prohibition of
+     humiliating or degrading treatment. Several POWs complained that they did not receive adequate
+     food or water while interned in such places.
+108. OHCHR notes that, at this stage of internment, Ukrainian armed forces provided many POWs with
+     an opportunity to contact their relatives. However, in 14 cases, POWs were not able to contact their
+     relatives for more than a month after their capture. As mentioned above, IHL requires that POWs be
+     allowed to contact their relatives immediately or within a week of their evacuation or transit to a
+     place of internment, and to maintain communication with the outside world on a regular basis.68
+
+        B.     INTERNMENT OF POWS
+
+109. OHCHR conducted 48 visits to official places of internment of POWs, namely to SIZOs in Dnipro,
+     Kharkiv, Kyiv, Kryvyi Rih, Odesa, Poltava and Zaporizhzhia and to the POW camp in Lviv. Although
+
+   68
+        Third Geneva Convention, arts. 70-71.
+
+                                                Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 29
+        the majority of men POWs (228 interviewees) had no complaints, 40 men reported ill-treatment and
+        inadequate conditions of internment in several places. During individual interviews, 11 POWs
+        complained of having been beaten by the military police or guards in Kharkiv SIZO, Dnipro SIZO,
+        Dnipro penal colony No. 89 and Vinnytsia SIZO between March and April 2022.69
+110. OHCHR also received credible information about the existence of an unofficial place of internment
+    in Kyiv where a number of POWs, including 40 interviewed by OHCHR, were interned for extended
+    periods of time. As of the date of this report, Ukrainian authorities have not responded to OHCHR
+    regarding the existence of this place. All POWs must be officially recorded,70 and independent
+    monitors should have access to them.71
+111. While the Government of Ukraine has established one POW camp as required by IHL, considerable
+     numbers of POWs remain interned in special wards of pre-trial detention and penitentiary facilities
+     in violation of the rule that POWs shall not be interned in close confinement, except in particular
+     cases justified by the interest of the POWs or when and while necessary to safeguard their health.72
+112. The majority of POWs (198 out of 229 interviewed POWs) did not raise complaints regarding their
+     living conditions, food, water, hygiene and access to medical assistance. The majority could
+     communicate with relatives, but not regularly, as required by IHL.73 OHCHR observed that POWs
+     were accommodated separately from criminal detainees, and had running water in their cells and
+     access to books, radio and television.
+113. Several men POWs reported widespread practices of verbal abuse by guards in the places of
+     internment visited by OHCHR.74
+114. Several POWs also reported humiliating practices such as being forced to sing the Ukrainian
+     national anthem and other patriotic songs, or to do squats, push-ups and other physical exercise as
+     punishment for disciplinary misconduct. Such disciplinary measures amount to a violation of the
+     moral integrity of POWs.75 Furthermore, while IHL allows fatigue duties as disciplinary sanctions,
+     they should consist of extra-duty chores rather than physical exercise.76
+115. Several POWs complained about bed bugs in the Kharkiv SIZO, low temperature in cells of the Kyiv
+     SIZO and POW camp, and a lack of hygiene items in the Dnipro SIZO in early March 2022.77
+
+   69
+       OHCHR notes that the State Penitentiary Service of Ukraine has been receptive to the concerns raised and
+       recommendations made by OHCHR, including through receiving trainings for penitentiary staff on IHL standards
+       regarding the treatment of POWs.
+   70
+      Third Geneva Convention, art. 122.
+   71
+      Third Geneva Convention, art. 126; Body of Principles for the Protection of All Persons under Any Form of Detention
+       or Imprisonment (A/Res/43/173), principle 29.
+   72
+      Articles 21, 22 of the Third Geneva Convention. Subject to rare exceptions, POWs may not be held in close
+       confinement or interned in penitentiaries.
+   73
+      Article 71 of the Third Geneva Convention states that POWs are entitled to send at least two letters and four cards
+       per month.
+   74
+      See Third Geneva Convention, art. 13; Commentary of 2020, para. 1563.
+   75
+      Third Geneva Convention, art. 14.
+   76
+      Third Geneva Convention, art. 89; Commentary of 2020, para. 3751.
+   77
+      Third Geneva Convention, art. 29.
+
+                                                Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 30
+Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 31
+116. The Government of Ukraine facilitated communication between POWs and their loved ones via
+     letters and provided POWs with modern means of communication in addition to those required by
+     the Third Geneva Convention. In autumn 2022, the Government introduced an IP-telephone service
+     for POWs in permanent transit camps and the Lviv POW camp. However, POWs in pre-trial facilities
+     interviewed by OHCHR were unaware of this service and the administrations of the facilities reported
+     technical challenges with its use.
+117. In permanent places of internment, POWs were provided with basic medical assistance such as
+     daily doctor’s rounds, X-ray checks, generic medication and dental care. Medical care was provided
+     on admission, regularly or upon request. POWs requiring medical supervision were placed in
+     medical wards of permanent transit places or the POW camp, or were admitted to hospitals where
+     they received urgent or specialized treatment.
+
+      POW camp in Lviv region
+
+                                                “It is very cold in the barracks. Some
+                                                POWs sleep fully dressed in their work
+                                                uniform.”
+                                                -   A POW on conditions in the camp during
+                                                    winter.
+
+      118. The POW camp in Lviv region was established in mid-April 2022 on the premises of a
+           former penitentiary facility. POWs are accommodated far from the frontline and escorted
+           to a shelter during air alerts. They live in barracks that ensure sufficient space per person,
+           are provided with bedding, hygiene items and three meals a day, and have access to
+           recreation and study facilities. Since autumn 2022, POWs have been allowed to call their
+           relatives once or twice a month via IP-telephone, in addition to sending and receiving
+           parcels.
+      119. OHCHR visited the POW camp in Lviv region in June and December 2022. During its
+           second visit, OHCHR received complaints about conditions of internment. In most cases,
+           POWs complained about low temperatures in the barracks during autumn and winter, the
+           lack of warm clothes up until mid-October, and insufficient amounts of food. They explained
+           that all POWs, except for those in the infirmary, were engaged in everyday physical work
+           and therefore required additional and more nutritious food rations. Several POWs reported
+           feeling constantly hungry and losing between 10 and 30 kg during their period of captivity.
+           Items for purchase at the canteen furthermore did not correspond to the needs of the POWs.
+
+                                         Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 32
+        C.   TRIALS OF POWS
+
+                                         “I don't think having a lawyer makes any
+                                         difference. The prosecutor says the only way to be
+                                         exchanged is to admit guilt, so I chose to do that.”
+                                         - A Russian POW
+
+120. OHCHR monitored several proceedings and analysed more than 100 verdicts in criminal
+     proceedings against Russian POWs78 before the Ukrainian judiciary. It identified patterns of fair trial
+     violations with regard to the right not to be compelled to testify against oneself or confess one’s guilt
+     and the right to prepare a defence.
+121. POWs from Russian-affiliated armed groups captured after 24 February 2022 were sentenced to
+     prison terms, in the majority of cases, ranging between 12 and 15 years for trespass against
+     territorial integrity, state treason, membership in a terrorist organisation, membership in an unlawful
+     armed formation and unlawful possession of firearms. IHL does not explicitly prohibit the prosecution
+     for state treason of combatants who defected. However, sentencing members of the Russian-affiliated
+     armed groups for conduct amounting to mere participation in hostilities under the above-listed crimes
+     is inconsistent with the principle of combatant immunity.79 OHCHR has not identified a single case
+     where judges referred to the international norms and standards on combatant immunity to acquit an
+     individual charged with respect to such conduct.
+122. In addition to the preceding point of principle, OHCHR notes with concern that in these criminal
+     proceedings, Ukrainian courts did not take into consideration the forced recruitment of numerous
+     members of Russian-affiliated armed groups.80 OHCHR has grounds to believe that 98 POWs of
+     those 126 interviewed were forcibly recruited. Since February 2022, self-proclaimed ‘authorities’ of
+     the ‘Donetsk people’s republic’ and ‘Luhansk people’s republic’ introduced general mobilization for
+     men of conscription age and women health professionals. As documented by OHCHR, throughout
+     the reporting period, employers, military ‘commissariats’ or university administrations demanded that
+     persons report to designated assembly points for enlistment. Refusal to be conscripted led to ‘criminal
+     prosecution’.81 OHCHR notes that compelling Ukrainian nationals who reside in the occupied
+     territory of Ukraine to serve in the armed forces of a hostile power is a grave breach of IHL and may
+     constitute a war crime.82
+123. On 28 July 2022, the Ukrainian Parliament made changes to the legal procedures on exchange of
+     POWs, including those who are suspected, accused or convicted of crimes. These changes have
+
+   78
+      Ukrainian nationals prosecuted for membership in Russian affiliated armed groups and participation in armed
+       hostilities.
+   79
+      See https://casebook.icrc.org/glossary/immunities.
+   80
+      OHCHR notes that combatant immunity applies regardless of whether the POWs volunteered or were forcibly
+       recruited.
+   81
+      Article 406 of the ‘criminal code’ of self-proclaimed ‘Luhansk people’s republic’ and article 388 of the ‘criminal
+       code’ of self-proclaimed ‘Donetsk people’s republic’.
+   82
+      Fourth Geneva Convention, arts. 51(1) and 147. In addition, according to Rule 95 of the ICRC’s study on customary
+       IHL, compelling nationals of a warring party to serve in the armed forces of the country with which their own country
+       of nationality is at war is “a specific type of forced labour that is prohibited in international armed conflicts”.
+
+                                                 Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 33
+        made it easier for Ukrainian authorities to pressure POWs to plead guilty.83 Thirteen POWs reported
+        that prosecutors or SBU officers pressured them to plead guilty as the only way to be released through
+        a POW exchange, in violation of IHRL and IHL.84 Although all the defendants were assigned free
+        legal aid lawyers, in a number of cases, they could only meet them for the first time or consequently
+        during court hearings, which often took place via teleconference. These defendants were thus
+        deprived of the right to speak confidentially with their lawyers before the hearings and the right to
+        prepare a defence. Moreover, some interviewees claimed their lawyers sided with the prosecutors,
+        advising them to plead guilty for a swifter release as part of an exchange. POWs were told by
+        prosecutors, SBU officers, and sometimes their lawyers, that if they did not plead guilty, the
+        investigations and court proceedings in their case would last for years with little prospects of release
+        upon exchange.
+124. OHCHR also documented a pattern of proceedings where courts delivered guilty verdicts the same
+     day or the day after the preliminary hearing. In those cases, defendants attended their trial via
+     videoconference, and courts delivered verdicts based mostly on admissions of guilt made during the
+     trial, without consideration of the factual details of the case. Under IHL, POWs can be validly
+     sentenced only if the provisions on judicial proceedings of the Third Geneva Convention are
+     respected,85 which include the prohibition to exert moral coercion to induce admission of guilt, the
+     right to a qualified advocate or counsel of one’s own choice and the requirement for this counsel to
+     have at least two weeks before the opening of the trial to prepare the defence.86 OHCHR is
+     concerned that such POWs were not validly sentenced according to IHL, particularly where they
+     confessed under duress and their rights to a defence were violated. OHCHR recalls that wilfully
+     depriving a POW of the rights to a fair and regular trial constitutes a grave breach of the Third
+     Geneva Convention.87
+
+   83
+      Law of Ukraine “On amending Criminal Code, Criminal Procedure Code and other legislative acts concerning legal
+       procedure of exchanges of prisoners of war” No. 2472-IX of 28 July 2022.
+   84
+      Article 99 of the Third Geneva Convention states that no moral coercion may be exerted on a POW in order to
+       induce him to admit guilt. The right not to be compelled to testify against oneself or to confess guilt must be
+       understood in terms of the absence of any undue psychological pressure from the investigating authorities with a
+       view to obtaining a confession. See CCPR/C/GC/32, para. 41.
+   85
+      Third Geneva Convention, art. 102.
+   86
+      Third Geneva Convention, art. 105.
+   87
+      Third Geneva Convention, art. 130.
+
+                                               Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 34
+     VI. Conclusions and recommendations
+125. Since the start of the armed attack by the Russian Federation against Ukraine on 24 February 2022,
+     both parties to the international armed conflict have captured high numbers of POWs. States have
+     the obligation to treat all POWs in their power humanely at all times, from the moment of their
+     capture until their release and repatriation. Both Ukraine and the Russian Federation are parties to
+     the Third Geneva Convention relative to the treatment of prisoners of war and Additional Protocol I
+     which also includes provisions on the treatment of POWs. The Convention provides that POWs are
+     in the hands of the enemy Power, rather than at the mercy of those particular individuals or military
+     units who have in fact captured them. Irrespective of the individual responsibilities that may exist, it
+     is each Detaining Power which is responsible for the treatment of POWs.
+126. Cases analysed in the report reveal strong patterns of violations against POWs. The Russian
+     Federation has failed to ensure the humane treatment of POWs – upon their capture, during their
+     internment and even during transfers prior to their release. OHCHR has documented regular
+     practices of torture and ill-treatment in places of internment, poor internment conditions, and POWs
+     being denied communications with the outside world. OHCHR and other independent monitors’ lack
+     of full, unimpeded and confidential access to the places of internment, as well as the impossibility
+     for POWs to communicate with the outside world, deprive POWs in the hands of the Russian
+     Federation of protections afforded to them by international law.
+127. In the cases analysed, the humane treatment of POWs by Ukraine was not ensured, particularly
+     upon capture and during initial interrogations. OHCHR documented summary executions, torture
+     and ill-treatment of POWs upon their capture and during evacuations by members of Ukrainian
+     armed forces, as well as instances of torture or other ill-treatment during internment. While the
+     Ukrainian authorities have opened at least three investigations into allegations of summary
+     executions and torture, no perpetrators have yet been held to account. OHCHR observed that, in
+     overall terms, POWs in the hands of Ukraine were treated in better fashion, once held in transit and
+     permanent places of internments. In this regard, OHCHR notes that the Government of Ukraine gave
+     OHCHR access to the places of internment and provided POWs with means to communicate with
+     their relatives, including digital means of communication, although a number of POWs were not
+     offered to contact their relatives for weeks and months of internment.
+128. Willful killing, torture and inhuman treatment, and willful deprivation of the right to a fair trial
+     constitute grave breaches of the Third Geneva Convention and Additional Protocol I and amount to
+     war crimes. To bring justice to the victims and prevent further violations, parties to the conflict are
+     under the obligation to investigate these crimes and prosecute the perpetrators.
+129. OHCHR urges the immediate implementation of the recommendations listed below:
+130. To all parties:
+         a) Respect and ensure respect for, at all times and in all circumstances,
+            for the provisions of the Third Geneva Convention and Additional
+            Protocol I relative to the treatment of POWs;
+         b) Ensure that all violations of IHL committed against POWs are
+            promptly and thoroughly investigated, and as appropriate
+            prosecuted, tried in accordance with international standards, and
+            punished with sentences commensurate to the seriousness of the
+            conduct in question; formal measures to ensure non-recurrence of
+
+                                          Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 35
+            such violations should be promptly put in place by the relevant
+            authorities;
+         c) Ensure that all POWs are held in places of internment that fully
+            comply with the requirements of the Third Geneva Convention;
+         d) In line with the Third Geneva Convention, ensure direct repatriation
+            of seriously wounded and sick POWs, after providing adequate
+            medical care until they are fit to travel;
+         e) Develop detailed guidelines on the treatment of POWs and allocate
+            sufficient human, financial and logistical resources to ensure the
+            practical implementation of the obligations under the Third Geneva
+            Convention;
+         f) Provide training and clear instructions to their armed forces on the
+            basic principles of IHL in relation to the treatment of POWs;
+         g) Support programs of medical, financial and legal assistance for the
+            victims of torture and ill-treatment and their families, including
+            programs or rehabilitation and reintegration, and ensure that
+            existing programs of assistance for victims of sexual violence are
+            adapted to the needs of both men and women;
+         h) Cease practices of exposing POWs to public curiosity through
+            recording and publishing videos of them, and take measures to
+            prevent the pillaging of the belongings of POWs;
+         i) Ensure strict compliance with fair trial guarantees in all
+            prosecutions against POWs, including a fair hearing before an
+            independent and impartial court, access to competent and
+            independent legal counsel of one’s choosing, services of an
+            interpreter, and opportunity to prepare one’s defence;
+         j) Cease the practice of prosecuting POWs for conduct which is in
+            substance mere participation in the hostilities;
+131. To the Russian Federation:
+         k) Provide independent monitors, including OHCHR, with regular,
+            unimpeded and confidential access to all places of internment of
+            POWs;
+         l) Conduct thorough investigation into all alleged cases of
+            mistreatment of POWs; address serious allegations of systemic
+            mistreatment of prisoners and detained persons within the FSIN;
+         m) Ensure that all POWs are interned in official places of internment
+            that fully comply with the requirements of the Third Geneva
+            Convention and duly registered and recorded, and that information
+            about them is transferred to the national information bureau set
+            up in accordance to the Third Geneva Convention;
+         n) Ensure that relatives of POWs are provided with information
+            regarding their loved ones, including information about their place
+            of internment and health status, and that POWs are able to
+
+                                   Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 36
+             communicate with the outside world, in line with the requirements
+             of the Detaining power under the Third Geneva Convention and
+             IHRL;
+         o) Facilitate the hand over of the remains of the deceased;
+         p) Take appropriate measures to prevent sexual violence against
+            POWs, including the adoption of a zero tolerance policy and the
+            issuance of clear orders prohibiting any form of sexual violence;
+         q) Cease the practice of compelling Ukrainian nationals from occupied
+            areas of Ukraine to serve in the armed forces of the Russian
+            Federation;
+132. To the Ministry of Justice of Ukraine:
+         r) Ensure that all POWs are held in places of internment that fully
+            comply with the requirements of the Third Geneva Convention;
+133. To the Ministry of Defence of Ukraine:
+         s) Eliminate the practice of extended internment in transit or unofficial
+            places of internment;
+134. To the international community:
+         t) Urge the parties to respect IHRL and IHL, and work collectively to
+            ensure accountability and prevent future violations;
+         u) Ensure that any type of military assistance or training provided to
+            the armed forces of any party to the conflict includes clear
+            instructions on the basic principles of IHL in relation to the treatment
+            of POWs;
+         v) Third States must implement their own obligations under Common
+            Article 1 of the Geneva Conventions by doing everything in their
+            power to prevent and bring violations to an end;
+         w) Support efforts at the national and international level to investigate
+            and prosecute grave breaches of IHL and gross violations of IHRL
+            perpetrated against POWs and persons hors de combat;
+         x) Continue to request the access of independent monitors to POWs in
+            the hands of the Russian Federation.
+
+                                          Report on the treatment of POWs, 24 February 2022 – 23 February 2023   | 37

@@ -1,0 +1,41 @@
+# Моя боевая жизнь. Записки Войска Донскаго генерал-лейтенанта Якова Петрова Бакланова, написанные собственною его рукою
+
+**Автор:** Бакланов Я. П.
+**Год публикации:** 1871
+**Где напечатано:** Русская старина. СПб., 1871. Том III. С. 1-15
+**Описывает российскую колонизацию народов:** несколько народов
+**Права на публикацию:** свободно (общественное достояние: издано в 1871 году)
+
+Страница витрины: https://archive.decolonial.ist/131
+
+## Что здесь лежит
+
+| файл | что это | объём | где |
+|---|---|---|---|
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf) | PDF | 2.4 МБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871_web.pdf) | PDF | 108 КБ | в этой папке |
+| [moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md](https://github.com/decolonial-ist/archive/blob/main/131/moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.md) | текст | 97 КБ | в этой папке |
+
+## Откуда это у нас
+
+Первоисточник: [https://commons.wikimedia.org/wiki/File:1871,_Russkaya_starina,_Vol_3._%E2%84%961-6.pdf](https://commons.wikimedia.org/wiki/File:1871,_Russkaya_starina,_Vol_3._%E2%84%961-6.pdf)
+
+Текст расшифрован нами со скана либо сохранён со страницы первоисточника; исходный файл лежит рядом, чтобы расшифровку можно было сверить.
+
+## Цифровые отпечатки файлов
+
+| файл | sha256 |
+|---|---|
+| moya_boevaya_zhizn_zapiski_voyska_donskago_general_stvennoyu_ego_rukoyu_1871.pdf | `11ef3f8317db8805af8688ecba1fbc39165d6d504ee782a877298efc92a601ec` |
+
+## Где упоминается в базе знаний
+
+Сноски на этот материал стоят в 2 местах.
+
+- [Карательные экспедиции — «Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)](https://decolonial.ist/procedures/C1167.T0077/)
+- [Разрушение природного ландшафта — «Ни пахать, ни сеять»: погром Чечни, организованный голод, перекупка элит и институты подчинения (1852-1857)](https://decolonial.ist/procedures/C1167.T0140/)
+
+
+---
+
+без куки и трекинга, статистика — <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> · контент доступен по лицензии <a href="https://creativecommons.org/licenses/by/4.0/deed.ru" rel="noopener">CC BY 4.0</a> · страницы собраны автоматически конвейером архива [decolonial.ist](https://decolonial.ist). Картотека — в [корне репозитория](../README.md).
